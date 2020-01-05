@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="look_for_cs_history_part_4_2_0">
+    <text>よう、Gatekeeper。</text>
+  </string>
+  <string id="look_for_cs_history_part_4_2_1">
+    <text>おいあんた、Limanskに行くのかい？もしLeshiyがなければ...ともかく、ようこそ。これからあんたの金が必要になるはずだ...それと警備隊に見つからないようにな。奴らは契約に含まれちゃいないんだ。</text>
+  </string>
+  <string id="look_for_cs_history_part_4_1_0">
+    <text>これが金だ。</text>
+  </string>
+  <string id="look_for_cs_history_part_4_1_1">
+    <text>結構。橋の上の時計に注意しろ。そこに着いたら、「ゲートキーパー」と言え。慎重に行動して、Scar失踪を解明する手がかりを見つけてきてくれ。</text>
+  </string>
+  <string id="look_for_cs_history_part_3_2_0">
+    <text>Leshiy いいな？</text>
+  </string>
+  <string id="look_for_cs_history_part_3_2_1">
+    <text>そうだなガイドは必要だ、あとは何かあるか？</text>
+  </string>
+  <string id="look_for_cs_history_part_3_2_2">
+    <text>そうだ、俺はあんたの過去について知っているんだ、あんたの助けになれるぞmerc。</text>
+  </string>
+  <string id="look_for_cs_history_part_3_2_3">
+    <text>あー...何か手伝うかい？</text>
+  </string>
+  <string id="look_for_cs_history_part_3_2_4">
+    <text>RedForestで橋を守っているMercsと話をしてくれないか？私はLimanskに行かなければならないんだ。それがとても難しい事は分かっているが、Mercenary Scarの痕跡を探すって約束する。</text>
+  </string>
+  <string id="look_for_cs_history_part_3_2_5">
+    <text>ふーむ。お前には俺が長い間組織に関わっていないことを分かってもらう必要があるな。橋のグループを誰が纏めているかさえ分からないんだ。俺はいくつかのコネを持っているが、それには金が必要だ。15万位、びた一文負からん。</text>
+  </string>
+  <string id="look_for_cs_history_part_1_1_0">
+    <text>あなたのグループの歴史について何か聞いた事があります。調査したいと思います</text>
+  </string>
+  <string id="look_for_cs_history_part_1_1_1">
+    <text>何か探してんのか、それともなんだ。ハッ。よく聞け、ここで生き残るのは至難の業だ。もし上手く生き抜けても、俺達の痕跡を見つけることは一筋縄ではいかないだろうな。</text>
+  </string>
+  <string id="look_for_cs_history_part_1_1_2">
+    <text>面白くないか？それとも、他にお前が戻りたくなる何かがそこにあるのか？</text>
+  </string>
+  <string id="look_for_cs_history_part_1_1_3">
+    <text>うーむ...お前ならbloodsuckerの集団を沼地から引きずり出すことができそうだ。そのときはお前にも分け前をくれてやろう。</text>
+  </string>
+  <string id="look_for_cs_history_part_1_1_4">
+    <text>結構、座標を教えてくれ。</text>
+  </string>
+  <string id="look_for_cs_history_part_1_1_5">
+    <text>行ってらっしゃい。</text>
+  </string>
+  <string id="look_for_cs_history_part_1_2_0">
+    <text>完了した。どんな情報があるんだ？</text>
+  </string>
+  <string id="look_for_cs_history_part_1_2_1">
+    <text>だから－よく聞き及んでいる。あんたはすごい戦士だし、俺もお前を信じている。だからお前が望む情報をくれてやろう。ガキ共はお前にLimanskのクソッタレ橋梁にまっすぐカチ込めと伝えたはずだ。もし当時の街を...さながらRed Forestの周辺をmercenaryが牛耳っていたことを知らないってんならな。もちろんやつらはお前のために橋を下ろすことはないが、今回はForesterと呼ばれる生き残りがいる。どうにか "平等な" グループに合意してくれたその男がScarと共に橋を下ろす間、対岸から俺達が奴らを守る。そら、Army WarehouseからRed Forestへの道情報をくれてやるよ。そいつでForesterを見つけて声をかけてくれ。あと、こいつはbloodsuckerを一掃してくれた礼だ。</text>
+  </string>
+  <string id="look_for_cs_history_part_1_2_2">
+    <text>ありがとう。</text>
+  </string>
+  <string id="mlr_inventory_box_unuse">
+    <text>スタッシュはロックされている</text>
+  </string>
+  <string id="totaliz_helper_mlr_text">
+    <text>地域を見渡したいとき、~ (チルダ) または \ (バックスラッシュ)  でコンソールを開き "demo_record 1" と入力しましょう。Ctrlを押しながらW, A, S, Dでカメラを操作できます。やめるときはESCを押しましょう。</text>
+  </string>
+  <string id="st_pda_mlr_descr">
+    <text>未発見エリア間のルートに関する情報を含むPDA。パスワードロックされている為、アクセスできません。</text>
+  </string>
+  <string id="st_new_path_mlr">
+    <text>2つのエリア間のルートがアクセス可能になりました。</text>
+  </string>
+  <string id="killer_bridge_trader_mlr_task_1_name">
+    <text>%sを見つける。</text>
+  </string>
+  <string id="killer_bridge_trader_mlr_task_1_text">
+    <text>mercenariesは私に%sを手に入れるように頼みました。</text>
+  </string>
+  <string id="killer_bridge_trader_mlr_task_1_about">
+    <text>私たちの兵士には装備が必要だ。私たちのためにそれを手に入れてきてくれないか？</text>
+  </string>
+  <string id="killer_bridge_trader_mlr_task_1_fetch_about">
+    <text>私たちの兵士には%sが必要だ。それを取り戻してくれるか？</text>
+  </string>
+  <string id="killer_bridge_trader_mlr_task_1_fetch_finish">
+    <text>助かったよ、これを受け取ってくれ。</text>
+  </string>
+  <string id="killer_bridge_trader_mlr_task_2_name">
+    <text>%s のアーティファクトを見つけた。</text>
+  </string>
+  <string id="killer_bridge_trader_mlr_task_2_text">
+    <text>mercenary は%sを必要としている。</text>
+  </string>
+  <string id="killer_bridge_trader_mlr_task_2_about">
+    <text>俺たちの兵士はいくつかのアーティファクトを使用できるのだが、それらなしでLimanskを通過するのは難しい。探すのを手伝ってくれないか？</text>
+  </string>
+  <string id="killer_bridge_trader_mlr_task_2_fetch_about">
+    <text>俺たちの兵士はいくつかのアーティファクトを使用できるのだが、それらなしでLimanskを通過するのは難しい。%sを探すのを手伝ってくれないか？</text>
+  </string>
+  <string id="killer_bridge_trader_mlr_task_2_fetch_finish">
+    <text>どうもありがとう、こいつを受け取ってくれ。</text>
+  </string>
+  <string id="task_look_for_cs_history_part_1_1">
+    <text>bloodsuckersを狩る。</text>
+  </string>
+  <string id="task_look_for_cs_history_part_1_2">
+    <text>Coldのところに戻れ。</text>
+  </string>
+  <string id="task_look_for_cs_history_part_1_3">
+    <text>だからやつは「ここ」に俺を送り出すのを恐れたくせに、沼地のbloodsuckerとやり合う分には構わないのか？Clear Skyでもしょぼいセールスマンってことね、なるほど...</text>
+  </string>
+  <string id="task_look_for_cs_history_part_2_1">
+    <text>Clear skyのトラックについて行き、Foresterと話せ。</text>
+  </string>
+  <string id="task_look_for_cs_history_part_descr_2_1">
+    <text>Coldから今回の飛び入りがForesterであることとその居場所を教わった。彼を誘い、Limanskに辿り着く必要がある。</text>
+  </string>
+  <string id="task_look_for_cs_history_part_3_1">
+    <text>Clear Skyのトラックをたどる：Leshiyを見つける</text>
+  </string>
+  <string id="task_look_for_cs_history_part_3_2">
+    <text>Clear Skyのトラックをたどる：Leshiyと話す</text>
+  </string>
+  <string id="task_look_for_cs_history_part_descr_3_1">
+    <text>さてMilitaryの話に戻ろう。その橋をめぐる戦いの鍵となる人物は、今までずっと俺の目の前にいたことがわかった。
+
+</text>
+  </string>
+  <string id="task_look_for_cs_history_part_descr_3_2">
+    <text>やるべきことはただ一つ、Leshiyとの合意を取り付けるだけだ。これが冒険の終わりとなることを願う。</text>
+  </string>
+  <string id="task_look_for_cs_history_part_4_1">
+    <text>Clear Skyのトラックをたどる：150000 RUを集めてLeshiyに届ける</text>
+  </string>
+  <string id="task_look_for_cs_history_part_4_3">
+    <text>Clear Skyのトラックをたどる：ゲートキーパーとのミーティングに行く</text>
+  </string>
+  <string id="task_look_for_cs_history_part_4_4">
+    <text>Clear Skyのトラックをたどる：ゲートキーパーと話す</text>
+  </string>
+  <string id="task_look_for_cs_history_part_descr_4_1">
+    <text>やっと、もうすぐで橋の対岸に辿り着いてこの使いっぱしりを終えられる。</text>
+  </string>
+  <string id="st_bridge_is_open_message">
+    <text>Gatekeeper:\n誰か見かけたぜ。おい、Stalker！こっちに来な。いくつか言いたいことがある。</text>
+  </string>
+</string_table>

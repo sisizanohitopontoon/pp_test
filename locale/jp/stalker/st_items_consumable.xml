@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="st_vodka">
+    <text>ネミロフウォッカ</text>
+  </string>
+  <string id="st_vodka_descr">
+    <text>Nemiroff は 1992 年設立、ウクライナの Vinnytska 州 Nemyriv 町に拠点を置く、国内最大規模の酒造メーカー。現在 世界 72 カ国以上で販売され、多くの人々に親しまれている。また数々の賞を受賞し、インターナショナル・ミリオネア・クラブ（イギリス）においては、「世界で最も売上げ成長の速いお酒のブランド」として 2003 年、2004 年と 2 年連続して記録を残した。当然、Zone でも売り上げを伸ばしている。\n 
+                %c[ui_gray_3]備考： \n
+                %c[ui_gray_1]Skadovsk に常駐するメカニック - Cardan - が愛飲するメーカーなのは有名な話であり、知らない奴はモグリとしか言えない。最近は精神を病んでいる為か、それを飲まずには腕を振るわなくなった。\n 
+                %c[ui_gray_3]特徴：
+                %c[d_blue] ・ %c[ui_gray_2] 飲料
+                %c[d_blue] ・ %c[ui_gray_2] 興奮作用
+                %c[d_red] ・ %c[ui_gray_2] 強いアルコール
+                </text>
+  </string>
+  <string id="st_vodka2">
+    <text>プーチンカウォッカ</text>
+  </string>
+  <string id="st_vodka2_descr">
+    <text>ロシアの指導者たちの後にウォッカブランドを命名するという伝統に従って、プーチンカはウラジミール・プーチンが大統領に選出された後に最初に生産に入りました。シベリアの泉からの最高級の穀物と透明な水からロシアで生産されています。トリプル精製、滑らかな食感、独特の味がこの飲料の唯一の特徴ではありません。控えめに飲んでください。\n 
+
+                %c[ui_gray_3]特徴：
+                %c[d_blue] ・ %c[ui_gray_2] 飲料
+                %c[d_blue] ・ %c[ui_gray_2]興奮作用
+                %c[d_red] ・ %c[ui_gray_2] 強いアルコール</text>
+  </string>
+  <string id="st_vodka_quality">
+    <text>Stolichnayaウォッカ</text>
+  </string>
+  <string id="st_vodka_quality_descr">
+    <text>ロシア人と世界中の多くの人々が愛飲する、高品質なロシア製のウォッカ。Zone で非常に人気が高く、トレーダーが外側の世界と広く接触する為に利用する。Zone の周りに駐留する軍隊の検閲を避けるため、通常は軍のコンテナや金属製の樽で出荷され、丈夫な金属製ボトルに詰め替えられる。\n 
+                %c[ui_gray_3]特徴：
+                %c[d_blue] ・ %c[ui_gray_2] 興奮作用
+                %c[d_red] ・ %c[ui_gray_2] 強いアルコール
+                %c[d_blue] ・ %c[ui_gray_2] 高品質
+                </text>
+  </string>
+  <string id="st_beer">
+    <text>ウクライナのビール</text>
+  </string>
+  <string id="st_beer_descr">
+    <text>ウクライナのビール。ウォッカ以外の飲み物として Zone で人気。\n\n
+%c[ui_gray_3]特徴:%c[d_blue] ・
+%c[ui_gray_2]飲料%c[d_blue] ・ 
+%c[ui_gray_2]輸入品%c[d_blue] ・
+%c[ui_gray_2]興奮作用%c[d_red] ・
+     %c[ui_gray_2]軽いアルコール%c[d_blue] ・
+%c[ui_gray_2]汚染されていない栄養源%c[d_blue]・
+%c[ui_gray_2]高品質</text>
+  </string>
+  <string id="st_bottle_metal">
+    <text>金属ボトル</text>
+  </string>
+  <string id="st_bottle_metal_descr">
+    <text>Zone で製造されたと思われるウォッカが詰められた金属製のボトル。強くきつい臭いがする。\n 
+                %c[ui_gray_3]特徴:
+                %c[d_blue] ・ 興奮作用
+                %c[d_red] ・  強く、低品質なアルコール
+                </text>
+  </string>
+  <string id="st_energy_drink">
+    <text>ストロングエナジードリンク</text>
+  </string>
+  <string id="st_energy_drink_descr">
+    <text>疲れた時に飲むと壮快な気分にさせてくれるので、長旅をする Stalker に好まれる。少し酔っている時に飲むと、酔いをさまさせると同時に、血流にアドレナリンを放出する。\n\n
+ %c[ui_gray_3]特徴：%c[d_blue] ・ %c[ui_gray_2] 飲料%c[d_blue] ・ 
+%c[ui_gray_2] 輸入品%c[d_blue] ・ 
+%c[ui_gray_2] 興奮作用%c[d_blue] ・ 
+%c[ui_gray_2] アルコール分解作用%c[d_blue] ・ 
+%c[ui_gray_2] 汚染されていない栄養源 </text>
+  </string>
+  <string id="st_flask">
+    <text>精製水</text>
+  </string>
+  <string id="st_flask_descr">
+    <text>Military flask は少量の水を保管するのに用いる。医者や科学者が用意している。まず始めに水と特殊なアルコールを混ぜ、浄化と消毒の為に煮沸する。その後、冷蔵庫で冷やされ清涼飲料水 "spark" として恩恵を被る。結果完全に放射能が除去されるが、純度について疑問があるならば "akvatab" の使用をお勧めする。低生産コストの為、Military flask は限られた供給において尚、手頃な価格で売られている。医者も在庫しているが、輸送コストの分割高だ。\n 
+                %c[ui_gray_3]特徴：
+                %c[d_blue] ・ %c[ui_gray_2] 飲料
+                %c[d_blue] ・ %c[ui_gray_2] 汚染されていない栄養源 
+                </text>
+  </string>
+  <string id="st_kolbasa">
+    <text>古いパックの肉</text>
+  </string>
+  <string id="st_kolbasa_descr">
+    <text>古いパンと若干腐臭のする肉が茶色の紙で包装されている。見た目と匂いで、カビていることが分かる。\n\n
+%c[ui_gray_3]特徴：\n
+                %c[d_red] ・ 
+%c[ui_gray_2] 低品質\n
+              </text>
+  </string>
+  <string id="st_tea">
+    <text>Beard特製茶</text>
+  </string>
+  <string id="st_tea_descr">
+    <text>Beard 謹製の、砂糖、干し茸をブレンドした、放射能の心配が無い温かい人気のお茶。金銭的に余裕のある Stalker は、長旅に備えて購入している。疲労を感じた時、あるいは寒い夜の探査行などで、つま先にそっと添えると生き返るかもしれない。\n\n
+%c[ui_gray_3]特徴：\n
+                %c[d_blue] ・ 
+%c[ui_gray_2] 飲料\n
+                %c[d_blue] ・ 
+%c[ui_gray_2]アルコール分解作用\n %c[d_blue] ・
+%c[ui_gray_2] 汚染されていない栄養源 </text>
+  </string>
+  <string id="st_tomato">
+    <text>缶詰のトマト</text>
+  </string>
+  <string id="st_tomato_descr">
+    <text>定期的にZoneに輸入されている、薄くスライスされたトマトが入った缶詰。記載された日付から、この食品がまだ新鮮であることが分かる。様々なビタミンや栄養素を手ごろに補給出来るためStalker達の間では一定の需要がある。\n\n
+%c[ui_gray_3]特徴:\n
+%c[d_blue]・
+%c[d_gray_2]食品\n%c[ui_blue]・
+%c[d_gray_2]輸入品\n%c[ui_blue]・
+%c[ui_gray_2]汚染されていない栄養源\n</text>
+  </string>
+  <string id="st_sausage">
+    <text>スモークソーセージ</text>
+  </string>
+  <string id="st_sausage_descr">
+    <text>牛肉と豚肉のひき肉を混ぜ合わせて作られたソーセージを燻製調理し、真空パックで加工した食料。ロシアから運び込まれているこの商品は、個性的な味と香りで現地のマフィアの間で人気がある。燻製調理とは、食肉を脱水処理した後、チップを炙る際に発生する燻煙で殺菌・防腐処理することで、長期保存する加工技術であり、その独特な風味は一層食欲を引き立てる。\n\n
+%c[ui_gray_3]特徴:\n
+%c[d_blue]・%c[d_gray_2]食品\n
+ %c[ui_blue]・%c[d_gray_2]輸入品\n
+ %c[ui_blue]・%c[ui_gray_2]汚染されていない栄養源\n
+
+
+</text>
+  </string>
+  <string id="st_corn">
+    <text>コーンの缶詰</text>
+  </string>
+  <string id="st_corn_descr">
+    <text>Zone の外から運び込まれたスイートコーンの缶詰。そのまま食べるのも良いが、煮込んでスープにする者も多い。栄養素として炭水化物が主ではあるが、ビタミン・ミネラル類も豊富であることから、Zoneでは有用な食糧だ。\n\n
+%c[ui_gray_3]特徴:\n
+%c[d_blue]・%c[d_gray_2]食品\n
+ %c[ui_blue]・%c[d_gray_2]輸入品\n
+ %c[ui_blue]・%c[ui_gray_2]汚染されていない栄養源\n
+</text>
+  </string>
+  <string id="st_beans">
+    <text>ベイクドビーンズ</text>
+  </string>
+  <string id="st_beans_descr">
+    <text>西側から持ち込まれたベイクドビーンズの缶詰。インゲン豆のトマトソース煮で出身地によっては懐かしい味である。ベイクドビーンズはイギリスで最も売れている缶詰食品であり、製造国によっては味付けが変わる食品だ。栄養価は割と高いのだが味が単調になりやすいため、単体よりもパンや肉と共に食すのが最も美味しく食べられるだろう。\n\n
+%c[ui_gray_3]特徴:\n
+%c[d_blue]・%c[d_gray_2]食品\n
+ %c[ui_blue]・%c[d_gray_2]輸入品\n
+ %c[ui_blue]・%c[ui_gray_2]汚染されていない栄養源\n
+</text>
+  </string>
+  <string id="st_chili">
+    <text>チリビーンズ</text>
+  </string>
+  <string id="st_chili_descr">
+    <text>西側から持ち込まれたチリビーンズの缶詰。Zone で定番の食料。チリビーンズはアメリカ南部発祥のメキシコ風の豆料理であり、ピリッとした甘辛い味付けが特徴的で、パン等と一緒に食べると幸せになれる。\n\n
+%c[ui_gray_3]特徴:\n
+%c[d_blue]・
+%c[d_gray_2]食品\n%c[ui_blue]・
+%c[d_gray_2]輸入品\n%c[ui_blue]・
+%c[ui_gray_2]汚染されていない栄養源\n</text>
+  </string>
+  <string id="st_conserva">
+    <text>ツナ缶</text>
+  </string>
+  <string id="st_conserva_descr">
+    <text>ブリキ缶底面の賞味期限は、美味さを期待するべきでないことを教えてくれる。\n\n
+%c[ui_gray_3]特徴:\n
+%c[d_blue]・
+%c[d_gray_2]食品\n%c[ui_blue]・
+%c[d_gray_2]輸入品\n%c[ui_blue]・
+%c[ui_gray_2]汚染されていない栄養源\n</text>
+  </string>
+  <string id="st_tushonka">
+    <text>牛のトゥションカの缶詰 "Abakan" </text>
+  </string>
+  <string id="st_tushonka_descr">
+    <text>トゥションカは、旧ソ連、西側諸国で食される煮込んだ缶詰肉の代表的な名前だ。皮肉なことに第二次世界大戦時、米国からの援助物資の形でロシアに渡った。それ以来様々な種類のトゥションカが民間の工場で生産され、長期保存可能なことから赤軍の標準的な糧食として供給された。長期保存可能にも関わらず、栄養価が高く（脂肪含有量が多い）比較的味が良いことで知られる。Zone では何百種類もの製品と異なった味のトゥションカが流通している。2013 年の春においても、"Abakan" ブランドは、この手の缶詰の王の座に君臨しているが、Zone でここ最近見受けられるものはそれ程でもない。\n\n
+%c[ui_gray_3]特徴:\n
+%c[d_blue]・
+%c[d_gray_2]食品\n%c[ui_blue]・
+%c[d_gray_2]輸入品\n%c[ui_blue]・
+%c[ui_gray_2]汚染されていない栄養源\n</text>
+  </string>
+  <string id="st_salmon">
+    <text>スモークサーモン</text>
+  </string>
+  <string id="st_salmon_descr">
+    <text>ウクライナ産のスモークサーモン。鮮度を維持したまま速やかに Zone に運び込まれるが、いつもすぐに売り切れてしまうため希少価値がある。\n\n
+%c[ui_gray_3]特徴:\n
+%c[d_blue]・
+%c[d_gray_2]食品\n%c[ui_blue]・
+%c[d_gray_2]輸入品\n%c[ui_blue]・
+%c[ui_gray_2]汚染されていない栄養源\n</text>
+  </string>
+  <string id="st_raisins">
+    <text>レーズン</text>
+  </string>
+  <string id="st_raisins_descr">
+    <text>レーズンのパック。干しぶどうは栄養素が豊富で血液中の糖分のバランスを整える。レーズンの栄養価は非常に高く、抗酸化作用や腸内環境の調整、鉄分の補給、免疫力向上など様々な有益な効果が期待できる。\n\n
+%c[ui_gray_3]特徴:\n
+%c[d_blue]・
+%c[d_gray_2]食品\n%c[ui_blue]・
+%c[d_gray_2]輸入品\n%c[ui_blue]・
+%c[ui_gray_2]汚染されていない栄養源\n</text>
+  </string>
+  <string id="st_chocolate">
+    <text>ロシアのチョコレート</text>
+  </string>
+  <string id="st_chocolate_descr">
+    <text>外の世界ではありふれたチョコレートも Zone では非常に入手が難しい。幼少期の思い出が、Zone に生きる苦しみを僅かな間和らげてくれるかもしれない。\n\n
+
+%c[ui_gray_3]特徴:\n
+%c[d_blue]●
+%c[d_gray_]2食品\n%c[ui_blue]●
+%c[d_gray_2]輸入品\n%c[ui_blue]●
+%c[d_gray_2]高品質\n%c[ui_blue]●
+%c[d_gray_2]価値がある\n%c[ui_blue]●
+%c[ui_gray_2]汚染されていない栄養源\n</text>
+  </string>
+  <string id="st_chocolate_p">
+    <text>ロシアのチョコレート（半分消費）</text>
+  </string>
+  <string id="st_chocolate_p_descr">
+    <text>外の世界ではありふれたチョコレートも Zone では非常に入手が難しい。幼少期の思い出が、Zone に生きる苦しみを僅かな間和らげてくれるかもしれない。\n\n
+
+%c[ui_gray_3]特徴:\n
+%c[d_blue]●
+%c[d_gray_]2食品\n%c[ui_blue]●
+%c[d_gray_2]輸入品\n%c[ui_blue]●
+%c[d_gray_2]高品質\n%c[ui_blue]●
+%c[d_gray_2]価値がある\n%c[ui_blue]●
+%c[ui_gray_2]汚染されていない栄養源\n</text>
+  </string>
+  <string id="st_mint">
+    <text>アルトイズ </text>
+  </string>
+  <string id="st_mint_descr">
+    <text>西側から持ち込まれたミント味のタブレット菓子。気分をスッキリさせ、口腔内から放射線粒子を除去してくれる。またほんの少し眠気を紛らわす事もできる。一度に 10 粒ずつ食べるのが限界だろう。\n\n
+
+%c[ui_gray_3]特徴:\n</text>
+  </string>
+  <string id="st_nuts">
+    <text>ミックスナッツ</text>
+  </string>
+  <string id="st_nuts_descr">
+    <text>ピーナッツ、ヘーゼルナッツ、カシューナッツ、アーモンドの盛り合わせ。南アフリカから輸入されている。\n\n
+
+%c[ui_gray_3]特徴:\n
+%c[d_blue]●
+%c[d_gray_]2食品\n%c[ui_blue]●
+%c[d_gray_2]輸入品\n%c[ui_blue]●
+%c[d_gray_2]高品質\n%c[ui_blue]●
+%c[ui_gray_2]汚染されていない栄養源\n</text>
+  </string>
+  <string id="st_mineral_water">
+    <text>ミネラルウォーター</text>
+  </string>
+  <string id="st_mineral_water_descr">
+    <text>ウクライナの山間部から湧き出しているミネラルウォーター。\n\n
+
+%c[ui_gray_3]特徴:\n
+%c[d_blue]●
+%c[d_gray_2]飲料\n%c[ui_blue]●
+%c[d_gray_2]輸入品\n%c[ui_blue]●
+%c[d_gray_2]高品質\n%c[ui_blue]●
+%c[d_gray_2]アルコール分解(中)\n%c[ui_blue]●
+%c[ui_gray_2]汚染されていない栄養源\n</text>
+  </string>
+  <string id="st_mre">
+    <text>MRE</text>
+  </string>
+  <string id="st_mre_descr">
+    <text>MRE は、調理施設の無い場所や戦闘区域での食事の問題を解決する為、米軍によって開発された戦闘糧食で、乱暴に扱っても包装が破れないように設計されている。MRE は Meal、Ready-to-Eat の略。一つの MRE は1回分の食事セットになっている。また、一部にはタバコや酒類などの嗜好品が同梱されているものや、ベジタリアンであることや宗教的な忌避などに配慮して、特定の食材を含まないレーションも存在している。冷めたまま食べることも出来るが、火のいらない専用ヒーターを使えば少しは美味しく食べれるだろう。\n\n
+
+%c[ui_gray_3]特徴:\n
+%c[d_blue]●
+%c[d_gray_2]軍用品\n%c[ui_blue]●
+%c[d_gray_2]高品質\n%c[ui_blue]●
+%c[ui_gray_2]汚染されていない栄養源\n%c[ui_blue]●
+%c[d_gray_2]合計1398Kcalを3分割\n</text>
+  </string>
+  <string id="st_ration_ru">
+    <text>ロシア製 IRP-B 軍用レーション </text>
+  </string>
+  <string id="st_ration_ru_descr">
+    <text>一つのパッケージで朝、昼、夕の三食分を含む。その機能は現場の状況に合わせて使用出来る調理器具(小さな金属フレーム、固形燃料、マッチ、火打ち金、ナプキン等)の他、健康を維持するのに不可欠なミネラルや微量元素を摂取出来る様々な食品が含まれる。中身を危険な環境から守るポリマーボックスに入れられ、それぞれ 3 つに区分されている。\n 
+%c[ui_gray_3]特徴:\n
+%c[d_blue]●
+%c[d_gray_2]軍用品\n%c[ui_blue]●
+%c[d_gray_2]高品質\n%c[ui_blue]●
+%c[ui_gray_2]汚染されていない栄養源\n%c[ui_blue]●
+%c[d_gray_2]合計3661Kcalを7分割\n</text>
+  </string>
+  <string id="st_ration_ukr">
+    <text>ウクライナ製 軍用レーション</text>
+  </string>
+  <string id="st_ration_ukr_descr">
+    <text>このウクライナの戦闘糧食は、ロシア軍の物をベースに市販の缶詰等をドライフーズにして、薄い緑のプラスチックケース (テイクアウト・トレイに似た物) に区分けされ詰められている。成人男性が一日に必要なカロリー、ミネラル他すべてを含む。\n\n
+
+%c[ui_gray_3]特徴:\n
+%c[d_blue]●
+%c[d_gray_2]軍用品\n%c[ui_blue]●
+%c[ui_gray_2]汚染されていない栄養源\n%c[ui_blue]●
+%c[d_gray_2]合計3186Kcalを6分割\n</text>
+  </string>
+  <string id="st_bread">
+    <text>ひとかたまりのパン</text>
+  </string>
+  <string id="st_bread_descr">
+    <text>Zone の外で暮らす Nimble の妻手製のパン。現在の商売を始める前に販売していた商品だ。現在この美味しいパンを barkeeper に卸している。とは言うものの、あくまでも片手間で、本来の商売に支障を来たす事は無い。\n\n
+
+%c[ui_gray_3]特徴:\n
+%c[d_blue]●
+%c[d_gray_2]食品\n%c[ui_blue]●
+%c[d_gray_2]輸入品\n%c[ui_blue]●
+%c[ui_gray_2]汚染されていない栄養源\n</text>
+  </string>
+  <string id="st_breadold">
+    <text>パンくず </text>
+  </string>
+  <string id="st_breadold_descr">
+    <text>偉大なる祖国で焼かれたパンの欠片。\n\n
+
+%c[ui_gray_3]特徴:\n
+%c[d_blue]●
+%c[d_gray_2]食品\n%c[ui_blue]●
+%c[d_gray_2]輸入品\n%c[ui_blue]●
+%c[ui_gray_2]汚染されていない栄養源\n</text>
+  </string>
+  <string id="st_protein">
+    <text>チョコレートプロテインバー</text>
+  </string>
+  <string id="st_protein_descr">
+    <text>このプロテインバーは、良質なたんぱく質と糖分を体に供給し、活力を与えてくれる。消耗戦や長距離移動などで素早く栄養を補給したい時に有用だ。\n\n
+
+%c[ui_gray_3]特徴:\n
+%c[d_blue]●
+%c[d_gray_2]食品\n%c[ui_blue]●
+%c[d_gray_2]輸入品\n%c[ui_blue]●
+%c[ui_gray_2]汚染されていない栄養源\n
+%c[d_gray_2]高品質\n
+</text>
+  </string>
+  <string id="st_water_drink">
+    <text>スパークリングウォーター</text>
+  </string>
+  <string id="st_water_drink_descr">
+    <text>喉を渇かした Stalker の為のスパークリングウォーター。疲労を覚えた時に、若干の爽快感を味わえる。\n\n
+
+%c[ui_gray_3]特徴:\n
+%c[d_blue]●
+%c[d_gray_2]飲料\n%c[ui_blue]●
+%c[d_gray_2]輸入品\n%c[ui_blue]●
+%c[d_gray_2]アルコール分解(中)\n%c[ui_blue]●
+%c[ui_gray_2]汚染されていない栄養源\n</text>
+  </string>
+  <string id="st_drink_crow">
+    <text>"The Beak"</text>
+  </string>
+  <string id="st_drink_crow_descr">
+    <text>"The Beak" は、黒カラスの砕かれた口ばしとウオッカを強力に混合した、Zone 特性のリキュール。口ばしなら何でも良い分けではなく、15 年以上生息し、完全に変異した、鳴くことの出来る雄の黒カラスだけ成分として使える。噂では、人体から若干の放射線を浄化するたんぱく質を形成しているらしい。ある Stalker によると、"The Beak" を飲むことで数秒の間、翼を感じることが出来るらしい。味覚に関しての評判は散々だが、アルコールなら何でも、な輩には問題ないだろう。</text>
+  </string>
+  <string id="st_cuban_cigar">
+    <text>キューバ産葉巻</text>
+  </string>
+  <string id="st_cuban_cigar_descr">
+    <text>入手困難な最高級のキューバ産。夕日を眺めながら紫煙をくゆらせば、束の間の至福の時が約束されている。副次効果として、タバコの煙が蚊を撃退するとstalker達は考えている。\n\n
+
+%c[ui_gray_3]特徴:\n
+%c[d_blue]●
+%c[d_gray_2]興奮作用\n%c[ui_blue]●
+%c[d_gray_2]輸入品\n%c[ui_blue]●
+%c[d_gray_2]高品質\n%c[ui_blue]●
+%c[d_gray_2]価値がある\n%c[ui_blue]●
+%c[ui_gray_2]アルコール分解作用(強)\n</text>
+  </string>
+  <string id="st_cigarettes_lucky">
+    <text>ラッキーストライクタバコ</text>
+  </string>
+  <string id="st_cigarettes_lucky_descr">
+    <text>西側から持ち込まれたタバコ。いくつかの派閥内では弾薬と同等以上の価値がある。 \n
+
+%c[ui_gray_3]特徴:\n
+%c[d_blue]●
+%c[d_gray_2]興奮作用\n%c[ui_blue]●
+%c[d_gray_2]高品質\n%c[ui_blue]●
+%c[d_gray_2]価値がある\n%c[ui_blue]●
+%c[ui_gray_2]アルコール分解作用(中)\n</text>
+  </string>
+  <string id="st_cigarettes_russian">
+    <text>ロシア産タバコ </text>
+  </string>
+  <string id="st_cigarettes_russian_descr">
+    <text>Zone で手に入るタバコではロシア産が一番安価である。\n\n
+
+%c[ui_gray_3]特徴:\n
+%c[d_blue]●
+%c[d_gray_2]興奮作用\n%c[ui_red]●
+%c[d_gray_2]低品質\n%c[ui_blue]●
+%c[ui_gray_2]アルコール分解作用(中)\n</text>
+  </string>
+  <string id="st_cigar1">
+    <text>ソビエト産タバコ</text>
+  </string>
+  <string id="st_cigar1_descr">
+    <text>強くて最低品質なロシア製の格安タバコ。誰かが殆どを喫煙してしまったので、残り僅かしか無い。ソビエトの風味を残した一品。\n\n
+
+%c[ui_gray_3]特徴:\n
+%c[d_blue]●
+%c[d_gray_2]興奮作用\n%c[ui_blue]●
+%c[ui_gray_2]アルコール分解作用(中)\n</text>
+  </string>
+  <string id="st_cigar2">
+    <text>ソ連のタバコ</text>
+  </string>
+  <string id="st_cigar2_descr">
+    <text>強くて最低品質なロシア製の格安タバコ。誰かが殆どを喫煙してしまったので、残り僅かしか無い。ソビエトの風味を残した一品。\n\n
+
+%c[ui_gray_3]特徴:\n
+%c[d_blue]●
+%c[d_gray_2]興奮作用\n%c[ui_blue]●
+%c[ui_gray_2]アルコール分解作用(中)\n</text>
+  </string>
+  <string id="st_cigar3">
+    <text>ソビエトタバコ</text>
+  </string>
+  <string id="st_cigar3_descr">
+    <text>強くて最低品質なロシア製の格安タバコ。誰かが殆どを喫煙してしまったので、残り僅かしか無い。ソビエトの風味を残した一品。\n\n
+
+%c[ui_gray_3]特徴:\n
+%c[d_blue]●
+%c[d_gray_2]興奮作用\n%c[ui_blue]●
+%c[ui_gray_2]アルコール分解作用(中)\n</text>
+  </string>
+  <string id="st_hand_rolling_tobacco">
+    <text>手巻きタバコ</text>
+  </string>
+  <string id="st_hand_rolling_tobacco_descr">
+    <text>西側から持ち込まれた貴重な手巻きタバコ。この銘柄は添加物が入っていないため、タバコ葉本来の味が愉しめる。\n\n
+
+%c[ui_gray_3]特徴:\n
+%c[d_blue]●
+%c[d_gray_2]興奮作用\n%c[ui_red]●
+%c[d_gray_2]遅い使用速度(手巻き)\n%c[ui_blue]●
+%c[ui_gray_2]アルコール分解作用(強)\n%c[ui_blue]●
+%c[d_gray_2]高品質\n
+</text>
+  </string>
+  <string id="st_cigarettes">
+    <text>マールボロのタバコ</text>
+  </string>
+  <string id="st_cigarettes_descr">
+    <text>西側からの輸入タバコ。誰か殆どを喫煙してしまったので、残り僅かしかない。喫煙は精神状態を安定にし、少しの飢えを忘れさせてくれるかもしれない。Zone では珍しく貴重なものだ。\n\n
+
+%c[ui_gray_3]特徴:\n
+%c[d_blue]●
+%c[d_gray_2]興奮作用\n%c[ui_blue]●
+%c[ui_gray_2]アルコール分解作用(中)\n</text>
+  </string>
+  <string id="st_tobacco">
+    <text>ロシアのタバコ</text>
+  </string>
+  <string id="st_tobacco_descr">
+    <text>ゾーンではタバコは高価で希少である。生のタバコを持っていれば、より安いコストで自分用のタバコを作る事が可能だ。この缶は密封されているので、たばこの葉は保存条件に応じて数日から数週間新鮮さを保つことができる。\n\n
+
+%c[ui_gray_3]特徴:\n
+%c[d_blue]●
+%c[d_gray_2]興奮作用\n%c[ui_red]●
+%c[d_gray_2]遅い使用速度(手巻き)\n%c[ui_blue]●
+%c[ui_gray_2]アルコール分解作用(強)\n%c[ui_red]●
+%c[d_gray_2]低品質\n
+</text>
+  </string>
+</string_table>

@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="Clear">
+    <text>クリア</text>
+  </string>
+  <string id="Cloudy">
+    <text>曇り</text>
+  </string>
+  <string id="Default">
+    <text>8GB RAM and/or 4GB VRAM</text>
+  </string>
+  <string id="Extreme">
+    <text>24GB RAM and/or 6GB VRAM</text>
+  </string>
+  <string id="High">
+    <text>16GB RAM and/or 4GB VRAM</text>
+  </string>
+  <string id="Low">
+    <text>8GB RAM and/or 2GB VRAM</text>
+  </string>
+  <string id="Minimum">
+    <text>ポテト</text>
+  </string>
+  <string id="Night">
+    <text>夜</text>
+  </string>
+  <string id="Rain">
+    <text>雨</text>
+  </string>
+  <string id="game type">
+    <text>ゲームタイプ</text>
+  </string>
+  <string id="gd_master">
+    <text>マスター</text>
+  </string>
+  <string id="gd_novice">
+    <text>ルーキー</text>
+  </string>
+  <string id="gd_veteran">
+    <text>ベテラン</text>
+  </string>
+  <string id="icon">
+    <text>アイコン</text>
+  </string>
+  <string id="map">
+    <text>マップ</text>
+  </string>
+  <string id="renderer_r1">
+    <text>DirectX 8 (Basic)</text>
+  </string>
+  <string id="renderer_r2a">
+    <text>DirectX 9 (Basic)</text>
+  </string>
+  <string id="renderer_r2">
+    <text>DirectX 9 (Normal)</text>
+  </string>
+  <string id="renderer_r2.5">
+    <text>DirectX 9 (Enhanced)</text>
+  </string>
+  <string id="renderer_r3">
+    <text>DirectX 10 (Enhanced)</text>
+  </string>
+  <string id="renderer_r4">
+    <text>DirectX 11 (Enhanced)</text>
+  </string>
+  <string id="st_opt_high">
+    <text>高</text>
+  </string>
+  <string id="st_opt_low">
+    <text>低</text>
+  </string>
+  <string id="st_opt_medium">
+    <text>中</text>
+  </string>
+  <string id="st_opt_off">
+    <text>Off</text>
+  </string>
+  <string id="ui_mm_60_hz">
+    <text>周波数 60Hz</text>
+  </string>
+  <string id="ui_mm_action">
+    <text>アクション</text>
+  </string>
+  <string id="ui_mm_advanced">
+    <text>高度な</text>
+  </string>
+  <string id="ui_mm_alternative">
+    <text>Alternative</text>
+  </string>
+  <string id="ui_mm_anisotropic">
+    <text>異方性フィルタリング</text>
+  </string>
+  <string id="ui_mm_apply">
+    <text>適用する</text>
+  </string>
+  <string id="ui_mm_back">
+    <text>戻る</text>
+  </string>
+  <string id="ui_mm_blood">
+    <text>血液</text>
+  </string>
+  <string id="ui_mm_brightness">
+    <text>輝度</text>
+  </string>
+  <string id="ui_mm_ok">
+    <text>OK</text>
+  </string>
+  <string id="ui_mm_cancel">
+    <text>キャンセル</text>
+  </string>
+  <string id="ui_mm_next">
+    <text>次へ</text>
+  </string>
+  <string id="ui_mm_previous">
+    <text>前へ</text>
+  </string>
+  <string id="ui_mm_craft">
+    <text>作成</text>
+  </string>
+  <string id="ui_mm_upgrade">
+    <text>アップグレード</text>
+  </string>
+  <string id="ui_mm_repair">
+    <text>修理</text>
+  </string>
+  <string id="ui_mm_cook">
+    <text>調理</text>
+  </string>
+  <string id="ui_mm_loot_selected">
+    <text>略奪品を選択</text>
+  </string>
+  <string id="ui_mm_loot_all">
+    <text>全て取る</text>
+  </string>
+  <string id="ui_mm_check_updates">
+    <text>ゲームのアップデート</text>
+  </string>
+  <string id="ui_mm_contrast">
+    <text>コントラスト</text>
+  </string>
+  <string id="ui_mm_controls">
+    <text>コントロール</text>
+  </string>
+  <string id="ui_mm_credits">
+    <text>クレジット</text>
+  </string>
+  <string id="ui_mm_crosshair_distance">
+    <text>クロスヘアのターゲットまでの距離</text>
+  </string>
+  <string id="ui_mm_default">
+    <text>デフォルト</text>
+  </string>
+  <string id="ui_mm_delete">
+    <text>削除する</text>
+  </string>
+  <string id="ui_mm_delete_existing_file_q">
+    <text>本当にこのファイルを削除しますか？</text>
+  </string>
+  <string id="ui_mm_detail_density">
+    <text>グラスディティール密度</text>
+  </string>
+  <string id="ui_mm_detail_radius">
+    <text>草の描画距離</text>
+  </string>
+  <string id="ui_mm_detail_height">
+    <text>草のサイズ</text>
+  </string>
+  <string id="ui_mm_geom_static">
+    <text>描画距離（静的オブジェクト）</text>
+  </string>
+  <string id="ui_mm_geom_dynamic">
+    <text>描画距離（動的オブジェクト）</text>
+  </string>
+  <string id="ui_mm_geom_shadow">
+    <text>描画距離（影）</text>
+  </string>
+  <string id="ui_mm_difficulty">
+    <text>難易度</text>
+  </string>
+  <string id="ui_mm_disconnect">
+    <text>切断する</text>
+  </string>
+  <string id="ui_mm_disconnect_message">
+    <text>切断してよろしいですか？</text>
+  </string>
+  <string id="ui_mm_dof">
+    <text>被写界深度</text>
+  </string>
+  <string id="ui_mm_dyn_crosshair">
+    <text>ダイナミッククロスヘア</text>
+  </string>
+  <string id="ui_mm_dynamic_music">
+    <text>ダイナミックミュージック</text>
+  </string>
+  <string id="ui_mm_eax">
+    <text>EAX</text>
+  </string>
+  <string id="ui_mm_snd_targets">
+    <text>Sound targets</text>
+  </string>
+  <string id="ui_mm_fullscreen">
+    <text>フルスクリーン</text>
+  </string>
+  <string id="ui_mm_borderless">
+    <text>ボーダーレス</text>
+  </string>
+  <string id="ui_mm_gameplay">
+    <text>ゲーム</text>
+  </string>
+  <string id="ui_mm_gameplay_ui">
+    <text>UI/HUD</text>
+  </string>
+  <string id="ui_mm_gamma">
+    <text>ガンマ</text>
+  </string>
+  <string id="ui_mm_geometry_lod">
+    <text>オブジェクト詳細</text>
+  </string>
+  <string id="ui_mm_invert_mouse">
+    <text>マウスを反転</text>
+  </string>
+  <string id="ui_mm_key">
+    <text>ボタン</text>
+  </string>
+  <string id="ui_mm_keyboard_setup">
+    <text>キーボード設定</text>
+  </string>
+  <string id="ui_mm_last_save">
+    <text>直前のセーブデータ</text>
+  </string>
+  <string id="ui_mm_light_distance">
+    <text>照明距離</text>
+  </string>
+  <string id="ui_mm_load">
+    <text>ロード</text>
+  </string>
+  <string id="ui_mm_load_game">
+    <text>ゲームをロード</text>
+  </string>
+  <string id="ui_mm_logout">
+    <text>プロフィールを終了する</text>
+  </string>
+  <string id="ui_mm_master">
+    <text>マスター</text>
+  </string>
+  <string id="ui_mm_master_volume">
+    <text>SFXボリューム</text>
+  </string>
+  <string id="ui_mm_mouse_sense">
+    <text>マウス感度</text>
+  </string>
+  <string id="ui_mm_msaa_alphatest">
+    <text>Smooth A-test objects</text>
+  </string>
+  <string id="ui_mm_msaa_opt">
+    <text>Optimize smoothing</text>
+  </string>
+  <string id="ui_mm_multiplayer">
+    <text>マルチプレイヤー</text>
+  </string>
+  <string id="ui_mm_multiplayer_n">
+    <text>マルチプレイヤー</text>
+  </string>
+  <string id="ui_mm_music_volume">
+    <text>Music volume</text>
+  </string>
+  <string id="ui_mm_need_restart">
+    <text>変更点は再起動後に有効になります</text>
+  </string>
+  <string id="ui_mm_network_game">
+    <text>マルチプレイヤー</text>
+  </string>
+  <string id="ui_mm_newgame">
+    <text>ニューゲーム</text>
+  </string>
+  <string id="ui_mm_novice">
+    <text>ルーキー</text>
+  </string>
+  <string id="ui_mm_npc_torch">
+    <text>MPC懐中電灯</text>
+  </string>
+  <string id="ui_mm_options">
+    <text>オプション</text>
+  </string>
+  <string id="ui_mm_options_n">
+    <text>オプション（メイン）</text>
+  </string>
+  <string id="ui_mm_options_e">
+    <text>オプション（エクストラ）</text>
+  </string>
+  <string id="ui_mm_weather_options">
+    <text>オプション（天気）</text>
+  </string>
+  <string id="ui_mm_particles_distance">
+    <text>パーティクルの距離</text>
+  </string>
+  <string id="ui_mm_quality_presets">
+    <text>クオリティ設定</text>
+  </string>
+  <string id="ui_mm_quit2windows">
+    <text>Windowsに戻る</text>
+  </string>
+  <string id="ui_mm_quit_game">
+    <text>ゲームをやめる</text>
+  </string>
+  <string id="ui_mm_quit_game_message">
+    <text>ゲームを終了してもよろしいですか？</text>
+  </string>
+  <string id="ui_mm_quit_windows_message">
+    <text>ストーカー、本当にZoneを去りますか？</text>
+  </string>
+  <string id="ui_mm_r2_detail_bump">
+    <text>Detail bump</text>
+  </string>
+  <string id="ui_mm_r2_steep_parallax">
+    <text>スティープパララックス</text>
+  </string>
+  <string id="ui_mm_r2_sun">
+    <text>太陽の影</text>
+  </string>
+  <string id="ui_mm_r2_sun_details">
+    <text>草の影</text>
+  </string>
+  <string id="ui_mm_r2_shafts_value">
+    <text>陽射しの主な強度</text>
+  </string>
+  <string id="ui_mm_r2_shafts_min">
+    <text>陽射しの基本強度</text>
+  </string>
+  <string id="ui_mm_grass_shadows">
+    <text>草の影</text>
+  </string>
+  <string id="ui_mm_aim_toggle">
+    <text>エイム切り替え</text>
+  </string>
+  <string id="ui_mm_weapon_degradation">
+    <text>武器の劣化係数</text>
+  </string>
+  <string id="ui_mm_r2_gloss_factor">
+    <text>スペキュラ（グロス値）</text>
+  </string>
+  <string id="ui_mm_r__actor_shadow">
+    <text>人物の影</text>
+  </string>
+  <string id="ui_mm_r2_sun_quality">
+    <text>太陽のクオリティ</text>
+  </string>
+  <string id="ui_mm_r3_DX10_1">
+    <text>DX10.1を使用</text>
+  </string>
+  <string id="ui_mm_r3_MSAA">
+    <text>フルスクリーンアンチエイリアス</text>
+  </string>
+  <string id="ui_mm_r3_dynamic_wet_surfaces">
+    <text>Wet surfaces</text>
+  </string>
+  <string id="ui_mm_r3_gbuffer_opt">
+    <text>Optimize geometric buffer</text>
+  </string>
+  <string id="ui_mm_r3_volumetric_smoke">
+    <text>Volumetric smoke</text>
+  </string>
+  <string id="ui_mm_render_2">
+    <text>Render 2</text>
+  </string>
+  <string id="ui_mm_renderer">
+    <text>描画タイプ</text>
+  </string>
+  <string id="ui_mm_resolution">
+    <text>解像度</text>
+  </string>
+  <string id="ui_mm_return_game">
+    <text>ゲームに戻る</text>
+  </string>
+  <string id="ui_mm_save">
+    <text>セーブ</text>
+  </string>
+  <string id="ui_mm_save_game">
+    <text>セーブゲーム</text>
+  </string>
+  <string id="ui_mm_show_crosshair">
+    <text>クロスヘアを表示</text>
+  </string>
+  <string id="ui_mm_show_weapon">
+    <text>武器を表示</text>
+  </string>
+  <string id="ui_mm_simply">
+    <text>ベーシック</text>
+  </string>
+  <string id="ui_mm_snd_device">
+    <text>サウンドデバイス</text>
+  </string>
+  <string id="ui_mm_soft_particles">
+    <text>ソフトパーティクル</text>
+  </string>
+  <string id="ui_mm_soft_water">
+    <text>ソフトウォーター</text>
+  </string>
+  <string id="ui_mm_sound">
+    <text>サウンド</text>
+  </string>
+  <string id="ui_mm_sound_quality">
+    <text>サウンドクオリティ</text>
+  </string>
+  <string id="ui_mm_stalker">
+    <text>ストーカー</text>
+  </string>
+  <string id="ui_mm_sun_quality">
+    <text>影品質</text>
+  </string>
+  <string id="ui_mm_sun_shafts">
+    <text>太陽光</text>
+  </string>
+  <string id="ui_mm_supersample">
+    <text>アンチエイリアス</text>
+  </string>
+  <string id="ui_mm_switch_torch">
+    <text>AIの懐中電灯の使用</text>
+  </string>
+  <string id="ui_mm_texture_quality">
+    <text>テクスチャディティール</text>
+  </string>
+  <string id="ui_mm_tips">
+    <text>NPC識別</text>
+  </string>
+  <string id="ui_mm_veteran">
+    <text>ベテラン</text>
+  </string>
+  <string id="ui_mm_video">
+    <text>ビデオ</text>
+  </string>
+  <string id="ui_mm_vis_distance">
+    <text>視距離</text>
+  </string>
+  <string id="ui_mm_volumetric_light">
+    <text>ボリューメトリックライト</text>
+  </string>
+  <string id="ui_mm_vsync">
+    <text>垂直同期</text>
+  </string>
+  <string id="ui_st_reset">
+    <text>リセット</text>
+  </string>
+  <string id="ui_st_sell_all">
+    <text>全て売る</text>
+  </string>
+  <string id="version">
+    <text>バージョン</text>
+  </string>
+  <string id="ui_mm_crouch_toggle">
+    <text>しゃがむ/立つ 切り替え</text>
+  </string>
+  <string id="ui_mm_important_save">
+    <text>オートセーブ（レベル変更時）</text>
+  </string>
+  <string id="ui_mm_r1_detail_textures">
+    <text>Detailed textures</text>
+  </string>
+  <string id="ui_mm_ssao_quality">
+    <text>SSAOクオリティ</text>
+  </string>
+  <string id="ui_mm_ssao_text">
+    <text>SSAOモード</text>
+  </string>
+  <string id="ui_mm_ssao">
+    <text>SSDO</text>
+  </string>
+  <string id="ui_mm_hdao">
+    <text>HDAO</text>
+  </string>
+  <string id="ui_mm_hbao">
+    <text>HBAO</text>
+  </string>
+  <string id="ui_st_disable_hud">
+    <text>インターフェースを表示</text>
+  </string>
+  <string id="ui_mm_hud_draw">
+    <text>インターフェースを表示</text>
+  </string>
+  <string id="gd_stalker">
+    <text>ストーカー</text>
+  </string>
+  <string id="st_opt_extreme">
+    <text>Extreme</text>
+  </string>
+  <string id="st_opt_ultra">
+    <text>Very high</text>
+  </string>
+  <string id="ui_mm_r4_enable_tessellation">
+    <text>テッセレーション</text>
+  </string>
+  <string id="ui_mm_confirm_changes">
+    <text>変更を適用しますか？全ての変更が戻るまで</text>
+  </string>
+  <string id="st_cap_check_story">
+    <text>ストーリーモード</text>
+  </string>
+  <string id="st_cap_check_survival">
+    <text>サバイバルモード</text>
+  </string>
+  <string id="st_cap_check_hardcore">
+    <text>アイアンマンモード</text>
+  </string>
+  <string id="st_cap_check_hardcore_aim">
+    <text>ハードコアAIエイム</text>
+  </string>
+  <string id="ui_mm_hardcore_ai_aim">
+    <text>ハードコアAIエイム</text>
+  </string>
+  <string id="ui_mm_hardcore">
+    <text>アイアンマンモード</text>
+  </string>
+  <string id="ui_mm_debug_hud">
+    <text>デバッグHUD</text>
+  </string>
+  <string id="ui_mm_radio_mod">
+    <text>Radio music</text>
+  </string>
+  <string id="ui_mm_mechanic_feature">
+    <text>Delayed repairs</text>
+  </string>
+  <string id="ui_mm_big_head_mode">
+    <text>ビッグヘッドモード</text>
+  </string>
+  <string id="ui_mm_heli_engine_sound">
+    <text>ヘリコプターの音</text>
+  </string>
+  <string id="ui_mm_heli_spawn">
+    <text>ヘリのパトロール</text>
+  </string>
+  <string id="ui_mm_only_campfire">
+    <text>Hardcore save: campfire</text>
+  </string>
+  <string id="ui_mm_use_battery">
+    <text>バッテリーを使用</text>
+  </string>
+  <string id="ui_mm_shoot_effect">
+    <text>反動効果の増加</text>
+  </string>
+  <string id="ui_mm_environment_effect">
+    <text>Extra atmosphere effects</text>
+  </string>
+  <string id="ui_mm_dark_mode">
+    <text>Dark mode (daytime radiation)</text>
+  </string>
+  <string id="ui_mm_slow_death">
+    <text>死亡アニメーション</text>
+  </string>
+  <string id="ui_mm_mask_hud">
+    <text>ヘルメットとマスクのエフェクト</text>
+  </string>
+  <string id="ui_mm_extra_animations">
+    <text>アイテム使用アニメーション</text>
+  </string>
+  <string id="ui_mm_ai_die_in_anomaly">
+    <text>アノマリーでAIが死亡する</text>
+  </string>
+  <string id="ui_mm_faction_sel">
+    <text>派閥</text>
+  </string>
+  <string id="ui_mm_dynamic_news">
+    <text>ダイナミックニュース</text>
+  </string>
+  <string id="ui_mm_art_degrade">
+    <text>Artefact degradation</text>
+  </string>
+  <string id="ui_mm_sleep_deprived">
+    <text>Sleep deprivation</text>
+  </string>
+  <string id="ui_mm_excl_dist">
+    <text>Online exclusion radius</text>
+  </string>
+  <string id="ui_mm_char_portrait">
+    <text>デフォルトポートレイト</text>
+  </string>
+  <string id="ui_mm_outfit_portrait">
+    <text>スーツ準拠のポートレイト</text>
+  </string>
+  <string id="ui_mm_show_enemy_health">
+    <text>敵のHPを表示</text>
+  </string>
+  <string id="ui_mm_quicksave_cnt">
+    <text>クイックセーブカウント</text>
+  </string>
+  <string id="ui_mm_actor_hud">
+    <text>マスクオーバーレイ</text>
+  </string>
+  <string id="ui_mm_alife_mutant_pop">
+    <text>集団密度（ミュータント）</text>
+  </string>
+  <string id="ui_mm_alife_stalker_pop">
+    <text>集団密度（ストーカー）</text>
+  </string>
+  <string id="ui_mm_hud_fov">
+    <text>HUD FOV</text>
+  </string>
+  <string id="ui_mm_fov">
+    <text>FOV</text>
+  </string>
+  <string id="ui_mm_slot_hud">
+    <text>Belt Artefact HUD</text>
+  </string>
+  <string id="ui_mm_show_tracers">
+    <text>トレーサーを表示</text>
+  </string>
+  <string id="ui_mm_debug_autosave">
+    <text>デバッグオートセーブ</text>
+  </string>
+  <string id="ui_mm_autosave_every_15_min">
+    <text>オートセーブ(15分毎)</text>
+  </string>
+  <string id="ui_mm_hardcore_economy">
+    <text>Hardcore Economy</text>
+  </string>
+  <string id="ui_mm_dynamic_relation_changes">
+    <text>Dynamic Faction Relations</text>
+  </string>
+  <string id="ui_mm_dynamic_anomalies">
+    <text>ダイナミックアノマリー</text>
+  </string>
+  <string id="ui_mm_disguise_system">
+    <text>変装システム</text>
+  </string>
+  <string id="ui_mm_disanim">
+    <text>有効/無効 アイテムアニメーション</text>
+  </string>
+  <string id="ui_mm_outfit_drop">
+    <text>Outfit drops</text>
+  </string>
+  <string id="ui_mm_debug_autosave_interval">
+    <text>Debug save interval, min.</text>
+  </string>
+  <string id="ui_mm_localization">
+    <text>言語</text>
+  </string>
+  <string id="ui_mm_r__enable_grass_shadow">
+    <text>草の影</text>
+  </string>
+  <string id="ui_mm_cod_pickup_mode">
+    <text>AoEピックアップモード</text>
+  </string>
+  <string id="st_cap_check_azazel_mode">
+    <text>アザゼルモード</text>
+  </string>
+  <string id="ui_mm_awr_disassembly">
+    <text>ALTキーを押して解体</text>
+  </string>
+  <string id="ui_mm_sim_on_all_levels">
+    <text>フルA-Lifeシミュレーション</text>
+  </string>
+  <string id="ui_mm_show_tip_reputation_option">
+    <text>Goodwill notifications</text>
+  </string>
+  <string id="ui_mm_debug_map_hud">
+    <text>Debug HUD Mapspots</text>
+  </string>
+  <string id="ui_mm_release_dropped_items">
+    <text>古いドロップアイテムを消滅</text>
+  </string>
+  <string id="ui_mm_dynamic_relations">
+    <text>Dynamic Faction Relations</text>
+  </string>
+  <string id="ui_mm_character_name">
+    <text>キャラクターネーム</text>
+  </string>
+  <string id="ui_mm_pickup_mode">
+    <text>Multi-item pickup mode</text>
+  </string>
+  <string id="ui_mm_discord">
+    <text>Discord status</text>
+  </string>
+  <string id="ui_mm_hud_minimap">
+    <text>HUD：ミニマップ</text>
+  </string>
+  <string id="ui_mm_hud_autohide_bar">
+    <text>HUD:スタミナバーを自動で非表示</text>
+  </string>
+  <string id="ui_mm_trx_save_on_timer">
+    <text>ハードコアセーブ：タイマー</text>
+  </string>
+  <string id="ui_mm_trx_save_on_conditions">
+    <text>ハードコアセーブ：コンディション</text>
+  </string>
+  <string id="ui_mm_thirst_option">
+    <text>乾きのシミュレート</text>
+  </string>
+  <string id="ui_mm_multi_rewards_money">
+    <text>報酬の係数</text>
+  </string>
+  <string id="ui_mm_multi_rewards_goodwill">
+    <text>獲得信頼係数</text>
+  </string>
+  <string id="ui_mm_war_goodwill_reset">
+    <text>敵対する派閥の信頼度をリセット</text>
+  </string>
+  <string id="ui_mm_transitions_closed_disable">
+    <text>Open level passageways</text>
+  </string>
+  <string id="ui_mm_rank_loot_option">
+    <text>戦利品の状態をランクに依存させる</text>
+  </string>
+  <string id="ui_mm_lootmoney_option">
+    <text>死体からお金を獲る</text>
+  </string>
+  <string id="ui_mm_fast_travel_option">
+    <text>ファストトラベル</text>
+  </string>
+  <string id="ui_mm_robbery_at_sleep_option">
+    <text>睡眠中盗難に遭う</text>
+  </string>
+  <string id="ui_mm_fake_news_option">
+    <text>PDAネットワーク</text>
+  </string>
+  <string id="ui_mm_offline_combat">
+    <text>Offline Combat SImulation</text>
+  </string>
+  <string id="ui_mm_walk_toggle">
+    <text>トグルウォーク</text>
+  </string>
+  <string id="ui_mm_sprint_toggle">
+    <text>トグルスプリント</text>
+  </string>
+  <string id="ui_mm_lookout_toggle">
+    <text>トグルリーン</text>
+  </string>
+</string_table>

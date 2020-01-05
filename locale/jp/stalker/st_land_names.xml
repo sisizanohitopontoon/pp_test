@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="st_zat_b55_name">
+    <text>鉤爪 anomaly</text>
+  </string>
+  <string id="st_zat_b100_name">
+    <text>鉄の森 anomaly</text>
+  </string>
+  <string id="st_zat_b104_name">
+    <text>製材所</text>
+  </string>
+  <string id="st_zat_b38_name">
+    <text>Krug 複合アンテナ</text>
+  </string>
+  <string id="st_zat_b40_name">
+    <text>廃棄物処理ステーション</text>
+  </string>
+  <string id="st_zat_b56_name">
+    <text>サーカス anomaly</text>
+  </string>
+  <string id="st_zat_b5_name">
+    <text>レンジャーステーション</text>
+  </string>
+  <string id="st_zat_a2_name">
+    <text>Skadovsk</text>
+  </string>
+  <string id="st_zat_b20_name">
+    <text>焼けた農場</text>
+  </string>
+  <string id="st_zat_fire_name">
+    <text>火の海のはしけ anomaly</text>
+  </string>
+  <string id="st_zat_b53_name">
+    <text>蒸気釜anomaly</text>
+  </string>
+  <string id="st_zat_b101_name">
+    <text>沼地</text>
+  </string>
+  <string id="st_zat_waste_name">
+    <text>廃物 anomaly</text>
+  </string>
+  <string id="st_zat_b106_name">
+    <text>Izumrudnoye</text>
+  </string>
+  <string id="st_zat_b7_name">
+    <text>Shevchenko</text>
+  </string>
+  <string id="st_zat_b14_name">
+    <text>浚渫ステーション</text>
+  </string>
+  <string id="st_zat_tide_name">
+    <text>激流 anomaly</text>
+  </string>
+  <string id="st_zat_b52_name">
+    <text>ドッククレーン</text>
+  </string>
+  <string id="st_zat_b39_name">
+    <text>オークパイン anomaly</text>
+  </string>
+  <string id="st_zat_b33_name">
+    <text>給油所</text>
+  </string>
+  <string id="st_zat_b18_name">
+    <text>古いはしけ</text>
+  </string>
+  <string id="st_zat_b54_name">
+    <text>傷跡 anomaly</text>
+  </string>
+  <string id="st_zat_b12_name">
+    <text>Preobrazhensky 橋</text>
+  </string>
+  <string id="st_zat_b28_name">
+    <text>南台地</text>
+  </string>
+  <string id="st_zat_b103_name">
+    <text>変電所作業場</text>
+  </string>
+  <string id="st_jup_b1_name">
+    <text>燃え殻の山 anomaly</text>
+  </string>
+  <string id="st_jup_b46_name">
+    <text>冷却塔</text>
+  </string>
+  <string id="st_jup_b202_name">
+    <text>変電所</text>
+  </string>
+  <string id="st_jup_b211_name">
+    <text>Plavni anomaly</text>
+  </string>
+  <string id="st_jup_b200_name">
+    <text>セメント工場</text>
+  </string>
+  <string id="st_jup_b19_name">
+    <text>Kopachy</text>
+  </string>
+  <string id="st_jup_a6_name">
+    <text>Yanov</text>
+  </string>
+  <string id="st_jup_b25_name">
+    <text>採石場</text>
+  </string>
+  <string id="st_jup_earth_name">
+    <text>ひび割れた大地 anomaly</text>
+  </string>
+  <string id="st_jup_b6_name">
+    <text>科学者のバンカー</text>
+  </string>
+  <string id="st_jup_b205_name">
+    <text>Volkhov 対空 複合施設</text>
+  </string>
+  <string id="st_jup_b206_name">
+    <text>異常な果樹園</text>
+  </string>
+  <string id="st_jup_grove_name">
+    <text>腐った果樹園 anomaly</text>
+  </string>
+  <string id="st_jup_b32_name">
+    <text>駐車場</text>
+  </string>
+  <string id="st_jup_a10_name">
+    <text>検問所</text>
+  </string>
+  <string id="st_jup_b209_name">
+    <text>歴青anomaly</text>
+  </string>
+  <string id="st_jup_b208_name">
+    <text>東部トンネル</text>
+  </string>
+  <string id="st_jup_a12_name">
+    <text>コンテナ倉庫</text>
+  </string>
+  <string id="st_jup_b212_name">
+    <text>換気複合施設</text>
+  </string>
+  <string id="st_jup_b9_name">
+    <text>ヘリポート</text>
+  </string>
+  <string id="st_jup_b201_name">
+    <text>コンクリート風呂 anomaly</text>
+  </string>
+  <string id="st_jup_a9_name">
+    <text>Jupiter製造工場</text>
+  </string>
+  <string id="st_pri_a28_name">
+    <text>プロメテウス映画館</text>
+  </string>
+  <string id="st_pri_b36_name">
+    <text>河港</text>
+  </string>
+  <string id="st_pri_b303_name">
+    <text>旧サービスセンター</text>
+  </string>
+  <string id="st_pri_b301_name">
+    <text>学校</text>
+  </string>
+  <string id="st_pri_a17_name">
+    <text>病院</text>
+  </string>
+  <string id="st_pri_b306_name">
+    <text>Yubileinyサービスセンター</text>
+  </string>
+  <string id="st_pri_plug_name">
+    <text>スパークプラグ anomaly</text>
+  </string>
+  <string id="st_pri_a16_name">
+    <text>コインランドリー</text>
+  </string>
+  <string id="st_pri_a25_name">
+    <text>幼稚園</text>
+  </string>
+  <string id="st_pri_b35_name">
+    <text>アパート団地</text>
+  </string>
+  <string id="st_pri_a21_name">
+    <text>食料品店</text>
+  </string>
+  <string id="st_pri_b304_name">
+    <text>デパート</text>
+  </string>
+  <string id="st_pri_bath_name">
+    <text>酸の風呂 anomaly</text>
+  </string>
+  <string id="st_pri_a18_name">
+    <text>書店</text>
+  </string>
+  <string id="st_pri_b302_name">
+    <text>ツタ植物 anomaly</text>
+  </string>
+  <string id="st_pri_b307_name">
+    <text>火山 anomaly</text>
+  </string>
+  <string id="st_mar_2c_01_anomaly_spot_name">
+    <text>教会墓地 anomaly</text>
+  </string>
+  <string id="st_mar_2c_02_anomaly_spot_name">
+    <text>探検家の運命 anomaly</text>
+  </string>
+  <string id="st_ds_2c_01_anomaly_spot_name">
+    <text>岩石罠 anomaly</text>
+  </string>
+  <string id="st_ds_2c_02_anomaly_spot_name">
+    <text>輝ける道 anomaly</text>
+  </string>
+  <string id="st_ds_2c_03_anomaly_spot_name">
+    <text>ハゲ山 anomaly</text>
+  </string>
+  <string id="st_ds_2c_04_anomaly_spot_name">
+    <text>ドラムスティック anomaly</text>
+  </string>
+  <string id="st_trc_2c_01_rift_anom_spot_name">
+    <text>バスのわだちanomaly</text>
+  </string>
+  <string id="st_trc_2c_02_chem_anom_spot_name">
+    <text>イバラの風呂 anomaly</text>
+  </string>
+  <string id="st_trc_2c_03_desolation_anom_spot_name">
+    <text>木炭の忍耐 anomaly</text>
+  </string>
+  <string id="st_esc_2c_01_high_hopes_anomaly_spot_name">
+    <text>高望み anomaly</text>
+  </string>
+  <string id="st_gar_2c_01_nwi_anomaly_spot_name">
+    <text>押し引き anomaly</text>
+  </string>
+  <string id="st_gar_2c_02_toaster_anomaly_spot_name">
+    <text>ギリシャの火 anomaly</text>
+  </string>
+  <string id="st_agr_2c_01_hg_anomaly_spot_name">
+    <text>重い草 anomaly</text>
+  </string>
+  <string id="st_labx18_2c_01_deep_burn_anomaly_spot_name">
+    <text>深層火傷 anomaly</text>
+  </string>
+  <string id="st_labx18_2c_02_ff_anomaly_spot_name">
+    <text>炎の噴水 anomaly</text>
+  </string>
+  <string id="st_labx18_2c_03_elders_anomaly_spot_name">
+    <text>蛆の餌 anomaly</text>
+  </string>
+  <string id="st_labx18_2c_04_bioh_anomaly_spot_name">
+    <text>バイオハザード anomaly</text>
+  </string>
+  <string id="st_bar_2c_01_grant_anomaly_spot_name">
+    <text>人狩り罠 anomaly</text>
+  </string>
+  <string id="st_ros_2c_01_tunnel_anomaly_spot_name">
+    <text>閃光の手詰まり anomaly</text>
+  </string>
+  <string id="st_ros_2c_02_crispy_train_anomaly_spot_name">
+    <text>サクサク列車 anomaly</text>
+  </string>
+  <string id="st_ros_2c_03_yc_anomaly_spot_name">
+    <text>火葬場 anomaly</text>
+  </string>
+  <string id="st_mil_2c_01_hw_anomaly_spot_name">
+    <text>地獄の壁 anomaly</text>
+  </string>
+  <string id="st_yan_2c_01_cd_anomaly_spot_name">
+    <text>コンクリート捨場 anomaly</text>
+  </string>
+  <string id="st_x16_lab_2c_01_fb_anomy_spot_name">
+    <text>足湯 anomaly</text>
+  </string>
+  <string id="st_cit_2c_01_ch_anomaly_spot_name">
+    <text>庭園散水機 anomaly</text>
+  </string>
+  <string id="st_cit_2c_02_pg_anomaly_spot_name">
+    <text>実験場 anomaly</text>
+  </string>
+  <string id="st_lim_2c_01_ls_anomaly_spot_name">
+    <text>最後の一歩 anomaly</text>
+  </string>
+  <string id="st_lim_2c_02_ib_anomaly_spot_name">
+    <text>ブラーティ anomaly</text>
+  </string>
+  <string id="st_rad_2c_01_bl_anomaly_spot_name">
+    <text>徘徊する亡霊 anomaly</text>
+  </string>
+  <string id="st_rad_2c_02_pp_anomaly_spot_name">
+    <text>苦痛の淀み anomaly</text>
+  </string>
+  <string id="st_bun_2c_01_f_anomaly_spot_name">
+    <text>溶鉱炉 anomaly</text>
+  </string>
+  <string id="st_bun_2c_02_gp_anomaly_spot_name">
+    <text>重力パイプ anomaly</text>
+  </string>
+  <string id="st_pri_2c_01_pp_anomaly_spot_name">
+    <text>根腐れ anomaly</text>
+  </string>
+  <string id="st_pri_2c_02_gt_anomaly_spot_name">
+    <text>バリケード anomaly</text>
+  </string>
+  <string id="st_pri_2c_03_wr_anomaly_spot_name">
+    <text>衝突型加速器anomaly</text>
+  </string>
+  <string id="st_pri_2c_04_o_anomaly_spot_name">
+    <text>オリンピック anomaly</text>
+  </string>
+  <string id="st_aes_2c_01_ce_anomaly_spot_name">
+    <text>門番 anomaly</text>
+  </string>
+  <string id="st_aes_2c_02_p_anomaly_spot_name">
+    <text>パイロン anomaly</text>
+  </string>
+  <string id="st_aes2_2c_01_bo_anomaly_spot_name">
+    <text>手回しオルガン anomaly</text>
+  </string>
+  <string id="st_aes2_2c_02_at_anomaly_spot_name">
+    <text>酸性トロッコ anomaly</text>
+  </string>
+  <string id="st_sar_2c_01_r_anomaly_spot_name">
+    <text>原子炉anomaly</text>
+  </string>
+  <string id="st_gen_2c_01_ss_anomaly_spot_name">
+    <text>魂の階段 anomaly</text>
+  </string>
+  <string id="st_mar_smart_terrain_11_3_anomaly_spot_name">
+    <text>欠陥 anomaly</text>
+  </string>
+  <string id="st_mar_smart_terrain_12_2_anomaly_spot_name">
+    <text>テラボルト anomaly</text>
+  </string>
+  <string id="st_mar_smart_terrain_10_10_anomaly_spot_name">
+    <text>雷鳴 anomaly</text>
+  </string>
+  <string id="st_mar_smart_terrain_base_anomaly_spot_name">
+    <text>沼地叩き anomaly</text>
+  </string>
+  <string id="st_mar_smart_terrain_8_8_anomaly_spot_name">
+    <text>フェルミ anomaly</text>
+  </string>
+  <string id="st_mar_smart_terrain_3_7_anomaly_spot_name">
+    <text>騒々しい足音 anomaly</text>
+  </string>
+  <string id="st_mar_smart_terrain_3_3_anomaly_spot_name">
+    <text>Lungrot anomaly</text>
+  </string>
+  <string id="st_esc_smart_terrain_1_11_anomaly_spot_name">
+    <text>ゴミ圧縮機 anomaly</text>
+  </string>
+  <string id="st_esc_smart_terrain_8_9_anomaly_spot_name">
+    <text>岩石粉砕機 anomaly</text>
+  </string>
+  <string id="st_esc_smart_terrain_5_4_anomaly_spot_name">
+    <text> ルーキーイーターanomaly</text>
+  </string>
+  <string id="st_gar_smart_terrain_3_7_anomaly_spot_name">
+    <text>熱い雌鹿 anomaly</text>
+  </string>
+  <string id="st_gar_smart_terrain_3_7_anomaly_spot_2_name">
+    <text>溶融した自動車anomaly</text>
+  </string>
+  <string id="st_gar_smart_terrain_2_4_anomaly_spot_name">
+    <text>シナプスanomaly</text>
+  </string>
+  <string id="st_gar_smart_terrain_6_7_anomaly_spot_name">
+    <text>殴打 anomaly</text>
+  </string>
+  <string id="st_gar_smart_terrain_5_6_anomaly_spot_name">
+    <text>魔女のゼリーanomaly</text>
+  </string>
+  <string id="st_gar_smart_terrain_1_7_anomaly_spot_name">
+    <text>刑務所 anomaly</text>
+  </string>
+  <string id="st_agr_smart_terrain_1_3_anomaly_spot_name">
+    <text>どん底の鉤爪 anomaly</text>
+  </string>
+  <string id="st_agr_smart_terrain_4_4_near_3_anomaly_spot_name">
+    <text>神経衰弱 anomaly</text>
+  </string>
+  <string id="st_agr_smart_terrain_5_7_anomaly_spot_name">
+    <text>奇襲隊 anomaly</text>
+  </string>
+  <string id="st_agr_smart_terrain_5_2_anomaly_spot_name">
+    <text>犬の肉砕き器 anomaly</text>
+  </string>
+  <string id="st_agr_smart_terrain_1_2_anomaly_spot_name">
+    <text>毒沼地 anomaly</text>
+  </string>
+  <string id="st_val_smart_terrain_9_10_anomaly_spot_name">
+    <text>白熱する穴 anomaly</text>
+  </string>
+  <string id="st_val_smart_terrain_6_4_anomaly_spot_name">
+    <text>狂暴 anomaly</text>
+  </string>
+  <string id="st_val_smart_terrain_8_6_anomaly_spot_name">
+    <text>害虫駆除 anomaly</text>
+  </string>
+  <string id="st_val_smart_terrain_9_4_anomaly_spot_name">
+    <text>泡風呂 anomaly</text>
+  </string>
+  <string id="st_val_smart_terrain_8_9_anomaly_spot_name">
+    <text>不具者 anomaly</text>
+  </string>
+  <string id="st_mil_smart_terrain_4_7_anomaly_spot_name">
+    <text>死体処理機 anomaly</text>
+  </string>
+  <string id="st_mil_smart_terrain_2_1_anomaly_spot_name">
+    <text>ショック療法 anomaly</text>
+  </string>
+  <string id="st_mil_smart_terrain_2_6_anomaly_spot_name">
+    <text>ニュートンanomaly</text>
+  </string>
+  <string id="st_mil_smart_terrain_7_4_anomaly_spot_name">
+    <text>潰し器 anomaly</text>
+  </string>
+  <string id="st_mil_smart_terrain_8_3_anomaly_spot_name">
+    <text>褐炭色の喪服 anomaly</text>
+  </string>
+  <string id="st_yan_smart_terrain_2_5_anomaly_spot_name">
+    <text>テスラ anomaly</text>
+  </string>
+  <string id="st_yan_smart_terrain_zombi_spawn_anomaly_spot_name">
+    <text>エジソン anomaly</text>
+  </string>
+  <string id="st_yan_smart_terrain_5_3_anomaly_spot_name">
+    <text>黒い水 anomaly</text>
+  </string>
+  <string id="st_yan_smart_terrain_4_2_anomaly_spot_name">
+    <text>大かがり火anomaly</text>
+  </string>
+  <string id="st_red_smart_terrain_6_3_anomaly_spot_name">
+    <text>共生体anomaly</text>
+  </string>
+  <string id="st_red_smart_terrain_4_5_anomaly_spot_name">
+    <text>超伝導体anomaly</text>
+  </string>
+  <string id="st_red_smart_terrain_monsters_anomaly_spot_name">
+    <text>ブランコanomaly</text>
+  </string>
+  <string id="st_red_smart_terrain_3_2_anomaly_spot_name">
+    <text>死んだカナリアの anomaly</text>
+  </string>
+  <string id="st_red_smart_terrain_6_6_anomaly_spot_name">
+    <text>回転木馬 anomaly</text>
+  </string>
+  <string id="st_red_smart_terrain_3_1_anomaly_spot_name">
+    <text>Slutsky's の休憩所anomaly</text>
+  </string>
+  <string id="st_gen_smart_terrain_urod_anomaly_spot_name">
+    <text>ひき肉製造機 anomaly</text>
+  </string>
+  <string id="st_trc_sim_13_anomal_zone_spot_name">
+    <text>熱狂者の迷宮 anomaly</text>
+  </string>
+  <string id="st_pol_smart_terrain_1_1_anomaly_spot_name">
+    <text>肉挽き機 anomaly</text>
+  </string>
+  <string id="st_pol_smart_terrain_1_2_anomaly_spot_name">
+    <text>Volt anomaly</text>
+  </string>
+</string_table>

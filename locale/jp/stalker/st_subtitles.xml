@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="zat_a1_cutscene_phrase_1">
+    <text>１９８６年４月２６日の朝、CNPP (チェルノブイリ原子力発電所)の４号炉が強力な熱爆発によって破壊された。その結果、風に運ばれた死の灰がソビエト連邦を襲い、ヨーロッパのいたる所に汚染地域を撒き散らし、アメリカにまで達した。 </text>
+  </string>
+  <string id="zat_a1_cutscene_phrase_2">
+    <text>災害の影響は非常に深刻であり、連邦政府は近隣住民の緊急避難を余儀なくされるほどであった。</text>
+  </string>
+  <string id="zat_a1_cutscene_phrase_3">
+    <text>発電所から半径30km以内の汚染された地域は封鎖され、厳重な警備のもと強制立ち退き区域に指定された。</text>
+  </string>
+  <string id="zat_a1_cutscene_phrase_4">
+    <text>破壊された炉心を覆う鉄筋コンクリートの石棺の建設に続き、CNPP (チェルノブイリ原子力発電所)の運転が再開。大規模な電源の存在ともはやこの地域に住人が居ないという事実は、秘密研究所群の創設へと繋がった。</text>
+  </string>
+  <string id="zat_a1_cutscene_phrase_5">
+    <text>２００６年６月１０日。Zone は目がくらむ様な閃光に満たされた。閃光の放射に続き一瞬の静寂が訪れ、空の雲が蒸発していった。爆音が轟くと共に大地が震え、警備についていたの兵士の殆どは即座に死に絶えた。 </text>
+  </string>
+  <string id="zat_a1_cutscene_phrase_6">
+    <text>２００７年。科学者達はまだ何が起こったのか説明出来なかった。極まれに行われた Zone への遠征はいつも、僅かな生存者が驚異的能力を持ったミュータントアニマルの話を語る悲劇に終わった。 </text>
+  </string>
+  <string id="zat_a1_cutscene_phrase_7">
+    <text> ２００９年。様々な推計によると、Zone には１００から３００人の身元不明者が居住している。この人間達は自らを "Stalker" と呼び、高額で取引される"アーティファクト"として知られる異常形成物を収集して生計を立てている。 </text>
+  </string>
+  <string id="zat_a1_cutscene_phrase_8">
+    <text>２０１０年。軍による非常線が敷かれているにもかかわらず、Stalker達の数は増え続けていた。しかし、探索されたのは Zone外縁部のみであり、それ以上奥へ進もうとする試みは全て失敗に終わっていた。 </text>
+  </string>
+  <string id="zat_a1_cutscene_phrase_9">
+    <text>２０１２年。Strelok と呼ばれる Stalker が "Brain Scorcher" - 人間の精神を破壊することができる強力な放射装置 - の秘密を解き明かし、それを停止させる。その結果、大勢の Stalker が Zone の中心部へと群がった。ある者は貴重なアーティファクトを求め、またある者は伝説の "願いを叶えるモノ" を探して。 </text>
+  </string>
+  <string id="zat_a1_cutscene_phrase_10">
+    <text>この情勢の変化に対し、ウクライナ国家安全保障・国防会議は、特殊作戦 "Fairway" の即時実行を決定した。航空写真を用いたアノマリー分布図を元に、兵を乗せた数十機もの軍のヘリコプターが CNPP (チェルノブイリ原子力発電所)に向かった。しかし、綿密な準備にも関わらず作戦は失敗。一機のヘリも帰還しないまま幕を閉じる事となった。 </text>
+  </string>
+  <string id="zat_a1_cutscene_phrase_11">
+    <text>作戦失敗の原因を解明するため、 USS (ウクライナ保安庁)の特殊工作員であり、また経験豊富な元 Stalker でもある Degtyarev 少佐が Zone に派遣される。 </text>
+  </string>
+  <string id="zat_a1_cutscene_phrase_12">
+    <text>アサルトライフルと２週間分の補給物資、司令部との通信用の無線機を持ち、彼は Zone の中心へ向かう行程を開始した。</text>
+  </string>
+  <string id="zat_a1_cutscene_phrase_13">
+    <text>Stalker 達への聞き込みは無駄骨に終わった。彼らは本当に何も知らないか、何も話そうとしないかのいずれかだった。</text>
+  </string>
+  <string id="zat_a1_cutscene_phrase_14">
+    <text> Zone はことあるごとに少佐にここがリゾート地ではない事を思い出させる。ミュータントに襲われない日はなく、酷い時には人間に攻撃される。 
+</text>
+  </string>
+  <string id="zat_a1_cutscene_phrase_15">
+    <text>司令部との通信は役に立たない。CNPP (チェルノブイリ原子力発電所)から半径数キロの範囲に入ると、無線機が使えなくなるからだ。唯一役に立つ情報と言えば、墜落した５機のヘリの座標ぐらいだ。 </text>
+  </string>
+  <string id="zat_a1_cutscene_phrase_16">
+    <text>Degtyarev は一人だ。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_1">
+    <text>彼の調査が首尾よく完了した事を受け、Degtyarev は功績を称えられ早々に大佐へと昇進した。彼はオフィスでの書類仕事を辞退する代わりに、保安庁の常任監視官として Zone へ赴くことを希望した。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_2">
+    <text>Degtyarev が持ち帰った Psy-device の情報は上層部を警戒させ、X-指定研究所に関する全ての情報は記録から抹消、最高機密となる。Zone で活動する USS 要員には、あらゆる手段を用いて研究所に関する情報の流出を防止する様、命令が下された。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_3">
+    <text>#６２の技術資料に書かれていた原理を基に、いくつかの試作品が作られた。評価試験の結果、高価な弾薬がネックとなり、大規模な配備は見送られる事となる。にも関わらず、Gauss rifle の更なる地下開発が続いているという証言がある。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_4_a">
+    <text>Sultan とその手下は船の占領に失敗した後、Skadovsk を去った。それにより Stalker 達に平和がもたらされ、Beard の元に売られるアーティファクトの数は膨大なものになり、彼の商売を繁盛させ、Skadovsk は有名な 100 Rads Bar に並ぶ程の人気になった。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_4_b">
+    <text> Skadovsk に於ける Sultan の地位は強固なものとなり、船は Bandit の拠点となった。見かじめ料を払いたくない Beard は Stalker の一団と共に引き払い、Zone の未開の地へ開拓に向かった。Stalker による船の支配権を奪還する試みは、服従しなかった何人かが見せしめに Emission で死ぬよう船から放り出された後、直ぐに終わった。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_4_c">
+    <text> Skadovsk は、幸運にも辿り着いた全ての者達の家として残っていた。Bandit は船に彼らの言う"秩序"を確立しようとしたが、Stalker がそれを食い止めた。船にはつかの間の平和がもたらされた。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_5_a">
+    <text> 不幸な事にその状況は長く持たなかった。Skadovsk の近くに巣くっていた Bloodsucker が、船へ侵攻してきたのである。白昼ですら堂々と Bloodsucker の襲撃が発生するようになった頃、この問題を打開する作戦が決行された。この巣穴の掃討作戦は残念ながら失敗し、直後に押し寄せた Bloodsucker の大群により、船の居住者達はあの世へ送られることとなった。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_5_b">
+    <text> Bloodsucker の巣穴が壊滅したことで、ミュータントは Skadovsk に対して大きな影響を及ぼさなくなった。しばらくの間この古ぼけた船は、絶え間無く変わる世界Zone において比較的安全な中心地となった。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_6_a">
+    <text> Freedoｍ は何とか Yanov 駅の Stalker 達の信頼を得た。Duty は失地回復を狙い急襲を計画したが Shulga 中佐は続く銃撃戦で殺された。Duty の分隊は司令官を失った後、即座に崩壊した。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_6_b">
+    <text> 新兵を得て、Stalker の間でのうなぎ登りの人気になった Duty は Freedom を Yanov 駅から追い立てる事が出来た。Loki と彼の Freedom の部隊は過酷な戦闘の末に殺された。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_6_c">
+    <text> Yanov 駅の Freedoｍ と Duty の関係は危うい均衡に達した。無意味な戦闘に嫌気が差した両派閥の戦士達からは、脱隊して中立の Stalker になる者が現れはじめた。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_7_a">
+    <text> Herman 教授と Ozersky 教授によって編成された科学遠征調査は成功を収めた。彼らが集めたデータは、新薬や新技術の開発を促進した。この功績により、Zone の研究計画資金は急激に膨れ上がった。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_7_b">
+    <text> Herman 教授と Ozersky 教授によって編成された科学遠征調査は、十分なデータを集められないまま撤収した。外の世界に戻った２人の科学者は、関係のない仕事に従事しようとしていた。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_8_a">
+    <text> Pripyat での Military の危険な戦いについての Garry の話は多くの人間の興味を引き、程無くして様々なグループがゴーストタウンへと旅立った。Monolith による一定の攻撃に晒されていたにも関わらず、Stalker 達は元 Military の拠点を探し出し、町の奥へと進入する為の拠点として着実に利用されている。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_8_b">
+    <text> Military の最期について語った Garry の話を恐れた Stalker 達は、Pripyat から去っていった。敢えて賭けに出て Pripyat 市に入り、不可思議で恐ろしい現象に飛び込む者は殆ど居らず、それは唯でさえ陰うつなゴーストタウンの光景に更に暗い一撃を加えた。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_9">
+    <text> Oasis はもはや伝説のものではなかった。この秘密のアノマリーへの道を何とか見つけた人物の正体については、ますます Stalker 達の話題に上るようになった。それに習おうとする冒険者の数は依然多いままだった - Bandit はそれを利用し続けている。Oasis に案内するという Bandit の口車に初心者はだまされ、大抵、他の Stalker から離れた場所で身包みを剥がされてしまう。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_10">
+    <text> Mercenary の分隊は Zone で活動を続けている。彼らの秘密研究所への関心は増大し、USS の注意を引き付けた。にも関わらず、Mercenary の"顧客"の正体を特定する試みは失敗に終わった。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_11_a">
+    <text> Yanov 駅周辺には多くの Stalker 達が来続けている。ミュータントからの脅威の低さと豊富なアノマリーは"宝の山"と Stalker に呼ばれ、更に多くの人間を引き寄せている。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_11_b">
+    <text> Yanov 駅周辺は Zone で最も危険な場所の一つとして評判になった。極々僅かな Stalker が襲撃から戻り、多くの死者が拠点の目と鼻の先でミュータントの手にかかった。行方不明者の一人の Zveroboi は Chimera を追いかけようと出かけ、それが彼の最後の狩りとなった。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_12_a">
+    <text> Zulu は Rostok 工業地帯の Duty 本部に舞い戻った。彼が Duty の指導者 Voronin 元帥と一体何を話したのか誰も知らない。しかし数日後、彼は大規模な部隊を編成すると Zone の中心部へと旅立った。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_12_b">
+    <text> Zulu の最期についての噂は、Duty のリーダー Voronin 元帥の耳に届いた。誰もが大いに驚き、Voronin は Zulu に、Duty で最も誉れ高い銀盾章を死亡叙勲することに決めた。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_13_a">
+    <text> Vano は Freedom 支配下の Military Warehouses へと向かい、彼の愉快な性格と楽天主義から程無くして人気者となった。結局、彼はアノマリー地帯を調査する研究者の小さいグループに所属した。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_13_b">
+    <text> Yanov の Stalker は、親切で天性の Stalker である愉快な Vano に時折思いを馳せる。彼が幸運であったことは誰もがうなずく、Vano の大きな間違いは Pripyat への道を探す事を決めた事であった。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_14_a">
+    <text> Zone に一つの新しい Stalker のグループが現れた。彼らは非常に訓練されているが、その目的は知られていない。風説によれば、彼らは Strider として知られている男に指揮されていた分隊の Monolith 兵だったらしい。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_14_b">
+    <text> Monolith の虜になった人々に何が起こったのかを理解し、彼らを助けている唯一の関係者、Strider の失そうに気付いた者は殆ど居なかった。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_15_a">
+    <text> Sokolov 上級中尉は Zone 上空を飛行し続け、Limansk 上空で Mercenary らによって撃墜された。二週間後、彼は Cordon 近くの警備兵に救助された。彼の生還は小さな奇跡だった。Sokolov はその後すぐに空軍を去り、民間の航空会社に就職した。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_15_b">
+    <text> Fairway 作戦の過程で被った犠牲者のリストにもう一つの名前が加えられた。"O.N. Sokolov 上級中尉　殉職" </text>
+  </string>
+  <string id="pri_a28_outro_phrase_16">
+    <text> Owl は Zone の外の客と有益なコネクションを確立した。彼は情報を売買しているが、もし噂が本当であるなら、彼の得意先のうちの一つは USS である。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_17">
+    <text> ある Stalker のグループが特に強力な Emission の際、Noah の古いはしけにやむを得ず保護を求めた。そのはしけは程無く Snork の集団に襲撃されたが、Stalker 達はそのはしけが小さいながら侮りがたい砦である事を直ちに理解した。更に驚かせたのは、Noah に率いられた Pseudodog の子犬の群れが Snork らに戦いを挑んでいた事だ。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_18_a">
+    <text> Cardan は彼の友の死に直面し、Stalker として生涯を過ごす夢を諦めた。アルコール中毒を克服すると Yanov に赴き Nitro と組んで、修理サービス店を開いた。２人の技術者は Zone の苛酷な環境に耐えうる乗り物を作る事に喜んで全ての空き時間を費やしている。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_18_b">
+    <text> Cardan はアルコール中毒を克服すると、Skadovsk を去った。Stalker 達が言うには彼は行方不明の友を探しに行ったそうだ。数日後、彼は傷付き放射能の毒に苦しみながら戻ってきた。傷が癒えると、彼は Zone から永遠に去っていった。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_19_a">
+    <text> Strelok は USS の司令部に CNPP で彼が手に入れた情報を伝えた。これは政府に Chernobyl のアノマリー地帯に於ける科学研究機関を創設させるに至った。Strelok は機関で学術顧問の顧問長に就任した。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_19_b">
+    <text> Strelok の知識は彼の死と共に失われた。Zone の謎を解いたかもしれない、CNPP で彼が見つけた情報は決して外部には届かなかった。Zone は秘密を守る術を知っているかの様だ。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_20_a">
+    <text> Zone から帰還した Stingray の部隊司令官である Kovalosky 大佐は、Fairway 作戦の失敗の理由を司令官に報告した。長期の調査に基付き、高級将校による彼へ責任を負わせる企みは失敗し、最終的に大佐は名誉除隊となった。 </text>
+  </string>
+  <string id="pri_a28_outro_phrase_20_b">
+    <text> Stingray 部隊の総司令官である Kovalosky 大佐の眠る場所は、彼の部下達からそう遠くは無かった。彼らの遺体は Zone の一部となり、ただ軍事博物館の古く色あせた写真だけが彼らの犠牲をこの国に偲ばせる物として残された。 </text>
+  </string>
+</string_table>

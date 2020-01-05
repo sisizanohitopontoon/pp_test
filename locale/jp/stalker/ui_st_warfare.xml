@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="st_wrfr_opt_presets">
+    <text>プリセット</text>
+  </string>
+  <string id="st_wrfr_opt_apply_to_all">
+    <text>すべてに適用</text>
+  </string>
+  <string id="st_wrfr_opt_general">
+    <text>全般</text>
+  </string>
+  <string id="st_wrfr_opt_azazel_respawn">
+    <text>Azazel Respawn</text>
+  </string>
+  <string id="st_wrfr_opt_rand_settings">
+    <text>設定をランダムにする</text>
+  </string>
+  <string id="st_wrfr_influnence_points">
+    <text>影響力ポイント</text>
+  </string>
+  <string id="st_wrfr_release_control_faction">
+    <text>Release control of faction</text>
+  </string>
+  <string id="st_wrfr_take_control_faction">
+    <text>Take control of faction</text>
+  </string>
+  <string id="st_wrfr_show_points">
+    <text>ポイントを表示/スマート地形</text>
+  </string>
+  <string id="st_wrfr_hide_points">
+    <text>ポイントを隠す/スマート地形</text>
+  </string>
+  <string id="st_wrfr_display_faction_info">
+    <text>派閥の情報を表示する</text>
+  </string>
+  <string id="st_wrfr_unselect_squad">
+    <text>分隊の選択を取り消し</text>
+  </string>
+  <string id="st_wrfr_select_squad">
+    <text>分隊を選択</text>
+  </string>
+  <string id="st_wrfr_unselect_point">
+    <text>ポイントの選択を取り消し</text>
+  </string>
+  <string id="st_wrfr_select_point">
+    <text>ポイントを選択</text>
+  </string>
+  <string id="st_wrfr_select_obj">
+    <text>選択されたオブジェクト</text>
+  </string>
+  <string id="st_wrfr_add_influ">
+    <text>影響力を追加</text>
+  </string>
+  <string id="st_wrfr_remove_influ">
+    <text>影響力を削除</text>
+  </string>
+  <string id="st_wrfr_cap_point">
+    <text>キャプチャポイント</text>
+  </string>
+  <string id="st_wrfr_buy_novice_squad">
+    <text>新米チームを購入する</text>
+  </string>
+  <string id="st_wrfr_buy_adv_squad">
+    <text>上者者チームを購入する</text>
+  </string>
+  <string id="st_wrfr_buy_veteran_squad">
+    <text>ベテランチームを購入する</text>
+  </string>
+  <string id="st_wrfr_buy_heli">
+    <text>ヘリコプターを購入する</text>
+  </string>
+  <string id="st_wrfr_declare_war">
+    <text>宣戦布告</text>
+  </string>
+  <string id="st_wrfr_possess_leader">
+    <text>所持中の分隊長</text>
+  </string>
+  <string id="st_wrfr_follow">
+    <text>フォロー</text>
+  </string>
+  <string id="st_wrfr_attack">
+    <text>攻撃
+</text>
+  </string>
+  <string id="st_wrfr_target">
+    <text>ターゲット</text>
+  </string>
+  <string id="st_wrfr_move_here">
+    <text>ここに移動</text>
+  </string>
+  <string id="st_wrfr_send_squad">
+    <text>分隊を送る</text>
+  </string>
+  <string id="st_wrfr_send_all_squad">
+    <text>すべての分隊を送る</text>
+  </string>
+  <string id="st_wrfr_take_squad">
+    <text>部隊を連れて行く</text>
+  </string>
+  <string id="st_wrfr_take_all_squads">
+    <text>すべての部隊を連れて行く</text>
+  </string>
+  <string id="st_wrfr_attack_with_all">
+    <text>全員で攻撃</text>
+  </string>
+  <string id="st_wrfr_send_heli_to_point">
+    <text>ヘリコプターをポイントに送る</text>
+  </string>
+  <string id="st_wrfr_send_heli_to_squad">
+    <text>ヘリコプターを部隊に送る</text>
+  </string>
+  <string id="st_wrfr_remove_heli">
+    <text>ヘリコプターの削除</text>
+  </string>
+  <string id="st_wrfr_heli_route">
+    <text>飛行中のヘリコプター</text>
+  </string>
+  <string id="st_wrfr_order_1">
+    <text>%sを%sに送信中</text>
+  </string>
+  <string id="st_wrfr_order_2">
+    <text>%sを攻撃%sに送信しています</text>
+  </string>
+  <string id="st_wrfr_order_3">
+    <text>%sは現在%sをフォローしています</text>
+  </string>
+  <string id="st_wrfr_order_4">
+    <text>%sの部隊の中から1つの防衛分隊を送り、プレイヤーを追跡します。</text>
+  </string>
+  <string id="st_wrfr_order_5">
+    <text>%sの部隊からすべての防衛部隊を送り、プレイヤーを追跡します。</text>
+  </string>
+  <string id="st_wrfr_order_6">
+    <text>%sの部隊の中から1つの防衛部隊を送信して、%sの部隊を攻撃します。</text>
+  </string>
+  <string id="st_wrfr_order_7">
+    <text>%sの部隊からすべての防衛部隊を送信して、%sの部隊を攻撃します。</text>
+  </string>
+  <string id="st_wrfr_order_8">
+    <text>%sの部隊の中から1つの防衛部隊を送り、%sの部隊を追跡します。</text>
+  </string>
+  <string id="st_wrfr_order_9">
+    <text>%sの部隊からすべての防衛部隊を%sの部隊に送信します。</text>
+  </string>
+  <string id="st_wrfr_order_10">
+    <text>%sを%sのターゲットに追加しています</text>
+  </string>
+  <string id="st_wrfr_order_11">
+    <text>%sを攻撃するために%sから1つのチームを送信します。</text>
+  </string>
+  <string id="st_wrfr_order_12">
+    <text>%sを攻撃するために%sからすべてのチームを送信します。</text>
+  </string>
+  <string id="st_wrfr_order_13">
+    <text>Moving one squad from %s to attack %s.</text>
+  </string>
+  <string id="st_wrfr_order_14">
+    <text>Moving all squads from %s to attack %s.</text>
+  </string>
+  <string id="st_wrfr_order_15">
+    <text>Sending one squad from %s to %s.</text>
+  </string>
+  <string id="st_wrfr_order_16">
+    <text>Sending all squads from %s to %s.</text>
+  </string>
+  <string id="st_wrfr_order_17">
+    <text>ヘリコプターを%sに送信しています。</text>
+  </string>
+  <string id="st_wrfr_heli_removed">
+    <text>ヘリコプターの削除</text>
+  </string>
+  <string id="st_wrfr_heli_already_spawned">
+    <text>Helicopter already spawned on level!</text>
+  </string>
+  <string id="st_wrfr_smrt_auto_capture">
+    <text>%sの自動キャプチャ!</text>
+  </string>
+  <string id="st_wrfr_prop_base">
+    <text>基地</text>
+  </string>
+  <string id="st_wrfr_prop_resource">
+    <text>リソース</text>
+  </string>
+  <string id="st_wrfr_prop_territory">
+    <text>Territory</text>
+  </string>
+  <string id="st_wrfr_prop_lair">
+    <text>隠れ家</text>
+  </string>
+  <string id="st_wrfr_prop_faction">
+    <text>派閥</text>
+  </string>
+  <string id="st_wrfr_prop_curr_popu">
+    <text>現在の人口</text>
+  </string>
+  <string id="st_wrfr_prop_max_popu">
+    <text>最大人口</text>
+  </string>
+  <string id="st_wrfr_prop_resource_count">
+    <text>リソース数</text>
+  </string>
+  <string id="st_wrfr_prop_time_capture">
+    <text>キャプチャされるまでの時間</text>
+  </string>
+  <string id="st_wrfr_prop_next_defense">
+    <text>次の防衛</text>
+  </string>
+  <string id="st_wrfr_prop_next_patrol">
+    <text>次のパトロール</text>
+  </string>
+  <string id="st_wrfr_prop_time_culc_hr">
+    <text>%sh + %smin</text>
+  </string>
+  <string id="st_wrfr_prop_time_culc_min">
+    <text>%smin</text>
+  </string>
+  <string id="st_wrfr_prop_target">
+    <text>ターゲット</text>
+  </string>
+  <string id="st_wrfr_prop_invasion_size">
+    <text>Invasion Size</text>
+  </string>
+  <string id="st_wrfr_prop_targets">
+    <text>--Targets--</text>
+  </string>
+  <string id="st_wrfr_prop_invasion">
+    <text>--Invasion--</text>
+  </string>
+  <string id="st_wrfr_smart_count_warning">
+    <text>スマート（%s）には%s部隊がいます！</text>
+  </string>
+  <string id="st_wrfr_heli">
+    <text>ヘリコプター</text>
+  </string>
+  <string id="st_wrfr_you">
+    <text>あなた</text>
+  </string>
+  <string id="st_wrfr_mutant">
+    <text>mutant</text>
+  </string>
+  <string id="st_wrfr_none">
+    <text>なし</text>
+  </string>
+  <string id="st_wrfr_sim_1">
+    <text>%sの分隊</text>
+  </string>
+  <string id="st_wrfr_sim_2">
+    <text>Member(s)</text>
+  </string>
+  <string id="st_wrfr_sim_3">
+    <text>セクション</text>
+  </string>
+  <string id="st_wrfr_sim_4">
+    <text>ID</text>
+  </string>
+  <string id="st_wrfr_sim_5">
+    <text>戦闘中</text>
+  </string>
+  <string id="st_wrfr_sim_6">
+    <text>ターゲットに向かって</text>
+  </string>
+  <string id="st_wrfr_sim_7">
+    <text>ターゲットで待機中</text>
+  </string>
+  <string id="st_wrfr_sim_8">
+    <text>Total Power</text>
+  </string>
+  <string id="st_wrfr_sim_9">
+    <text>Power</text>
+  </string>
+  <string id="st_wrfr_sim_10">
+    <text>所有中の基地
+</text>
+  </string>
+  <string id="st_wrfr_sim_11">
+    <text>アイドル時間</text>
+  </string>
+  <string id="st_wrfr_sim_12">
+    <text>ターゲットレベル</text>
+  </string>
+</string_table>

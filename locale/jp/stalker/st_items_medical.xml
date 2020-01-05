@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="st_antirad">
+    <text>放射線治療薬</text>
+  </string>
+  <string id="st_antirad_descr">
+    <text>Mexaminum 放射線治療薬は、Zone では一般的だ。使用すると放射線被曝を防ぐが、末梢血管の収縮と酸素欠乏を誘発する。軽度の吐き気、目まい、胃痛等まれに見られるが、深刻な副作用は無い。
+
+%c[ui_gray_3]PROPERTIES:\n%c[d_biue]・
+%c[ui_gray_2]薬品:\n%c[d_biue]・
+%c[ui_gray_2]輸入品:\n%c[d_biue]・
+%c[ui_gray_2]使用速度(早):\n%c[d_red]・
+%c[ui_gray_2]大幅な健康低下:\n
+</text>
+  </string>
+  <string id="st_bandage">
+    <text>包帯</text>
+  </string>
+  <string id="st_bandage_descr">
+    <text>出血を止め傷口からの感染を防止するための伸縮性の包帯。出血を伴う創傷へ確実に巻くこと。動脈からの出血の場合は、血管を押えるように患部の周りを包帯で結びつける。
+
+%c[ui_gray_3]PROPERTIES:\n%c[d_biue]・
+%c[ui_gray_2]応急治療品:\n%c[d_biue]・
+%c[ui_gray_2]使用速度(早):\n</text>
+  </string>
+  <string id="st_drug_coagulant">
+    <text>Vinca</text>
+  </string>
+  <string id="st_drug_coagulant_descr">
+    <text>ウクライナの Vikasolum - 合成ビタミン K 相当品。この薬物の主な働きは、血液凝固速度を増加させること。ミュータントから受けた傷などの早期回復を望むストーカーに多大な需要がある。用法は一回につき二錠を服用する。長時間効果が続く。
+
+%c[ui_gray_3]PROPERTIES:\n%c[d_biue]・
+%c[ui_gray_2]薬品:\n%c[d_biue]・
+%c[ui_gray_2]輸入品:\n%c[d_biue]・
+%c[ui_gray_2]眩暈の発生:\n
+</text>
+  </string>
+  <string id="st_drug_anabiotic">
+    <text>Anabiotics</text>
+  </string>
+  <string id="st_drug_anabiotic_descr">
+    <text>ゾーンで働いている科学研究チームのためにOzersky教授によって開発された実験薬。主成分として一般に「ゾンビパウダー」として知られているテトロド​​トキシンが含まれている。この薬は臨床試験や実地試験を受けていないため、その有効性には疑問が残り、副作用の可能性がある。
+
+%c[ui_gray_3]PROPERTIES:\n%c[d_biue]・
+%c[ui_gray_2]薬品:\n%c[d_biue]・
+%c[ui_gray_2]zone製:\n%c[d_red]・
+%c[ui_gray_2]一時的な意識の喪失:\n</text>
+  </string>
+  <string id="st_drug_psy_blockade">
+    <text>Psy-block</text>
+  </string>
+  <string id="st_drug_psy_blockade_descr">
+    <text>雪崩の様に起きる神経インパルスを閉鎖する薬。摂取すると全ての感情を短期的に喪失する。Psy アノマリーの影響を相殺するために Zone でのみ使用される。用法は一回につき二錠を服用する。長時間効果が続く。
+
+%c[ui_gray_3]PROPERTIES:\n%c[d_biue]・
+%c[ui_gray_2]薬品:\n%c[d_biue]・
+%c[ui_gray_2]大きな眩暈:\n</text>
+  </string>
+  <string id="st_drug_antidot">
+    <text>解毒剤</text>
+  </string>
+  <string id="st_drug_antidot_descr">
+    <text>IP2 抗毒素はメトクロプラミド、ピリドキシン、チアミン、イノシン二リン酸、及び他の解毒剤を含む複合薬。血流に拡散し、天然毒を中和、並びに合成毒を抗生物質よって吸収するために使う。Zone では、ほとんどの Stalker がガスマスクや防護服に依存しているおかげで、IP2 は特に普及していない。それでも緊急事態の用心のため、数錠を携帯している者もいる。用法は一回につき 1 カプセルを服用する。効果は長時間続く。
+
+%c[ui_gray_3]PROPERTIES:\n%c[d_biue]・
+%c[ui_gray_2]薬品:\n%c[d_red]・
+%c[ui_gray_2]眩暈の発生:\n</text>
+  </string>
+  <string id="st_drug_booster">
+    <text>Hercules</text>
+  </string>
+  <string id="st_drug_booster_descr">
+    <text>この薬品の主成分は同化アンドロゲン、人工ステロイドであり、その化学組成はテストステロンに似ている。筋肉の疲労を軽減するために、長距離襲撃を行うストーカーによってよく使用される。可搬重量を大幅に増加させ、薬効は長時間持続する。
+
+%c[ui_gray_3]PROPERTIES:\n%c[d_biue]・
+%c[ui_gray_2]飲料:\n%c[d_blue]・
+%c[ui_gray_2]輸入品:\n%c[d_blue]・
+%c[ui_gray_2]薬品:\n%c[d_blue]・
+%c[ui_gray_2]アルコール中和(中):\n</text>
+  </string>
+  <string id="st_drug_radioprotector">
+    <text>放射線防護剤</text>
+  </string>
+  <string id="st_drug_radioprotector_descr">
+    <text>B190インドラリン放射線防護剤。原子力発電所職員に交付される医療キットに含まれる。過度に毒性のあるPC1システアミン塩酸塩の代わりにZoneで使用されるが、慢性的な使用による死亡例の報告がある。生体組織に対するガンマ線の影響を軽減する。即効性ではないので暴露前に服用すること。薬効は長期間持続する。一度に1カプセル服用すること。
+
+%c[ui_gray_3]PROPERTIES:\n%c[d_biue]・
+%c[ui_gray_2]薬品:\n%c[d_red]・
+%c[ui_gray_2]眩暈(小):\n</text>
+  </string>
+  <string id="st_akvatab">
+    <text>Akvatabs</text>
+  </string>
+  <string id="st_akvatab_descr">
+    <text>小さなビニール袋に詰められた錠剤は、水に含まれた有害なバクテリアやウイルスを消毒する為の薬。一回につき二錠を使用する。
+
+%c[ui_gray_3]PROPERTIES:\n%c[d_red]・
+%c[ui_gray_2]使用速度(遅):\n%c[d_blue]・
+%c[ui_gray_2]栄養源(非汚染):\n</text>
+  </string>
+  <string id="st_medkit_ai1">
+    <text>基本医療パッケージ</text>
+  </string>
+  <string id="st_medkit_ai1_descr">
+    <text>軽傷を治療するためのさまざまな道具を含む医療用パッケージ。
+
+%c[ui_gray_3]中身:\n%c[d_cyan]・
+%c[default]包帯(4):\n%c[d_cyan]・
+%c[default]ジクロフェナクナトリウム:\n%c[d_cyan]・
+%c[default]即興のスティムパック:\n%c[d_cyan]・
+%c[default]メタミゾールアンプル:\n%c[d_cyan]・
+%c[default]ミネラルウォーター:\n%c[d_cyan]・
+%c[default]スルファジメトキシン:\n%c[d_cyan]・
+%c[default]止血帯:\n%c[d_cyan]・
+%c[ui_gray_3]PROPERTIES:\n%c[d_blue]・
+%c[ui_gray_2]保管された医療品:\n</text>
+  </string>
+  <string id="st_medkit_ai2">
+    <text>軍用医療パッケージ</text>
+  </string>
+  <string id="st_medkit_ai2_descr">
+    <text>軍用品の薬品が入ったパッケージ、大量の刺激的な医薬品が保管されている。
+
+%c[ui_gray_3]中身:\n%c[d_cyan]・
+%c[default]モルヒネのアンプル:\n%c[d_cyan]・
+%c[default]放射線治療薬:\n%c[d_cyan]・
+%c[default]浄水薬:\n%c[d_cyan]・
+%c[default]包帯:\n%c[d_cyan]・
+%c[default]カフェインタブレット:\n%c[d_cyan]・
+%c[default]ジクロフェナクナトリウム:\n%c[d_cyan]・
+%c[default]ハーネス:\n%c[d_cyan]・
+%c[default]軍用興奮剤:\n%c[d_blue]・
+%c[default]睡眠剤:\n%c[d_blue]・
+%c[default]破傷風ワクチン:\n%c[d_blue]・
+%c[ui_gray_3]PROPERTIES:\n%c[d_blue]・
+%c[ui_gray_2]強力な薬品装備:\n</text>
+  </string>
+  <string id="st_medkit_ai3">
+    <text>科学用医療パッケージ</text>
+  </string>
+  <string id="st_medkit_ai3_descr">
+    <text>この薬品入りのパッケージはzoneで使用することを想定する為に設計されており、精神放射と放射能の危険性に対応するため、多くの薬品が含まれている。
+
+%c[ui_gray_3]中身:\n%c[d_cyan]・
+%c[default]放射線治療薬:\n%c[d_cyan]・
+%c[default]酸化防止剤:\n%c[d_cyan]・
+%c[default]ブドウ糖注射 大型:\n%c[d_cyan]・
+%c[default]ジクロフェナクナトリウム:\n%c[d_cyan]・
+%c[default]エピネフリン:\n%c[d_cyan]・
+%c[default]放射線防護剤:\n%c[d_cyan]・
+%c[default]ハーネス:\n%c[d_cyan]・
+%c[default]ミネラルウォーター:\n%c[d_blue]・
+%c[default]睡眠剤:\n%c[d_blue]・
+%c[default]Psi-ブロック:\n%c[d_blue]・
+%c[default]科学用興奮剤:\n%c[d_blue]・
+%c[default]スルファジメトキシン:\n%c[d_cyan]・
+%c[ui_gray_3]PROPERTIES:\n%c[d_blue]・
+%c[ui_gray_2]強力な薬品装備:\n</text>
+  </string>
+  <string id="st_analgetic">
+    <text>ジクロフェナクナトリウム</text>
+  </string>
+  <string id="st_analgetic_descr">
+    <text>フェニル酢酸誘導体系の非ステロイド性抗炎症薬は服用者の神経活動を鈍らせる。頭痛、めまい、眠気、そして場合によっては記憶障害、見当識障害、いらいらなどの膨大な数の副作用のために、ほとんどの国で薬用として使用されていない。しかしzoneでは、中枢神経系の過敏性を侵害する副作用から、銃撃や破片傷などの重傷に耐える為に普及している。
+
+%c[ui_gray_3]PROPERTIES:\n%c[d_biue]・
+%c[ui_gray_2]薬品:\n%c[d_biue]・
+%c[ui_gray_2]輸入品:\n%c[d_purple]・
+%c[ui_gray_2]損傷耐性(中):\n%c[d_biue]・
+%c[ui_gray_2]わずかな体力回復:\n</text>
+  </string>
+  <string id="st_jgut_zhgut">
+    <text>止血帯</text>
+  </string>
+  <string id="st_jgut_descr">
+    <text>止血用のゴム製止血帯。使用すると出血を止めることができる。
+
+%c[ui_gray_3]PROPERTIES:\n%c[d_biue]・
+%c[ui_gray_2]応急治療品:\n%c[d_biue]・
+%c[ui_gray_2]使用速度(早):\n</text>
+  </string>
+  <string id="st_yadylin">
+    <text>Yadulin</text>
+  </string>
+  <string id="st_yadylin_descr">
+    <text>モルヒネをベースにしたセミドラッグ。服用者に即効性の鎮痛作用と、アドレナリン分泌量の増加をもたらし、激しい戦闘に耐える事ができる。ストーカーの間で人気があり、犯罪者集団の間ではハイになるために使われ、モノリスにも供給されているという噂がある。
+
+%c[ui_gray_3]PROPERTIES:\n%c[d_biue]・
+%c[ui_gray_2]薬品:\n%c[d_biue]・
+%c[ui_gray_2]輸入品:\n%c[d_purple]・
+%c[ui_gray_2]刺激剤の作用:\n%c[d_biue]・
+%c[ui_gray_2]短期的な意識の混濁:\n</text>
+  </string>
+  <string id="st_medkit">
+    <text>応急処置キット</text>
+  </string>
+  <string id="st_medkit_descr">
+    <text>汎用の使い捨て医療用キット。怪我、傷、化学や熱による火傷、さまざまな種類の中毒の治療に便利。
+
+%c[ui_gray_3]PROPERTIES:\n%c[d_biue]・
+%c[ui_gray_2]日用品:\n%c[d_red]・
+%c[ui_gray_2]使用速度(遅):\n%c[d_red]・
+%c[ui_gray_2]長い回復時間:\n</text>
+  </string>
+  <string id="st_medkit_army">
+    <text>軍用メディキット</text>
+  </string>
+  <string id="st_medkit_army_descr">
+    <text>戦闘時に受ける負傷に特化した医療キット。身体から弾丸や、その破片を取除く外科治療用具の他、メナジオン、鎮痛剤、抗生物質及び免疫賦活剤に基づいた血液凝固薬を含んでいる。この医療キットは、Zone の深遠部に危険を冒して進むスペツナズ部隊に支給され、Duty の隊員達も好んで携帯するキットの一つ。
+
+%c[ui_gray_3]PROPERTIES:\n%c[d_biue]・
+%c[ui_gray_2]軍用品:\n%c[d_red]・
+%c[ui_gray_2]使用速度(遅):\n%c[d_red]・
+%c[ui_gray_2]長い回復時間:\n</text>
+  </string>
+  <string id="st_medkit_science">
+    <text>科学医療キット</text>
+  </string>
+  <string id="st_medkit_science_descr">
+    <text>Zone での使用に特化した医療キット。創傷の処置の他に、放射線中毒の発症進行を抑え、蓄積された放射能を減らす薬剤も含まれる。他の医療キットには無い、合成ビタミン K、抗炎症剤、血管収縮剤を含む。
+
+%c[ui_gray_3]PROPERTIES:\n%c[d_biue]・
+%c[ui_gray_3]高級品:\n%c[d_biue]・
+%c[ui_gray_3]高品質:\n%c[d_red]・
+%c[ui_gray_2]軍用品:\n%c[d_red]・
+%c[ui_gray_2]使用速度(遅):\n%c[d_red]・
+%c[ui_gray_2]長い回復時間:\n</text>
+  </string>
+  <string id="st_glucose_s">
+    <text>ブドウ糖注射 小型</text>
+  </string>
+  <string id="st_glucose_s_descr">
+    <text>ブドウ糖は主にインスリン投与による低血糖症の糖尿病患者などに使われるが、時には刺激剤としても使うことが出来る。糖質の即座の誘導は、精神的、肉体的エネルギーを迅速に増加し、ストレスをやり過ごす。そのためこのブドウ糖注射は戦闘状態の際や、治癒を早めたい場合に大変有益な手段として投与される。
+
+%c[ui_gray_3]PROPERTIES:\n%c[d_biue]・
+%c[ui_gray_3]薬品:\n%c[d_biue]・
+%c[ui_gray_3]輸入品:\n%c[d_biue]・
+%c[ui_gray_2]使用速度(早):\n</text>
+  </string>
+  <string id="st_glucose">
+    <text>ブドウ糖注射 大型</text>
+  </string>
+  <string id="st_glucose_descr">
+    <text>ブドウ糖は主にインスリン投与による低血糖症の糖尿病患者などに使われるが、時には刺激剤としても使うことが出来る。糖質の即座の誘導は、精神的、肉体的エネルギーを迅速に増加し、ストレスをやり過ごす。そのためこのブドウ糖注射は戦闘状態の際や、治癒を早めたい場合に大変有益な手段として投与される。
+
+%c[ui_gray_3]PROPERTIES:\n%c[d_biue]・
+%c[ui_gray_3]薬品:\n%c[d_biue]・
+%c[ui_gray_3]輸入品:\n%c[d_biue]・
+%c[ui_gray_2]使用速度(早):\n</text>
+  </string>
+  <string id="st_stim_impro">
+    <text>即席スティムパック</text>
+  </string>
+  <string id="st_stim_impro_descr">
+    <text>即席のスティムパックは、安価で手軽に入手できるので、新人 Stalker の間で人気がある。滅菌処理も怪しい機材を使い、Zone で簡単に入手できる成分で作られる。そのためか、頭痛、知覚異常、飢餓感の増大など、多くの副作用が含まれる。大腿部に注射する。
+
+%c[ui_gray_3]PROPERTIES:\n%c[d_biue]・
+%c[ui_gray_3]薬品:\n%c[d_biue]・
+%c[ui_gray_3]zone製:\n%c[d_biue]・
+%c[ui_gray_2]使用速度(早):\n%c[d_biue]・
+%c[ui_gray_2]適度な回復時間:\n</text>
+  </string>
+  <string id="st_stim_military">
+    <text>軍用スティムパック </text>
+  </string>
+  <string id="st_stim_military_descr">
+    <text>軍用スティムパックは、Zone で活動する兵士達の標準装備として含まれる。手頃な価格のため簡単に入手でき、ベテランの Stalker 達に人気がある。即席で作られたスティムパックに比べ、強力で効果も速く、致命的な状況に陥った際により効果的だ。高密度の原料から製造されるスティムパックは、身体の負担がかかる。副作用として、ショック症状、極度の目まい、飢餓感の増加が見られる
+
+%c[ui_gray_3]PROPERTIES:\n%c[d_biue]・
+%c[ui_gray_3]薬品:\n%c[d_biue]・
+%c[ui_gray_3]輸入品:\n%c[d_biue]・
+%c[ui_gray_3]軍用品:\n%c[d_biue]・
+%c[ui_gray_2]使用速度(早):\n%c[d_biue]・
+%c[ui_gray_2]早い回復時間:\n</text>
+  </string>
+  <string id="st_stim_scientic">
+    <text>強化スティムパック</text>
+  </string>
+  <string id="st_stim_scientic_descr">
+    <text>Zone で入手可能なこのスティムパックは、SEVA suit を開発した、キエフの防護研究所によって製造され、その最先端の薬液は、最も有力な健康の安定化を構成する。最高品質の成分で製造されており、速い回復効果と、迅速な放射能除去を保障する。非常に高価な製品で、購買層はベテランやリーダークラスの Stalker に限られる。副作用は最小限に抑えられている。
+
+%c[ui_gray_3]PROPERTIES:\n%c[d_biue]・
+%c[ui_gray_3]薬品:\n%c[d_biue]・
+%c[ui_gray_3]輸入品:\n%c[d_biue]・
+%c[ui_gray_3]高品質:\n%c[d_biue]・
+%c[ui_gray_2]使用速度(早):\n%c[d_biue]・
+%c[ui_gray_2]素早い回復時間:\n</text>
+  </string>
+  <string id="st_sleepingpills">
+    <text>睡眠薬(錠剤)</text>
+  </string>
+  <string id="st_sleepingpills_descr">
+    <text>この小さな睡眠薬は使用すれば即座に眠気を誘発し、また、長時間にわたり雪崩のような神経インパルスを減らすのに役立つ。効力を最大限にするため、休息する前にしばらく飲み込んだ後、水を少し飲もう。一回の使用につき二つの錠剤を使用する。
+
+%c[ui_gray_3]PROPERTIES:\n%c[d_biue]・
+%c[ui_gray_3]薬品:\n%c[d_biue]・
+%c[ui_gray_2]眠気の増進:\n</text>
+  </string>
+  <string id="st_cocaine">
+    <text>コカイン</text>
+  </string>
+  <string id="st_cocaine_descr">
+    <text>小さなアルミケースに入ったコカインと、吸引道具。強力な神経系の興奮剤。効果は投与方法により、15 ~ 30 分から 1 時間程。コカインは、敏捷性、多幸感、性的快感を増加させ、副作用として、神経過敏、不安、せん妄などの状態を生じ、過度の投与により、心拍数の上昇と血圧上昇を起こすことで、長期的には循環器系への問題を生じさせる。Bandit 達が、待伏せや、襲撃をする前に吸引していることは周知の事実だ。
+
+%c[ui_gray_3]PROPERTIES:\n%c[d_biue]・
+%c[ui_gray_3]興奮作用\n%c[d_biue]・
+%c[ui_gray_3]アルコール分解作用(強):\n%c[d_biue]・
+%c[ui_gray_2]わずかな体力の回復:\n</text>
+  </string>
+  <string id="st_adrenalin">
+    <text>エピネフリン注射</text>
+  </string>
+  <string id="st_adrenalin_descr">
+    <text>エピネフリン (もしくはアドレナリンとも呼ばれる) は、副腎髄質より分泌されるホルモンであり、神経節や脳神経系における神経伝達物質でもある。ストレス反応の中心的役割を果たし、血中に放出されると心拍数や血圧を上げ、瞳孔を開きブドウ糖の血中濃度(血糖値)を上げる作用などがある。交感神経が興奮した状態、すなわち「闘争か逃走か (fight-or-flight)」のホルモンと呼ばれる。動物が敵から身を守る、あるいは獲物を捕食する必要にせまられるなどといった状態に相当するストレス応答を、全身の器官に引き起こす。興奮すると分泌されるため、例えば喧嘩になった時に分泌され、血まみれや骨折の状態になっても全く痛みを感じないケースもある。
+
+%c[ui_gray_3]PROPERTIES:\n%c[d_biue]・
+%c[ui_gray_3]薬品:\n%c[d_biue]・
+%c[ui_gray_3]輸入品:\n%c[d_biue]・
+%c[ui_gray_3]高品質:\n%c[d_biue]・
+%c[ui_gray_2]使用速度(早):\n%c[d_biue]・
+%c[ui_gray_2]アルコール分解作用(強):\n%c[d_biue]・
+%c[ui_gray_2]素早い回復時間:\n</text>
+  </string>
+  <string id="st_morphine">
+    <text>モルヒネアンプル</text>
+  </string>
+  <string id="st_morphine_descr">
+    <text>この鉄製のアンブルは、戦地で戦う兵士の痛みを即座に抑える為設計された。このアンプルには、強力な投与量のモルヒネが含まれている。軍事用途では、戦闘により負傷した場合、強い疼痛を軽減する目的で、主に注射剤の形で使用され続けている。資格を持った衛生兵だけが携帯でき、トリアージを行っている間に投与処置を行うこともある。モルヒネはオピオイド神経を興奮させ、下行性疼痛制御により、侵害受容器(痛みを感じる受容器)で発生した興奮の伝達を遮断し上行性疼痛伝達を止めることにより中枢鎮痛作用を示す。上腕もしくは大腿部に注射する。
+
+%c[ui_gray_3]PROPERTIES:\n%c[d_biue]・
+%c[ui_gray_3]薬品:\n%c[d_biue]・
+%c[ui_gray_3]輸入品:\n%c[d_biue]・
+%c[ui_gray_3]高品質:\n%c[d_biue]・
+%c[ui_gray_2]使用速度(早):\n%c[d_biue]・
+%c[ui_gray_2]負傷耐性(大):\n%c[d_biue]・
+%c[ui_gray_2]適度な回復時間:\n</text>
+  </string>
+  <string id="st_salicidic_acid">
+    <text>メタミゾールアンプル</text>
+  </string>
+  <string id="st_salicidic_acid_descr">
+    <text>この鉄製のアンブルは、戦地で戦う兵士の痛みを即座に抑える為設計された。抗血友病薬と強力な投与量の混合メタミゾールが含まれている。メタミゾールは痛みの緩和だけではなく、発熱の低減に特に効果的で、最強の非ステロイド系抗炎症薬(NSAID)の一つである。投与量を増やせば抗炎症薬としても有用である。ただし、白血球減少や無顆粒球症のような、遅発性副作用を起こす可能性があるので、過度に投与するのは控えた方がよい。上腕もしくは大腿部に注射する。Zone での入手が限られているのは、軍の非常線を超えての密輸が困難なことに要因する。
+
+%c[ui_gray_3]PROPERTIES:\n%c[d_biue]・
+%c[ui_gray_3]薬品:\n%c[d_biue]・
+%c[ui_gray_3]輸入品:\n%c[d_biue]・
+%c[ui_gray_3]高品質:\n%c[d_biue]・
+%c[ui_gray_2]使用速度(早):\n%c[d_purple]・
+%c[ui_gray_2]負傷耐性(大):\n%c[d_biue]・
+%c[ui_gray_2]少量の回復時間:\n</text>
+  </string>
+  <string id="st_caffeine">
+    <text>カフェインタブレット</text>
+  </string>
+  <string id="st_caffeine_descr">
+    <text>カフェインと安息香酸ナトリウムは、中枢神経を特定の時間に可能な限り最高の効果で作動させ、眠気を大幅に減らす効果がある。
+
+%c[ui_gray_3]PROPERTIES:\n%c[d_biue]・
+%c[ui_gray_2]興奮作用:\n%c[d_purple]・
+%c[ui_gray_2]アルコール分解作用(高):\n</text>
+  </string>
+  <string id="st_antirad_cystamine">
+    <text>シスタミン</text>
+  </string>
+  <string id="st_antirad_cystamine_descr">
+    <text>放射線防護の役割を果たす物質で、放射線の身体への影響を弱めるために用いられる。シスタミンの放射線防護作用は、放射線照射によって組織内で生成されるイオン化分子や励起分子であるフリーラジカルと結合する能力と、薬物が特定の酵素と相互作用して電離放射線に対する耐性を付与する能力に基づいている。シスタミンの作用は、すでに蓄積された放射線を相殺するものではない。\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2]薬品\n
+		%c[d_blue] ・ %c[ui_gray_2] 輸入品\n
+		%c[d_red] ・ %c[ui_gray_2] 眩暈(小)\n
+		%c[d_red] ・ %c[ui_gray_2] 健康への影響(小)\n</text>
+  </string>
+  <string id="st_antibio_sulfad">
+    <text>スルファジメトキシン</text>
+  </string>
+  <string id="st_antibio_sulfad_descr">
+    <text>スルファニルアミドはグラム陽性菌、グラム陰性菌に効果があります。肺炎球菌、レンサ球菌、ブドウ球菌、大腸菌、クレブシエラスティック(フリードランダーの杖)、赤痢の原因菌に作用する;タンパク質と比べて活性が低い;トラコーマウイルス(失明に至ることがある伝染性の目の病気)に対して活性である;他のスルファニルアミド製剤に耐性を示す菌株には作用しない。副作用には頭痛,消化器疾患,皮膚発疹,発熱,白血球減少などがある。その薬の効果は長続きする。\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] 薬品\n
+		%c[d_blue] ・ %c[ui_gray_2] 輸入品\n
+		%c[d_red] ・ %c[ui_gray_2] 健康への影響(大)\n</text>
+  </string>
+  <string id="st_antibio_chlor">
+    <text>クロルテトラサイクリン</text>
+  </string>
+  <string id="st_antibio_chlor_descr">
+    <text>抗生物質です。淡黄色の結晶性粉末で、苦味があり、水にやや溶けやすい。これは最初のオープン抗生物質(ペニシリン投与後)の一つである。\nクロロテトラサイクリン塩酸塩はグラム陽性菌、グラム陰性菌、リケッチア、一部の大型ウイルスに対して静菌作用を有する。\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] 薬品\n
+		%c[d_blue] ・ %c[ui_gray_2]輸入品\n
+		%c[d_red] ・ %c[ui_gray_2] 眠気の増進\n</text>
+  </string>
+  <string id="st_antiemetic">
+    <text>エトペラジン</text>
+  </string>
+  <string id="st_antiemetic_descr">
+    <text>ペルフェナジン4.6および10mgを含有する、シェルでコーティングされた錠剤。この薬物は神経遮断薬であり、抗アレルギー作用、鎮静作用、縮瞳作用、制吐作用、弱い抗コリン作用、降圧作用、および低体温作用を有する抗精神病薬である。エペラジンの効果は、中脳皮質系および中脳辺縁系におけるD2受容体の遮断に起因する。ゾーンではほとんど使用されない。\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] 輸入品\n
+		%c[d_blue] ・ %c[ui_gray_2] 抗炎症\n</text>
+  </string>
+  <string id="st_joint">
+    <text>ジョイント大麻</text>
+  </string>
+  <string id="st_joint_descr">
+    <text>Known for their relaxing effects, joints are used by stalkers recreationally, especially those who frequent the Barrier or the Red Forest beyond it. Induces a soothing effect if combined with alcohol. Increases hunger.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] stimulant\n
+		%c[d_blue] ・ %c[ui_gray_2] zone-produced\n
+		%c[d_blue] ・ %c[ui_gray_2] mild alcohol sobering effect\n
+		</text>
+  </string>
+  <string id="st_rebirth">
+    <text>Axyltallisal "The Rebirth"</text>
+  </string>
+  <string id="st_rebirth_descr">
+    <text>Warning! Do not use in combination with any other drug as this may prove lethal. This powerful mixture contained in a small syringe will make you lose consciousness. But when you wake up (if you wake up), you will feel reborn. Inject the syringe into your thigh when sitting down.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] medicine\n
+		%c[d_blue] ・ %c[ui_gray_2] fast usage (syringe)\n
+		%c[d_blue] ・ %c[ui_gray_2] clean nutrition source\n
+		%c[d_red] ・ %c[ui_gray_2] causes temporary blackout\n
+		</text>
+  </string>
+  <string id="st_tetanus">
+    <text>破傷風ワクチン</text>
+  </string>
+  <string id="st_tetanus_descr">
+    <text>Tetanus vaccine is composed of inactivated tetanus toxin and is used to prevent an individual from contracting tetanus. Tetanus, also known as lockjaw, is a disease caused by the bacteria Clostridium tetani which enter the body through open wounds and release a poison called tetanospasmin. Tetanus is a potentially deadly disease because the poison attacks the nervous system blocking nerve signals from the spinal cord to and from the muscles. Animals and mutants alike are prone to carry Clostridium tetani which can be transferred through bites. Injection of inactivated toxin enhances your immunological system and can lead to several positive side-effects. Moreover, this vaccine has been supplemented with several additional anti-toxins making it usable for purposes other than preventing contraction of tetanus.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] medicine\n
+		%c[d_blue] ・ %c[ui_gray_2] imported\n
+		%c[d_blue] ・ %c[ui_gray_2] fast usage (syringe)\n</text>
+  </string>
+  <string id="st_antirad_kalium">
+    <text>ヨウ化カリウム</text>
+  </string>
+  <string id="st_antirad_kalium_descr">
+    <text>体内への放射線の影響に対抗する安価な手段としてゾーンで使用される薬理学的化合物。多くの副作用、特に胃腸管の水疱、痛みに対するしびれ、甲状腺の機能障害を引き起こす。\n \n
+                %c[ui_gray_3]PROPERTIES:\n
+                %c[d_blue] ・ %c[ui_gray_2] 薬品\n
+                %c[d_blue] ・ %c[ui_gray_2] 輸入品\n
+                %c[d_red] ・ %c[ui_gray_2] めまい(小)\\n
+                %c[d_red] ・ %c[ui_gray_2] 健康への影響(大)\n</text>
+  </string>
+  <string id="st_marijuana">
+    <text>マリファナ</text>
+  </string>
+  <string id="st_marijuana_descr">
+    <text>自家栽培の大麻。喫煙は人気のある娯楽で、特にバリエで働いたことのあるフリードマーの間では人気があります。マリファナのバッグはゾーンのあちこちで買えます。この薬は心のバランスを保つのに役立つと考える人もいます。\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] 興奮作用\n
+		%c[d_red] ・ %c[ui_gray_2] 使用速度(遅)\n
+		%c[d_blue] ・ %c[ui_gray_2] アルコール中和(強)\n</text>
+  </string>
+</string_table>

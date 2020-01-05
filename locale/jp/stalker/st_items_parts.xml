@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="st_prt_i_ammo">
+    <text>弾薬のパーツ</text>
+  </string>
+  <string id="st_prt_i_ammo_descr">
+    <text>良い物品でも、カートリッジ内のたった一発の不良弾薬が原因で好ましくない場面に遭遇する可能性もあり、それどころか不運なstalkerは重要な場面で銃がジャミングを起こし、考えられる限りの最悪な状況に陥る場合もある。これらの弾薬パーツは他の異なる弾薬を修理する為に再利用が可能なため、stalker達が修理用の予備として好んで保管する。</text>
+  </string>
+  <string id="st_prt_i_paper">
+    <text>ペーパーシート</text>
+  </string>
+  <string id="st_prt_i_paper_descr">
+    <text>シルクコーティングされた破れたシート。zoneのような場所でも、汚れを拭き取ったり食品を包んだりと、あらゆる場面に使用出来る。</text>
+  </string>
+  <string id="st_prt_i_textolite">
+    <text>基板</text>
+  </string>
+  <string id="st_prt_i_textolite_descr">
+    <text>繊維状の布地と高分子バインダーを基礎とするいくつかの層状のプラスチック(ベークライト、ポリエステル樹脂、エポキシ樹脂など)。適切なスキルがあれば、修理する際、非常に役に立つ。</text>
+  </string>
+  <string id="st_textile_patch_b">
+    <text>布生地</text>
+  </string>
+  <string id="st_textile_patch_b_descr">
+    <text>ごくありふれた布で、衣類の補修の他、銃器に残った洗浄剤や油分を拭き取ったりする。補修時には、ごく普通の針や糊を使用して適用する。\n</text>
+  </string>
+  <string id="st_textile_patch_m">
+    <text>軍用生地</text>
+  </string>
+  <string id="st_textile_patch_m_descr">
+    <text>衣類や、軽装甲服の修理に使用できる、軍規格繊維の生地。比較的安価で融通が効く為か、Stalker 達からの評判も高く、良く使われている。適用するには普通の裁縫道具か、特別な糊が必要。武器整備時、染み出た潤滑油の拭き取りにも使用できる。\n </text>
+  </string>
+  <string id="st_textile_patch_e">
+    <text>強化軍用生地</text>
+  </string>
+  <string id="st_textile_patch_e_descr">
+    <text>ケプラーパッドで補強された厚い織物。中、重装甲服を修理・補修するのに使う。複数の損傷をカバーするのに十分な大きさがあり、適用するには高度な裁縫道具と接着剤が必要。銃器への注油や清掃などにも使え、硬さを増した繊維のおかげで、通常は届かない部分も作業ができる。\n </text>
+  </string>
+  <string id="st_prt_i_capacitors">
+    <text>コンデンサのパック</text>
+  </string>
+  <string id="st_prt_i_capacitors_descr">
+    <text>電気コンデンサは電気を蓄えることが出来る。このシンプルなコンデンサは、２つの金属板とそれらの間の誘導体で構成されている。ほとんどの電気製品では、電気エネルギーの保存とノイズの補助、代替電流を安定化する重要な部品である。これらの部品は物資の少ないzoneでは非常にレアでありあまりお目にかかれないが、有用な物品だ。</text>
+  </string>
+  <string id="st_prt_i_transistors">
+    <text>トランジスタの箱</text>
+  </string>
+  <string id="st_prt_i_transistors_descr">
+    <text>高品質のバイポーラトランジスタで、このトランジスタは３つの半導体部品(ベース、エミッタ、コレクタ)で構成されており、これらが一緒になって電気振動の変換と増幅を行う。このような奇跡がこのzoneにもたらされるなら、それは周辺の電子技術者の夢となるだろう。</text>
+  </string>
+  <string id="st_prt_i_resistors">
+    <text>抵抗器の箱</text>
+  </string>
+  <string id="st_prt_i_resistors_descr">
+    <text>抵抗器は電子機器で見られる一般的な電子部品の一つであり、ほかの部品が適切な電圧供給を受けて回路部品を通る電流を制限しバランスを取る。このボックスには、さまざまな抵抗値と許容値を備えた12から82Mオームまでの適切な抵抗器のセットが含まれている。</text>
+  </string>
+  <string id="st_prt_i_copper">
+    <text>銅線</text>
+  </string>
+  <string id="st_prt_i_copper_descr">
+    <text>電気技術的な銅線は、電気エネルギーの生産、伝送が行われ、すべてのデバイス、機器、設備、機械で実際に使用されいる。純粋な形では取り出せることは稀だが必要であれば、一般的な古いラジオ、トランシーバー、その他の電子機器から簡単に取り出すことが出来る。</text>
+  </string>
+  <string id="st_prt_i_wood">
+    <text>木製のパーツ</text>
+  </string>
+  <string id="st_prt_i_wood_descr">
+    <text>幅の広い軽い杉の木片で主に家具、デッキ、工具などの屋外事業に使用される。白色のパーツはzoneのような場所ではそれほど有用ではなく、クラフトで使われる。</text>
+  </string>
+  <string id="st_prt_i_scrap">
+    <text>金属スクラップ</text>
+  </string>
+  <string id="st_prt_i_scrap_descr">
+    <text>小さな金属片の器具で、様々なグレードの鉄およびアルミニウム合金だ。現場で機材の修理に使用することが出来る。</text>
+  </string>
+  <string id="st_prt_i_fasteners">
+    <text>止金具</text>
+  </string>
+  <string id="st_prt_i_fasteners_descr">
+    <text>一握りのネジ、ワッシャー、ナット、釘、金属板の小片で、様々な種類とサイズがある。現場で機材の修理に使用することが出来る。</text>
+  </string>
+  <string id="st_prt_i_plastic">
+    <text>プラスチックフェンス</text>
+  </string>
+  <string id="st_prt_i_plastic_descr">
+    <text>低密度のポリエチレンフィルム製の小さなパックで、主に物品を小分けし保管袋として使用される。プラスチックフィルムは、様々な用途で使用され、部分的に破れてはいるものの、ポリエチレンの特性から、食品や医薬品の包装等に最適だ。</text>
+  </string>
+  <string id="st_prt_i_glass">
+    <text>ガラス片</text>
+  </string>
+  <string id="st_prt_i_glass_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_i_ceramic">
+    <text>セラミックベース</text>
+  </string>
+  <string id="st_prt_i_ceramic_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_i_leather">
+    <text>革のロール</text>
+  </string>
+  <string id="st_prt_i_leather_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_i_rubber">
+    <text>ゴム</text>
+  </string>
+  <string id="st_prt_i_rubber_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_i_triggermechanism">
+    <text>引き金のパーツ</text>
+  </string>
+  <string id="st_prt_i_triggermechanism_descr">
+    <text>どの銃の物かは分からない引き金の部品。引き金の部品はどの銃も非常に似ており、削ったり調整することでほとんどの銃に代用が出来る。
+%c[ui_gray_2]資産:\n%c[d_cyan]・
+%c[ui_gray_2]基本素材\n</text>
+  </string>
+  <string id="st_prt_i_spring">
+    <text>バネ</text>
+  </string>
+  <string id="st_prt_i_spring_descr">
+    <text>どの銃の物かは分からないが、引き金の部分、もしくは銃内部の小さなバネ。おそらくほとんどすべての小さなバネと置き換えることが出来るだろう。
+%c[ui_gray_2]資産:\n%c[d_cyan]・
+%c[ui_gray_2]基本素材\n</text>
+  </string>
+  <string id="st_prt_i_pistolgrip">
+    <text>拳銃のグリップ</text>
+  </string>
+  <string id="st_prt_i_pistolgrip_descr">
+    <text>どの銃の物かは分からない、拳銃のグリップ。ゴムでコーティングされた柄は、調整及び成形することでほぼ全ての銃に代替が出来る。
+%c[ui_gray_2]資産:\n%c[d_cyan]・
+%c[ui_gray_2]基本素材\n</text>
+  </string>
+  <string id="st_barrel_1">
+    <text>18.5mmバレル[R]</text>
+  </string>
+  <string id="st_barrel_1_descr">
+    <text>ダブルバレルショットガンの18.5mmバレル。</text>
+  </string>
+  <string id="st_barrel_2">
+    <text>18.5mmバレル[R]</text>
+  </string>
+  <string id="st_barrel_2_descr">
+    <text>コック機構式ダブルバレルショットガンの18.5mmバレル。</text>
+  </string>
+  <string id="st_barrel_3">
+    <text>18.5mmバレル[K]</text>
+  </string>
+  <string id="st_barrel_3_descr">
+    <text>滑腔砲式ライフルの18.5mmバレル。</text>
+  </string>
+  <string id="st_barrel_4">
+    <text>7.62mmバレル[V]</text>
+  </string>
+  <string id="st_barrel_4_descr">
+    <text>7.62mmライフルのバレル。</text>
+  </string>
+  <string id="st_barrel_5">
+    <text>7.92mmバレル[V]</text>
+  </string>
+  <string id="st_barrel_5_descr">
+    <text>ドイツ製7.92mmライフルのバレル。</text>
+  </string>
+  <string id="st_barrel_6">
+    <text>9mmサプレッサー[AS/PP]</text>
+  </string>
+  <string id="st_barrel_6_descr">
+    <text>特殊用途用オートマチック9mmライフルのサプレッサーが組み込まれたバレル。</text>
+  </string>
+  <string id="st_barrel_7">
+    <text>7.62mmバレル[A][V]</text>
+  </string>
+  <string id="st_barrel_7_descr">
+    <text>セミオートとオートマチック用7.62mmライフルのバレル。</text>
+  </string>
+  <string id="st_barrel_8">
+    <text>5.45mmバレル[A]</text>
+  </string>
+  <string id="st_barrel_8_descr">
+    <text>オートマチック用5.45mmライフルのバレル。</text>
+  </string>
+  <string id="st_barrel_9">
+    <text>5.56mmバレル[A]</text>
+  </string>
+  <string id="st_barrel_9_descr">
+    <text>オートマチック用5.56mmライフルのバレル。</text>
+  </string>
+  <string id="st_barrel_10">
+    <text>7.62mmバレル[P]</text>
+  </string>
+  <string id="st_barrel_10_descr">
+    <text>ガスレギュレーション式7.62mmライフルのバレル。</text>
+  </string>
+  <string id="st_barrel_11">
+    <text>9mmバレル[AS/PP]</text>
+  </string>
+  <string id="st_barrel_11_descr">
+    <text>特殊用途用オートマチック9mmライフルとPPライフルのバレル。</text>
+  </string>
+  <string id="st_barrel_12">
+    <text>7.62mmバレル[PP]</text>
+  </string>
+  <string id="st_barrel_12_descr">
+    <text>PPShサブマシンガンシステムの悪名高く、また伝説的なバレル。</text>
+  </string>
+  <string id="st_barrel_13">
+    <text>12.7×55mmバレル</text>
+  </string>
+  <string id="st_barrel_13_descr">
+    <text>オートマチック用12.7×55mmライフルのバレル。</text>
+  </string>
+  <string id="st_trigger_components_1">
+    <text>単射用撃鉄の引き金</text>
+  </string>
+  <string id="st_trigger_components_1_descr">
+    <text>単射用撃鉄の引き金部品。</text>
+  </string>
+  <string id="st_trigger_components_2">
+    <text>二点バースト用の引き金と撃鉄。</text>
+  </string>
+  <string id="st_trigger_components_2_descr">
+    <text>デュアル機構用の引き金用の撃鉄で、オートマチック、セミオートマチック用の為に設計された。</text>
+  </string>
+  <string id="st_trigger_components_3">
+    <text>三点バースト用の引き金と撃鉄。</text>
+  </string>
+  <string id="st_trigger_components_3_descr">
+    <text>三点バースト用の引き金用の撃鉄で、オートマチック、二点バースト、セミオートマチック用の為に設計されており、武器のデザインと強く結びついている。</text>
+  </string>
+  <string id="st_trigger_components_4">
+    <text>セミオートマチック用の引き金と撃針</text>
+  </string>
+  <string id="st_trigger_components_4_descr">
+    <text>セミオートマチック用の引き金と撃針。</text>
+  </string>
+  <string id="st_trigger_components_5">
+    <text>二点バースト用の引き金と撃針。</text>
+  </string>
+  <string id="st_trigger_components_5_descr">
+    <text>二点バースト用の引き金と撃針で、セミオート及びオートで射撃が可能。</text>
+  </string>
+  <string id="st_trigger_components_6">
+    <text>引き金部分の撃鉄[R]</text>
+  </string>
+  <string id="st_trigger_components_6_descr">
+    <text>ダブルバレルショットガン用引き金部分の撃鉄部品。</text>
+  </string>
+  <string id="st_bolt_carrier_1">
+    <text>回転式ボルトロック付きスライドボルトキャリア[Russia]</text>
+  </string>
+  <string id="st_bolt_carrier_1_descr">
+    <text>東側国家の製造業が生産した回転式ボルトロック付きスライドボルトキャリア。</text>
+  </string>
+  <string id="st_bolt_carrier_2">
+    <text>回転式ボルトロック付きスライドボルトキャリア[Russia]</text>
+  </string>
+  <string id="st_bolt_carrier_2_descr">
+    <text>東側国家の製造業が生産した、特殊用途式オートマチック用回転式ボルトロック付きスライドボルトキャリア。</text>
+  </string>
+  <string id="st_bolt_carrier_3">
+    <text>回転式ボルトロック付きスライドボルトキャリア[NATO]</text>
+  </string>
+  <string id="st_bolt_carrier_3_descr">
+    <text>NATO製の標準的な口径のオートマチック式小銃で使用される、縦方向にスライド式ロックターン付きブリーチブロック。</text>
+  </string>
+  <string id="st_bolt_carrier_4">
+    <text>ロックバイアス付きスライドボルトキャリア</text>
+  </string>
+  <string id="st_bolt_carrier_4_descr">
+    <text>ロックバイアス付きスライドボルトキャリア。</text>
+  </string>
+  <string id="st_bolt_carrier_5">
+    <text>ハーフフリースライドボルトキャリア</text>
+  </string>
+  <string id="st_bolt_carrier_5_descr">
+    <text>ローラーブレーキ付きハーフフリースライドボルトキャリア。</text>
+  </string>
+  <string id="st_bolt_carrier_6">
+    <text>ロックボルト付きスライドボルトキャリア</text>
+  </string>
+  <string id="st_bolt_carrier_6_descr">
+    <text>ロックバイアス付きスライドボルトキャリア。</text>
+  </string>
+  <string id="st_bolt_carrier_7">
+    <text>ロックウェッジ付きレバータイプボルトキャリア</text>
+  </string>
+  <string id="st_bolt_carrier_7_descr">
+    <text>ロックウェッジ付きレバータイプボルトキャリア。</text>
+  </string>
+  <string id="st_bolt_carrier_8">
+    <text>ダブルバレルショットガンのチョーク[R]</text>
+  </string>
+  <string id="st_bolt_carrier_8_descr">
+    <text>ダブルバレルショットガンのチョーク。</text>
+  </string>
+  <string id="st_bolt_carrier_9">
+    <text>ダブルバレルショットガンのチョーク[R]</text>
+  </string>
+  <string id="st_bolt_carrier_9_descr">
+    <text>ダブルバレルショットガンのチョーク。</text>
+  </string>
+  <string id="st_bolt_carrier_10">
+    <text>回転式ボルトロック付きスライドボルトキャリア[NATO]</text>
+  </string>
+  <string id="st_bolt_carrier_10_descr">
+    <text>NATOの国々で生産される大口径オートマチック用ライフルの回転式ボルトロック付きスライドボルトキャリア。</text>
+  </string>
+  <string id="st_bolt_carrier_11">
+    <text>縦方向スライド式のスライディングフリーボルトキャリア[PP]</text>
+  </string>
+  <string id="st_bolt_carrier_11_descr">
+    <text>サブマシンガン用の縦方向スライド式のスライディングフリーボルトキャリア。</text>
+  </string>
+  <string id="st_bolt_1">
+    <text>ドロッピングブロックブリーチ[R]</text>
+  </string>
+  <string id="st_bolt_1_descr">
+    <text>滑空法式のショットガンと、ライフルレバーロック機構のドロッピングブロック部分(薬室を閉鎖する部品)。外観上、鎖栓は良好な状態で、強い操作を必要としない。</text>
+  </string>
+  <string id="st_bolt_2">
+    <text>回転式ロッキングヘッド[２ロック][P]</text>
+  </string>
+  <string id="st_bolt_2_descr">
+    <text>ロックターン付きの縦方向スライド式のブリーチブロックを備えたマシンガンの、２つのストッパーを付属した回転式ロッキングヘッド部分。外見上、良好な状態であり、問題無く使用出来そうだ。</text>
+  </string>
+  <string id="st_bolt_3">
+    <text>回転式ロッキングヘッド[２ロック][K]</text>
+  </string>
+  <string id="st_bolt_3_descr">
+    <text>ロックターン付きの縦方向スライド式ブリーチブロックを備えた滑空砲式セミオート、オートマチック用のストッパーが付属した回転式ロッキングヘッド部分。</text>
+  </string>
+  <string id="st_bolt_4">
+    <text>回転式ロッキングヘッド[２ロック][V]</text>
+  </string>
+  <string id="st_bolt_4_descr">
+    <text>ロッキングバイアス付きの縦方向スライド式ブリーチブロックと、ボルトロック付きの縦方向スライド式閉鎖器を備えたライフルの、２つのストッパーを備えた回転式ロッキングヘッド部分。</text>
+  </string>
+  <string id="st_bolt_5">
+    <text>回転式ロッキングヘッド[３ロック][V]</text>
+  </string>
+  <string id="st_bolt_5_descr">
+    <text>ロックターン付きの縦方向スライド式ブリーチブロックを備えた、ライフルの２つのストッパーが付属した回転式ロッキングヘッド部分。</text>
+  </string>
+  <string id="st_bolt_6">
+    <text>回転式ロッキングヘッド[２ロック][A]</text>
+  </string>
+  <string id="st_bolt_6_descr">
+    <text>ロックターン付きの縦方向スライド式のブリーチブロックを備えたマシンガンの、２つのストッパーを付属した回転式ロッキングヘッド部分。</text>
+  </string>
+  <string id="st_bolt_7">
+    <text>回転式ロッキングヘッド[４ロック][AS]</text>
+  </string>
+  <string id="st_bolt_7_descr">
+    <text>ロックターン付きの縦方向スライド式のブリーチブロックを備えた特別性オートマチックライフルの、４つのストッパーを付属した回転式ロッキングヘッド部分。</text>
+  </string>
+  <string id="st_bolt_8">
+    <text>回転式ロッキングヘッド[６ロック][A]</text>
+  </string>
+  <string id="st_bolt_8_descr">
+    <text>ロックターン付きの縦方向スライド式のブリーチブロックを備えたマシンガンの、６つのストッパーを付属した回転式ロッキングヘッド部分。</text>
+  </string>
+  <string id="st_bolt_9">
+    <text>回転式ロッキングヘッド[７ロック][A]</text>
+  </string>
+  <string id="st_bolt_9_descr">
+    <text>ロックターン付きの縦方向スライド式のブリーチブロックを備えたマシンガンの、７つのストッパーを付属した回転式ロッキングヘッド部分。</text>
+  </string>
+  <string id="st_bolt_10">
+    <text>回転式ロッキングヘッド[８ロック][A]</text>
+  </string>
+  <string id="st_bolt_10_descr">
+    <text>ロックターン付きの縦方向スライド式のブリーチブロックを備えたマシンガンの、８つのストッパーを付属した回転式ロッキングヘッド部分。</text>
+  </string>
+  <string id="st_bolt_11">
+    <text>強力なダブルバレルショットガンの撃鉄[R]</text>
+  </string>
+  <string id="st_bolt_11_descr">
+    <text>ダブルバレルショットガンの左右に設置された強力な撃鉄部分。</text>
+  </string>
+  <string id="st_bolt_12">
+    <text>ハンマー式ダブルバレルショットガンの撃鉄[R]</text>
+  </string>
+  <string id="st_bolt_12_descr">
+    <text>水平二連式ショットガンの左右に設置されたハンマー部分。</text>
+  </string>
+  <string id="st_bolt_13">
+    <text>回転式ロッキングヘッド[２ロック][A][NATO]</text>
+  </string>
+  <string id="st_bolt_13_descr">
+    <text>NATO製の、２つのストッパーを付属した回転式ロッキングヘッド付き大口径オートマチック用ライフルの回転式ボルトロック付きボルトキャリア。</text>
+  </string>
+  <string id="st_bolt_14">
+    <text>回転式ロッキングヘッド [А/PP]</text>
+  </string>
+  <string id="st_bolt_14_descr">
+    <text>PPまたは自動ライフルからロックヘッドを回転させ、縦方向に半フリーのスライド式ボルトキャリアを使用する。</text>
+  </string>
+  <string id="st_bolt_15">
+    <text>メインスプリングのドラマー[PP]</text>
+  </string>
+  <string id="st_bolt_15_descr">
+    <text>どこかの国産PP製のメインスプリングを使ったドラマー。</text>
+  </string>
+  <string id="st_bolt_16">
+    <text>メインスプリング付きドラマー[PP][NATO]</text>
+  </string>
+  <string id="st_bolt_16_descr">
+    <text>Drummer with the mainspring from some imported PP with a longitudinal-a sliding free bolt carrier.\n \n
+		</text>
+  </string>
+  <string id="st_bolt_17">
+    <text>メインスプリング付きドラマー [PP][PPSh]</text>
+  </string>
+  <string id="st_bolt_17_descr">
+    <text>Drummer with the mainspring from some Soviet PP, like the PP of Shpagin’s system with a longitudinal-a sliding free bolt carrier.\n \n
+		</text>
+  </string>
+  <string id="st_gas_tube_1">
+    <text>ガスチューブ[K]</text>
+  </string>
+  <string id="st_gas_tube_1_descr">
+    <text>カービン用の滑らかなガスチューブ。</text>
+  </string>
+  <string id="st_gas_tube_2">
+    <text>ハンドガード[R]</text>
+  </string>
+  <string id="st_gas_tube_2_descr">
+    <text>ポンプアクション式ショットガン用のハンドガード。</text>
+  </string>
+  <string id="st_gas_tube_3">
+    <text>ガスチューブ[V]</text>
+  </string>
+  <string id="st_gas_tube_3_descr">
+    <text>自動装填式ライフルのガスチューブ。</text>
+  </string>
+  <string id="st_gas_tube_4">
+    <text>ガスチューブ[AS/PP]</text>
+  </string>
+  <string id="st_gas_tube_4_descr">
+    <text>特殊機構用オートマチック用9mmライフルのガスチューブ。</text>
+  </string>
+  <string id="st_gas_tube_5">
+    <text>ガスチューブ。[A][V][ロシア製]</text>
+  </string>
+  <string id="st_gas_tube_5_descr">
+    <text>セミオート及びオートマチック用ライフルのガスチューブ。(ロシア製)</text>
+  </string>
+  <string id="st_gas_tube_6">
+    <text>ガスチューブ[A][V][NATO製]</text>
+  </string>
+  <string id="st_gas_tube_6_descr">
+    <text>セミオート及びオートマチック用ライフルのガスチューブ。(NATO製)</text>
+  </string>
+  <string id="st_gas_tube_7">
+    <text>ガスチューブ[P]</text>
+  </string>
+  <string id="st_gas_tube_7_descr">
+    <text>マシンガン用のガスチューブ。</text>
+  </string>
+  <string id="st_gas_tube_8">
+    <text>エジェクター[V]</text>
+  </string>
+  <string id="st_gas_tube_8_descr">
+    <text>ロックボルト付きスライドボルトキャリアを備えたライフルのエジェクター。</text>
+  </string>
+  <string id="st_gas_tube_9">
+    <text>オーバーアンダーダブルバレルショットガンのエジェクター [R]</text>
+  </string>
+  <string id="st_gas_tube_9_descr">
+    <text>Ejector (extractor) from an over-under double barrel shotgun.\n \n
+		</text>
+  </string>
+  <string id="st_gas_tube_10">
+    <text>オーバーアンダーダブルバレルショットガンのエジェクター [R]</text>
+  </string>
+  <string id="st_gas_tube_10_descr">
+    <text>Ejector from an over-under double barrel shotgun.\n \n
+		</text>
+  </string>
+  <string id="st_gas_tube_11">
+    <text>ガスチューブ[PP]</text>
+  </string>
+  <string id="st_gas_tube_11_descr">
+    <text>MP5サブマシンガン用のガスチューブ。</text>
+  </string>
+  <string id="st_prt_w_p_barrel_1">
+    <text>9×18mmバレル</text>
+  </string>
+  <string id="st_prt_w_p_barrel_1_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_barrel_2">
+    <text>9×19mmバレル</text>
+  </string>
+  <string id="st_prt_w_p_barrel_2_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_barrel_3">
+    <text>45口径バレル</text>
+  </string>
+  <string id="st_prt_w_p_barrel_3_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_barrel_4">
+    <text>5.7mmバレル</text>
+  </string>
+  <string id="st_prt_w_p_barrel_4_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_barrel_5">
+    <text>7.62mmバレル</text>
+  </string>
+  <string id="st_prt_w_p_barrel_5_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_barrel_6">
+    <text>9×18mmバレル(同封)</text>
+  </string>
+  <string id="st_prt_w_p_barrel_6_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_barrel_7">
+    <text>357口径バレル</text>
+  </string>
+  <string id="st_prt_w_p_barrel_7_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_trigger_1">
+    <text>シングルアクション用の引き金。</text>
+  </string>
+  <string id="st_prt_w_p_trigger_1_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_trigger_2">
+    <text>ダブルアクション用の引き金。</text>
+  </string>
+  <string id="st_prt_w_p_trigger_2_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_trigger_3">
+    <text>ダブルアクション(DA/SA)用の引き金。</text>
+  </string>
+  <string id="st_prt_w_p_trigger_3_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_trigger_4">
+    <text>MP412ダブルアクション用の引き金。</text>
+  </string>
+  <string id="st_prt_w_p_trigger_4_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_spring_1">
+    <text>9mm recoil spring assembly [Soviet]</text>
+  </string>
+  <string id="st_prt_w_p_spring_1_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_spring_2">
+    <text>9mm recoil spring assembly [Russian]</text>
+  </string>
+  <string id="st_prt_w_p_spring_2_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_spring_3">
+    <text>.45 recoil spring assembly</text>
+  </string>
+  <string id="st_prt_w_p_spring_3_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_spring_4">
+    <text>9mm recoil spring assembly [Western]</text>
+  </string>
+  <string id="st_prt_w_p_spring_4_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_spring_5">
+    <text>7.62mm recoil spring assembly</text>
+  </string>
+  <string id="st_prt_w_p_spring_5_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_w_p_spring_6">
+    <text>Recoil Spring Assembly (R1 DE 6")</text>
+  </string>
+  <string id="st_prt_w_p_spring_6_descr">
+    <text>.</text>
+  </string>
+  <string id="st_prt_o_fabrics_1">
+    <text>Cloth sheets</text>
+  </string>
+  <string id="st_prt_o_fabrics_1_descr">
+    <text>The very base of an outfit. These sheets are made of different materials such as cotton, polycotton, wool and leather to provide comfort and durability. Other protective fabrics are used like rubber and ballistic nylon, along with joint protections and a set of hardware and zippers.</text>
+  </string>
+  <string id="st_prt_o_fabrics_2">
+    <text>Cloth sheets (synthetic)</text>
+  </string>
+  <string id="st_prt_o_fabrics_2_descr">
+    <text>The very base of an outfit. These textiles blended with synthetic materials such as polyester and lycra to provide versatility and durability. Other protective fabrics are used like rubber and ballistic nylon, along with joint protections and a set of hardware and zippers.</text>
+  </string>
+  <string id="st_prt_o_fabrics_3">
+    <text>Durable textiles</text>
+  </string>
+  <string id="st_prt_o_fabrics_3_descr">
+    <text>These sheets are made of different materials such as polyester, leather and canvas, including a set of hardware and zippers. Good durability in harsh environmental conditions, which is why such materials are suitable for traveling even inside the Zone.</text>
+  </string>
+  <string id="st_prt_o_fabrics_4">
+    <text>Mil-Spec textiles</text>
+  </string>
+  <string id="st_prt_o_fabrics_4_descr">
+    <text>Sheets of military-grade textiles are often used for field clothing and light armor. Valued for its relatively low price and high versatility, this material is commonly used by the Zoners. Other protective fabrics are used like rubber and ballistic nylon, along with joint protections and a set of hardware and zippers.</text>
+  </string>
+  <string id="st_prt_o_retardant_1">
+    <text>Layered fire retardant fabrics</text>
+  </string>
+  <string id="st_prt_o_retardant_1_descr">
+    <text>These textiles that are naturally more resistant to fire than others through chemical treatment or manufactured fireproof fibers. In the Zone, such fabrics are commonly used in outfits to provide protection against hazardous environment and flame-based anomalies such as Burner and Comet.</text>
+  </string>
+  <string id="st_prt_o_retardant_2">
+    <text>Layered chemical/shock retardant fabrics</text>
+  </string>
+  <string id="st_prt_o_retardant_2_descr">
+    <text>These textiles that are more resistant to electric shock and chemical particles than others through chemical treatment or manufactured fireproof fibers. In the Zone, such fabrics are commonly used in outfits to provide protection against hazardous environment and chemical/shock-based anomalies such as Electro and Fruit Punch.</text>
+  </string>
+  <string id="st_prt_o_retardant_3">
+    <text>Grade-B RPVC treated fabrics</text>
+  </string>
+  <string id="st_prt_o_retardant_3_descr">
+    <text>Rigid Polyvinyl Chloride ( RPVC ) is a non-flammable material that is resistant to weathering. RPVC can also be UV stabilized to provide higher protection against anomolous hazards.</text>
+  </string>
+  <string id="st_prt_o_retardant_4">
+    <text>Grade-A RPVC vinyl fabrics</text>
+  </string>
+  <string id="st_prt_o_retardant_4_descr">
+    <text>Rigid Polyvinyl Chloride ( RPVC ) is a non-flammable material that is resistant to weathering. RPVC can also be UV stabilized to provide higher protection against anomolous hazards.</text>
+  </string>
+  <string id="st_prt_o_retardant_5">
+    <text>PVC/Rubber coated fabrics</text>
+  </string>
+  <string id="st_prt_o_retardant_5_descr">
+    <text>A tough and durable PVC coated polyester and rubber-fibre fabric designed for use in providing protection against hazards. It can be sewn, glued or welded.
+		\nDouble coated material which has an extremely tough core polyester fabric and is coated on both sides with pvc.</text>
+  </string>
+  <string id="st_prt_o_retardant_6">
+    <text>PVC/carbon-fibre fabrics</text>
+  </string>
+  <string id="st_prt_o_retardant_6_descr">
+    <text>A tough and durable PVC coated polyester and carbon-fibre fabric designed for use in providing protection against hazards. It can be sewn, glued or welded.
+		\nDouble coated material which has an extremely tough core polyester fabric and is coated on both sides with pvc.</text>
+  </string>
+  <string id="st_prt_o_retardant_7">
+    <text>Insulating magnesium grid and inserts</text>
+  </string>
+  <string id="st_prt_o_retardant_7_descr">
+    <text>This magnesium grid acts as dielectric layers to protect the outfit and it's wearer from powerful electic shocks and psi-waves to a certain extent. It can also offer protection against other hazards.</text>
+  </string>
+  <string id="st_prt_o_retardant_8">
+    <text>Insulating reinforced magnesium-oxide grid</text>
+  </string>
+  <string id="st_prt_o_retardant_8_descr">
+    <text>This magnesium grid acts as dielectric layers to protect the outfit and it's wearer from powerful electic shocks and psi-waves to a certain extent. It can also offer protection against other hazards.</text>
+  </string>
+  <string id="st_prt_o_retardant_9">
+    <text>Polymer sheets (bismuth-sulfate coating)</text>
+  </string>
+  <string id="st_prt_o_retardant_9_descr">
+    <text>The thermal degradation behaviour of bismuth-sulfate makes it a great choice for oufits used inside the Zone. Usually coated on polymer sheets for considerable body coverage. It can provide protection against other types of hazards.</text>
+  </string>
+  <string id="st_prt_o_retardant_10">
+    <text>Polymer sheets (barium-sulfate coating)</text>
+  </string>
+  <string id="st_prt_o_retardant_10_descr">
+    <text>The thermal degradation behaviour of barium-sulfate makes it a great choice for oufits used inside the Zone. Usually coated on polymer sheets for considerable body coverage. It can provide protection against other types of hazards.</text>
+  </string>
+  <string id="st_prt_o_retardant_11">
+    <text>Aluminized layers of retardant fabrics</text>
+  </string>
+  <string id="st_prt_o_retardant_11_descr">
+    <text>Multilayer Aluminized fabrics are specifically designed for protective apparel and shields used in environments that pose serious fire risk or safety hazards associated with radiant heat and chemical sources. In addition, these fabrics offer great isolatation against psi-waves effects.</text>
+  </string>
+  <string id="st_prt_o_retardant_12">
+    <text>Aluminized fiberglass fabrics</text>
+  </string>
+  <string id="st_prt_o_retardant_12_descr">
+    <text>Multilayer Aluminized fiberglass fabrics are specifically designed for protective apparel and shields used in environments that pose serious shock risk or safety hazards associated with radiant heat and chemical sources. In addition, these fabrics offer great isolatation against psi-waves effects.</text>
+  </string>
+  <string id="st_prt_o_retardant_13">
+    <text>PBI-blended fabrics</text>
+  </string>
+  <string id="st_prt_o_retardant_13_descr">
+    <text>PBI-blended fabrics have been trusted in the fire service over the years. Recognized as the leading high-performance protective fire resistant fabrics. For this reason, Zoners took advantage of these fabrics for their own outfits.</text>
+  </string>
+  <string id="st_prt_o_retardant_14">
+    <text>PBI-blended fabrics w/ polyester treatment</text>
+  </string>
+  <string id="st_prt_o_retardant_14_descr">
+    <text>PBI-blended fabrics have been trusted in the fire service over the years. Recognized as the leading high-performance protective fire resistant fabrics. For this reason, Zoners took advantage of these fabrics for their own outfits.</text>
+  </string>
+  <string id="st_prt_o_retardant_15">
+    <text>Activated carbon cloth (ACC) fabrics</text>
+  </string>
+  <string id="st_prt_o_retardant_15_descr">
+    <text>Originally developed for use in chemical warfare suits. Activated Carbon Cloth now has many relevant uses in defense, industrial, and medical applications. It considerably enhances the efficacy of both advanced and active wound dressings, along with providing great protection from radiation particles.</text>
+  </string>
+  <string id="st_prt_o_retardant_16">
+    <text>Active charcoal-treated non-woven fabrics</text>
+  </string>
+  <string id="st_prt_o_retardant_16_descr">
+    <text>Originally developed for use in chemical warfare suits. Activated Carbon Cloth now has many relevant uses in defense, industrial, and medical applications. It considerably enhances the efficacy of both advanced and active wound dressings, along with providing great protection from radiation particles.</text>
+  </string>
+  <string id="st_prt_o_retardant_17">
+    <text>Insulating constantan inserts</text>
+  </string>
+  <string id="st_prt_o_retardant_17_descr">
+    <text>Theses inserts made of constantan sheets. They acts as dielectric layers to protect the outfit and it's wearer from electic shocks, psi-waves and radioactive materials to a certain extent. It can also offer protection against other hazards, which is why they found their use inside the Zone.</text>
+  </string>
+  <string id="st_prt_o_retardant_18">
+    <text>Insulating constantan inserts w/ fiberglass coating</text>
+  </string>
+  <string id="st_prt_o_retardant_18_descr">
+    <text>Theses inserts made of constantan sheets and fiberglass-coated fabrics. They acts as dielectric layers to protect the outfit and it's wearer from electic shocks, psi-waves and radioactive materials to a certain extent. It can also offer protection against other hazards, which is why they found their use inside the Zone.</text>
+  </string>
+  <string id="st_prt_o_retardant_19">
+    <text>Insulating fibreglass "Polyester" fabrics</text>
+  </string>
+  <string id="st_prt_o_retardant_19_descr">
+    <text>High temperature resistant fabrics woven from “E" glass fibers and coated with Vermiculite based film providing extended service temperatures up to 1500°F and good shock resistance up to 20Kv. In a place like the Zone, these fabrics can come in handy against anomolous hazards.</text>
+  </string>
+  <string id="st_prt_o_retardant_20">
+    <text>Insulating fibreglass "Satin Weave" fabrics</text>
+  </string>
+  <string id="st_prt_o_retardant_20_descr">
+    <text>High temperature resistant fabrics woven from “E" glass fibers and coated with Vermiculite based film providing extended service temperatures up to 1700°F and good shock resistance up to 25Kv. In a place like the Zone, these fabrics can come in handy against anomolous hazards.</text>
+  </string>
+  <string id="st_prt_o_ballistic_1">
+    <text>Kevlar k129 plates w/ reinforced ceramic inserts</text>
+  </string>
+  <string id="st_prt_o_ballistic_1_descr">
+    <text>Kevlar plates are widely known for their protective capabilities, and are highly valued because of this feature. They perform a wide variety of functions, the most important of which is absorbing the impact of firearm projectiles on the front and the back of the torso. They constitute a lightweight alternative to heavy steel plates. Additionally, any type of armour plating also helps maintain suits in good condition, preventing degradation through wear and tear. Used by military units the world over.</text>
+  </string>
+  <string id="st_prt_o_ballistic_2">
+    <text>Kevlar Protera plates w/ reinforced ceramic inserts</text>
+  </string>
+  <string id="st_prt_o_ballistic_2_descr">
+    <text>Kevlar plates are widely known for their protective capabilities, and are highly valued because of this feature. They perform a wide variety of functions, the most important of which is absorbing the impact of firearm projectiles on the front and the back of the torso. They constitute a lightweight alternative to heavy steel plates. Additionally, any type of armour plating also helps maintain suits in good condition, preventing degradation through wear and tear. Used by military units the world over.</text>
+  </string>
+  <string id="st_prt_o_ballistic_3">
+    <text>Kevlar K129 plates w/ Polycarbonate composite</text>
+  </string>
+  <string id="st_prt_o_ballistic_3_descr">
+    <text>Kevlar plates are widely known for their protective capabilities, and are highly valued because of this feature. They perform a wide variety of functions, the most important of which is absorbing the impact of firearm projectiles on the front and the back of the torso. They constitute a lightweight alternative to heavy steel plates. Additionally, any type of armour plating also helps maintain suits in good condition, preventing degradation through wear and tear. Used by military units the world over.</text>
+  </string>
+  <string id="st_prt_o_ballistic_4">
+    <text>Kevlar K129 plates w/ carbon fibre composite</text>
+  </string>
+  <string id="st_prt_o_ballistic_4_descr">
+    <text>Kevlar plates are widely known for their protective capabilities, and are highly valued because of this feature. They perform a wide variety of functions, the most important of which is absorbing the impact of firearm projectiles on the front and the back of the torso. They constitute a lightweight alternative to heavy steel plates. Additionally, any type of armour plating also helps maintain suits in good condition, preventing degradation through wear and tear. Used by military units the world over.</text>
+  </string>
+  <string id="st_prt_o_ballistic_5">
+    <text>Kevlar AP and steel plates</text>
+  </string>
+  <string id="st_prt_o_ballistic_5_descr">
+    <text>Kevlar plates are widely known for their protective capabilities, and are highly valued because of this feature. They perform a wide variety of functions, the most important of which is absorbing the impact of firearm projectiles on the front and the back of the torso. They constitute a lightweight alternative to heavy steel plates. Additionally, any type of armour plating also helps maintain suits in good condition, preventing degradation through wear and tear. Used by military units the world over.</text>
+  </string>
+  <string id="st_prt_o_ballistic_6">
+    <text>Kevlar AP plates w/ reinforced titanium composite</text>
+  </string>
+  <string id="st_prt_o_ballistic_6_descr">
+    <text>Kevlar plates are widely known for their protective capabilities, and are highly valued because of this feature. They perform a wide variety of functions, the most important of which is absorbing the impact of firearm projectiles on the front and the back of the torso. They constitute a lightweight alternative to heavy steel plates. Additionally, any type of armour plating also helps maintain suits in good condition, preventing degradation through wear and tear. Used by military units the world over.</text>
+  </string>
+  <string id="st_prt_o_ballistic_7">
+    <text>Kevlar K119 plates w/ Polycarbonate inserts</text>
+  </string>
+  <string id="st_prt_o_ballistic_7_descr">
+    <text>Kevlar plates are widely known for their protective capabilities, and are highly valued because of this feature. They perform a wide variety of functions, the most important of which is absorbing the impact of firearm projectiles on the front and the back of the torso. They constitute a lightweight alternative to heavy steel plates. Additionally, any type of armour plating also helps maintain suits in good condition, preventing degradation through wear and tear. Used by military units the world over.</text>
+  </string>
+  <string id="st_prt_o_ballistic_8">
+    <text>Kevlar K119 plates w/ carbon-fibre inserts</text>
+  </string>
+  <string id="st_prt_o_ballistic_8_descr">
+    <text>Kevlar plates are widely known for their protective capabilities, and are highly valued because of this feature. They perform a wide variety of functions, the most important of which is absorbing the impact of firearm projectiles on the front and the back of the torso. They constitute a lightweight alternative to heavy steel plates. Additionally, any type of armour plating also helps maintain suits in good condition, preventing degradation through wear and tear. Used by military units the world over.</text>
+  </string>
+  <string id="st_prt_o_ballistic_9">
+    <text>Grade-B polyethylene plates w/ expanded carrier</text>
+  </string>
+  <string id="st_prt_o_ballistic_9_descr">
+    <text>Polyethylene plates that provide extra protection to vital areas. These hard armor plates have proven effective against all handgun bullets and a range of rifles. These upgraded ballistic vests have become standard in military use, as soft body armor vests are ineffective against military rifle rounds.</text>
+  </string>
+  <string id="st_prt_o_ballistic_10">
+    <text>Grade-A polyethylene plates w/ expanded carrier</text>
+  </string>
+  <string id="st_prt_o_ballistic_10_descr">
+    <text>Polyethylene plates that provide extra protection to vital areas. These hard armor plates have proven effective against all handgun bullets and a range of rifles. These upgraded ballistic vests have become standard in military use, as soft body armor vests are ineffective against military rifle rounds.</text>
+  </string>
+  <string id="st_prt_o_ballistic_11">
+    <text>Kevlar K119 plates</text>
+  </string>
+  <string id="st_prt_o_ballistic_11_descr">
+    <text>Kevlar plates are widely known for their protective capabilities, and are highly valued because of this feature. They perform a wide variety of functions, the most important of which is absorbing the impact of firearm projectiles on the front and the back of the torso. They constitute a lightweight alternative to heavy steel plates. Additionally, any type of armour plating also helps maintain suits in good condition, preventing degradation through wear and tear. Used by military units the world over.</text>
+  </string>
+  <string id="st_prt_o_ballistic_12">
+    <text>Reinforced Kevlar K119 plates</text>
+  </string>
+  <string id="st_prt_o_ballistic_12_descr">
+    <text>Kevlar plates are widely known for their protective capabilities, and are highly valued because of this feature. They perform a wide variety of functions, the most important of which is absorbing the impact of firearm projectiles on the front and the back of the torso. They constitute a lightweight alternative to heavy steel plates. Additionally, any type of armour plating also helps maintain suits in good condition, preventing degradation through wear and tear. Used by military units the world over.</text>
+  </string>
+  <string id="st_prt_o_ballistic_13">
+    <text>Polyethylene lightweight armor plates</text>
+  </string>
+  <string id="st_prt_o_ballistic_13_descr">
+    <text>Polyethylene plates that provide extra protection to vital areas. These hard armor plates have proven effective against all handgun bullets and a range of rifles. These upgraded ballistic vests have become standard in military use, as soft body armor vests are ineffective against military rifle rounds.</text>
+  </string>
+  <string id="st_prt_o_ballistic_14">
+    <text>Polyethylene armor plates (Improvised)</text>
+  </string>
+  <string id="st_prt_o_ballistic_14_descr">
+    <text>Polyethylene plates that provide extra protection to vital areas. These hard armor plates have proven effective against all handgun bullets and a range of rifles. These upgraded ballistic vests have become standard in military use, as soft body armor vests are ineffective against military rifle rounds.</text>
+  </string>
+  <string id="st_prt_o_ballistic_15">
+    <text>Carbon nanotube layers w/ Kevlar-49 fabrics</text>
+  </string>
+  <string id="st_prt_o_ballistic_15_descr">
+    <text>Carbon nanotubes (CNTs) have great potential applications in making ballistic-resistance materials. The remarkable properties of CNTs makes them an ideal candidate for reinforcing polymers and other materials, and it's used in applications such as bullet-proof vests.</text>
+  </string>
+  <string id="st_prt_o_ballistic_16">
+    <text>Carbon nanotube layers w/ Kevlar-29 fabrics (Reinforced)</text>
+  </string>
+  <string id="st_prt_o_ballistic_16_descr">
+    <text>Carbon nanotubes (CNTs) have great potential applications in making ballistic-resistance materials. The remarkable properties of CNTs makes them an ideal candidate for reinforcing polymers and other materials, and it's used in applications such as bullet-proof vests.</text>
+  </string>
+  <string id="st_prt_o_ballistic_17">
+    <text>Polyethylene fibre layers w/ Polycarbonate inserts</text>
+  </string>
+  <string id="st_prt_o_ballistic_17_descr">
+    <text>Polyethylene plates that provide extra protection to vital areas. These hard armor plates have proven effective against all handgun bullets and a range of rifles. These upgraded ballistic vests have become standard in military use, as soft body armor vests are ineffective against military rifle rounds.</text>
+  </string>
+  <string id="st_prt_o_ballistic_18">
+    <text>Reinforced polyethylene fibre layers</text>
+  </string>
+  <string id="st_prt_o_ballistic_18_descr">
+    <text>Polyethylene plates that provide extra protection to vital areas. These hard armor plates have proven effective against all handgun bullets and a range of rifles. These upgraded ballistic vests have become standard in military use, as soft body armor vests are ineffective against military rifle rounds.</text>
+  </string>
+  <string id="st_prt_o_ballistic_19">
+    <text>Carbon fibre layers</text>
+  </string>
+  <string id="st_prt_o_ballistic_19_descr">
+    <text>As compared to Kevlar material carbon fiber is little different and is not very effective against the sharp materials. But the advantage of carbon fiber is that it can stand high temperatures while Kevlar starts to weaken in this area. The materials made of carbon fiber tend to be light, therefore it offers more flexibility.</text>
+  </string>
+  <string id="st_prt_o_ballistic_20">
+    <text>Reinforced carbon fibre layers</text>
+  </string>
+  <string id="st_prt_o_ballistic_20_descr">
+    <text>As compared to Kevlar material carbon fiber is little different and is not very effective against the sharp materials. But the advantage of carbon fiber is that it can stand high temperatures while Kevlar starts to weaken in this area. The materials made of carbon fiber tend to be light, therefore it offers more flexibility.</text>
+  </string>
+  <string id="st_prt_o_support_1">
+    <text>Exoskeleton frame</text>
+  </string>
+  <string id="st_prt_o_support_1_descr">
+    <text>Mechanical frame powered by a system of electric motors, pneumatics, levers and hydraulics that give the wearer both superior protection as well as greatly increased physical strength.</text>
+  </string>
+</string_table>

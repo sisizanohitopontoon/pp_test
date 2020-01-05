@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="st_itm_backpack_name">
+    <text>バックパック</text>
+  </string>
+  <string id="st_itm_backpack_desc">
+    <text>厳しい気象条件にも耐えられる耐久性のある素材で作られたバックパック。 \n
+			%c[ui_gray_1]PROPERTIES:\n
+			%c[d_blue] ・ %c[ui_gray_2] 日用品\n
+			%c[d_blue] ・ %c[ui_gray_2] 物品収納\n
+			%c[0,100,255,150] ・ %c[ui_gray_2] stashとして使用可能\n</text>
+  </string>
+  <string id="st_equ_smallpack_name">
+    <text>Camping backpack</text>
+  </string>
+  <string id="st_equ_smallpack_desc">
+    <text>このバックパックはかなりの保管スペースがあり、内側は防水加工が施されている。バックパックを選ぶにあたり最善の選択ではないが、stalkerや初心者の間では一定の人気がある。\n \n
+			%c[ui_gray_1]PROPERTIES:\n
+			%c[d_blue] ・ %c[ui_gray_2] 日用品\n
+			%c[d_blue] ・ %c[ui_gray_2] 物品収納\n
+			%c[0,100,255,150] ・ %c[ui_gray_2] stashとして使用可能\n</text>
+  </string>
+  <string id="st_equ_smilpack_name">
+    <text>Travel backpack</text>
+  </string>
+  <string id="st_equ_smilpack_desc">
+    <text>長旅用の大きなバックパック。重量配分システムのおかげで、着用者は最大5日間の旅行に十分な物資や装備を運ぶことができる。\n \n
+			%c[ui_gray_1]PROPERTIES:\n
+			%c[d_blue] ・ %c[ui_gray_2] 日用品\n
+			%c[d_blue] ・ %c[ui_gray_2] 物品収納\n
+			%c[0,100,255,150] ・ %c[ui_gray_2] stashとして使用可能\n</text>
+  </string>
+  <string id="st_equ_milpack_name">
+    <text>軍用バックパック</text>
+  </string>
+  <string id="st_equ_milpack_desc">
+    <text>この戦闘用のバックパックは主に軍で使用されている。基本的に弾丸と薬品が保管されるスペースがある。\n \n
+                        %c[ui_gray_1]PROPERTIES:\n
+                        %c[d_blue] ・ %c[ui_gray_2] 日用品\n
+                        %c[d_blue] ・ %c[ui_gray_2] 物品収納\n
+                        %c[0,100,255,150] ・ %c[ui_gray_2] stashとして使用可能\n
+                        </text>
+  </string>
+  <string id="st_equ_touristpack_name">
+    <text>旅人用バックパック</text>
+  </string>
+  <string id="st_equ_touristpack_desc">
+    <text>たくさんの収納スペースがある旅行者用バックパック。サイズが大きいのであまり人気がない。\n
+                        %c[ui_gray_1]PROPERTIES:\n
+                        %c[d_blue] ・ %c[ui_gray_2] everyday item\n
+                        %c[d_blue] ・ %c[ui_gray_2] item storage\n
+                        %c[0,100,255,150] ・ %c[ui_gray_2] usable as stash\n</text>
+  </string>
+  <string id="st_kit_hunt">
+    <text>狩猟用ハンターキット</text>
+  </string>
+  <string id="st_kit_hunt_descr">
+    <text>バックパック全体にフックが付いており、ナイフの他にも様々な装備が付いており、動物やミュータントの皮や臓器を剥ぐ際に使用できる。何名かのstalkerはこのプロフェッショナル仕様の装備をミュータントハンティングの為に持ち運んでいる。ミュータントの肉を食べる上でおそらく、非常に多くのZoneに生きる者が消化不良等に悩まされているだろう。この様々なツールは武器やアーマーのメンテナンスにも効果的に使用できる。\n \n
+                        %c[ui_gray_1]PROPERTIES:\n
+                        %c[d_blue] ・ %c[ui_gray_2] 日用品\n
+                        %c[d_blue] ・ %c[ui_gray_2] 物品収納\n
+                        %c[0,100,255,150] ・ %c[ui_gray_2] stashとして使用可能\n
+                        %c[d_orange] ・ 
+%c[ui_gray_2]所有することで手に入るミュータントの部位が増える。</text>
+  </string>
+  <string id="st_itm_actor_backpack_name">
+    <text>クイックリリースシステム</text>
+  </string>
+  <string id="st_itm_actor_backpack_descr">
+    <text>Zoneでは時折、様々な最悪な事態が起こりうる。しかしこのクイックリリースシステムは様々な状況で使用者を助けることが可能で、危機を避けるのに役立つ。使用方法は単純で,即座にストラップをバックパックから外すことで重いバックパックが動きを妨げることを避け、安全な場所まで避難することが出来る。この装備を使用するには予め設定したホットキーを押すことで即座にバックパック外し地面に置かれる（一定の装備を除き全て中に保管される）。使用者が装備している武器、弾薬、アーマーやアタッチメント、ＵＰＤ等の所有物は手元に残るため、すぐに戦闘準備に移行することが出来る。取り外したバックパックは後で回収することが可能。\n\n
+%c[ui_gray_3]特徴:\n
+                      %c[d_blue]●
+%c[ui_gray_2]軍用品\n
+                       %c[d_blue]●
+%c[ui_gray_2]留め金を外すことで素早く使用出来る\n
+%c[d_blue]●
+%c[ui_gray_2]装備品は手元に残る\n</text>
+  </string>
+  <string id="st_itm_actor_backpack_desc_mlr">
+    <text>stalker達は度々、不測の事態が発生した場合に代替品としてこのツールを使用する。このツールはストラップで固定されているため、いつでもバックパックを取り外すことが出来るシンプルな構造ので、素早く戦略的撤退に移行できるコンパクトかつ有益な装備である。いくつかのコンテンツと共にバックパックをリセットすることが出来る。</text>
+  </string>
+  <string id="st_itm_backpack_stash_name">
+    <text>GPS 内蔵バックパック</text>
+  </string>
+  <string id="st_itm_backpack_stash_desc">
+    <text>非常に耐久性のあるバックパックにGPS装置を内蔵した装備。ドロップされると手持ちのPDAと自動的に同期するため、マップ上にStashのマークが生成される。このバックパックは強く丈夫な素材で作られているため、所有者の装備を環境に関係なく、安全かつ乾燥した状態に保つことが出来る。周囲にカモフラージュしたデザインのため、まず見つけられることはないだろう。\n\n
+
+%c[ui_gray_3]特徴:\n
+%c[d_blue]●
+%c[ui_gray_2]軍用品\n
+%c[d_blue]●
+%c[d_red]● %c[ui_gray_2]
+単独使用\n</text>
+  </string>
+</string_table>

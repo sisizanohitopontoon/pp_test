@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="st_pda_name">
+    <text>PDA</text>
+  </string>
+  <string id="st_pda_descr">
+    <text>ゾーンに関する情報、デジタルログ、ゾーンの詳細な地図、アノマリーが発生した場所を記録したPDA。適切な買い手が見つかれば、取引価値は高くなるかもしれない \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] 技術品\n
+		%c[d_blue] ・ %c[ui_gray_2]低電力消費\n</text>
+  </string>
+  <string id="st_pda_1_name">
+    <text>PDA</text>
+  </string>
+  <string id="st_pda_1_descr">
+    <text>ポケットサイズの電子機器で、コンピューターの基本的かつ最も重要な機能を網羅することを目的としている。PDAは日常的な情報共有に不可欠である。GPSモジュールが内蔵されており、位置情報と時刻情報をユーザーに提供する。 \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] 技術品\n
+		%c[d_blue] ・ %c[ui_gray_2]低電力消費\n</text>
+  </string>
+  <string id="st_pda_2_name">
+    <text>PDA (Version 2.0)</text>
+  </string>
+  <string id="st_pda_2_descr">
+    <text>ポケットサイズの電子機器で、コンピューターの基本的かつ最も重要な機能を網羅することを目的としている。PDAは日常的な情報共有に不可欠である。GPSモジュールが内蔵されており、位置情報と時刻情報をユーザーに提供する。このバージョンのモジュールは、半径300メートルのネットワークに接続された他のモジュールの位置情報を取得して処理するように改良されており、このPDAはストーカーにとって魅力的なものとなっています。 \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] 技術品\n
+		%c[d_blue] ・ %c[ui_gray_2]低電力消費\n
+%c[d_purple] ・ %c[ui_gray_2] 近にいるストーカーの位置を表示する。\n</text>
+  </string>
+  <string id="st_pda_3_name">
+    <text>PDA (Version 3.1)</text>
+  </string>
+  <string id="st_pda_3_descr">
+    <text>A pocket-sized electronic device meant to encompass the basic and most vital functions of a computer. The PDA is essential for daily information sharing. It comes with pre-installed GPS module to provide geolocation and time information to the user. The module in this version has been greatly improved to retrieve and process the position of other modules connected to the network, which makes this PDA compelling among stalkers. Unlike usual GPS modules, this one relies on sets of codes that allows the module to acquire special privileges on the connected channel to acquire more information.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] technological item\n
+		%c[d_blue] ・ %c[ui_gray_2] low electric power consumption\n
+		%c[d_purple] ・ %c[ui_gray_2] shows location of nearby natural squads.\n
+		</text>
+  </string>
+  <string id="st_detector1">
+    <text>Echo検出器</text>
+  </string>
+  <string id="st_detector1_descr">
+    <text>この古いアノマリー検出器は、アノマリーに近づいたときに、粒子が特殊なチャンバに入り、警報信号を発する。また、アーティファクトの存在を登録し、最も近いものまでの距離を測定することもできます。距離は、検出器が発する音の周波数によって示される。アーティファクト検索モードに切り替えるには、デバイスの前面カバーを開きます。デザインがシンプルなため、Echoは最も一般的なアーチファクトの検索にのみ使用できます。 \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] 技術品\n
+		%c[d_blue] ・ %c[ui_gray_2]低電力消費\n
+</text>
+  </string>
+  <string id="st_detector2">
+    <text>Bear検出器</text>
+  </string>
+  <string id="st_detector2_descr">
+    <text>この最新世代のアノマリー検出器は、異常な生成物の位置を特定するために使用することができ、カラー・ダイオード・パネルを備えている。アーティファクト検索モードに切り替えるには、デバイスの前面カバーを開きます。このデバイスで検出可能なアーティファクトはやや古いリストでプログラムされている。 \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] 技術品\n
+		%c[d_blue] ・ %c[ui_gray_2]中程度の電力消費\n</text>
+  </string>
+  <string id="st_detector3">
+    <text>Veles検出器</text>
+  </string>
+  <string id="st_detector3_descr">
+    <text>次世代のアノマリー検出器。最新の3つの検出チャンバーのおかげで、アーティファクトの位置が特別なディスプレイスクリーンに表示される。デバイスを閉じると、放射線とアノマリーのみが記録されます。アーティファクト検索モードに切り替えるには、前面のLEDディスプレイを開きます。探索モードでは、検出器は科学的に知られているすべてのアーチファクトを見つけることができる \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] 技術品\n
+		%c[d_blue] ・ %c[ui_gray_2]高い電力消費\n
+</text>
+  </string>
+  <string id="st_detector4">
+    <text>Svarog検出器</text>
+  </string>
+  <string id="st_detector4_descr">
+    <text>A prototype of an expanded functionality anomalous frequency scanner. This device comes with a program used to identify static areas of anomalous activity stored in its database, while retaining the ability to locate artefacts. The position of anomalous areas and artefacts is displayed on a special screen. The artefact search mode, which can be activated by opening the front LED display, has been modified to detect anomalous formations currently unknown to science.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] technological item\n
+		%c[d_blue] ・ %c[ui_gray_2] high electric power consumption\n
+		</text>
+  </string>
+  <string id="st_detector9">
+    <text>RF受信機</text>
+  </string>
+  <string id="st_detector9_descr">
+    <text>RF(無線周波数)受信機は、基本的な通信に使用される高感度のRFモジュールを備えた小型デバイスです。古い技術品であるにもかかわらず、兵士の間で未だに使用され続けている。半径200mの電波を受信することができます。この装置は30から300MHzの周波数範囲の電波を処理することができる \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] 技術品\n
+		%c[d_blue] ・ %c[ui_gray_2]中程度の電力消費\n
+</text>
+  </string>
+  <string id="st_detector8">
+    <text>アノーマリー測定装置</text>
+  </string>
+  <string id="st_detector8_descr">
+    <text>The first prototype has been designed in 2008 under Professor Sakharov's supervision in the mobile lab in Yantar. More copies has been made after proven success in study fields. This device is able to take and record measurements of anomalous fields. The improved framework and sensors guarantees operation even in hostile environments. High sensitivity during acquisition or while tracking allows for use in many different environments and under toughest operating conditions.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] technological item\n
+		%c[d_blue] ・ %c[ui_gray_2] moderate electric power consumption\n
+		</text>
+  </string>
+  <string id="st_broken_pda">
+    <text>壊れたPDA</text>
+  </string>
+  <string id="st_broken_pda_descr">
+    <text>このPDAはひどく破損しているようで、画面の半分が壊れており、GPSモジュールが正常に動作しない。内部はの基盤は壊れていないようだ。\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] 技術品\n</text>
+  </string>
+  <string id="st_device_torch_name">
+    <text>ヘッドランプ</text>
+  </string>
+  <string id="st_device_torch_descr">
+    <text>標準的なヘッドマウント式懐中電灯で、完全に動作する。暗くなってから外に出るストーカーには便利ですが、下手に使うとトラブルの元になります。 \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] 技術品\n
+		%c[d_blue] ・ %c[ui_gray_2] 中程度の電力消費\n</text>
+  </string>
+  <string id="st_device_torch_nv_1_name">
+    <text>Headlamp w/ 1PN93-1 Nightvision\n
+		</text>
+  </string>
+  <string id="st_device_torch_nv_1_descr">
+    <text>A standard head-mounted flashlight in fully working order. Useful for stalkers who find themselves out and about after dark, but may attract trouble if used unwisely. This head lamp comes with a standard-issue 1PN93-1 Russian Military Forces night-vision device. Offers generation 2+ image intensification, especially useful for operations at night or in low-light conditions.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] technological item\n
+		%c[d_purple] ・ %c[ui_gray_2] nightvision: %c[ui_gray_1]1PN93-1.\n
+		%c[d_blue] ・ %c[ui_gray_2] moderate electric power consumption\n
+		</text>
+  </string>
+  <string id="st_device_torch_nv_2_name">
+    <text>Headlamp w/ PN21KL Nightvision\n
+		</text>
+  </string>
+  <string id="st_device_torch_nv_2_descr">
+    <text>A standard head-mounted flashlight in fully working order. Useful for stalkers who find themselves out and about after dark, but may attract trouble if used unwisely. This head lamp comes with an IIT generation 2+ image intensification, intended for operation at night under natural illumination and in the complete darkness with the switched on infrared illuminator.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] technological item\n
+		%c[d_purple] ・ %c[ui_gray_2] nightvision: %c[ui_gray_1]PN21KL.\n
+		%c[d_blue] ・ %c[ui_gray_2] moderate electric power consumption\n
+		</text>
+  </string>
+  <string id="st_device_torch_nv_3_name">
+    <text>Headlamp w/ Oracle psy-stimulator</text>
+  </string>
+  <string id="st_device_torch_nv_3_descr">
+    <text>A standard head-mounted flashlight in fully working order. Useful for stalkers who find themselves out and about after dark, but may attract trouble if used unwisely. This head lamp has an electric powerate of lenses and image-processing software that removes video noise and enhances image-intensifying capabilities of PN21K unit, thus making it a full-fledged IIT generation 3+ night vision device.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] technological item\n
+		%c[d_purple] ・ %c[ui_gray_2] nightvision: %c[ui_gray_1]Oracle.\n
+		%c[d_blue] ・ %c[ui_gray_2] moderate electric power consumption\n
+		</text>
+  </string>
+  <string id="st_device_torch_name">
+    <text>ヘッドランプ</text>
+  </string>
+  <string id="st_device_torch_descr">
+    <text>標準的なヘッドマウント式懐中電灯で、完全に動作する。暗くなってから外に出るストーカーには便利ですが、下手に使うとトラブルの元になります。\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] 技術品\n
+		%c[d_blue] ・ %c[ui_gray_2]中程度の電力消費\n
+</text>
+  </string>
+  <string id="st_device_flashlight">
+    <text>懐中電灯</text>
+  </string>
+  <string id="st_device_flashlight_descr">
+    <text>一般的な携帯型懐中電灯。残念ながら、片手が塞がれてしまうため、ほとんどの武器は使用できなくなる。したがって、ピストルおよび他の片手機器と同時にのみ使用することができる。\n \n
+                %c[ui_gray_3]PROPERTIES:\n
+                %c[d_blue] ・ %c[ui_gray_2] 技術品\n
+                %c[d_blue] ・ %c[ui_gray_2] 中程度の電力消費n
+                </text>
+  </string>
+  <string id="st_batteries_dead">
+    <text>古びたバッテリー</text>
+  </string>
+  <string id="st_batteries_dead_descr">
+    <text>Only one out of ten batteries found in the Zone still carry some juice. Stalkers seem to throw them out when they're depleted since it's almost impossible to find a battery recharger. Their outer layer is corroded and covered in dirt, which is a strong indication that these are almost dead. Still, like everything in the Zone they also have their purpose and may prove useful for frequent electric power recharges.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] technological item\n
+		</text>
+  </string>
+  <string id="st_batteries">
+    <text>バッテリーパック</text>
+  </string>
+  <string id="st_batteries_descr">
+    <text>A pack of batteries. Someone must have used them since they are already half drained. Intended for use in your flashlight, PDA, nightvision goggles and other electronic devices. Remember to change regularly.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] technological item\n
+		</text>
+  </string>
+  <string id="st_batteries_ccell">
+    <text>軍用バッテリーユニット</text>
+  </string>
+  <string id="st_batteries_ccell_descr">
+    <text>A pack of fully charged military batteries. Very valuable and in high demand due to the relative scarcity of batteries in the Zone. Used by all factions and Zoners of all levels, from rookies to master stalkers. Supplied to traders by corrupt military officers trying to earn some extra dough in the Zone.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] technological item\n
+		</text>
+  </string>
+  <string id="st_geiger_dead">
+    <text>ガイガーカウンター</text>
+  </string>
+  <string id="st_geiger_dead_descr">
+    <text>ガイガーカウンターは電離(放射性)放射線を測定する。アルファ粒子,ベータ粒子,ガンマ粒子の放出を検出する。1908年に発明されたガイガーカウンターは、健康、物理、産業、地質学、その他の活動分野の測定に使用される人気の高い技術品です。シンプルな電子回路でできています。\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] 技術品 \n
+		%c[d_orange] ・ %c[ui_gray_2] 放射能汚染のレベルを測定します\n
+		%c[d_blue] ・ %c[ui_gray_2] 中程度の電力消費\n
+		%c[d_orange] ・ %c[ui_gray_2] 3つのモードで動作します\n
+</text>
+  </string>
+  <string id="st_electric power">
+    <text>ユニバーサルパワーデバイス（電力）</text>
+  </string>
+  <string id="st_electric power_descr">
+    <text>冷戦時代の電源装置は、小型のトランシーバーほどの大きさだった。ほとんどの種類のバッテリに対応しています。挿入されたバッテリーからのあらゆるエネルギーを利用し、マイクロワイヤーのセットを介して強化されたストリームで電子デバイスに電力を供給します。これらは、構造や使用年数に関係なく、どのような機器にも接続できます。電池が1本しかなくても、多くの電子機器を操作できます。\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2]技術品\n
+		%c[d_blue] ・ %c[ui_gray_2] ポータブルエネルギー源\n
+		%c[d_blue] ・ %c[ui_gray_2] 最新のデバイスのほとんどをサポートしています\n
+		%c[d_blue] ・ %c[ui_gray_2] すべてのバッテリタイプに対応\n
+		%c[d_blue] ・ %c[ui_gray_2] ストレージ容量 
+		%c[ui_gray_1]3Ah(アンペア時)\n</text>
+  </string>
+  <string id="extension_pda">
+    <text>マルチメディアPDA</text>
+  </string>
+  <string id="exten_sion_pda">
+    <text>湿気や衝撃に強い高価なPDAで、チャット・クライアントと音楽プレーヤーが内蔵されている。\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] ストーカーネットワークで音楽の再生と対話が可能\n</text>
+  </string>
+  <string id="st_gps_tracker">
+    <text>軍用GPSモジュール</text>
+  </string>
+  <string id="st_gps_tracker_descr">
+    <text>A prototype of the next generation of GPS navigation devices. Only few copies are made. Distributed among the highest military ranks exclusively, although some of these have been leaked out to other sides. The improved module guarantees operation even in hostile environments. High sensitivity during acquisition or while tracking allows for use in many different environments and under toughest operating conditions. Unlike usual GPS modules, this one relies on sets of codes that allows the module to acquire special privileges on the connected channel. It retrieves the position of other connected modules in a radius of 300 meters. On the other hand, this module consumes a considerable amount of electrical power while operating. An automatic switching circuit is included inside the module to turn it off after 20 seconds of continuous scanning.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] technological item\n
+		%c[d_blue] ・ %c[ui_gray_2] very high electric power consumption\n
+		</text>
+  </string>
+  <string id="st_musicplayer">
+    <text>無線機</text>
+  </string>
+  <string id="st_musicplayer_desc">
+    <text>A modified radio, designed to be able to communicate with other radios yet filter out as much interference as possible. \n \n%c[ui_gray_2]PROPERTIES:\n \n
+		%c[d_cyan] ・ %c[ui_gray_2] Technological Item\n
+		</text>
+  </string>
+  <string id="st_weather_radar">
+    <text>Doppler気象レーダーキット
+</text>
+  </string>
+  <string id="st_weather_radar_descr">
+    <text>高度なパルスドップラー気象レーダーのミニキット。このキットは気象学の分野で奇跡と考えられています。マイクロ波放射の指向性パルスをマイクロ秒単位の長さで送信し、パラボラアンテナに導波管で接続されたキャビティマグネトロンを使って気象データを収集する。\n\
+2人の科学者が、アンテナの近くでミートチャンクのアーティファクトを使用すると、パルスパワーが大幅に増幅され、それによって大気層の対流圏層のイオンが変化し、その特性が完全に変わることを発見した。\n \n
+                %c[ui_gray_3]PROPERTIES:\n
+                %c[d_blue] ・ %c[ui_gray_2] 技術品\n
+                %c[d_blue] ・ %c[ui_gray_2] 気象設備t\n
+                %c[d_blue] ・ %c[ui_gray_2] 動力源 「ミートチャンク」アーティファクトt\n</text>
+  </string>
+</string_table>

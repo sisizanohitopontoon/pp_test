@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="st_pda_fast_travel_to">
+    <text>ファストトラベル：</text>
+  </string>
+  <string id="agr_smart_terrain_1_2">
+    <text>沼地</text>
+  </string>
+  <string id="agr_smart_terrain_1_6">
+    <text>研究所</text>
+  </string>
+  <string id="agr_smart_terrain_4_4">
+    <text>工場</text>
+  </string>
+  <string id="agr_smart_terrain_6_4">
+    <text>トンネル内の野営地</text>
+  </string>
+  <string id="mil_smart_terrain_2_2">
+    <text>Merc 野営地</text>
+  </string>
+  <string id="mil_smart_terrain_2_4">
+    <text>農場</text>
+  </string>
+  <string id="mil_smart_terrain_2_6">
+    <text>墜落したヘリコプター</text>
+  </string>
+  <string id="mil_smart_terrain_2_10">
+    <text>Bloodsucker の村</text>
+  </string>
+  <string id="mil_smart_terrain_3_8">
+    <text>関所</text>
+  </string>
+  <string id="mil_smart_terrain_7_4">
+    <text>Dutyの前哨地</text>
+  </string>
+  <string id="mil_smart_terrain_7_12">
+    <text>Freedom 基地</text>
+  </string>
+  <string id="aes_smart_terrain_monolit_blockpost4">
+    <text>モノリスによる封鎖</text>
+  </string>
+  <string id="aes2_monolith_snipers_2">
+    <text>モノリスパトロールエリア</text>
+  </string>
+  <string id="esc_smart_terrain_2_12">
+    <text>ルーキービレッジ</text>
+  </string>
+  <string id="esc_smart_terrain_3_16">
+    <text>軍の前哨基地</text>
+  </string>
+  <string id="esc_smart_terrain_5_2">
+    <text>軍検問所</text>
+  </string>
+  <string id="esc_smart_terrain_5_7">
+    <text>北部農場</text>
+  </string>
+  <string id="esc_smart_terrain_5_9">
+    <text>粉挽き小屋</text>
+  </string>
+  <string id="esc_smart_terrain_6_6">
+    <text>放棄された農場</text>
+  </string>
+  <string id="esc_smart_terrain_6_8">
+    <text>鉄道橋</text>
+  </string>
+  <string id="esc_smart_terrain_7_11">
+    <text>車両ステーション</text>
+  </string>
+  <string id="ds2_lager_st">
+    <text>崖下のキャンプ</text>
+  </string>
+  <string id="ds_kem2">
+    <text>放棄されたガソリンスタンド</text>
+  </string>
+  <string id="ds_ptr">
+    <text>踏み切り</text>
+  </string>
+  <string id="ds2_domik_st">
+    <text>放棄された農場</text>
+  </string>
+  <string id="val_smart_terrain_1_2">
+    <text>Lab X-18 Complexの裏側</text>
+  </string>
+  <string id="val_smart_terrain_4_0">
+    <text>放棄された養豚場</text>
+  </string>
+  <string id="val_smart_terrain_7_4">
+    <text>Bandit 基地</text>
+  </string>
+  <string id="val_smart_terrain_7_8">
+    <text>汚染された湖北部</text>
+  </string>
+  <string id="val_smart_terrain_8_9">
+    <text>汚染された湖南部</text>
+  </string>
+  <string id="cit_killers">
+    <text>Merc 基地</text>
+  </string>
+  <string id="cit_bandits">
+    <text>Dead City の学校</text>
+  </string>
+  <string id="cit_bandits_2">
+    <text>Dead City の村</text>
+  </string>
+  <string id="katacomb_smart_terrain">
+    <text>打ち捨てられた病院</text>
+  </string>
+  <string id="gar_smart_terrain_3_5">
+    <text>列車格納庫</text>
+  </string>
+  <string id="gar_smart_terrain_3_7">
+    <text>車両の墓場</text>
+  </string>
+  <string id="gar_smart_terrain_6_3">
+    <text>ノミの市</text>
+  </string>
+  <string id="gen_smart_terrain_cemetery">
+    <text>墓地</text>
+  </string>
+  <string id="gen_smart_terrain_lab_entrance">
+    <text>War Lab 入り口</text>
+  </string>
+  <string id="gen_smart_terrain_lab_entrance_2">
+    <text>放棄されたラボ</text>
+  </string>
+  <string id="mar_smart_terrain_base">
+    <text>Clear Sky 基地</text>
+  </string>
+  <string id="mar_smart_terrain_doc">
+    <text>Tuzla トンネル</text>
+  </string>
+  <string id="mar_smart_terrain_doc_2">
+    <text>警備所</text>
+  </string>
+  <string id="mar_smart_terrain_3_3">
+    <text>Tuzla野営地</text>
+  </string>
+  <string id="mar_smart_terrain_4_5">
+    <text>村の廃墟</text>
+  </string>
+  <string id="mar_smart_terrain_5_8">
+    <text>ポンプ場</text>
+  </string>
+  <string id="mar_smart_terrain_5_12">
+    <text>釣り堀集落</text>
+  </string>
+  <string id="mar_smart_terrain_8_8">
+    <text>焼けた農場</text>
+  </string>
+  <string id="mar_smart_terrain_8_11">
+    <text>古い教会</text>
+  </string>
+  <string id="mar_smart_terrain_10_5">
+    <text>メカニックヤード</text>
+  </string>
+  <string id="mar_smart_terrain_11_11">
+    <text>南部農場</text>
+  </string>
+  <string id="mar_smart_terrain_12_2">
+    <text>北部農場</text>
+  </string>
+  <string id="jup_a12">
+    <text>コンテナ倉庫</text>
+  </string>
+  <string id="jup_b204">
+    <text> Bamdit 工場野営地</text>
+  </string>
+  <string id="jup_a6">
+    <text>Yanov 駅</text>
+  </string>
+  <string id="jup_b200">
+    <text>セメント工場</text>
+  </string>
+  <string id="jup_b19">
+    <text>Kopachy 村</text>
+  </string>
+  <string id="jup_b41">
+    <text>移動研究所</text>
+  </string>
+  <string id="lim_smart_terrain_1">
+    <text>Red Forest入り口のキャンプファイア</text>
+  </string>
+  <string id="lim_smart_terrain_3">
+    <text>ガストロノム</text>
+  </string>
+  <string id="lim_smart_terrain_6">
+    <text>橋の前哨地</text>
+  </string>
+  <string id="lim_smart_terrain_9">
+    <text>建設現場</text>
+  </string>
+  <string id="lim_smart_terrain_10">
+    <text>電波大学</text>
+  </string>
+  <string id="pri_a16">
+    <text>コインランドリー</text>
+  </string>
+  <string id="pri_a21_smart_terrain">
+    <text>食料品店</text>
+  </string>
+  <string id="pri_a28_school">
+    <text>学校</text>
+  </string>
+  <string id="pri_b36_smart_terrain">
+    <text>河川港</text>
+  </string>
+  <string id="pri_smart_monolith_stalker6">
+    <text>Pripyat スタジアム</text>
+  </string>
+  <string id="pri_smart_pseudodog_lair1">
+    <text>観覧車</text>
+  </string>
+  <string id="pri_smart_tushkano_lair1">
+    <text>Polissyaホテル</text>
+  </string>
+  <string id="pri_monolith">
+    <text>モノリスベース</text>
+  </string>
+  <string id="pri_smart_neutral_stalker1">
+    <text>道路への進入口</text>
+  </string>
+  <string id="rad_antenna_patrol">
+    <text>ブレインスコーチャー（Lab X-19 入り口）</text>
+  </string>
+  <string id="rad2_loner_0001">
+    <text>バス停</text>
+  </string>
+  <string id="rad2_prip_teleport">
+    <text>Pripyat トンネル</text>
+  </string>
+  <string id="rad_entrance">
+    <text>境界入り口検問所</text>
+  </string>
+  <string id="red_smart_terrain_3_2">
+    <text>古い鉱坑</text>
+  </string>
+  <string id="red_smart_terrain_4_2">
+    <text>複合採掘地</text>
+  </string>
+  <string id="red_smart_terrain_6_3">
+    <text>悪魔の野営地</text>
+  </string>
+  <string id="red_smart_terrain_bridge">
+    <text>Limanskへの架け橋</text>
+  </string>
+  <string id="bar_visitors">
+    <text>100 Rads Bar</text>
+  </string>
+  <string id="bar_dolg_general">
+    <text>Duty 基地</text>
+  </string>
+  <string id="ros_smart_poltergeist2">
+    <text>列車停車場</text>
+  </string>
+  <string id="ros_smart_stalker_killers1">
+    <text>Merc 野営地</text>
+  </string>
+  <string id="ros_smart_killers1">
+    <text>Merc Sniperの巣窟</text>
+  </string>
+  <string id="trc_sim_1">
+    <text>南基地</text>
+  </string>
+  <string id="trc_sim_3">
+    <text>西基地</text>
+  </string>
+  <string id="trc_sim_4">
+    <text>南東基地</text>
+  </string>
+  <string id="trc_sim_7">
+    <text>東基地</text>
+  </string>
+  <string id="trc_sim_10">
+    <text>南西基地</text>
+  </string>
+  <string id="trc_sim_17">
+    <text>北基地</text>
+  </string>
+  <string id="trc_sim_20">
+    <text>北東基地</text>
+  </string>
+  <string id="yan_smart_terrain_3_6">
+    <text>東の低地基地</text>
+  </string>
+  <string id="yan_smart_terrain_6_4">
+    <text>移動研究所</text>
+  </string>
+  <string id="zat_stalker_base_smart">
+    <text>Skadovsk</text>
+  </string>
+  <string id="zat_b5_smart_terrain">
+    <text>レンジャーステーション</text>
+  </string>
+  <string id="zat_b40_smart_terrain">
+    <text>廃棄物処理ステーション</text>
+  </string>
+  <string id="zat_b100">
+    <text>Iron Forestアノーマリー</text>
+  </string>
+  <string id="zat_b101">
+    <text>製材所パイプライン野営地</text>
+  </string>
+</string_table>

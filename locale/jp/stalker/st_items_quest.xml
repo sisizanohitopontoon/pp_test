@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="drx_sl_quest_item_1_name">
+    <text>書類</text>
+  </string>
+  <string id="drx_sl_quest_item_1_desc">
+    <text>Sealed documents. One can only wonder what pivotal, mundane or terrible secrets they may hold. Unfortunately, you'll never know. Return them for your reward.</text>
+  </string>
+  <string id="drx_sl_quest_item_2_name">
+    <text>鍵のかかったケース</text>
+  </string>
+  <string id="drx_sl_quest_item_2_desc">
+    <text>鍵のかかったケース。中身は不明で重いが、引きずってでも持っていく価値はありそうだ。</text>
+  </string>
+  <string id="drx_sl_quest_item_3_name">
+    <text>PDA</text>
+  </string>
+  <string id="drx_sl_quest_item_3_desc">
+    <text>暗号化されたPDA。持ち帰れば報酬を約束されている。</text>
+  </string>
+  <string id="bad_psy_helmet_desc">
+    <text>人体をpsy-emissionら守るために科学者によって開発されたプロトタイプ。調整が必要だ。
+</text>
+  </string>
+  <string id="bad_psy_helmet_name">
+    <text>Uncalibrated psy-helmet</text>
+  </string>
+  <string id="good_psy_helmet_desc">
+    <text>科学者によって開発されたプロトタイプで、人体をpsy-emissionから守ります。</text>
+  </string>
+  <string id="good_psy_helmet_name">
+    <text>Psy-helmet</text>
+  </string>
+  <string id="cit_doctors_key_short_desc">
+    <text>Doctor's key to a secret stash in Pripyat</text>
+  </string>
+  <string id="cit_doctors_key_name">
+    <text>Doctor's key</text>
+  </string>
+  <string id="cit_doctors_key_desc">
+    <text>側面に「ホテルポリシア–26号室 」と刻印された鍵。</text>
+  </string>
+  <string id="item_docs_hiden_pri_name">
+    <text>Strelok'sの原稿</text>
+  </string>
+  <string id="item_docs_hiden_pri_desc">
+    <text>Worn manuscript in leather binding. Written by Strelok himself.\nJudging by the headings alone, it might explain some of the Zone's secrets.</text>
+  </string>
+  <string id="cit_doctors_pda_name">
+    <text>Doctor'sのメモ</text>
+  </string>
+  <string id="cit_doctors_pda_desc">
+    <text>Just some notes about old men's conspiracy theories'.\n\nThere are rumours that the Agroprom Institute was used as a front for an unofficial lab in the years preceding the 2006 year accident. This lab hosted a number of very unusual experiments. The traders have dug up a lot of information about these laboratories. I met with the Barkeep, he says he sent Duty scouts to get into the underground vaults of the Dark Valley, called X-18, but they disappeared. There are another rumours regarding a 'psi-brain' mechanism. The whole neighbourhood in Yantar is under the influence of that piece of trash: it zombified everyone who came within range. There is another mechanism in the Red Forest radar underground, called lab X19, and that is what is likely to be the Brain Scorcher. There is evidence to suggest that the presence of the Brain Scorcher intentionally blocks the road to the North, but no one knows exactly what it is. The Barkeep believes that the Brain Scorcher is man-made, and these mechanisms are not always operating at full strength. He thinks there are periods when their power is lowered to cool down the apparatus. It's time to visit all the underground laboratories in the Zone and find out what kind of secrets they are hiding. Too bad, that I'm too old for this shit. I wish Strelok would be still around, but damn, he disappeared years ago.</text>
+  </string>
+  <string id="item_decoder_desc">
+    <text>A powerful electronic lock-pick. Strangely enough, it does not seem to be an all-purpose thieves' instrument. Rather, it seems to have been created with a specific electronic lock in mind and can't be used to override anything else.</text>
+  </string>
+  <string id="item_decoder_name">
+    <text>Decoder</text>
+  </string>
+  <string id="pri_decoder_docs_conclusion_txt">
+    <text>原稿には、FangとStrelokが隠された研究室にどのように侵入し、そこでの調査内容についての短いレポートが含まれている。それは、チェルノブイリ原子力発電所とその周辺の大きなモノリスの存在に言及。より具体的にはコンクリートのサルコファガスの下で、それが彼らの活動の基盤であるかもしれないが、何かを隠す意図があると示唆している。さらに読むと、彼らは発電機の下の北にさらに隠れた実験室を発見したと述べているが、デコーダーを使用する必要があるため、執筆時点ではアクセスできなかった。</text>
+  </string>
+  <string id="item_quest_case_02_desc">
+    <text>Agroprom近くで行われた調査に関する軍事文書と報告書が入った耐火性のブリーフケース。報告書は、同研究所から行方不明になった機器や機器の実態や、所在調査の結果が改ざんされていたことなどを詳細に説明している。</text>
+  </string>
+  <string id="item_quest_case_02_name">
+    <text>Military documents</text>
+  </string>
+  <string id="item_doc_x18_name">
+    <text>Biology research report</text>
+  </string>
+  <string id="item_doc_x18_desc">
+    <text>この報告書では、実験室X-18から送られてきた生体サンプルの研究について詳述しており、サンプルはさまざまな強度の情報フィールド効果を受けた。その報告書は、emissionsにさらされた後の生物の突然変異について詳細に記述している。</text>
+  </string>
+  <string id="item_doc_x16_desc">
+    <text>The documents refer to one of the side discoveries of bio-research, specifically the discovery that living creatures are able to generate directed psy-emissions. A biological field emitter, essentially a giant brain, was grown as part of the research conducted in lab X16.</text>
+  </string>
+  <string id="item_doc_x16_name">
+    <text>Psy research documents</text>
+  </string>
+  <string id="item_doc_x10_desc">
+    <text>この文書には、アンテナの技術的な特性と、計画された設計からどのように逸脱しているかが説明されています。裏面には、これらの文書がラボX19で作成されたことを示す注意書きがあります。</text>
+  </string>
+  <string id="item_doc_x10_name">
+    <text>Rainbow emitter documents</text>
+  </string>
+  <string id="item_doc_x8_desc">
+    <text>The document refers to the transfer of the research team and all materials to another laboratory far in the north, which will be used to research matters relating to the influence of the noosphere. To enter the lab, use the date of the accident as the code (ddmmyyyy).\n \nThe research team comprised: N.A. Lebedev, E.F. Kalancha and V.I. Suslov.</text>
+  </string>
+  <string id="item_doc_x8_name">
+    <text>Order of Transfer</text>
+  </string>
+  <string id="item_doc_jup_ug_desc">
+    <text>The notebook contains a detailed description of an experiment assessing a psi-field's effect on an object in another hemisphere. A group of scientists in the Caribbean received the signal, but it was distorted. The signal was altered in a strange way, as though corrected by someone. A possible explanation is that the noosphere theory is correct and the changes were made by the noosphere.</text>
+  </string>
+  <string id="item_doc_jup_ug_name">
+    <text>実験ノート</text>
+  </string>
+  <string id="item_doc_mon_con_name">
+    <text>試作兵器報告書</text>
+  </string>
+  <string id="item_doc_mon_con_name_desc">
+    <text>Documents which describe the operating mechanism and main technical characteristics of a more advanced electromagnetic device.\nThere is a note inside the documents which reads: 'Documents must be returned to X8, the central laboratory. I will be busy, so deliver them yourself. — N. Lebedev'</text>
+  </string>
+  <string id="quest_package_name">
+    <text>お届け物</text>
+  </string>
+  <string id="quest_package_desc">
+    <text>The content of this package is unknown.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] personal belongings\n
+		%c[d_blue] ・ %c[ui_gray_2] valuable\n
+		</text>
+  </string>
+  <string id="st_jup_b32_scanner_device_name">
+    <text>Anomalous Activity Scanner</text>
+  </string>
+  <string id="st_jup_b32_scanner_device_desc">
+    <text>This case combines an artefact detector, a battery and a powerful transmitter. The device will scan anomalies to determine the number and type of artefacts that appear. All of this information will be automatically relayed to the scientists' bunker.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] technological item\n
+		</text>
+  </string>
+  <string id="mlr_strelok_item_01">
+    <text>Worn notebook</text>
+  </string>
+  <string id="mlr_strelok_item_01_desc">
+    <text>おそらくStrelok自身が所有していたノートブック。X-18という地下複合施設に入る方法が詳しく書かれています。</text>
+  </string>
+  <string id="blackbox_mlr">
+    <text>フライトレコーダー</text>
+  </string>
+  <string id="blackbox_mlr_descr">
+    <text>フライトデータレコーダー、通称「ブラックボックス」。フライトレコーダーは、内部システムや乗組員の会話の状況を記録するために使用され、事故発生時に重要な情報を提供する。ZONEでは、stalekrと軍の両者がこの装置に興味を持っている。</text>
+  </string>
+  <string id="item_pda_map_mlr_name">
+    <text>PDA</text>
+  </string>
+  <string id="item_pda_map_mlr_descr">
+    <text>異なる地域間の経路に関する情報が入っていると思われるPDA。</text>
+  </string>
+  <string id="strelok_notes_name">
+    <text>Strelokのノートブック</text>
+  </string>
+  <string id="strelok_notes_desc">
+    <text>このノートは以前Strelokのものだった。読んでみると、かなりバラバラで謎めいたメモがたくさんあることがわかる。ストーカーは数年前に自分が下した重要な決定に危機感を抱いていたらしく、ゾーンの北側で答えを求めて自分の選択を確認したかったようだ。</text>
+  </string>
+  <string id="drx_x8_documents_name">
+    <text>Antennas installation documents</text>
+  </string>
+  <string id="drx_x8_documents_desc">
+    <text>この文書は、巨大なレーダー施設と思われるものに言及している。最も可能性が高いのは、ブレイン・スコッチャーの構造とオペレーティング・システムです。</text>
+  </string>
+  <string id="drx_x16_documents_name">
+    <text>生物学的研究</text>
+  </string>
+  <string id="drx_x16_documents_desc">
+    <text>ラットや他の動物を使った実験について書かれた古い論文。
+</text>
+  </string>
+  <string id="drx_x18_documents_name">
+    <text>実験報告書：B0-D4</text>
+  </string>
+  <string id="drx_x18_documents_desc">
+    <text>Old documents that refer to an experiment related to psy-waves resonance and emitting.</text>
+  </string>
+  <string id="drx_x19_documents_name">
+    <text>通信ログ/ 2006年3月21日</text>
+  </string>
+  <string id="drx_x19_documents_desc">
+    <text>研究所の科学者グループ間の無線通信を印刷したもの。</text>
+  </string>
+  <string id="drx_agr_u_documents_name">
+    <text>Agroprom Institute文書</text>
+  </string>
+  <string id="drx_agr_u_documents_desc">
+    <text>Agropromに関するメモ、写真、マークされた地図。おそらく、Strelok自身が書いたものだろう。</text>
+  </string>
+  <string id="drx_jup_u_documents_name">
+    <text>輸送記録</text>
+  </string>
+  <string id="drx_jup_u_documents_desc">
+    <text>These documents refer to old records of transporting mechanical equipment and tools to the factory in Jupiter. It also includes geometric schemes for the tunnels toward the eastern side.</text>
+  </string>
+  <string id="lx8_history_documents_name">
+    <text>実験（2005年11月4日）</text>
+  </string>
+  <string id="lx8_history_documents_desc">
+    <text>このログには、新しいタイプのpsy-emitterに関して何年も前に行われた実験の結果が記録されている。</text>
+  </string>
+  <string id="lx8_history_2_documents_name">
+    <text>実験（2005年9月24日）</text>
+  </string>
+  <string id="lx8_history_2_documents_desc">
+    <text>このログには、psy-wavesアプリケーションに関して何年も前に行われた実験の結果が記録されている。</text>
+  </string>
+  <string id="lx8_history_3_documents_name">
+    <text>実験（2006年5月2日）</text>
+  </string>
+  <string id="lx8_history_3_documents_desc">
+    <text>このログには、生物学的実験の結果が記録されている。</text>
+  </string>
+</string_table>

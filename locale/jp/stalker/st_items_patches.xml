@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="csky_patch">
+    <text>Clear Sky patch</text>
+  </string>
+  <string id="csky_patch_description">
+    <text>Clear Skyのユニフォームから剥ぎ取った記章。</text>
+  </string>
+  <string id="freedom_patch">
+    <text>Freedom patch</text>
+  </string>
+  <string id="freedom_patch_description">
+    <text>Freedomのユニフォームから剥ぎ取った記章。</text>
+  </string>
+  <string id="stalker_patch">
+    <text>Loner patch</text>
+  </string>
+  <string id="stalker_patch_description">
+    <text>lonerのユニフォームから剥ぎ取った記章。</text>
+  </string>
+  <string id="ecolog_patch">
+    <text>Ecologist patch</text>
+  </string>
+  <string id="ecolog_patch_description">
+    <text>ecologistのユニフォームから剥ぎ取った記章。</text>
+  </string>
+  <string id="bandit_patch">
+    <text>Bandit patch</text>
+  </string>
+  <string id="bandit_patch_description">
+    <text>banditのユニフォームから剥ぎ取った記章。</text>
+  </string>
+  <string id="duty_patch">
+    <text>Duty patch</text>
+  </string>
+  <string id="duty_patch_description">
+    <text>Dutyのユニフォームから剥ぎ取った記章。</text>
+  </string>
+  <string id="monolith_patch">
+    <text>Monolith patch</text>
+  </string>
+  <string id="monolith_patch_description">
+    <text>Monolithのユニフォームから剥ぎ取った記章。</text>
+  </string>
+  <string id="army_patch">
+    <text>Army patch</text>
+  </string>
+  <string id="army_patch_description">
+    <text>ウクライナ軍の制服から剥ぎ取った記章。</text>
+  </string>
+  <string id="merc_patch">
+    <text>Mercenary patch</text>
+  </string>
+  <string id="merc_patch_description">
+    <text>mercenaryの制服から剥ぎ取った記章。</text>
+  </string>
+  <string id="st_clearsky_fp">
+    <text>Clear Sky faction patch</text>
+  </string>
+  <string id="st_clearsky_fp_descr">
+    <text>This faction insignia depicts a sunrise against a clean blue sky, flanked by doves. It is meant to communicate the faction's desire to heal the Zone as well as its distaste for conflict. Among those who have encountered the likes of Novikov or Kalancha, it is widely believed that Clear Sky wishes to gradually reduce the frequency and severity of blowouts and other anomalous cataclysms.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] personal belongings\n
+		%c[d_blue] ・ %c[ui_gray_2] valuable\n
+		</text>
+  </string>
+  <string id="st_freedom_fp">
+    <text>Freedom faction patch</text>
+  </string>
+  <string id="st_freedom_fp_descr">
+    <text>This faction insignia depicts a green wolf set against a black background alongside the Ukrainian flag. Overall, the design is meant to communicate Freedom's social nature and love of the land alongside their staunch determination and collective predatory viciousness in battle. Why anarchists would want any country's flag as part of their design, however, is a mystery.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] personal belongings\n
+		%c[d_blue] ・ %c[ui_gray_2] valuable\n
+		</text>
+  </string>
+  <string id="st_stalker_fp">
+    <text>Radiation patch</text>
+  </string>
+  <string id="st_stalker_fp_descr">
+    <text>Commonly worn by unaligned stalkers, this patch is considered a common collectible by Mercenaries, who trade the patches in to a mysterious buyer. As Loners are numerous, yet often split and alone, they're considered easy pickings by the more organized and predatory groups in the Zone. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] personal belongings\n
+		%c[d_blue] ・ %c[ui_gray_2] valuable\n
+		</text>
+  </string>
+  <string id="st_ecolog_fp">
+    <text>Ecologist faction patch</text>
+  </string>
+  <string id="st_ecolog_fp_descr">
+    <text>This faction insignia depicts a pair of golden wings set against a white and cyan background. These patches are highly valued on the Zone's black market, as sewing one convincingly into a suit can allow a stalker to go almost anywhere without fear of molestation by other groups. Ecologists almost never part with their patches willingly, however, although that doesn't stop the Zone's less scrupulous denizens.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] personal belongings\n
+		%c[d_blue] ・ %c[ui_gray_2] valuable\n
+		</text>
+  </string>
+  <string id="st_bandit_fp">
+    <text>Bandit faction patch</text>
+  </string>
+  <string id="st_bandit_fp_descr">
+    <text>This faction insignia depicts a cracked black skull set against a white shield. This symbol is highly in keeping with the vision held by some of the faction's leaders - that they are no mere thugs, but instead the lords of their own feudal mobs, bringing order to those who accept their "protection" and visiting ruthless retribution upon anyone who dares defy them.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] personal belongings\n
+		%c[d_blue] ・ %c[ui_gray_2] valuable\n
+		</text>
+  </string>
+  <string id="st_dolg_fp">
+    <text>Duty faction patch</text>
+  </string>
+  <string id="st_dolg_fp_descr">
+    <text>This faction insignia depicts a gold crosshair set against a red and black shield. Overall, the design is meant to allude to the faction's Military roots, but without detracting from their chief role as the stoic, bloody-handed soldiers who must constantly battle against the Zone for the sake of the world outside.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] personal belongings\n
+		%c[d_blue] ・ %c[ui_gray_2] valuable\n
+		</text>
+  </string>
+  <string id="st_monolith_fp">
+    <text>Monolith faction patch</text>
+  </string>
+  <string id="st_monolith_fp_descr">
+    <text>This insignia depicts a set of wings in profile against a golden sun - possibly a symbol for the legendary Wish Granter. The most intriguing aspect of this patch is that it belongs to people who are believed to be brainwashed, and isn't found anywhere else. Thus the existence of the patch means that either Monolith troops retain a higher level of creativity than initially thought...or they're being secretly supplied by an unknown outside force. These patches are highly valued among other groups, as they're a good way to prove that one is able to regularly fight against Monolith and live - an ability highly respected by the veterans of the Zone.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] personal belongings\n
+		%c[d_blue] ・ %c[ui_gray_2] valuable\n
+		</text>
+  </string>
+  <string id="st_army_fp">
+    <text>Military faction patch</text>
+  </string>
+  <string id="st_army_fp_descr">
+    <text>This faction insignia is a full military coat of arms. It depicts three shields, the centermost one in the colours of the Ukrainian flag with two swords in saltire behind it. Surrounding the shields are golden laurels. Evidently, the Military forces in the Zone fancy themselves as protectors and peacekeepers first and foremost. Whether they actually fulfill this role is a matter of bitter contention.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] personal belongings\n
+		%c[d_blue] ・ %c[ui_gray_2] valuable\n
+		</text>
+  </string>
+  <string id="st_merc_fp">
+    <text>Mercenary faction patch</text>
+  </string>
+  <string id="st_merc_fp_descr">
+    <text>This faction insignia depicts a blue bird of prey set against a black background. It is meant to be indicative of the Mercs' character as a faction of cold, precise and highly mobile soldiers of fortune, ready to capture or terminate their objectives at a moment's notice. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] personal belongings\n
+		%c[d_blue] ・ %c[ui_gray_2] valuable\n
+		</text>
+  </string>
+  <string id="st_isg_fp">
+    <text>UNISG faction patch</text>
+  </string>
+  <string id="st_isg_fp_descr">
+    <text>This faction insignia depicts a white microscope surrounded by highly angular, stylized laurels set against a maroon background. Sewn onto the back of the patch - and away from casual observation - is a label saying the insignia belongs to the "United Nations International Scientific Group".\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] personal belongings\n
+		%c[d_blue] ・ %c[ui_gray_2] valuable\n
+		</text>
+  </string>
+  <string id="st_greh_fp">
+    <text>Sin faction patch</text>
+  </string>
+  <string id="st_greh_fp_descr">
+    <text>Simply holding this patch makes you feel a little uneasy. In the top left corner is a serpent, while in the right there's an Eastern Orthodox Cross. A stylized depiction of an eclipsed star is set against the very center of the patch. As you continue to hold it, however, the unease subsides, slowly giving way to a strange sense of peace.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] personal belongings\n
+		%c[d_blue] ・ %c[ui_gray_2] valuable\n
+		</text>
+  </string>
+  <string id="st_renegade_fp">
+    <text>Renegades faction patch</text>
+  </string>
+  <string id="st_renegade_fp_descr">
+    <text>This faction insignia depicts a yellow scorpion set against a green shield. That this item exists would imply the Renegades once had a greater goal at some point in their existence, although no one today would believe they stay together out of anything but sheer desperation. The item is still kept in circulation among Renegades, possibly out of nostalgia.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] ・ %c[ui_gray_2] personal belongings\n
+		%c[d_blue] ・ %c[ui_gray_2] valuable\n
+		</text>
+  </string>
+</string_table>

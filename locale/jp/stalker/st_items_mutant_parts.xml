@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="st_meat_tushkano">
+    <text>ラットの串焼き</text>
+  </string>
+  <string id="st_meat_tushkano_descr">
+    <text>塩とチリペッパーで味付けし、網焼きされた二本の Tushkano。Zone で最も安価な暖かい食べ物。\n 
+		%c[ui_gray_3]PROPERTIES:\n</text>
+  </string>
+  <string id="st_meat_dog">
+    <text>Dog の骨付き肉</text>
+  </string>
+  <string id="st_meat_dog_descr">
+    <text>塩、胡椒、にんにくで味付けされた Dog の骨付き肉と、ピーマン、茸を混ぜた温かい小さな食べ物。安価なため、人気が高い Boar の代替食材として Dog の肉が使われている。\n 
+		%c[ui_gray_3]PROPERTIES:\n</text>
+  </string>
+  <string id="st_meat_pseudodog">
+    <text>Pseudodog の骨付き肉</text>
+  </string>
+  <string id="st_meat_pseudodog_descr">
+    <text>網焼きされた Pseudodog の骨付き肉。厚い筋肉により栄養価が高い。\n 
+		%c[ui_gray_3]PROPERTIES:\n</text>
+  </string>
+  <string id="st_meat_flesh">
+    <text>ファットベーコン</text>
+  </string>
+  <string id="st_meat_flesh_descr">
+    <text>一切れの脂の乗ったベーコンは、豚の変異体、Flesh の肉で製造された。
+		%c[ui_gray_3]PROPERTIES:\n</text>
+  </string>
+  <string id="st_meat_boar">
+    <text>Boar の骨付き肉</text>
+  </string>
+  <string id="st_meat_boar_descr">
+    <text>塩胡椒で味付けされ、小さくカットされた Boar の網焼き。Stalker の間で最も人気のある温かい食事。\n
+                %c[ui_gray_3]PROPERTIES:\n</text>
+  </string>
+  <string id="st_meat_bloodsucker">
+    <text>Bloodsucker のグヤーシュ</text>
+  </string>
+  <string id="st_meat_bloodsucker_descr">
+    <text>Bloodsucker の肉に茸を合わせ、唐辛子で味付けした温かいシチュー。\n 
+                %c[ui_gray_3]PROPERTIES:\n</text>
+  </string>
+  <string id="st_meat_psysucker">
+    <text>Psysucker のグヤーシュ</text>
+  </string>
+  <string id="st_meat_psysucker_descr">
+    <text>Psysucker の肉に茸を合わせ、唐辛子で味付けした温かいシチュー。\n
+                %c[ui_gray_3]PROPERTIES:\n</text>
+  </string>
+  <string id="st_meat_snork">
+    <text>Snork の手の網焼き</text>
+  </string>
+  <string id="st_meat_snork_descr">
+    <text>網焼きされ直ぐに食べられる Snork の手。警告：Zone の常識でも、Snork の肉を食べることはカニバリズムであり、不道徳な行いとして忌み嫌われる。しかし、特定の派閥、例えば Bandits や Mercenaries は他の派閥に対し優位性を示す行為として食べることがある。\n 
+                %c[ui_gray_3]PROPERTIES:\n</text>
+  </string>
+  <string id="st_meat_chimera">
+    <text>漢の飯</text>
+  </string>
+  <string id="st_meat_chimera_descr">
+    <text>香辛料と茸が添えられた Chimera の肉。困難な作戦を完遂し、それを祝う際にベテラン Stalker 達が好んで食べる高価な食事。\n 
+                %c[ui_gray_3]PROPERTIES:\n</text>
+  </string>
+  <string id="st_meat_lurker">
+    <text>Lurker の骨付き肉</text>
+  </string>
+  <string id="st_meat_lurker_descr">
+    <text>小さく切り分けたlurkerの肉を焼いて塩で味付けしたもの。紙に包まれて食べられる状態になっている。厚い筋肉のため、栄養価が高い。\n
+                %c[ui_gray_3]PROPERTIES:\n</text>
+  </string>
+  <string id="mutant_flesh_meat">
+    <text>Flesh の肉</text>
+  </string>
+  <string id="mutant_flesh_meat_description">
+    <text>良い味で高い栄養価を持ち、ZONE ではごく一般的な肉。科学者達はすでに十分なサンプルを持っているため、商品価値は低い。この動物性脂肪は、銃の潤滑油として使える。\n %c[d_red]警告：%c[default]ZONE 内の動物やミュータントは、旋毛虫症やブルセラ症などの家畜伝染病を有している可能性が高いため、生肉を食べないよう推奨する。これらの疾患は、感染した肉を摂取することで伝染していく。症状は発熱、疲労や食欲不振。この症状は全て ZONE という条件下では非常に危険である。肉の表面に腫れ物が見える場合は、肉の内部で菌が増殖しており、廃棄する必要があることを示している。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_green] ・ %c[ui_gray_2] 低レベルのミュータント肉\n
+                %c[d_green] ・ %c[ui_gray_2] 調理可能\n
+                %c[d_red] ・ %c[ui_gray_2] 有毒な食品\n
+                </text>
+  </string>
+  <string id="mutant_boar_chop">
+    <text>Boar の肉</text>
+  </string>
+  <string id="mutant_boar_chop_description">
+    <text>ZONE 内で最も人気のある肉。栄養があり、ほとんど汚染されていない。科学者達はすでに十分なサンプルを持っているため、商品価値は低い。この動物性脂肪は、銃の潤滑油として使える。\n %c[d_red]警告：%c[default]ZONE 内の動物やミュータントは、旋毛虫症やブルセラ症などの家畜伝染病を有している可能性が高いため、生肉を食べないよう推奨する。これらの疾患は、感染した肉を摂取することで伝染していく。症状は発熱、疲労や食欲不振。この症状は全て ZONE という条件下では非常に危険である。肉の表面に腫れ物が見える場合は、肉の内部で菌が増殖しており、廃棄する必要があることを示している。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_green] ・ %c[ui_gray_2] 低レベルのミュータント肉\n
+                %c[d_green] ・ %c[ui_gray_2] 調理可能\n
+                %c[d_red] ・ %c[ui_gray_2] 有毒な食品\n
+                </text>
+  </string>
+  <string id="mutant_dog_meat">
+    <text>Dog の肉</text>
+  </string>
+  <string id="mutant_dog_meat_description">
+    <text>変異した Dog の肉は、人気の Boar 肉の安価な代替肉として利用されている。科学者達はすでに十分なサンプルを持っているため、商品価値は低い。この動物性脂肪は、銃の潤滑油として使える。\n %c[d_red]警告：%c[default]ZONE 内の動物やミュータントは、旋毛虫症やブルセラ症などの家畜伝染病を有している可能性が高いため、生肉を食べないよう推奨する。これらの疾患は、感染した肉を摂取することで伝染していく。症状は発熱、疲労や食欲不振。この症状は全て ZONE という条件下では非常に危険である。肉の表面に腫れ物が見える場合は、肉の内部で菌が増殖しており、廃棄する必要があることを示している。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_green] ・ %c[ui_gray_2] 低レベルのミュータント肉\n
+                %c[d_green] ・ %c[ui_gray_2] 調理可能\n
+                %c[d_red] ・ %c[ui_gray_2] 有毒な食品\n
+                </text>
+  </string>
+  <string id="mutant_psevdodog_meat">
+    <text>Pseudodog の肉</text>
+  </string>
+  <string id="mutant_psevdodog_meat_description">
+    <text>Pseudodog の肉は、ZONE 内でごく一般的な食事用の食肉として利用されている。美味しく高い栄養価を持つ為、Stalker 達の間で人気のある選択肢の一つ。科学者達に販売することが出来る。この動物性脂肪は、銃の潤滑油として使える。\n %c[d_red]警告：%c[default]ZONE 内の動物やミュータントは、旋毛虫症やブルセラ症などの家畜伝染病を有している可能性が高いため、生肉を食べないよう推奨する。これらの疾患は、感染した肉を摂取することで伝染していく。症状は発熱、疲労や食欲不振。この症状は全て ZONE という条件下では非常に危険である。肉の表面に腫れ物が見える場合は、肉の内部で菌が増殖しており、廃棄する必要があることを示している。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_green] ・ %c[ui_gray_2] 低レベルのミュータント肉\n
+                %c[d_green] ・ %c[ui_gray_2] 調理可能\n
+                %c[d_red] ・ %c[ui_gray_2] 有毒な食品\n
+                </text>
+  </string>
+  <string id="mutant_krovosos_meat">
+    <text>Bloodsucker の肉</text>
+  </string>
+  <string id="mutant_krovosos_meat_description">
+    <text>Bloodsucker の肉は筋ばっていて食用に適していない。Bloodsucker は恐ろしい化物だが、その肉は限られた用途にしか使えない為、価値は低い。科学者達に販売することが出来る。この動物性脂肪は、銃の潤滑油として使える。\n %c[d_red]警告：%c[default]ZONE 内の動物やミュータントは、旋毛虫症やブルセラ症などの家畜伝染病を有している可能性が高いため、生肉を食べないよう推奨する。これらの疾患は、感染した肉を摂取することで伝染していく。症状は発熱、疲労や食欲不振。この症状は全て ZONE という条件下では非常に危険である。肉の表面に腫れ物が見える場合は、肉の内部で菌が増殖しており、廃棄する必要があることを示している。 \n
+                %c[d_green] ・ %c[ui_gray_2] 高レベルミュータントの肉\n
+                %c[d_green] ・ %c[ui_gray_2] 調理可能\n
+                %c[d_red] ・ %c[ui_gray_2] 有毒な食品\n
+                </text>
+  </string>
+  <string id="mutant_psysucker_meat">
+    <text>Psysucker の肉</text>
+  </string>
+  <string id="mutant_psysucker_meat_description">
+    <text>Bloodsucker の肉と同様にPsysucker の肉は筋ばっていて食用に適していない。その肉は限られた用途にしか使えない為、価値は低い。科学者達に販売することが出来る。この動物性脂肪は、銃の潤滑油として使える。\n %c[d_red]警告：%c[default]ZONE 内の動物やミュータントは、旋毛虫症やブルセラ症などの家畜伝染病を有している可能性が高いため、生肉を食べないよう推奨する。これらの疾患は、感染した肉を摂取することで伝染していく。症状は発熱、疲労や食欲不振。この症状は全て ZONE という条件下では非常に危険である。肉の表面に腫れ物が見える場合は、肉の内部で菌が増殖しており、廃棄する必要があることを示している。\n \n
+                %c[d_green] ・ %c[ui_gray_2] 高レベルミュータントの肉\n
+                %c[d_green] ・ %c[ui_gray_2] 調理可能\n
+                %c[d_red] ・ %c[ui_gray_2] 有毒な食品\n
+                </text>
+  </string>
+  <string id="mutant_snork_hand">
+    <text>Snork の手</text>
+  </string>
+  <string id="mutant_snork_hand_description">
+    <text>広く知られているように、元々 Snork は人間だった為、その肉を食べることは道徳に反する共食いとみなされる。しかしながら、他の派閥よりも優位性を示すためか、Bandits や Mercenary などの特定の派閥はこの肉を食用に含める。この肉は科学者に販売することでより有効に活用できるだろう。\n %c[d_red]警告：%c[default]ZONE 内の動物やミュータントは、旋毛虫症やブルセラ症などの家畜伝染病を有している可能性が高いため、生肉を食べないよう推奨する。これらの疾患は、感染した肉を摂取することで伝染していく。症状は発熱、疲労や食欲不振。この症状は全て ZONE という条件下では非常に危険である。肉の表面に腫れ物が見える場合は、肉の内部で菌が増殖しており、廃棄する必要があることを示している。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_green] ・ %c[ui_gray_2] 低レベルのミュータント肉\n
+                %c[d_green] ・ %c[ui_gray_2] 調理可能\n
+                %c[d_red] ・ %c[ui_gray_2] 有毒な食品\n
+                </text>
+  </string>
+  <string id="mutant_fracture_hand">
+    <text>Fracture の手</text>
+  </string>
+  <string id="mutant_fracture_hand_description">
+    <text>極度に変異した人型のミュータント － Izlom の切断された手。このミュータントは二度目のチェルノブイリ事故の際、人間から変異して生まれたことは確かである。彼らの衣服の残骸から、Izlom は ZONE に駐留して強制労働をさせられていた、刑を宣告された囚人が元ではないかと推測することが出来る。Izlom の体の変形はどれも同一である為、被爆した際にすべての被験者が同じ体の位置にあったのではないかと想定されている。誰かが意図的にその位置に並べたか、輸送中だったかのどちらかだろう。また、これまでに発見されているすべての標本は無菌の男性である。その為、感染することのない Izlom の総数が増えることは無く、Zone 内でその数は着実に減少している。彼らに会うことは非常に珍しく、その極端に変形した右手は貴重な研究対象となっている。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 希少な科学的標本\n
+                %c[d_cyan] ・ %c[ui_gray_2] 貴重\n</text>
+  </string>
+  <string id="mutant_zombi_hand">
+    <text>Zombie の手</text>
+  </string>
+  <string id="mutant_zombi_hand_description">
+    <text>古くから Zombie と呼ばれる生物の手。二度目のチェルノブイリ事故による放射線を心理に多大な影響を受けるほど浴びた、Zone 近辺の居住者、もしくは働いていた人々。骨と皮、半分腐った肉を持つ体から、長い年月が経っていることを示している。その為、この化物の大部分は動く死体のようだ。しかし彼らは動き回り、永遠に空腹な為、集団に出くわした場合は脅威になる可能性がある。切断された手は化学的な研究材料となるだけではなく、多くの場合で個人を識別するために利用されたりもする。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 一般的な科学的標本\n</text>
+  </string>
+  <string id="mutant_chimera_meat">
+    <text>Chimera の肉の塊</text>
+  </string>
+  <string id="mutant_chimera_meat_description">
+    <text>Chimera の重い肉の塊。Chimera は、最も危険な生き物の一つと考えられている為、その肉はベテランの Stalker により非常に高価なものと評価されている。Skadovsk のコックは、いわゆる "男の料理" に入れる食材としてこの肉を使用している。味について、少数の人間は Boar の肉よりはマシだと主張しているが…。科学者達に販売することが出来る。また、この動物性脂肪は ZONE で利用可能な最高品質の潤滑油として使用することが出来る。\n %c[d_red]警告：%c[default]ZONE 内の動物やミュータントは、旋毛虫症やブルセラ症などの家畜伝染病を有している可能性が高いため、生肉を食べないよう推奨する。これらの疾患は、感染した肉を摂取することで伝染していく。症状は発熱、疲労や食欲不振。この症状は全て ZONE という条件下では非常に危険である。肉の表面に腫れ物が見える場合は、肉の内部で菌が増殖しており、廃棄する必要があることを示している。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_green] ・ %c[ui_gray_2] 高レベルミュータントの肉\n
+                %c[d_green] ・ %c[ui_gray_2] 調理可能\n
+                %c[d_red] ・ %c[ui_gray_2] 有毒な食品\n
+                </text>
+  </string>
+  <string id="mutant_lurker_meat">
+    <text>Lurker の肉</text>
+  </string>
+  <string id="mutant_lurker_meat_description">
+    <text>lurker肉の塊。栄養価が高く、汚染はひどくない。科学者達に販売することが出来る。この動物性脂肪は、銃の潤滑油として使える。\n %c[d_red]警告：%c[default]ZONE 内の動物やミュータントは、旋毛虫症やブルセラ症などの家畜伝染病を有している可能性が高いため、生肉を食べないよう推奨する。これらの疾患は、感染した肉を摂取することで伝染していく。症状は発熱、疲労や食欲不振。この症状は全て ZONE という条件下では非常に危険である。肉の表面に腫れ物が見える場合は、肉の内部で菌が増殖しており、廃棄する必要があることを示している。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_green] ・ %c[ui_gray_2] 高レベルミュータントの肉\n
+                %c[d_green] ・ %c[ui_gray_2] 調理可能\n
+                %c[d_red] ・ %c[ui_gray_2] 有毒な食品\n
+                </text>
+  </string>
+  <string id="mutant_tushkano_meat">
+    <text>げっ歯類の肉</text>
+  </string>
+  <string id="mutant_tushkano_meat_description">
+    <text>変異した齧歯類の体のごく一部。安価でごく一般的に見られる食材で、直火で調理することで、心肺を強化する栄養素があると言われている。科学者達に販売することが出来る。\n %c[d_red]警告：%c[default]ZONE 内の動物やミュータントは、旋毛虫症やブルセラ症などの家畜伝染病を有している可能性が高いため、生肉を食べないよう推奨する。これらの疾患は、感染した肉を摂取することで伝染していく。症状は発熱、疲労や食欲不振。この症状は全て ZONE という条件下では非常に危険である。肉の表面に腫れ物が見える場合は、肉の内部で菌が増殖しており、廃棄する必要があることを示している。 \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_green] ・ %c[ui_gray_2] 低レベルのミュータント肉\n
+                %c[d_green] ・ %c[ui_gray_2] 調理可能\n
+                %c[d_red] ・ %c[ui_gray_2] 有毒な食品\n
+                </text>
+  </string>
+  <string id="mutant_flesh_eye">
+    <text>Flesh の目</text>
+  </string>
+  <string id="mutant_flesh_eye_description">
+    <text>Flesh の膨れて変異した目玉は、そのレンズが変異する過程で、利用できる部位の中では最も価値ある自己修復の奇妙な特性を得た。そのような特性をどうやって持ったのか、過程の詳細は未知のままだが、そこに隠れたメカニズムを発見することで数多くの病気の治療に役立ち、現代医学に革命をもたらすことだろう。科学者に Flesh の目を販売することで、科学の進歩を早める為に協力し、罪のない人々の命を救うことができる。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 一般的な科学的標本\n</text>
+  </string>
+  <string id="mutant_boar_leg">
+    <text>Boar のヒヅメ</text>
+  </string>
+  <string id="mutant_boar_leg_description">
+    <text>Boar のヒヅメは抗放射能血清を含む多くの薬品の原料になる。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 一般的な科学的標本\n</text>
+  </string>
+  <string id="mutant_dog_tail">
+    <text>Dog の尻尾</text>
+  </string>
+  <string id="mutant_dog_tail_description">
+    <text>変異した Dog の皮膚が持つ、薬品や電撃に対する耐性は、長い間科学的関心の対象であった。特にこの尾には脂肪組織が存在しない為、研究素材として最適である。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 一般的な科学的標本\n</text>
+  </string>
+  <string id="mutant_psevdodog_tail">
+    <text>Pseudodog の尻尾</text>
+  </string>
+  <string id="mutant_psevdodog_tail_description">
+    <text>噂によると、ある流行が最近、ファッションの世界で流行ったと言われている： Pseudodog の尾から取った毛皮が。その噂を伝えるかのようにその毛皮は非常に柔らかい。また、それは猛吹雪の中だとしても暖かく保温できるとも言われている。その理由から、Pseudodog の尾は高い需要がある。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 一般的な科学的標本\n</text>
+  </string>
+  <string id="mutant_krovosos_jaw">
+    <text>Bloodsucker の顎</text>
+  </string>
+  <string id="mutant_krovosos_jaw_description">
+    <text>Bloodsucker の触手には、皮膚を溶かし、同時に血液の凝固を阻害する酵素を生成する特殊な器官が備わっている。この酵素の組成を解明することが、医学の大きな発展の基礎になるかもしれない。しばしば Stalker は、ネックレスやチャームを作るために Bloodsucker の歯を使用する傾向がある。そうやって Bloodsucker の顎で作られた装飾品は、Zone で最も人気のある作品のうちの一つである。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 希少な科学的標本\n
+                %c[d_cyan] ・ %c[ui_gray_2] 貴重\n</text>
+  </string>
+  <string id="mutant_snork_leg">
+    <text>Snork の脚</text>
+  </string>
+  <string id="mutant_snork_leg_description">
+    <text>Snork の脚には、多数の非常に柔軟な腱が備わっている。この怪物が信じられないほどの長距離をジャンプをする訳を、これらは説明している。科学者達はその潜在的な能力を探求しており、どのような標本でも感謝するだろう。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 一般的な科学的標本\n
+                </text>
+  </string>
+  <string id="mutant_chimera_cogot">
+    <text>Chimera の角</text>
+  </string>
+  <string id="mutant_chimera_cogot_description">
+    <text>Chimera の角。その正確な分子組成は不明であるが、それがダイヤモンドのように耐久性と鋭さを持ち、スーツをいとも簡単に引き裂けることを我々は知っている。サイの角のようにも見えるこのアイテムは非常に人気がある。その角を手に入れて闇市場で売りさばくことを目的に Zone に来た密猟者もいる。残念なことに、Chimera はサイのように従順では無い為、それを手に入れることはできなかった。彼らに残された物は、幾つかの不快な思い出と、この凶悪なミュータントにバラバラに引き裂かれた場所を示す所持品のみである。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 非常に 希少な科学的標本\n
+                %c[d_cyan] ・ %c[ui_gray_2] 貴重\n</text>
+  </string>
+  <string id="mutant_chimera_claw">
+    <text>Chimera の爪</text>
+  </string>
+  <string id="mutant_chimera_claw_description">
+    <text>Chimera の爪。その正確な分子組成は不明であるが、それがダイヤモンドのように耐久性と鋭さを持ち、スーツをいとも簡単に引き裂けることを我々は知っている。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 非常に 希少な科学的標本\n
+                %c[d_cyan] ・ %c[ui_gray_2] 貴重\n</text>
+  </string>
+  <string id="mutant_lurker_eye">
+    <text>Lurker の目</text>
+  </string>
+  <string id="mutant_lurker_eye_description">
+    <text>変異したLurker の黄色い目玉。大きな瞳孔を囲むように輝くLurkerの目は、地元の狩人の関心を惹いた。科学者たちは今でも、Lurkerの目の活用法を探している。 \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 一般的な科学的標本\n</text>
+  </string>
+  <string id="mutant_lurker_tail">
+    <text>Lurkerの尻尾</text>
+  </string>
+  <string id="mutant_lurker_tail_description">
+    <text>科学者達は、Lurkerの尻尾の特徴から、Lurkerがtushkanoの雑種であることを証明できると示唆している。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 一般的な科学的標本\n</text>
+  </string>
+  <string id="mutant_psysucker_hand">
+    <text>Psysucker の手</text>
+  </string>
+  <string id="mutant_psysucker_hand_description">
+    <text>Psysucker は、細い手と長い指で知られている。指先の周りの皮膚は引き裂かれたかのようにぼろぼろである。科学者たちは、精神伝達力の源である突然変異の原因を見つけることを期待して喜んで調査している。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 一般的な科学的標本\n</text>
+  </string>
+  <string id="mutant_tushkano_head">
+    <text>Tushkano の頭</text>
+  </string>
+  <string id="mutant_tushkano_head_description">
+    <text>Tushkano の頭。科学者達は、生物として Tushkano の発生源を特定するために、それを研究したがっている。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 一般的な科学的標本\n</text>
+  </string>
+  <string id="mutant_part_controller_brain_tissue">
+    <text>Controller の脳組織</text>
+  </string>
+  <string id="mutant_part_controller_brain_tissue_description">
+    <text>Controller は強力な精神力を持っており、これらの力はその脳内に起源を持っている。興味深いことに、Psy 波に関する能力を持つミュータントの脳は、すべて類似の構造を持っている。科学者達はこの標本を得る為に気前よく金を支払うだろう。腐ったかぼちゃのような臭いがする。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 非常に 希少な科学的標本\n
+                %c[d_cyan] ・ %c[ui_gray_2] 非常に 貴重\n</text>
+  </string>
+  <string id="mutant_controller_hand">
+    <text>Controller の手</text>
+  </string>
+  <string id="mutant_controller_hand_description">
+    <text>Controller は、獲物を精神的に攻撃する時、その手を使っているようだ。科学者たちはその Psy パワーを操る突然変異の原因を見つけることを期待して、喜んでそれを研究する。古い靴下と痛んだキムチのような臭いがする。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 非常に 希少な科学的標本\n
+                %c[d_cyan] ・ %c[ui_gray_2] 貴重\n</text>
+  </string>
+  <string id="mutant_cat_tail">
+    <text>Cat の尻尾</text>
+  </string>
+  <string id="mutant_cat_tail_description">
+    <text>Zone 内の Cat は、ペットである猫と比べて非常に大きく、その見た目とは裏腹に音もなく移動することのできる非常に危険な捕食者である。Cat の尾は意識の象徴である。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 一般的な科学的標本\n</text>
+  </string>
+  <string id="mutant_pseudogigant_hand">
+    <text>Pseudogiant の手</text>
+  </string>
+  <string id="mutant_pseudogigant_hand_description">
+    <text>Pseudogiant の手は、科学者の誰もが喜んで研究する為、非常に有用であると知られている。古い靴下と悪くなったキムチのような臭いがする。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 非常に 希少な科学的標本\n
+                %c[d_cyan] ・ %c[ui_gray_2] 貴重\n</text>
+  </string>
+  <string id="mutant_pseudogigant_eye">
+    <text>Pseudogiant の目</text>
+  </string>
+  <string id="mutant_pseudogigant_eye_description">
+    <text>Pseudogiant の目は大きく、見た目は人間の目のようだが、幾つかの違いが見られる。これは虹色の虹彩を持ち、その涙腺は非常に良く開かれている。Pseudogiants は頻繁に流涙することが知られているが、これがなにかの生理学的プロセスや生物の心理学的副産物の結果なのかどうかもわからない。いずれにしても、科学者達はこの標本を研究することに非常に熱心になる為、高い代償を払うことをいとわない。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 非常に 希少な科学的標本\n
+                %c[d_cyan] ・ %c[ui_gray_2] 貴重\n</text>
+  </string>
+  <string id="mutant_burer_hand">
+    <text>Burer の手</text>
+  </string>
+  <string id="mutant_burer_hand_description">
+    <text>Burer の手は、このミュータントが念動力を使用するのに重要な役割を果たしているようだ。科学者達はこの突然変異の原因を喜んで調査して検証するだろう。古い靴下と痛んだキムチのような臭いがする。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 非常に 希少な科学的標本\n
+                %c[d_cyan] ・ %c[ui_gray_2] 貴重\n</text>
+  </string>
+  <string id="st_mutant_part_crow_beak">
+    <text>変異した Crow のくちばし</text>
+  </string>
+  <string id="st_mutant_part_crow_beak_description">
+    <text>ZONE で 15 年以上生きている、変異した Crow のくちばし。非常に硬く耐久性に優れる。Crow は Chernobyl や Pripyat の街を移動する際に有用なことをわかっている人がいる一方、Stalker の大半は処分されるべき害鳥として Crow を認識している。Zoneの動物相によく見られるように、適応が促進されたため生殖周期が早くなり、年間最大4回ほど産卵する。 20年といわれる長寿命もあるが、この鳥類は並外れた知性を示しす。密集している時は特に…。くちばしは時々装飾品として身につけられ、それ以外の用途にはあまり使われていない。しかし、ZONE に一番最初に到着した Stalker は、"くちばし（The Beak）" という儀式を行っていたと言う話が伝えられている。\n この儀式は最年長のカラスのくちばしを粉砕することで特別な混合物を作成し、満月の光の下で摂取すると、自分の心が”ゾーン内のすべてのカラスによって共有されている多意識”と一時的に融合出来るというものである。そのような経験を壊れやすい人間の心で受け入れた場合に何が起こるかは経験者以外の誰にもわからないが、これがStalker Noahが必然的な大災害から可能な限りのものを守るため、この荒廃した土地に必死の試みで”方舟”を築いた理由であると推測される。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 希少な科学的標本\n
+                %c[d_cyan] ・ %c[ui_gray_2] 貴重\n</text>
+  </string>
+  <string id="mutant_snork_mask">
+    <text>Snork のマスク</text>
+  </string>
+  <string id="mutant_snork_mask_description">
+    <text>Snork が着用しているマスクは一般の兵士用だけではなく、二度目のチェルノブイリ事故が起きた時、Zone 内で研究や活動をしていた人々が装着していた GP-5 ソビエト製ガスマスクだ。その人々の中には、外界から遮断されて膨大な量の放射線にさらされた地下研究所で働く数多くの人々がいた。それが我々の良く知る Snork という生物を作り上げた。そのマスクは（レンズのひび割れ、パンクしたフィルターホースなどで）使用できないほど壊れているが、科学界にとってはまだ需要があるようだ。またスーツなどの修理に使用することもできるが、その際は Snork 特有の有機的な素材は失われてしまう。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] 技術品\n
+                %c[d_red] ・ %c[ui_gray_2] 修理不可能なほど損壊\n
+                %c[d_cyan] ・ %c[ui_gray_2] 一般的な科学的標本\n
+                </text>
+  </string>
+  <string id="mutant_dog_liver">
+    <text>Dogの肝臓</text>
+  </string>
+  <string id="mutant_dog_liver_description">
+    <text>この犬の肝臓は、ゾーンの中での有毒な食事と汚染された飲料水によって、重大な変異を起こしている。肝臓病の医学研究を助ける可能性があるため、この肝臓は科学者にとって特に興味深いものとなっている。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 一般的な科学的標本\n</text>
+  </string>
+  <string id="mutant_dog_heart">
+    <text>Dog の心臓</text>
+  </string>
+  <string id="mutant_dog_heart_description">
+    <text>Blind dogsには健康的な犬に比べ、かなり異なる多くの特徴がある。これらの違いの1つに、非常に丈夫な心臓が挙げられる。驚くべきことに、心臓自体が限界を迎えるまでdogが獲物を追いかけ続ける事を可能にしている。追跡中の脈拍は毎分250拍に達し、これは同じ体重クラスの心臓疾患を持たない健康な個体では考えられない。この持久力はBlind dogsの心臓を興味深い研究主題にするが、その有病率のために、科学者が得られる検体は少ないのが現状だ。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 一般的な科学的標本\n</text>
+  </string>
+  <string id="mutant_cat_thyroid">
+    <text>Catの甲状腺</text>
+  </string>
+  <string id="mutant_cat_thyroid_description">
+    <text>放射線に汚染された地域での長期生存の結果、Catの甲状腺サイズは倍増した。現時点では、世代交代後の甲状腺機能亢進症の獲得には至っていないが、遺伝性疾患はある。症状：食物摂取の増加、活動の増加、行動の変化、緊張、脱毛。これらの習得した技能は破壊されず、突然変異した動物が健康な近親者を駆逐し、食物連鎖の高い位置を占めることを可能にせしめた。科学者にとっての大きな関心は、メカニズムの研究と病気の影響だけという訳ではない。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 一般的な科学的標本\n</text>
+  </string>
+  <string id="mutant_cat_claw">
+    <text>Catの爪</text>
+  </string>
+  <string id="mutant_cat_claw_description">
+    <text>Catの爪。その正確な分子組成は不明であるが、スーツをいとも簡単に引き裂けることを我々は知っている。軍と科学者は、この爪の徹底的な研究によって新しい高耐久性素材と、防具の基礎材料の開発につながると確信している。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 一般的な科学的標本\n</text>
+  </string>
+  <string id="mutant_tusk_boar">
+    <text>イノシシの牙</text>
+  </string>
+  <string id="mutant_tusk_boar_description">
+    <text>この牙は30センチの長さにわたり、突進時に牙を突き立てられた場合かなりの脅威となる。一方、パッとしない組成と不十分な強度のため、ゾーンの科学者の関心を引くことはない。しかしながら、牙はストーカーの間ではトロフィーとしてよく使われており、ゾーン外のコレクターズアイテムとして需要がある。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 一般的な科学的標本\n</text>
+  </string>
+  <string id="mutant_heart_bloodsucker">
+    <text>Bloodsuckerの心臓</text>
+  </string>
+  <string id="mutant_heart_bloodsucker_description">
+    <text>Bloodsuckerの心臓は未調査の能力がある - それは、比類のない血液型によって引き起こされる凝固過程を止める特別な酵素を分泌する能力だ。そのおかげで、血液型が異なっていても凝固が起こらない。このメカニズムのしくみや酵素の組成に関する研究が進めば、科学者たちはまれな血液型を持つ患者に対する献血問題を解決することができ、そしておそらく医学の新たな扉を開くことになるだろう。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 希少な科学的標本\n
+                %c[d_cyan] ・ %c[ui_gray_2] 貴重\n</text>
+  </string>
+  <string id="mutant_fang_psevdodog">
+    <text>Pseudodogの牙</text>
+  </string>
+  <string id="mutant_fang_psevdodog_description">
+    <text>Pseudodogの牙は、獲物を引き裂くのと咥えるために使用される。突然変異体のとてつもない顎の圧力のため、ゾーンで使用されるほとんどの保護装備を貫通して噛むことが出来る。歯自体はそれほど強くはなく、日常的に生え替わっている。科学者たちは、ゾーン外のコレクターとは異なり、特に興味を示していない。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 一般的な科学的標本\n</text>
+  </string>
+  <string id="mutant_brain_burer">
+    <text>Burerの脳</text>
+  </string>
+  <string id="mutant_brain_burer_description">
+    <text>Burerは完璧なテレパシー能力を持っているが、科学ではまったく研究されていない。これがBurerの臓器のほとんどを科学者や傭兵が欲しがる理由になっている。テレパシー能力の主要源としての脳は、このリストの最優先事項である。その質量は人間の脳よりも1.5倍ほど大きい。外見上の違いはないが、その大きさと構造のために、脳は摘出中に簡単に損傷を受ける可能性がある。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 希少な科学的標本\n
+                %c[d_cyan] ・ %c[ui_gray_2] 貴重\n</text>
+  </string>
+  <string id="mutant_heart_chimera">
+    <text>Chimera の心臓</text>
+  </string>
+  <string id="mutant_heart_chimera_description">
+    <text>生き物の二重性にふさわしく、このキメラの心臓部には、予備の血液供給元として機能するもう一つの器官が付随して成長している。科学者が興味を持っているのは、重度の怪我を負った後でさえもキメラに戦闘継続可能な能力を提供するという、高レベルの再生力を有していることだろう。これはシャム双生児の死亡率改善につながる手段となる事が期待されている。\n \n
+                %c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 希少な科学的標本\n
+                %c[d_cyan] ・ %c[ui_gray_2] 貴重\n</text>
+  </string>
+  <string id="mutant_part_psy_dog_brain">
+    <text>Psi-Dogの脳</text>
+  </string>
+  <string id="mutant_part_psy_dog_brain_description">
+    <text>サイドッグは強力なサイキック能力、例えば獲物に「幻覚」を誘発する能力を有する。これらの幻想は非常に説得力があり、現在知られていない方法で非常に現実的な精神外傷を負わせることができる。科学者たちはサイキック能力を担う脳の領域を特定することが出来たが、興味深いことにその領域が発達と進化の可能性の両方において「幼若」であることは明らかであると言う。科学者はその類いの組織サンプルに対して、財布の紐が非常にゆるくなることで知られている。\n \n%c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 希少な科学的標本\n
+                %c[d_cyan] ・ %c[ui_gray_2] High value\n</text>
+  </string>
+  <string id="st_meat_tark">
+    <text>馬肉</text>
+  </string>
+  <string id="st_meat_descr_tark">
+    <text>栄養と放射線の両方が高い肉の部分。科学者達はすでに十分なサンプルを持っているため、商品価値は低い。この動物性脂肪は、銃の潤滑油として使える。\n %c[d_red]警告：%c[default]ZONE 内の動物やミュータントは、旋毛虫症やブルセラ症などの家畜伝染病を有している可能性が高いため、生肉を食べないよう推奨する。これらの疾患は、感染した肉を摂取することで伝染していく。症状は発熱、疲労や食欲不振。この症状は全て ZONE という条件下では非常に危険である。肉の表面に腫れ物が見える場合は、肉の内部で菌が増殖しており、廃棄する必要があることを示している。\n \n%c[ui_gray_2]PROPERTIES:\n%c[d_green] ・ %c[ui_gray_2] 低レベルのミュータント肉\n%c[d_green] ・ %c[ui_gray_2] not 調理可能\n%c[d_red] ・ %c[ui_gray_2] 有毒な食品\n%c[d_red] ・ %c[ui_gray_2] radiation poisoning: %c[ui_gray_1] +646 mSv\n
+                </text>
+  </string>
+  <string id="mutant_tark_tail">
+    <text>馬の尾</text>
+  </string>
+  <string id="mutant_tark_tail_description">
+    <text>おそらく地元の馬から得られた長い、ほつれた尾。科学者達はすでに十分なサンプルを持っているため、商品価値は低い。\n \n%c[ui_gray_2]PROPERTIES:\n
+                %c[d_cyan] ・ %c[ui_gray_2] ミュータントの身体の一部\n
+                %c[d_cyan] ・ %c[ui_gray_2] 一般的な科学的標本\n</text>
+  </string>
+</string_table>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="val_smart_terrain_7_4_bandit_trader_stalker_start_dialog_1">
+    <text>Hey, man! I have some stuff to sell you and maybe a couple jobs if you're interested. I'm the guy the boys around he come see when they line their pocket after a hit!</text>
+  </string>
+  <string id="val_smart_terrain_7_4_bandit_trader_stalker_start_dialog_2">
+    <text>Hey, man. What do you need? Looking for work?</text>
+  </string>
+  <string id="information_about_stash_7_4_bandit_trader_0">
+    <text>Looking for information on stashes. Got it?</text>
+  </string>
+  <string id="information_about_stash_7_4_bandit_trader_1">
+    <text>Damn, how'd you know? I got info before others could even find out. Whatever, seven grand and it's all yours.</text>
+  </string>
+  <string id="information_about_stash_7_4_bandit_trader1_0">
+    <text>I'll take it. %c[d_orange][7000 RU]</text>
+  </string>
+  <string id="information_about_stash_7_4_bandit_trader1_1">
+    <text>Knock yourself out.</text>
+  </string>
+  <string id="bandit_trader_st_0">
+    <text>どうしてあんたのニックネームはそんなにひどいんだ？</text>
+  </string>
+  <string id="bandit_trader_st_1">
+    <text>Look who's talking! Goddamn greenhorns, trying to act all tough... You don't handle them, they can't even hold their own dicks straight when taking a piss. If you do, they act like lousy morons, to put it in your own words.</text>
+  </string>
+  <string id="bandit_trader_st_2">
+    <text>Hey, easy - didn't mean anything by it. Just didn't know what to say.</text>
+  </string>
+  <string id="bandit_trader_st_3">
+    <text>Alright, whatever... Apology accepted. Things ain't easy when you get old and your nerves are fucked.</text>
+  </string>
+  <string id="bandit_trader_st_4">
+    <text>わかった。どうやって名前をつけた？</text>
+  </string>
+  <string id="bandit_trader_st_5">
+    <text>I'll tell you, if only to put an end to your yapping. My story began under the Soviet Union, before the first time I ended up in prison. I wanted a good life... Did some trade hustle, and been caught for that one day. So after I did my time, I started making new connections and selling stolen stuff. Did that for three years before I, once again, ended up in jail. Got out, but the USSR was gone... You know what the most frustrating thing was?</text>
+  </string>
+  <string id="bandit_trader_st_6">
+    <text>No. Never saw the Soviet Union at a reasonable age.</text>
+  </string>
+  <string id="bandit_trader_st_7">
+    <text>First time I ended up in prison, it was "business"... or "profiteering", in old Soviet speech. Nowadays, anyone who's successful can end up behind bars. That place is where you feel your ass burning.</text>
+  </string>
+  <string id="bandit_trader_st_8">
+    <text>[continue...]</text>
+  </string>
+  <string id="bandit_trader_st_9">
+    <text>When I got out of my second stint, everything crashed down. No income at all, and there were loads of people around who were doing the same thing as I was. When the Zone came into existence, I figured I'd go see it for myself.</text>
+  </string>
+  <string id="bandit_trader_st_10">
+    <text>[continue...]</text>
+  </string>
+  <string id="bandit_trader_st_11">
+    <text>By the way, they call me Olivius because I tend to try out the cargo people take to me firsthand. I'm keen about quality and condition.</text>
+  </string>
+  <string id="bandit_trader_st_12">
+    <text>Thanks for the history lesson. Sorry once again.</text>
+  </string>
+  <string id="val_smart_terrain_7_3_bandit_mechanic_stalker_start_dialog_1">
+    <text>What you need today, man? I'll fix your shit right up. Also, if you find any encrypted PDAs, I'll buy them from you.</text>
+  </string>
+  <string id="bandit_mechanic_st_0">
+    <text>Share your story, brother.</text>
+  </string>
+  <string id="bandit_mechanic_st_1">
+    <text>You trying to get me prosecuted or something? Whatever, get comfortable.</text>
+  </string>
+  <string id="bandit_mechanic_st_2">
+    <text>[continue...]</text>
+  </string>
+  <string id="bandit_mechanic_st_3">
+    <text>There were times when my face was constantly on a roll of honor... I worked as a mechanical engineer at a plant and got recognized in my company as the best specialist in that profession. They awarded me prizes and certificates.</text>
+  </string>
+  <string id="bandit_mechanic_st_4">
+    <text>And how did you lose it all? I guess you wanted to start chasing some tail?</text>
+  </string>
+  <string id="bandit_mechanic_st_5">
+    <text>Heh, I do miss the private yoga classes with the girls, if you know what I mean! But nah, that's not what did me in.</text>
+  </string>
+  <string id="bandit_mechanic_st_6">
+    <text>What? Did they start calling you Limpid because you suddenly went limp down under?</text>
+  </string>
+  <string id="bandit_mechanic_st_7">
+    <text>Real fucking comedian, ain't ya? Anyway, after a long shift what I really wanted was to hit the bar with the guys. Had a few too many drinks one day... The boss caught us, and I got fired like some stupid loser.</text>
+  </string>
+  <string id="bandit_mechanic_st_8">
+    <text>Life's a bitch.</text>
+  </string>
+  <string id="bandit_mechanic_st_9">
+    <text>A bitch I doubt you've seen for real. Got a job as an ordinary locksmith and found a new friend by the name of Vitka. The new job barely paid zilch, but thankfully I earned enough to get myself a few rounds once in a while. At one time we got drunk and fucked around... Don't even remember why. Anyway, I stabbed him with a screwdriver - good thing that he didn't die right then and there. Spent a few years in maximum security, and my bitch wife sold everything and ran off. When I got released, I spent all my money on drinks and ended up in the slums... Got here when the Zone came about. Here, everyone's equal: we're all outcasts. I met up with the guys at the Garbage - they found me useful as a technician and let me stay there. Best time in my life... Tons of guns and vodka.</text>
+  </string>
+  <string id="bandit_mechanic_st_10">
+    <text>This isn't the Garbage.</text>
+  </string>
+  <string id="bandit_mechanic_st_11">
+    <text>Amazing observation! And all this time I thought you were blind! I haven't gotten to that part yet, dipstick. The big-ass Emission happened, and we hid like little girls. When that nightmare was over with, we had a meeting on where the fuck to go: the Garbage turned out to be a bad shelter from those kinds of emissions. We had to leave it for good and move through different roads in small groups to this place - the Dark Valley.</text>
+  </string>
+  <string id="bandit_mechanic_st_12">
+    <text>That's quite a story.</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_intro_0">
+    <text>Remember. I'm Sultan. Everything that goes down here is either under my control or will be soon. If you want to live the good life, you gotta work for me. If you don't, you'll live the shitty life. That's how we roll, friendo.</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_about_0">
+    <text>Tell me about your life here.</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_about_1">
+    <text>It ain't a walk in the park, that's for sure... What exactly do you want to know?</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_about_1111">
+    <text>ここで何をするんだ？</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_about_11111">
+    <text>We watch over stalkers. You have to admit that a good half of you are more like little kids than men. You come to the Zone with some silly dreams, or to play heroes, or just because life's treating you badly. You don't realize all that's waiting for you in here; the grim reaper, mostly. That's the kind we look after. We find one at the Garbage, we take his gear and send 'im back to the Cordon. Some wise up and book it out past the border once they get there. Those with more stones than brains come back here. So what do we do? We put 'em under our protection and we tax 'em. I'm tellin' ya, no one dares go on our territory; not the army, not the mercenaries, and not even the mutants.</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_about_1112">
+    <text>What brought you to the Zone?</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_about_11121">
+    <text>Our legs. We came here for stalkers, what else? Without us around to keep order it's sheer god-damn chaos. You loot it, you keep it, sure, but who's gonna pay your taxes? You know, the peace and security tax. Like if one of youse is milking an anomaly while we're on the lookout, keeping mutants at bay. If he comes out fine, we take a cut... for maintaining order, you understand.</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_about_1113">
+    <text>How did you become the big bad boss around here?</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_about_11131">
+    <text>Where do I begin... I guess it goes back to high school. I had a good buddy; a best friend, if you will. We hung out together, smoking, drinking, and whatnot. Only, he wanted more and more thrills. He got into drugs: some weed at first, then smack, and then coke, when he started getting some coin. I told him, 'You gotta get off this shit, Tolyan, before it's too late.' But he didn't listen. He scored some bad shit one day, and that was that. I found his dealers and got even for my buddy... Got my picture took, and all hell broke loose; the slammer, the gang fights, the shiv in the belly... Got out, started a business, got busted again... When I got out again, I left all that shit behind and set my sights on the Zone. Spent a couple months toughing it out, then got promoted. So now I'm in charge here, upholding the local law.</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_about_1114">
+    <text>What do you think about stalkers?</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_about_11141">
+    <text>They're all different. Like, some are punks who don't last here a week, others are earners... and others, still, are okay guys that life has kicked around on both sides of the Cordon. We fleece the first kind, tax the second kind. As far as the last kind... well, we just try not to get in each other's way. Too bad you can't always tell them apart right away...</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_about_1115">
+    <text>なぜお前がそこに座っている...？</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_about_11151">
+    <text>Your whore of a mother's face had a month long waiting list. Want to ask any more stupid questions?</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_about_1116">
+    <text>Oh, never mind. Forget about it.</text>
+  </string>
+  <string id="zat_b7_bandit_boss_sultan_about_11161">
+    <text>Suit yourself.</text>
+  </string>
+  <string id="sultan_st_0">
+    <text>お前は誰だ？</text>
+  </string>
+  <string id="sultan_st_1">
+    <text>Congratulations - with a memory like that, you'll be the next Strelok. Listen carefully. I'm the big dog here, and you will know my name. I got here from Zaton some time ago, along with my guys. We fucked the mutants out of the base here at Dark Valley, got it back up and running - Olivius still owes me his life for that. 'Course, you may have heard the reason we had to come back from Zaton to begin with was because some asshole stood us up after pretending to be a friend.</text>
+  </string>
+  <string id="sultan_st_2">
+    <text>Yeah, I heard. These rooks don't even know the rules, copping the made guys like that. Whatever that douchebag's name was, I'm going to rip him a new one.</text>
+  </string>
+  <string id="sultan_st_3">
+    <text>His name was Alexander or something - and stay out of his ass. Your prick's tiny, and his asshole is a metal maze.</text>
+  </string>
+  <string id="sultan_st_4">
+    <text>Got it. Any tips on others in the Zone?</text>
+  </string>
+  <string id="sultan_st_5">
+    <text>Simple. Don't trust anybody but our guys with skulls on their sleeves. Pretty much everyone else is hostile or looking to stab us in the back - remember that. Just try to figure things out for yourself. If you feel something's off, get your ass out of there.</text>
+  </string>
+  <string id="sultan_st_6">
+    <text>Got it. Any safe places I can stay?</text>
+  </string>
+  <string id="sultan_st_7">
+    <text>No such place as safe in the Zone, boy, but don't let this advice go to waste. North of us is the Truck Cemetery, and our boys there control the old checkpoint and the entrance to the Army Warehouses. Try not to hang around the cemetery at night, and stay away from all the old vehicles. Radiation levels there are high enough to make your counter ring down to your balls, and I haven't even mentioned the creatures and anomalies. There's the Garbage to the west - total chaos over there. I can't say anything else, other than there's a checkpoint to the north controlled by Duty. There's a huge forest to the south called Darkscape - really wild place, you've got soldiers patrolling there from time to time and loners pissing about. Pretty big maze. Also, there are a few stalkers at the farm on the way to the Darkscape, so don't fuck around. There's a huge advantage in that forest: the road leads to the Cordon. You'll easily find our guys at the vehicle station there.</text>
+  </string>
+  <string id="sultan_st_8">
+    <text>That's kind of scary.</text>
+  </string>
+  <string id="sultan_st_9">
+    <text>And what did you expect, boy? No sunshine and rainbows - this is the real life. Either get your head out the clouds, or hug a mutant - maybe they'll become your best friend if you believe hard enough!</text>
+  </string>
+  <string id="sultan_st_10">
+    <text>Alright, whatever. Thanks for the help, boss.</text>
+  </string>
+  <string id="meet_guid_dv_bandit_0">
+    <text>ここで何をするんだ？</text>
+  </string>
+  <string id="meet_guid_dv_bandit_1">
+    <text>You blind or something? I'm the local guide here. I can take you to our outpost in the Truck Cemetery, as well as our warehouse in Jupiter. It'll cost you.</text>
+  </string>
+  <string id="travel_guid_dv_bandit_0">
+    <text>行こう。</text>
+  </string>
+  <string id="travel_guid_dv_bandit_1">
+    <text>どこへ行くんだ？</text>
+  </string>
+  <string id="travel_guid_dv_bandit_2">
+    <text>To the Truck Cemetery. %c[d_orange][1500 RU]</text>
+  </string>
+  <string id="travel_guid_dv_bandit_3">
+    <text>To the container warehouse in Jupiter. %c[d_orange][8000 RU]</text>
+  </string>
+  <string id="travel_guid_dv_bandit_4">
+    <text>気が変わった。</text>
+  </string>
+</string_table>

@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="find_blackbox_mlr_reward_csky_0">
+    <text>フライトレコーダーを見つけたよ。</text>
+  </string>
+  <string id="find_blackbox_mlr_reward_csky_1">
+    <text>おお、素晴らしい発見だ！ついに沼地に対する空襲の原因を解明できるかもしれないぞ！</text>
+  </string>
+  <string id="story_b_cs_0">
+    <text>Coldについて何か知ってるか？</text>
+  </string>
+  <string id="story_b_cs_1">
+    <text>何と言えばいいか... あいつは我々の組織のリーダーとしてかなりの尊敬を集めてる、ってのは確かだ。</text>
+  </string>
+  <string id="story_b_cs_2">
+    <text>一体どうやって？</text>
+  </string>
+  <string id="story_b_cs_3">
+    <text>そうだな、前のリーダーだった Levedev ーちなみに、俺は直接会ったことはないーについては色々と論争があってな。CNPPへ向かう事に関して、奴は派閥メンバーの意見なんざ聞いちゃいなかった。そりゃあ、彼が助けにならなかったとは言えない。だが、結局のところ、そこまでして奴についていくほどの価値は無かったのさ。基地に残った連中は反逆者達に何もできず、我々の swamp での重要度はゼロになった... もちろん、CNPPに向かう途中や swamps で逝った連中の犠牲が無駄になったことは言うまでもない。</text>
+  </string>
+  <string id="story_b_cs_4">
+    <text>当時の指導者への不信が爆発した、って感じだな。</text>
+  </string>
+  <string id="story_b_cs_5">
+    <text>それだけじゃない。兵たちが戻ってきた後、俺たちは、全てを取り戻すための長い戦いに身を投じざるを得なかったんだ。Cold抜きじゃ今の俺たちは無かっただろう。彼は無関係のストーカー達に助けてもらい、GarbageとCordonにいるほとんどの連中と知り合った。Free Stalker達には世話になったし、カリスマ的指導者がいるってのは悪いもんじゃない。更に、彼は全ての戦士にここを離れないよう命令したんだ。必要なら手は借りるが、ここにいる奴らの命が最優先だとな。</text>
+  </string>
+  <string id="story_b_cs_6">
+    <text>Levedevが誰で何をしたのかは知らないが、奴の頃と比べると今の派閥は別物みたいだな。</text>
+  </string>
+  <string id="story_b_cs_7">
+    <text>そいつはお前の意見だ。ある程度は当たってるにしてもな。今の俺たちには大規模な目標もない、かも知れないな...あー… まあとにかく、そろそろ話を切り上げて商談といこうじゃないか。</text>
+  </string>
+  <string id="story_b_cs_8">
+    <text>よし。</text>
+  </string>
+  <string id="story_dog_0">
+    <text>あれは誰のpseudodogなんだ？</text>
+  </string>
+  <string id="story_dog_1">
+    <text>そいつはBuddy, Doctorの犬だ。少し歳を取り始めてるから、安全な場所に置いてくれってDoctorが頼んできたんだ。</text>
+  </string>
+  <string id="story_dog_2">
+    <text>へえ、そんな風には見えないな。</text>
+  </string>
+  <string id="story_dog_3">
+    <text>見た目に惑わされるなよ。飼うなら優しい生き物にしときな。さて、この種類の犬について興味のある話をしてもいいかな？</text>
+  </string>
+  <string id="story_dog_4">
+    <text>もちろん。</text>
+  </string>
+  <string id="story_dog_5">
+    <text>Pseudodogsは犬の血統は継いでいない。もっと古代のご先祖様の血を受け継いでる。どちらかというと狼の変種なんだとーDutyの研究で分かったことらしい。</text>
+  </string>
+  <string id="story_dog_6">
+    <text>どうやってあんたはそいつを知ったんだ？</text>
+  </string>
+  <string id="story_dog_7">
+    <text>仕事柄、俺の所には様々な噂が入ってくるんだが、北に行くと俺たちのswampに似たZatonって場所がある。聞いた話だと、そこにもpseudodogを連れた老いぼれがいるらしいんだ。ちょいと遠いが、気が向いたら確かめてきてくれないか。</text>
+  </string>
+  <string id="story_dog_8">
+    <text>It's only the entire length of the Zone. Maybe I'll pop over there sometime.</text>
+  </string>
+  <string id="about_dog_marsh_part_two_0">
+    <text>I spoke to Noah - that "old crank" you mentioned earlier.</text>
+  </string>
+  <string id="about_dog_marsh_part_two_1">
+    <text>Oh, I completely forgot about that. So is it true - has he also tamed a pseudodog?</text>
+  </string>
+  <string id="about_dog_marsh_part_two_2">
+    <text>彼が言うには、犬の…彼女の名前はLassieだそうだ。Lassieは子犬を二匹産んで育ててる。そして彼女らには攻撃的な行動は示していない。</text>
+  </string>
+  <string id="about_dog_marsh_part_two_3">
+    <text>子犬？ゾーンで見るとは思わなかったな。まあ、助かったよ 。Zoneで友好的なpseudodogsが増えているってことが知れたからな。お礼にアンタのこれからの旅に役立ちそうな物を用意した。…アンタが必要とすればだが。Army Warehouses と Red Forest の間にあるルートについての情報だ。これは過去の名残だな。今だ忘れ得ぬ…な。</text>
+  </string>
+  <string id="meet_guid_marsh_csky_0">
+    <text>よう、そこで何突っ立ってるんだ？
+</text>
+  </string>
+  <string id="meet_guid_marsh_csky_1">
+    <text>俺は立ってたいのさ、これが仕事でな…冗談だ。俺はこのあたりのガイドでな、辺りを見張ってるんだ。それからな、あんまり人の装備をジロジロ見るな。気が散ってしょうがないだろ。それと、その気があれば道案内をしてやってもいいぜ。連れていける場所はだな、この湿地の監視用前哨、それとポンプ場、古い教会にメカニックヤード。あとはCordonの新人の村、AgropromとBarへのご旅行も提供してるぜ。もちろん費用はそっち持ちだがな。</text>
+  </string>
+  <string id="meet_guid_marsh_csky_list_0">
+    <text>もう一度ルートを教えてくれ。</text>
+  </string>
+  <string id="meet_guid_marsh_csky_list_1">
+    <text>俺が案内するルートだ：監視用前哨300ルーブル、ポンプ場と古い教会は500、メカニックヤードは800、Cordonの新人の村は1500、Agropromは2000で100 rads bar までなら4000だ。</text>
+  </string>
+  <string id="travel_guid_marsh_csky_0">
+    <text>あんたのサービスが必要だ。
+</text>
+  </string>
+  <string id="travel_guid_marsh_csky_1">
+    <text>いいぜ、どこまでだ？</text>
+  </string>
+  <string id="travel_guid_marsh_csky_2">
+    <text>The observation outpost. %c[d_orange][300 RU]</text>
+  </string>
+  <string id="travel_guid_marsh_csky_3">
+    <text>The pump station. %c[d_orange][500 RU]</text>
+  </string>
+  <string id="travel_guid_marsh_csky_4">
+    <text>The old church. %c[d_orange][500 RU]</text>
+  </string>
+  <string id="travel_guid_marsh_csky_5">
+    <text>The machine yard. %c[d_orange][800 RU]</text>
+  </string>
+  <string id="travel_guid_marsh_csky_6">
+    <text>The Rookie Village in the Cordon. %c[d_orange][1500 RU]</text>
+  </string>
+  <string id="travel_guid_marsh_csky_7">
+    <text>Agroprom. %c[d_orange][2000 RU]</text>
+  </string>
+  <string id="travel_guid_marsh_csky_8">
+    <text>The Bar. %c[d_orange][4000 RU]</text>
+  </string>
+  <string id="travel_guid_marsh_csky_9">
+    <text>気が変わった。</text>
+  </string>
+  <string id="mar_csky_guide_background_1">
+    <text>俺か？ふむ、俺は今じゃ7年以上Clear Skyのガイドをしてる。そうは言っても、昔から、2011年のように、大抵の間は沼地から離れることはなかった。たまに遠くへStalkerを連れて行くことはあったな。だがある時から変わった。葦の中から沼の水を口いっぱいに含んだクソ傭兵を見つけた時にな。 \nうちのリーダーはヤツを信用しなかった－うちの基地へ出入りするたび、ヤツには目隠しをさせてたからな。だが、数週間で、どうやってか俺たちのリーダーと仲間を焚き付けて発電所へ遠征させることに成功していた。言うまでもないが多くの仲間はその狂気から帰ってくることはなかった。\n全てはあのクソイカれた傭兵のせいだ。</text>
+  </string>
+  <string id="mar_csky_guide_background_2">
+    <text>Scarについての話か？</text>
+  </string>
+  <string id="mar_csky_guide_background_3">
+    <text>もはや伝説だな。あいつの目を覚えてるよ。あの大きな傷よりもずっと不気味な目をしていた。あの目を見ていると俺はおかしくなりそうだったぜ。Kalancha教授はヤツにはどういうわけかEmissionに対する抵抗力があると言っていた。それどころか、打撃を受ける度に強くなっていた。最もヤツの脳は焦げていたみたいだがな。いずれにせよ、チェルノブイリの一大イベントを生き残れなかったのは確かだぜ。いい気味さ。</text>
+  </string>
+  <string id="mar_csky_guide_background_4">
+    <text>ご愁傷様、かな。
+</text>
+  </string>
+  <string id="marsh_stalker_tech_pragmatic_research_0">
+    <text>Clear Skyは研究に熱心だな。そうだろ？</text>
+  </string>
+  <string id="marsh_stalker_tech_pragmatic_research_1">
+    <text>そのとおりだ。エコロジストのように、我々はゾーンをもっとよく理解しようと努めているが、ただ観察しているだけではないぞ。我々は実際に利用するために得た知識を使うんだ。例えば、ボディアーマーに埋め込まれたGraviアーティファクトの欠片は、その重量を大幅に減らす。 bloodsuckerから抽出した血液凝固剤は、戦闘中の失血を防ぐ生命維持システムに実装することが出来るんだ。そしてFleshの目の構造は高度な照準システムの開発を助けてくれた。これらは我々の研究成果のほんの一部に過ぎないんだ。</text>
+  </string>
+  <string id="cit_doctor_hello_dialog_11">
+    <text>ああ、なんだ？</text>
+  </string>
+  <string id="cit_doctor_hello_dialog_21">
+    <text>知っている事は全て話した。</text>
+  </string>
+  <string id="cit_doctor_main_dialog_0">
+    <text>Zoneについて教えてくれないか？</text>
+  </string>
+  <string id="cit_doctor_main_dialog_1">
+    <text>Oh... I might have the information you seek, but I'll want you to do something in return.</text>
+  </string>
+  <string id="cit_doctor_main_dialog_11">
+    <text>Of course, what would you have me do?</text>
+  </string>
+  <string id="cit_doctor_main_dialog_2">
+    <text>The Zone has taken a heavy toll on me over the years, so I spend my final days here where it's quiet, but I would rather enjoy seeing my old friends once again.\nI fear Strelok and Guide may be dead, but I would very much like to speak with Fang and Ghost while there is still time. If you can find them and bring them here I would most appreciate your efforts.</text>
+  </string>
+  <string id="cit_doctor_main_dialog_21">
+    <text>How long have you lived out here? Fang and Ghost are legendary stalkers, but they're both long dead. Fang was killed by a mercenary named Scar in Army Warehouses, and Ghost was found underneath Yantar in Lab X-16 about a year later. Did you really not know?</text>
+  </string>
+  <string id="cit_doctor_main_dialog_3">
+    <text>They're both dead? Are you sure? I just... Oh alright... What is it that you want to know?</text>
+  </string>
+  <string id="cit_doctor_main_dialog_31">
+    <text>Really, now you'll tell me so easily? I feel you are just wasting my time, old man.</text>
+  </string>
+  <string id="cit_doctor_main_dialog_4">
+    <text>Wait! Don't go... I just didn't expect them to finish badly. When Strelok last came to visit, he gave me a key and coordinates to a stash in Pripyat.\nHe hasn't visited in years so I don't suppose he's fared much better. He was saying something about the Monolith, I didn't understand much of it and I'm not too sure he did either. Here, take it. One more thing... He spent a lot of time searching for clues of a conspiracy in underground labs, some kind of secret cover-up I believe. Perhaps you'll find your answers there.</text>
+  </string>
+  <string id="cit_doctor_main_dialog_41">
+    <text>そうか。ありがたい。</text>
+  </string>
+  <string id="cit_doctor_main_dialog_5">
+    <text>さあ、もういって老人を安心させとくれ。</text>
+  </string>
+  <string id="mar_base_owl_stalker_trader_start_dialog_1">
+    <text>補給品か装備が必要か？情報？それとも…情報を売りたいのか？</text>
+  </string>
+  <string id="mar_smart_terrain_base_doctor_need_health_care_0">
+    <text>治療が必要だ。</text>
+  </string>
+  <string id="mar_smart_terrain_base_doctor_need_health_care_1">
+    <text>大丈夫だ、いつも通り治療をしようか。</text>
+  </string>
+  <string id="mar_smart_terrain_base_doctor_need_health_care_11">
+    <text>[待機中...]</text>
+  </string>
+  <string id="mar_smart_terrain_base_doctor_need_health_care_111">
+    <text>上出来だ！処置完了。行ってよし。</text>
+  </string>
+  <string id="mar_smart_terrain_base_doctor_need_health_care_2">
+    <text>見てみよう…傷はないな。放射線障害の兆候もなし。準備万端だ。行ってよし！</text>
+  </string>
+  <string id="mar_smart_terrain_base_doctor_start_1">
+    <text>ん？なんだい？</text>
+  </string>
+  <string id="marsh_stalker_barmen_start_dialog_1">
+    <text>新顔だな！俺はLibrarian。ここのバーテンダーってところだ。大体の質問には答えられるぜ。ここじゃあ仕事を斡旋したりもするし、いろんな噂も集まったりするから、たまには顔をだしなよ。</text>
+  </string>
+  <string id="marsh_stalker_barmen_start_dialog_2">
+    <text>よう、ストーカー。何が欲しいんだ？</text>
+  </string>
+  <string id="marsh_stalker_tech_start_1">
+    <text>ごきげんよう、ストーカー。何か助けがいるか？いい道具はZONEで手に入れるのが難しいんだ。でもまあ、あんたの装具の修理と、少しくらいのアップグレードなら出来なくはないぜ。</text>
+  </string>
+  <string id="marsh_stalker_medic_background_0">
+    <text>お前のことを教えてくれ。</text>
+  </string>
+  <string id="marsh_stalker_medic_background_1">
+    <text>私はE.F. Kalancha教授だ。 LebedevとSuslovと共にClear Skyを創設したうちの一人だ。彼らが安らかに眠れている事を祈るよ。私は彼らと違い、あの運命の襲撃の日、チェルノブイリ発電所にはゆかずにここへ残ったんだ。派閥の主任研究員だったのでな。今でもそうだ。ほとんどの時間を、アーティファクトに関する実験、突然変異体組織サンプルの調査、そしてアノーマリーを観測することに費やしている。時々、得られた実験データを応用してNovikovに協力している。さらに、必要に迫られてこの地域の衛生兵もやっている。君が遠征で負傷して戻る場合はだな、ああ、できればバッグの中に貴重な標本が入っている方が望ましいんだが…あー、どこに戻ればいいかは判っているね？</text>
+  </string>
+  <string id="marsh_stalker_medic_about_people_0">
+    <text>stalkersについてどう思う？</text>
+  </string>
+  <string id="marsh_stalker_medic_about_people_1">
+    <text>人々の多くは、Zoneというものがどんなものか理解したつもりでいる。残念ながらそれらは全て勘違いに過ぎない。純粋な悪意の発露だと考える者もいれば、奇跡と呼ぶ者もいる。財宝を得ることしか考えていない者もいるな…。全ては人間の持つ根本的な先入観による誤認に過ぎん。人間の知覚というプリズムを通して見た場合、Zoneという現象は理解できないからだ。私たちが試すには早すぎるのに、stalkerだろうが政府だろうが両者共々無知で無謀に行動しすぎなのだ。知識は他の誰よりも優れていると考えていた我々も、そのせいで大きな犠牲を支払うことになったのだ…。</text>
+  </string>
+  <string id="marsh_stalker_medic_about_zone_0">
+    <text>Zoneについて何を知っているんだ？</text>
+  </string>
+  <string id="marsh_stalker_medic_about_zone_1">
+    <text>若人よ、私たちはここ数年Zoneを研究してきたが、未だに理解することは出来ない。私が教えられるのは、Zoneは断じて自然現象などではなく、むしろ…一部の過激で野心的な者達によって考案された無駄な努力の結果であり、もう元には戻せないということだ。Zoneを破壊することはできず、また自然に消滅することもないだろう。さらに、それを抑制または封じ込もうとする試みは破滅的な結果をもたらすと経験から学ぶことになった。現在、私たちClear Skyは人とZoneを調和させるには一つの方法しかないと信じている。共存することだ。</text>
+  </string>
+  <string id="marsh_stalker_medic_about_zone_2">
+    <text>数日ごとのEmissionによる破壊がこの地域を襲うことがなければ、そいつはもっと簡単だろうな。そういえば、そもそも何が原因なんだ？</text>
+  </string>
+  <string id="marsh_stalker_medic_about_zone_3">
+    <text>どう説明すれば解り易いんだろうか？言い方を変えてみよう。本質的に複雑なシステムであるZoneは、外的要因で不安定になると自然にバランスを取ろうとするんだ。ここ数年はそのケースに当てはまっていたな。Zoneは安定していて、大きな変動は観測されなかった…だが今は？君の言うように、Emissionによる破壊は定期的にZoneを一掃している。システムは不安定になり、歪みが生じ始めている…故障して調子が悪いらしい。 ZoneはEmissionを吐き散らした後に放出したエネルギーがポンプで汲み上げられたように一杯になる。この所為でセンサーの針が信じられないほどの速度で動き回るほどだ。残念なことに、皆の悲劇的な犠牲にもかかわらず、LebedevとSuslovは恒久的な傾向を逆転させることは出来なかった。これらすべての中で最も重要な教訓は、この「故障」も自然な理由による産物では無いということだ。これはすべて人間の仕業なのだ。</text>
+  </string>
+  <string id="marsh_stalker_barman_background">
+    <text>俺はバーテンダーだ。ドリンクと食い物を出し、ラジオをつけっぱなしにする。まあわくわくするような仕事じゃあないが、現場に出るよりゃあマシさ。ここ数年ここで働いてるよ。Emissionが来たときはまだ湿地内部にいたからほとんど立ち往生していた。みんなに習って南へ向かったが、ほかはほとんど盗賊にやられたみたいだ。なんとかこの基地を探し出して、Clear Skyに加わったんだ。ここに来れなかったらどっかの水たまりに頭突っ込んで死んでたろうな。最初の数週間は無政府主義者を俺たちの監視前哨から追い払い、その後Coldが昇格したときには自然と新しいバーテンダーに収まってた。弾丸よりも飲み物をぶっ放すタイプだから、みんな受け入れてくれたよ。さあ、おしゃべりはここまでだ。ガッツリ冷えたいいやつがあるぜ。飲んでくか？</text>
+  </string>
+  <string id="marsh_stalker_trader_background">
+    <text>Spore's the name. I took over this gig about a year ago. Came to the Zone looking for wealth like everybody does and ran into a stalker called Nimble. Found out we shared a lot of the same talents: both got a lot of outside contacts, good at trafficking goods in and out of the Zone, and selling info. So when the Monolith resurgence happened and business was driven south, we followed. Managed to land myself a nice job here after Nimble recommended me to Cold. He was a member of Clear Sky back in the day, y'know? 'Course, Nimble's gone back up to Zaton to help out at the Skadovsk, the madman, but he's left me with a nice little operation here. I now have access to an army-free smuggling route through the swamps, and Clear Sky gets first pick of everything  I get my hands on. Pay Nimble a visit if you ever find yourself north of the Barrier. Even now, he's probably still peddling only the rarest weapons and armour to his fellow stalkers. For the right price, he'll set you up with some of the best damn gear in the Zone.</text>
+  </string>
+  <string id="marsh_stalker_tech_background">
+    <text>名前はNovikov、だがGreyと呼ぶやつもいるな。俺は技術者で、皆がうまくいくように仕事をしている。銃がジャムったストーカーが唯一頼れるのが俺ってわけさ。昔、Coldが指揮権を継承する以前にもここで働いていたんだが、皆がクソッタレへ向かっちまったあと、もっとマシな職場を探しにJupiterの科学者連中のところへ行ったんだ。数年そこで働いてたが、ある日、皆が戻ってきたと耳に挟んだのさ。契約期間が終了すると同時にここへ飛び戻ったよ。みんな俺を快く迎えてくれた。俺の技術と工作台、そして科学者とのコネを必要としていたからな。皆が古い研究を続け、一緒に仕事をできるように準備した。もしお前が仕事に興味があるなら、ここの連中はいつでも地域のアノーマリーへのガイドを探してる。興味があるなら、Sporeに聞いてみるといい。</text>
+  </string>
+  <string id="marsh_stalker_leader_background">
+    <text>Where do I begin? They call me Cold in these parts. I'm the leader of Clear Sky. Used to be the old drinks dispenser here a long time ago until I handed that honour over to Librarian once we caught wind of what happened to Lebedev, Suslov, and the rest of our commanders. After long and intense negotiations with the latest shipment of smuggled vodka, the local force decided that I was best suited for taking over the reins, and I've been holding on to them ever since.</text>
+  </string>
+  <string id="marsh_csky_history_ask1">
+    <text>Tell me about Clear Sky.</text>
+  </string>
+  <string id="marsh_csky_history_ask2">
+    <text>What is it you want to know?</text>
+  </string>
+  <string id="marsh_csky_history_destroyed1">
+    <text>Wasn't the faction destroyed?</text>
+  </string>
+  <string id="marsh_csky_history_destroyed2">
+    <text>Almost, but we managed to pull through. While most of our guys were wiped out at the power plant, not all of us were. A good number were still in our other territories, which were later cut off from the rest of the Zone by anomalies following the emission. When it became obvious to those in the swamps at the time that they were almost trapped here with no easy way out, everything went to hell. Honest stalkers became bandits overnight, whilst the rest tried to flee to our base, or live off the area's mutants. We took on a lot of men, and our food stores ensured their loyalty, and after a little while, it became obvious we'd need a new leader. I took on the burden and asked our Librarian to man the bar in my place; he'd earned quite a name for himself in the short time since he joined. After a few months of tit-for-tat raiding with the bandits, we managed to smoke most of them out, but that didn't stop the army from feeling like they needed to move in and finish the job. Even now, they still have that bird of theirs watching the areas they took over.</text>
+  </string>
+  <string id="marsh_csky_history_goal1">
+    <text>What's your current goal?</text>
+  </string>
+  <string id="marsh_csky_history_goal2">
+    <text>Thing is, we don't have a single goal. Poor Lebedev was an ambitious man. He thought we could discover all of the Zone's dirty little secrets and use the knowledge to tame or contain it. That didn't exactly pan out, though. Nowadays, we do basically the same things we used to do. We hunt mutants, collect artefacts and do some research on them. Every once in a while we recover some interesting documents from an old underground lab. But we don't engage in turf wars with other factions and we definitely don't plan another bold campaign into the heart of the Zone anytime soon. Unlike Duty we don't try to destroy it, and we don't want to open an amusement park here like the folks from Freedom either. For now, we coexist. Better keep a low profile, like the good ol' times before the final raid.</text>
+  </string>
+  <string id="marsh_csky_history_goal3">
+    <text>So, Clear Sky members basically do whatever they want now?</text>
+  </string>
+  <string id="marsh_csky_history_goal4">
+    <text>In a manner of speaking. We're all like-minded people with similar interests, so the guys pretty much keep to their tasks without me actively telling them what to do all the time. Been working out well for us so far.</text>
+  </string>
+  <string id="cit_doctor_health_care_0">
+    <text>ドクター、医療措置が必要だ。</text>
+  </string>
+  <string id="cit_doctor_health_care_1">
+    <text>そうか。ここに来なさい、見てみよう。</text>
+  </string>
+  <string id="cit_doctor_health_care_11">
+    <text>どれくらい悪い？</text>
+  </string>
+  <string id="cit_doctor_health_care_111">
+    <text>応急処置が必要だ。これ以上放射線を除去することはできないが、創傷に対処しよう。</text>
+  </string>
+  <string id="cit_doctor_health_care_112">
+    <text>傷も放射線もなし。万事順調。頑丈な男だ。</text>
+  </string>
+  <string id="cit_doctor_health_care_1111">
+    <text>わかった、ドクター。助けてくれ。</text>
+  </string>
+  <string id="cit_doctor_health_care_1112">
+    <text>助けてくれてありがとう。</text>
+  </string>
+  <string id="cit_doctor_health_care_11111">
+    <text>もうちょっと待て…これでよし。さあ行っていいぞ。</text>
+  </string>
+  <string id="st_psd_end_1">
+    <text>Finally it's over, let's clean up this mess and then get some rest. Thanks for the help stalker.</text>
+  </string>
+  <string id="st_psd_end_2">
+    <text>Well shit, the boss croaked, I'm taking command. Thanks for the help stalker.</text>
+  </string>
+  <string id="st_psd_intro">
+    <text>Watch out, somebody is coming that way! ...nevermind, it's not a bandit. Stalker, if you have any business here get it done quick, shit will go down soon.</text>
+  </string>
+  <string id="st_psd_start">
+    <text>Here we go! Everyone in position, they're coming!</text>
+  </string>
+  <string id="st_psd_warning">
+    <text>If you go too far Clear Sky stalkers may think you're running away.</text>
+  </string>
+  <string id="st_psd_escape">
+    <text>You ran away leaving Clear Sky to fend off the bandits alone.</text>
+  </string>
+  <string id="st_psd_stage_0">
+    <text>Reach the pump station.</text>
+  </string>
+  <string id="st_psd_stage_1">
+    <text>Talk with the commander of the guards.</text>
+  </string>
+  <string id="st_psd_stage_2">
+    <text>Take the position of the fallen sniper.</text>
+  </string>
+  <string id="st_psd_stage_3">
+    <text>Survive!</text>
+  </string>
+  <string id="st_psd_stage_5">
+    <text>Report to the commander.</text>
+  </string>
+  <string id="st_psd_stage_6">
+    <text>Return to Cold for the reward.</text>
+  </string>
+  <string id="st_psd_dialog_1">
+    <text>You better get moving stalker, soon here will be a mess.</text>
+  </string>
+  <string id="st_psd_dialog_2">
+    <text>Cold sent me to help against the bandits.</text>
+  </string>
+  <string id="st_psd_dialog_3">
+    <text>Great, we really need any help we can get. Our sniper got killed in the last attack, we need someone up there to pop some heads.</text>
+  </string>
+  <string id="st_psd_dialog_4">
+    <text>Ok, I'm going up.</text>
+  </string>
+  <string id="st_psd_dialog_5">
+    <text>Thanks for the warning, I'm out.</text>
+  </string>
+  <string id="st_psd_dialog_6">
+    <text>Well?</text>
+  </string>
+  <string id="st_psd_dialog_7">
+    <text>On my way, just getting my stuff ready.</text>
+  </string>
+  <string id="st_psd_dialog_8">
+    <text>Well that's it for another day, your help was critical. See you around.</text>
+  </string>
+  <string id="st_psd_dialog_9">
+    <text>Alright, bye.</text>
+  </string>
+  <string id="st_psd_dialog_10">
+    <text>I wanted to become the commander of the strike team, but not like this...</text>
+  </string>
+  <string id="st_psd_dialog_11">
+    <text>What a shame.</text>
+  </string>
+</string_table>

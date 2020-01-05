@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="meet_zaton_killer_guide_station_0">
+    <text>誰だ？</text>
+  </string>
+  <string id="meet_zaton_killer_guide_station_1">
+    <text>I could ask you a reasonable question in return: what's your damn business? But that's probably not what you wanna hear, is it? I work as a trader, as well as a guide between here and our main outpost in Dead City.</text>
+  </string>
+  <string id="meet_zaton_killer_guide_station_list_0">
+    <text>Could you remind me which routes you do?</text>
+  </string>
+  <string id="meet_zaton_killer_guide_station_list_1">
+    <text>Did you walk through the Scorcher on your way here? There's only one route. To the Dead City, and it's eight grand.</text>
+  </string>
+  <string id="travel_zaton_killer_guide_station_base_0">
+    <text>俺はDead Cityに行きたい。</text>
+  </string>
+  <string id="travel_zaton_killer_guide_station_base_1">
+    <text>Great. Prepare for a nice long sewer trip. Maybe one day I'll save up enough cash for a decent respirator. You ready?</text>
+  </string>
+  <string id="travel_zaton_killer_guide_station_base_2">
+    <text>I'm ready. %c[d_orange][8000 RU]</text>
+  </string>
+  <string id="travel_zaton_killer_guide_station_base_3">
+    <text>気が変わった</text>
+  </string>
+  <string id="meet_guid_zat_0">
+    <text>You look like an interesting character.</text>
+  </string>
+  <string id="meet_guid_zat_1">
+    <text>Pathfinder Pilot at your service. There aren't many places I can take you, but it'll definitely be much faster and safer. I offer services to Pripyat as well as its outskirts via fellow guide Garry, though I can take you to Jupiter myself.</text>
+  </string>
+  <string id="meet_guid_zat_list_0">
+    <text>Give me your travel list again.</text>
+  </string>
+  <string id="meet_guid_zat_list_1">
+    <text>I can talk to Garry about leading you to Pripyat for four thousand, as well as the outskirts for five thousand. I can lead you to Yanov station in Jupiter by myself, for two thousand.</text>
+  </string>
+  <string id="travel_guid_zat_0">
+    <text>場所はどこだ</text>
+  </string>
+  <string id="travel_guid_zat_1">
+    <text>どこへ？</text>
+  </string>
+  <string id="travel_guid_zat_2">
+    <text>Pripyatへ %c[d_orange][4000 RU]</text>
+  </string>
+  <string id="travel_guid_zat_3">
+    <text>Outskirtsへ %c[d_orange][5000 RU]</text>
+  </string>
+  <string id="travel_guid_zat_4">
+    <text>Jupiterへ %c[d_orange][2000 RU]</text>
+  </string>
+  <string id="travel_guid_zat_5">
+    <text>気が変わった。</text>
+  </string>
+  <string id="stalker_guide_about_himself_0">
+    <text>お前のことを教えてくれ。</text>
+  </string>
+  <string id="stalker_guide_about_himself_1">
+    <text>訳あってな、Pilot と呼ばれてる。俺は安全なルートしか使わん。俺にはアーティファクトを集めたり、Bundit 共と戦う力は無い。が・・・ 皆、それぞれの才能を使って、日々の糧を得るものだと思っている。どんな才能にも価値はあるのさ、勿論な。</text>
+  </string>
+  <string id="stalker_guide_about_anomalies_1116">
+    <text>まあ、忘れてくれ。</text>
+  </string>
+  <string id="stalker_guide_about_anomalies_1111">
+    <text>Heat アノマリーについて教えてくれ。</text>
+  </string>
+  <string id="stalker_guide_about_anomalies_11111">
+    <text>もし、あんたが一種のかすかな光・・・異常に暑い夏日に舗道を蒸気で曇らせる空気のようなモンを見たなら、何かがそこに入ったとき、その場所からはとんでもなく熱い炎が噴き出すだろうな。初めは、皆はそれが天然ガスの噴出口だと思ってたが、その理論は、最近じゃ聞かなくなったな。</text>
+  </string>
+  <string id="stalker_guide_about_anomalies_1112">
+    <text>Gas アノマリーについて教えてくれ。</text>
+  </string>
+  <string id="stalker_guide_about_anomalies_11121">
+    <text>このタイプのアノマリーは、いつまでも終わらない奇妙な化学反応とあだ名された。これらは瞬間的にあんたの皮膚を浸食する酸を作り出す、ちょうど同じくらい速くあんたの肺を蝕む有毒ガスと一緒に・・・幸い、ガスアノマリーは屋外では見つけやすい。あんたがどっかの暗い洞窟に入るなら・・・そりゃ、良くないな。</text>
+  </string>
+  <string id="stalker_guide_about_anomalies_1113">
+    <text>Electrical アノマリーについて教えてくれ。</text>
+  </string>
+  <string id="stalker_guide_about_anomalies_11131">
+    <text>かなりの量の静電気を蓄積する非常におもしろいタイプのアノマリーだ。 通常、Stalker 達はどんな金属類でも電気アノマリーを検出できるという事実を利用する。彼らはボルトを投げ入れる、そして、放電が終って再び充電している隙にダッシュで走り抜ける。俺はまわり道をするのを選ぶな・・・コイツの再充電はあまりにも迅速過ぎる。</text>
+  </string>
+  <string id="stalker_guide_about_anomalies_1114">
+    <text>Gravitational アノマリーについて教えてくれ。</text>
+  </string>
+  <string id="stalker_guide_about_anomalies_11141">
+    <text>ソレらは通常静止している。例えば、あんたが特定の場所を見て、物がソイツの後ろで歪められているのに気付いた時・・・あんたは見つけたって事だ。そして、あんたはソレから距離を保ったほうが良いだろうな。何かがソレに触れているとすぐに、3種類の良ーく知られたアノマリーが即座に反応するぜ。Springboard は下からそのあたりのモンすべてを投げつけてくる・・・多少遠くに離れていてもな。 Vortex は正反対の事をする・・・それはそれは酷い圧力で物を吸い込んで、それを潰しちまう。 Whirligig は、空中に犠牲者の断片を持ち上げ、回転して彼を苦しませる・・・不快な終わりってヤツだ、あんたがどれを選んだとしてもな。</text>
+  </string>
+  <string id="stalker_guide_about_anomalies_1">
+    <text>あんたがアノマリーに接触するつもりなら、覚えておけ。それらはとんでも無く熱いか、有毒ガスで一杯になっているか、放射線のホットスポットなのか、または精神分裂をもたらすか・・・俺は今じゃあ、それらに入るつもりは無いぜ。それはアノマリーの種類によるが熱、ガス、電気・・・または重力。どれであろうと、あんたがそれらに対処しなきゃならん必要がないことを願うぜ。まぁ、移動するアノマリーもあるんだが、それは概して別の問題だ。</text>
+  </string>
+  <string id="stalker_guide_about_anomalies_0">
+    <text>アノマリーについて教えてくれ。</text>
+  </string>
+  <string id="stalker_guide_about_anomalies_1115">
+    <text>Moving アノマリーについて教えてくれ。</text>
+  </string>
+  <string id="stalker_guide_about_anomalies_11151">
+    <text>俺は Comet と Tesla をたまたま見つけただけだった。前者は直径 3 フィートくらいの火の玉だ。だが、保証しても良いが、あんたは遥か遠くからでもコイツの熱を感じるだろうな・・・。後者は良い表現が思いつかないが、稲妻のボールだ。ソイツは確実にボールで、そして、「確実」に「現実」に電気的だぜ。 しかし、普通はどっちのアノマリーも、同じ経路をループし続けてるだけだ。注意深い Stalker はカンタンにこいつらを回避出来なきゃダメだ・・・ただ見失わないだけで良い。</text>
+  </string>
+  <string id="gonta_about_himself_0">
+    <text>あんたのことを教えてくれ。</text>
+  </string>
+  <string id="gonta_about_himself_1">
+    <text>俺は Gonta 、Hunter のチームリーダーをやってる。金と引き替えにミュータント共の駆除を請け負ってるのさ。無論、生け捕りだって出来る ― 科学実験用や、ゲテモノをペットに欲しがる連中の為にな。Trapper がよく言ってたぜ、「タマ喰らわせるミュータントも好き好き」ってな。</text>
+  </string>
+  <string id="gonta_about_mutants_0">
+    <text>ミュータント狩りの事を教えてくれ。</text>
+  </string>
+  <string id="gonta_about_mutants_1">
+    <text>そうだな、俺はそこまで年季の入った Hunter って訳じゃないが、そこらの連中よりは的確にアドバイスできるぜ。Flesh に Boar、Blind dog、Pseudodog、Snork、ついでにハムスターの事もな・・・ Bloodsucker の事だって、一つ二つは知ってるぜ。</text>
+  </string>
+  <string id="gonta_about_mutants_1111">
+    <text>boarsとfleshについて教えてほしい。</text>
+  </string>
+  <string id="gonta_about_mutants_11111">
+    <text>いいぜ、Flesh はミュータントの中でも一番無害な奴だ。奴らは Stalker と距離を置こうとするが、手を出すと反撃してくる。もし、群れの中に Boar がいたら、そいつはちょいと厄介だな。怒り狂った 300kg の塊だぜ、戯れで手を出すようなモノじゃない。突っ込んできたら、正面に立たないようにしろよ・・・ 逆に、勢いを利用してやるんだ。あんな巨体で、急に曲がれやしないだろ？ 横に避けて、ありったけの弾をぶち込んでやれ。</text>
+  </string>
+  <string id="gonta_about_mutants_1112">
+    <text>blind dogとpseudodogsについて教えてほしい。</text>
+  </string>
+  <string id="gonta_about_mutants_11121">
+    <text>イヌ科共は一匹じゃあ大してヤバくもないんだが、群れになると尻に噛み付かれるぜ。腹の減っている時にしか襲い掛かってこないんだが・・・最悪な事に、ほぼいつも腹ペコでな。もし大群に出くわしたら、高所に上がって狙い撃ちしてやれ。じきに逃げ出すぜ。群れの中に、成長しきった Pseudodog が紛れてたら気を付けろ。Blind dog と比べて特に頑丈って訳でもねえがな、ずっとズル賢くてヤバいんだ・・・もしも一匹がいきなり群れに増えやがったら、これから言う事を思い出せ。お前に襲い掛かってくるのは幻だ。本物の Pseudodog は殆ど前へ出ようとせず、偶に噛み付いてもすぐに後方へ下がっていく・・・ そいつを見分けろ。本物が死ねば、幻はすぐに消え失せる。</text>
+  </string>
+  <string id="gonta_about_mutants_1113">
+    <text>snorksについて教えてほしい。</text>
+  </string>
+  <string id="gonta_about_mutants_11131">
+    <text>ヒトだったモノの残骸さ・・・ Snork が一体いたところで、経験を積んだ Hunter には大した問題じゃない。飛び掛かってくるのを待って、空中にいる内に撃ちまくれ。ただ、近くに何体かいるなら・・・飛び掛かってくる前に、出来るだけ早く撃ち殺していけ。奴らもそれを分かっていてな、一斉に攻撃を仕掛けてくる筈だ。</text>
+  </string>
+  <string id="gonta_about_mutants_1114">
+    <text>tushkanos(鼠)について教えてほしい。</text>
+  </string>
+  <string id="gonta_about_mutants_11141">
+    <text>Hunter にとっての悪夢みたいなもんだ・・・理由は色々あるが、中でも最悪なのは、サイズが小さいからと油断する事だな。奴らは信じられねえほど速く、機敏な上、常に群れて行動してる。油断するのをやめて撃ち始めるのは - あの小さい牙で何十箇所も引き裂かれ始めてからだ。本当に震え上がるのはそれからだぜ・・・奴らを撃つのは無茶苦茶に難しいんだ。だから Stalker 達には常に言い聞かせてる・・・装填済みのショットガンを持ち歩けとな。</text>
+  </string>
+  <string id="gonta_about_mutants_1115">
+    <text>bloodsuckersについて教えてほしい。</text>
+  </string>
+  <string id="gonta_about_mutants_11151">
+    <text>奴ら自身が生粋のハンターな上、最高の擬態能力まで持っていやがる。擬態されちまったら、辛うじて見えるかどうかってところだ。Bloodsucker を狩ろうとするなら、不意を突くんだな。動いてる最中なら、もっとよく見えるんだが・・・ 覚えとけ、Blooksucker は背後に忍び寄って、首筋に触覚を突き立てようとしてくる。ゾッとしねえクソッタレだな、まったくよ・・・ もし運悪く数匹の Bloodsucker に出くわしたら、背後に気を付けながら一目散に逃げるこった。</text>
+  </string>
+  <string id="gonta_about_mutants_1116">
+    <text>いや、今のは忘れてくれ。</text>
+  </string>
+  <string id="owl_story_0">
+    <text>Tell me about this quiet harbor.</text>
+  </string>
+  <string id="owl_story_1">
+    <text>And who the hell are you to demand information from me, eh? I'll just tell you what everyone else around here already knows. There was this strange stalker, turned out to be a major of the SSU. He was a good help, and he also dealt with quite a few dangers. It's only recently that everything went downhill... The Yantar psy-emitter and Brain Scorcher were turned on again. There are clearly activities going on at the Chernobyl NPP, and it's within reach. A squad of experienced stalkers went MIA, and after that another squad stumbled upon some Monolith near the sawmill, from what I heard. After that rumble, people left, and the mutants have been using that to their advantage, breeding unchecked. This is no place for rookies, I can tell you that.</text>
+  </string>
+  <string id="owl_story_2">
+    <text>Yet I see not all is lost here. Is there anything else to keep in mind?</text>
+  </string>
+  <string id="owl_story_3">
+    <text>Yes. I'm an information broker. You see, some hotshots, they come up here looking to exit the rat race and strike it rich. But up here, there's many dangers - cultists, mutants, zombies, you name it. It's very easy for a stalker to die in these marshes. So if you happen to, uh, 'find' any of them dead...I'll pay for their PDAs, no questions asked. Capisce?</text>
+  </string>
+  <string id="owl_story_4">
+    <text>You want me to collect PDAs from dead Stalkers...and there's a lot of ways for Stalkers to die this far north. I think I understand.</text>
+  </string>
+  <string id="information_about_stash_owl_zat_0">
+    <text>You got any info on stashes?</text>
+  </string>
+  <string id="information_about_stash_owl_zat_1">
+    <text>I've got everything and more - if you've got the cash, that is. Got plenty of spare info from various sources. Eight thousand for this one, no less.</text>
+  </string>
+  <string id="information_about_stash_owl_zat1_0">
+    <text>Here. %c[d_orange][8000 RU]</text>
+  </string>
+  <string id="information_about_stash_owl_zat1_1">
+    <text>良いだろう。これが座標だ。</text>
+  </string>
+  <string id="find_blackbox_mlr_reward_owl_0">
+    <text>Are you interested in data from a flight recorder?</text>
+  </string>
+  <string id="find_blackbox_mlr_reward_owl_1">
+    <text>Wha-of course! Give it here.</text>
+  </string>
+  <string id="boroda_story_0">
+    <text>あんたがBeardか。</text>
+  </string>
+  <string id="boroda_story_1">
+    <text>そのとおり。 Skadovskへようこそ。</text>
+  </string>
+  <string id="boroda_story_2">
+    <text>ここでは何ができる？</text>
+  </string>
+  <string id="boroda_story_3">
+    <text>Whatever you prefer doing. Ever since the departure of Sultan, the hunt for artefacts around here has been more of a breeze than ever. If you plan on going south in the direction of the substation workshops and the waste processing station, be careful. The Syndicate holds those territories, and they pose quite a threat. If you happen to find any artefacts, feel free to bring them here - I'll be more than happy to offer you a decent price. Stay safe around these parts, stalker.</text>
+  </string>
+  <string id="boroda_story_4">
+    <text>ありがとう。</text>
+  </string>
+  <string id="devushka_boroda_help_0">
+    <text>Hey Beard! We're still on time, right? We've got a present for you.</text>
+  </string>
+  <string id="devushka_boroda_help_1">
+    <text>Just in time, in fact. Here, both of you, a reward for your troubles.</text>
+  </string>
+  <string id="noah_start_dialog_0">
+    <text>Man, what the hell were you shooting for? You almost killed me!</text>
+  </string>
+  <string id="noah_start_dialog_1">
+    <text>And what are you here for? No bullshitting - don't waste my time.</text>
+  </string>
+  <string id="noah_start_dialog_2">
+    <text>Okay, easy. Just passing by. Need any help? Can you answer a few questions?</text>
+  </string>
+  <string id="noah_start_dialog_3">
+    <text>I'll answer, but don't screw around.</text>
+  </string>
+  <string id="noah_start_dialog1_0">
+    <text>いくつか質問がある。</text>
+  </string>
+  <string id="noah_start_dialog1_1">
+    <text>...</text>
+  </string>
+  <string id="noah_start_dialog1_2">
+    <text>あんたはどこでこの犬を手にいれたんだ？</text>
+  </string>
+  <string id="noah_start_dialog1_7">
+    <text>そいつはLassieだ。いとしいちっちゃな雌犬・・・もしこの子が居なかったら、とっくに俺は眠りながらむさぼり食われていただろうな。呪われたミュータントどもめ・・・俺はアイツらが大嫌いだ! あんたが目を閉じたらすぐにでも、ヤツらは不快なカギ爪や牙や触手を伸ばしてくるだろうよ。</text>
+  </string>
+  <string id="noah_start_dialog1_8">
+    <text>そうかい。</text>
+  </string>
+  <string id="noah_start_dialog1_9">
+    <text>And those puppies - where do they come from if she's next to you all the time? Heh.</text>
+  </string>
+  <string id="noah_start_dialog1_3">
+    <text>お前はどうしてこんなゴミ箱で暮らしてるんだ？</text>
+  </string>
+  <string id="noah_start_dialog1_10">
+    <text>これは箱舟だ！覚えておけ・・・もしも生き残りたいならな！"波"が始まったら近くに居ろ。此処には生き残るチャンスがある。ミュータントは絶対に侵入できない。</text>
+  </string>
+  <string id="noah_start_dialog1_11">
+    <text>波とは何だ？お前は何を言っているんだ?</text>
+  </string>
+  <string id="noah_start_dialog1_12">
+    <text>The creatures are watching me day and night. You do not understand... those snorks from the southern plateau have followed me right up to the Ark! I'm an experienced hunter and I know that they would not have chased the victim for so fucking long. Something isn't clear... they must have a collective mind of sorts. My thoughts have been confirmed by the recent attacks on the barge by those horrors.</text>
+  </string>
+  <string id="noah_start_dialog1_13">
+    <text>I guess anything can happen in the Zone, but if your estimates are correct, we're in some deep trouble.</text>
+  </string>
+  <string id="noah_start_dialog1_4">
+    <text>Why do you not trust people?</text>
+  </string>
+  <string id="noah_start_dialog1_14">
+    <text>Because I've been through too much.</text>
+  </string>
+  <string id="noah_start_dialog1_5">
+    <text>I think I'll go.</text>
+  </string>
+  <string id="tasks_noah_dialog_0">
+    <text>何か助けがいるか？</text>
+  </string>
+  <string id="tasks_noah_dialog_1">
+    <text>Well... I do have a couple favors you could do for me.</text>
+  </string>
+  <string id="tasks_noah_dialog_2">
+    <text>新しい散弾銃を見つけろ</text>
+  </string>
+  <string id="tasks_noah_dialog_5">
+    <text>My current shooter is crap. If you could bring me something better, like a Saiga... Well, I'm not sure getting a weapon like that in the Zone is possible. I have seen a few bandits with Armsel Protectas, though. You can bring me one of those.</text>
+  </string>
+  <string id="tasks_noah_dialog_3">
+    <text>南部の高原でsnorkに対処する</text>
+  </string>
+  <string id="tasks_noah_dialog_6">
+    <text>It's time to put an end to those horrid creatures. Every night, I hear them creeping around the barge, waiting, breathing and sniffing. To get to the southern plateau, you'll have to use a teleporter. I've marked it on your map - it's not far from the burnt farmstead.</text>
+  </string>
+  <string id="tasks_noah_dialog_4">
+    <text>気が変わった。</text>
+  </string>
+  <string id="task_1_noah_done_0">
+    <text>ほらよ、Armsel Protectaだ。</text>
+  </string>
+  <string id="task_1_noah_done_1">
+    <text>...Impressive. Thanks for the help. Now those beasts will think three times before snooping around here.</text>
+  </string>
+  <string id="task_2_noah_done_0">
+    <text>I got those snorks, there were quite a few of them. What were they hunting you for?</text>
+  </string>
+  <string id="task_2_noah_done_1">
+    <text>I'm not sure. I used to head over there once in a while to clean them up, but I don't have any more time for that... have to to keep an eye on the puppies. So, thank you for your help.</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_actor_info_0">
+    <text>ここでの生活はどうだ？</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_actor_info_1">
+    <text>That's a broad topic. Try asking some specific questions and I'll do my best to answer them.</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_actor_info_1111">
+    <text>What do stalkers do here?</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_actor_info_11111">
+    <text>Ask yourself that, pal. They step ashore from Skadovsk to explore the terrain and search for artefacts, shooting back at everything and everyone who comes rushing at them. They come back on Skadovsk to get drunk and talk trash... enjoy some R&amp;R before the next raid... though, when an emission hits, it's quite a different scene. That's when we all sit tight and remember those who didn't make it to a cover in time...</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_actor_info_1112">
+    <text>What drove stalkers to the center of the Zone?</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_actor_info_11121">
+    <text>A funny question. Some were out to discover the next artefact goldmine. Some were driven here by the Oasis rumours. Others sought the Wish Granter. And then there are the base human desires: greed and curiosity... Everyone's got their reasons. I'm sure you have yours, too.</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_actor_info_1113">
+    <text>どうやってここに来た？</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_actor_info_11131">
+    <text>I came here with Grouse after the Scorcher was disabled. But I'm sure that's not what you really wanna know, am I right? I deal mainly in artefacts. The outside is full of trinkets already, so valuable customers want the rare stuff. That's why I decided to set up a stalker camp, where real high-value articles can still be found. I mean, when a stalker comes back with his loot, what does he really need? A cold one in his hand and good ol' human contact, that's what. And that's what the Skadovsk is all about.</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_actor_info_1114">
+    <text>What do you think about bandits?</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_actor_info_11141">
+    <text>Well, it's like this: I got nothing against 'em on board the Skadovsk, so long as they act decent. After all, you don't meet total douche bags all that often. Some of them are actually former stalkers. Who knows, one of them poor bastards might actually decide to give up the crook business before he catches a bullet... Life is full of surprises.</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_actor_info_1115">
+    <text>Nah, that's okay. Forget about it.</text>
+  </string>
+  <string id="zat_a2_stalker_barmen_actor_info_11151">
+    <text>If you say so.</text>
+  </string>
+  <string id="zat_b7_stalkers_victims_dialog_11">
+    <text>Howdy, stalker. I'm busy right now. Let's talk later, okay?</text>
+  </string>
+  <string id="zat_b22_stalker_medic_start_1">
+    <text>What brings you here?</text>
+  </string>
+  <string id="zat_b22_stalker_medic_dialog_start_21">
+    <text>ああ、聞いてるぜ。</text>
+  </string>
+  <string id="zat_b22_stalker_medic_dialog_start_22">
+    <text>やあ、手伝いが要るかい？</text>
+  </string>
+  <string id="zat_b22_stalker_medic_dialog_start_23">
+    <text>よお。</text>
+  </string>
+  <string id="zat_b22_stalker_medic_need_health_care_0">
+    <text>医療措置を頼む。</text>
+  </string>
+  <string id="zat_b22_stalker_medic_need_health_care_1">
+    <text>I'll see what I can do.</text>
+  </string>
+  <string id="zat_b22_stalker_medic_need_health_care_2">
+    <text>I'll take a look... Hmm... You look fine to me. You don't have any wounds or show signs of radiation sickness. You should be good to go.</text>
+  </string>
+  <string id="zat_b22_stalker_medic_need_health_care_111">
+    <text>I'll be honest with you - of course, you can use a medical kit or two and everything will be fine. I can solve most of your problems for say 1,850 RU. I have a very good serum that will put you back on your feet in no time. But all these glowing radioactive particles will still be flowing around in your body. No, that the serum cannot fix. But for another 1,480 RU on top, I'll get all this shit out of you. So, what have you decided?</text>
+  </string>
+  <string id="zat_b22_stalker_medic_need_health_care_11">
+    <text>What? Is everything so bad?</text>
+  </string>
+  <string id="zat_b22_stalker_medic_need_health_care_1111">
+    <text>Well, take your money and get to work. Health is more important than money.</text>
+  </string>
+  <string id="zat_b22_stalker_medic_need_health_care_1112">
+    <text>Okay, fix only the radiation. The wounds I can bandage myself.</text>
+  </string>
+  <string id="zat_b22_stalker_medic_need_health_care_1113">
+    <text>You know what, Doc? Fix yourself!</text>
+  </string>
+  <string id="zat_b22_stalker_medic_need_health_care_11111">
+    <text>One moment, please... Yes, everything should be fine now. You can go.</text>
+  </string>
+  <string id="zat_b22_stalker_medic_need_health_care_11112">
+    <text>Well, you won't die from weak radiation. For now at least. But I won't take any responsibility if you bleed to death. Good luck, buddy!</text>
+  </string>
+  <string id="zat_b22_stalker_medic_need_health_care_11113">
+    <text>As you wish, comrade. Don't blame me if you suddenly cease to live.</text>
+  </string>
+  <string id="zat_b18_noah_start_11">
+    <text>お前は誰だ？</text>
+  </string>
+  <string id="zat_b18_noah_start_111">
+    <text>Stalker だ、以前にも会っただろう。</text>
+  </string>
+  <string id="zat_b18_noah_start_1111">
+    <text>思い出せん・・・ それはそうとして、何か必要なのか？</text>
+  </string>
+  <string id="zat_b18_noah_start_112">
+    <text>Stalker 、ただの Stalker だ。</text>
+  </string>
+  <string id="zat_b18_noah_start_1121">
+    <text>ほう。避難場所を求めて我が「方舟」にやってきたのか？自分の家だと思ってくつろいでくれ。</text>
+  </string>
+  <string id="zat_b18_noah_start_113">
+    <text>あんたには関係無いだろう。</text>
+  </string>
+  <string id="zat_b18_noah_start_21">
+    <text>ああ、あんたか。何か用か？</text>
+  </string>
+  <string id="zat_b3_stalker_tech_start_15">
+    <text>A wise choice, my friend. Gotta keep your gun in mint condition... And if you got a bottle or two on you, I can make it upgrade galore in here. Want a parachute sewn to your shotgun? I can do that, hehe.</text>
+  </string>
+  <string id="zat_b3_stalker_tech_drink_1_0">
+    <text>Got some booze. Want a shot?</text>
+  </string>
+  <string id="zat_b3_stalker_tech_drink_1_2">
+    <text>Nah, I'm off the bottle, man. When I saw item 62, I thought, 'That's it, I'm having the jumps...' See, booze just screws you up. Not a part of a healthy diet. And if I'm gone, who's gonna hammer out ammo for your Gauss rifle?</text>
+  </string>
+  <string id="zat_b3_stalker_tech_drink_2_0">
+    <text>Here's another bottle for you.</text>
+  </string>
+  <string id="zat_b3_stalker_tech_drink_3_0">
+    <text>I've got a third one, if you need more.</text>
+  </string>
+</string_table>

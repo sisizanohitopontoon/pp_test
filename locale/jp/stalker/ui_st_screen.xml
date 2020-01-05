@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="st_ignite_fire">
+    <text>着火($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_ignite_wait">
+    <text>再び火を起こす前に少し待つ必要があります</text>
+  </string>
+  <string id="st_ignite_far">
+    <text>近くにキャンプファイヤーがないか、遠すぎます。</text>
+  </string>
+  <string id="st_extinguish_fire">
+    <text>消火($$ACTION_USE$$)</text>
+  </string>
+  <string id="actor_inventory_box_use">
+    <text>パーソナルボックスを開ける($$ACTION_USE$$)</text>
+  </string>
+  <string id="cant_walk">
+    <text>疲れすぎて動けない</text>
+  </string>
+  <string id="cant_walk_weight">
+    <text>重すぎて動けない</text>
+  </string>
+  <string id="car_character_use">
+    <text>ドアを開ける($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_use_action_sit">
+    <text>座る($$ACTION_USE$$)</text>
+  </string>
+  <string id="character_use">
+    <text>話す($$ACTION_USE$$)</text>
+  </string>
+  <string id="dead_character_use">
+    <text>死体を調べる($$ACTION_USE$$)</text>
+  </string>
+  <string id="dead_character_use_or_drag">
+    <text>死体を調べる ($$ACTION_USE$$)\n死体を引きずる (SHIFT+$$ACTION_USE$$)</text>
+  </string>
+  <string id="general_complete_task">
+    <text>ミッション完了:</text>
+  </string>
+  <string id="general_fail_task">
+    <text>ミッション失敗:</text>
+  </string>
+  <string id="general_in_item">
+    <text>アイテムを受理:</text>
+  </string>
+  <string id="general_in_money">
+    <text>金の受理:</text>
+  </string>
+  <string id="general_new_task">
+    <text>新しいミッション:</text>
+  </string>
+  <string id="general_out_item">
+    <text>アイテムを消失:</text>
+  </string>
+  <string id="general_out_money">
+    <text>金の消失:</text>
+  </string>
+  <string id="general_reverse_task">
+    <text>ミッションをキャンセル:</text>
+  </string>
+  <string id="general_update_task">
+    <text>ミッション更新:</text>
+  </string>
+  <string id="gun_jammed">
+    <text> </text>
+  </string>
+  <string id="st_item_taken">
+    <text>%s</text>
+  </string>
+  <string id="inventory_box_use">
+    <text>ボックスを調べる($$ACTION_USE$$)</text>
+  </string>
+  <string id="inventory_item_use">
+    <text>アイテムを拾う($$ACTION_USE$$)</text>
+  </string>
+  <string id="jup_b10_ufo_searching_tips">
+    <text>航空機を調べる($$ACTION_USE$$)</text>
+  </string>
+  <string id="jup_b1_bar_door">
+    <text>ドアは動かない</text>
+  </string>
+  <string id="jup_b1_door_is_closed">
+    <text>ドアは内側から施錠されています</text>
+  </string>
+  <string id="jup_b202_treasures_closed">
+    <text>安全ロック</text>
+  </string>
+  <string id="jup_b205_tip_door_closed">
+    <text>コードが必要</text>
+  </string>
+  <string id="jup_b205_tip_door_decode">
+    <text>コードを入力してください($$ACTION_USE$$)</text>
+  </string>
+  <string id="jup_b206_use_plant">
+    <text>植物を採取($$ACTION_USE$$)</text>
+  </string>
+  <string id="jup_b209_scanner_place_tips">
+    <text>スキャナーをセットする($$ACTION_USE$$)</text>
+  </string>
+  <string id="jup_b209_scanner_remove_tips">
+    <text>スキャナーを拾う($$ACTION_USE$$)</text>
+  </string>
+  <string id="lx8_raduga">
+    <text>Rainbow aggression suppressor\nmodel of external emissions complex\nscale 1:20</text>
+  </string>
+  <string id="pas_b400_tip_switcher">
+    <text>スイッチを入れる ($$ACTION_USE$$)</text>
+  </string>
+  <string id="pri_a18_use_idol">
+    <text>デバイスを調べます ($$ACTION_USE$$)</text>
+  </string>
+  <string id="pri_a25_blow_up_enter_door">
+    <text>爆薬を設置 ($$ACTION_USE$$)</text>
+  </string>
+  <string id="pri_a28_talk_with_stupid_medic">
+    <text>回復 ($$ACTION_USE$$)</text>
+  </string>
+  <string id="pri_b306_elevator_door_locked_used">
+    <text>エレベーターには動力が通っていない</text>
+  </string>
+  <string id="pri_b306_generator_use">
+    <text>発電機を起動 ($$ACTION_USE$$)</text>
+  </string>
+  <string id="sleep_ok_button">
+    <text>睡眠</text>
+  </string>
+  <string id="sleep_warning_all_pleasures">
+    <text>危険なほど出血し、放射線に被爆している為、眠ることが出来ない。医薬品を使用するか、医者に見て貰う必要がある。</text>
+  </string>
+  <string id="sleep_warning_bleeding">
+    <text>危険なほど出血している為、眠ることが出来ない。医薬品を使用するか、医者に見て貰う必要がある。</text>
+  </string>
+  <string id="sleep_warning_radiation">
+    <text>放射線に被爆している為、眠ることが出来ない。医薬品を使用するか、医者に見て貰う必要がある。</text>
+  </string>
+  <string id="sleep_zone_tip">
+    <text>寝る ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_autosave">
+    <text>オートセーブ中…</text>
+  </string>
+  <string id="st_can_use_weapon_now">
+    <text>武器を取り出すことができます。</text>
+  </string>
+  <string id="st_codelock">
+    <text>コードロック ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_detective_news">
+    <text>Medical supplies have been placed in the personal box on the Skadovsk for solving the secret of the missing stalkers.</text>
+  </string>
+  <string id="st_duty_first_reward_news">
+    <text>A PS5-M Universal Protection suit has been placed in the personal box at Yanov for helping Duty.</text>
+  </string>
+  <string id="st_duty_second_reward_news">
+    <text>A PSZ-9d Duty armour suit has been placed in the personal box at Yanov for helping Duty.</text>
+  </string>
+  <string id="st_freedom_first_reward_news">
+    <text>A Wind of Freedom suit has been placed in the personal box at Yanov for helping Freedom.</text>
+  </string>
+  <string id="st_freedom_second_reward_news">
+    <text>A Freedom Guard suit has been placed in the personal box at Yanov for helping Freedom.</text>
+  </string>
+  <string id="st_freeplay_text_ok">
+    <text>You didn't manage to reach the helicopters and the evacuation team left the Zone without you.</text>
+  </string>
+  <string id="st_freeplay_text_yes_no">
+    <text>Zoneを去る準備はできていますか？戻ることはできません</text>
+  </string>
+  <string id="st_game_over">
+    <text> </text>
+  </string>
+  <string id="st_game_over_press_jump">
+    <text> </text>
+  </string>
+  <string id="st_game_paused">
+    <text>Paused</text>
+  </string>
+  <string id="st_game_saved">
+    <text>Game saved</text>
+  </string>
+  <string id="st_herald_of_justice_news">
+    <text>An artefact has been placed in the personal box on the Skadovsk for helping to expose Magpie.</text>
+  </string>
+  <string id="st_jup_b41_door_locked">
+    <text>You must wait for the dock to become airtight</text>
+  </string>
+  <string id="st_lx8_button_press_true">
+    <text>アクセス許可</text>
+  </string>
+  <string id="st_lx8_lift_button">
+    <text>エレベーターを上昇させる ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_pri_b306_go_down">
+    <text>エレベーターを下降させる ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_psy_danger">
+    <text>Dangerous psy-emission levels. Protection required to go further.</text>
+  </string>
+  <string id="st_helmet_countdown">
+    <text>防護機能が停止した</text>
+  </string>
+  <string id="st_radiation_danger">
+    <text>危険な放射線レベル：さらに進むには保護具が必要です。</text>
+  </string>
+  <string id="st_search_helicopter">
+    <text>ヘリコプターを調べる ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_search_treasure">
+    <text>隠し場所を探す ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_sleep_hours">
+    <text>時間</text>
+  </string>
+  <string id="st_tip">
+    <text>メッセージ</text>
+  </string>
+  <string id="tip_door_blocked">
+    <text>ドアがブロックされている</text>
+  </string>
+  <string id="tip_door_close">
+    <text>ドアを閉める($$ACTION_USE$$)</text>
+  </string>
+  <string id="tip_door_closed_base_alarm">
+    <text>ドアロック - キャンプは警戒態勢</text>
+  </string>
+  <string id="tip_door_closed_hide_weapon">
+    <text>ドアロック - 武器をしまう必要がある</text>
+  </string>
+  <string id="tip_door_locked">
+    <text>ドアロック</text>
+  </string>
+  <string id="tip_door_no_electricity">
+    <text>ドアに電力が供給されていません</text>
+  </string>
+  <string id="tip_door_open">
+    <text>ドアを開ける ($$ACTION_USE$$)</text>
+  </string>
+  <string id="tip_gate_locked">
+    <text>ゲートブロック</text>
+  </string>
+  <string id="tip_need_access_card">
+    <text>アクセスカードを使う ($$ACTION_USE$$)</text>
+  </string>
+  <string id="tip_no_access_card">
+    <text>アクセスカードが必要です</text>
+  </string>
+  <string id="tip_open_another_site">
+    <text>この側からドアを開くことはできません</text>
+  </string>
+  <string id="ui_st_mp_experience_grow">
+    <text> - </text>
+  </string>
+  <string id="ui_st_mp_create">
+    <text>作成する</text>
+  </string>
+  <string id="zat_b12_conteiner_full_locked">
+    <text>コンテナーはロックされています。開くには2つのキーが必要です。</text>
+  </string>
+  <string id="zat_b12_conteiner_has_one_key">
+    <text>キーを使用 ($$ACTION_USE$$)</text>
+  </string>
+  <string id="zat_b12_conteiner_has_two_key">
+    <text>キーを使用 ($$ACTION_USE$$)</text>
+  </string>
+  <string id="zat_b12_conteiner_locked">
+    <text>コンテナーはロックされています。それを開くには2番目のキーが必要です。</text>
+  </string>
+  <string id="zat_b12_conteiner_open">
+    <text>コンテナを開く ($$ACTION_USE$$)</text>
+  </string>
+  <string id="zat_b14_door_locked_hint">
+    <text>ドア機構は内側からブロックされています。</text>
+  </string>
+  <string id="zat_b57_balon_use_hint">
+    <text>ガソリンタンクを接続する ($$ACTION_USE$$)</text>
+  </string>
+  <string id="zat_b57_gas_warning">
+    <text>警告！化学物質による危険！</text>
+  </string>
+  <string id="zat_b57_vintil_press">
+    <text>バルブをひねる($$ACTION_USE$$)</text>
+  </string>
+  <string id="zat_b33_car_searching_tip">
+    <text>車を探す ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_resupply_ready">
+    <text>You can restock on medical supplies and ammo by visiting Lieutenant Rogovets and Lieutenant Kirillov.</text>
+  </string>
+  <string id="st_surge_while_asleep">
+    <text>An emission has recently occurred in the Zone.</text>
+  </string>
+  <string id="st_mutant_hunter_news">
+    <text>Ammo has been placed in the personal box at Yanov for eliminating dangerous mutants.</text>
+  </string>
+  <string id="st_found_old_treasure">
+    <text>すでに発見されたStashの座標を受信した。</text>
+  </string>
+  <string id="st_got_treasure">
+    <text>Stash発見</text>
+  </string>
+  <string id="st_found_new_treasure">
+    <text>Stash座標受信</text>
+  </string>
+  <string id="st_press_any_key">
+    <text>いずれかのキーを押して開始</text>
+  </string>
+  <string id="tips_labx16switcher_press">
+    <text>Miracle Machineを止める ($$ACTION_USE$$)</text>
+  </string>
+  <string id="tips_rad_switcher_press">
+    <text>Brain Scorcherを止める ($$ACTION_USE$$)</text>
+  </string>
+  <string id="bridge_down_red_forest_tips">
+    <text>橋を下げる ($$ACTION_USE$$)</text>
+  </string>
+  <string id="bridge_stop_red_forest_tips">
+    <text>橋を止める ($$ACTION_USE$$)</text>
+  </string>
+  <string id="bridge_up_red_forest_tips">
+    <text>橋を上げる ($$ACTION_USE$$)</text>
+  </string>
+  <string id="drx_sl_tips_rad_switcher_press">
+    <text>Brain Scorcherを起動する ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_make_a_wish">
+    <text>願い事をする ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_lx18_pda">
+    <text>Listen to PDA recording</text>
+  </string>
+  <string id="dar_poltergeist_hold_the_door">
+    <text>Someone is holding the door.</text>
+  </string>
+  <string id="st_labx18_pass_to_1st_door">
+    <text>Excellent, Colleague. I'm glad that you've received 2nd level access. At last you will find out what goes on in our laboratory. Your access code is 1243. Chief of Laboratory X18, Piotr Ilich Kalugin.</text>
+  </string>
+  <string id="st_labx18_pass_to_2nd_door">
+    <text>Dear colleague, may I remind you that starting tomorrow you will attend to the container in the central laboratory room. You must inspect the containers every two hours. Report everything directly to me. The code to the central laboratory room is 9524. Chief of Laboratory X18, Piotr Ilyitch Kalugin.</text>
+  </string>
+  <string id="st_yan_saharov_message">
+    <text>Good man, you made it after all. It's extremely important that we study the machine in the lab. Try turning it off so that we can have a look at it.</text>
+  </string>
+  <string id="st_yan_saharov_message_2">
+    <text>Listen, this prototype won't protect you from powerful emissions for long. I expected this, so every time an emission is detected, a timer is activated. When the time runs out, the prototype will no longer protect you, so be careful and keep an eye on the time.</text>
+  </string>
+  <string id="st_yan_saharov_message_3">
+    <text>Great work. The emission has been turned off and you're still alive. Oh, and by the way, pop into our bunker every once in a while, won't you?</text>
+  </string>
+  <string id="tips_warlab_switcher_press">
+    <text>ジェネレーターを停止させる ($$ACTION_USE$$)</text>
+  </string>
+  <string id="tip_door_coded">
+    <text>ドアはコードによりロックされている</text>
+  </string>
+  <string id="tip_door_decode">
+    <text>($$ACTION_USE$$)でドアをデコードする</text>
+  </string>
+  <string id="tip_door_decoding">
+    <text>デコード中</text>
+  </string>
+  <string id="bar_arena_actor_afraid">
+    <text>The fight is off! The challenger got cold feet and didn't come out to fight at all!</text>
+  </string>
+  <string id="bar_arena_fight_10">
+    <text>10秒経過！</text>
+  </string>
+  <string id="bar_arena_fight_20">
+    <text>20秒経過！</text>
+  </string>
+  <string id="bar_arena_fight_30">
+    <text>30秒経過！</text>
+  </string>
+  <string id="bar_arena_fight_40">
+    <text>40秒経過！</text>
+  </string>
+  <string id="bar_arena_fight_50">
+    <text>50秒経過！</text>
+  </string>
+  <string id="bar_arena_fight_60">
+    <text>1分経過！</text>
+  </string>
+  <string id="bar_arena_fight_70">
+    <text>1分10秒経過！</text>
+  </string>
+  <string id="bar_arena_fight_80">
+    <text>1分20秒経過！</text>
+  </string>
+  <string id="bar_arena_fight_90">
+    <text>1分30秒経過！</text>
+  </string>
+  <string id="bar_arena_fight_begin">
+    <text>戦闘開始！</text>
+  </string>
+  <string id="bar_arena_fight_bloodsucker">
+    <text>Attention! Attention! A new fight is about to start in the Arena! In the left corner - the Zone's most dreaded nightmare, the ever-hungry Bloodsucker! And in the right corner... A man? Yes, it's a man! Your applause, please, for the stalker!</text>
+  </string>
+  <string id="bar_arena_fight_burer">
+    <text>Attention! Attention! A new fight is about to start in the Arena! In the left corner - the spoon-bending kung-fu master himself - the burer! And in the right corner - the man constantly on the lookout!</text>
+  </string>
+  <string id="bar_arena_fight_dead">
+    <text>So, the challenger has been killed! Now there's a surprise!</text>
+  </string>
+  <string id="bar_arena_fight_lose">
+    <text>Well, the challenger killed his opponent, but he didn't do it in time. He loses the fight!</text>
+  </string>
+  <string id="bar_arena_fight_pseudodog">
+    <text>Attention! Attention! A new fight is about to start in the Arena. In the left corner - it's white, it's fluffy and it's pissed off like hell... The pseudodog! And in the right corner - he came from nowhere and that's precisely where he's headed.</text>
+  </string>
+  <string id="bar_arena_fight_savage">
+    <text>Attention! Attention! A new fight is about to start in the Arena. In the left corner - you know him, you love him, and he hates you right back! It's the Beast! And in the right corner - alive and kicking, at least for the moment - our stalker!</text>
+  </string>
+  <string id="bar_arena_fight_snork">
+    <text>Attention! Attention! A new fight is about to start in the Arena! In the left corner - the martial arts guru and health specialist - the snork! And in the right corner - the man with no past and no future.</text>
+  </string>
+  <string id="bar_arena_fight_timeout">
+    <text>タイムアップ！挑戦者は負けた、しかしまだ命をかけて戦っている！</text>
+  </string>
+  <string id="bar_arena_fight_victory">
+    <text>ホー！挑戦者は時間内に相手を倒したぞ！彼の勝利だ！</text>
+  </string>
+  <string id="st_death_count">
+    <text>あなたは%s回死にました</text>
+  </string>
+  <string id="st_msg_unlocked_routes">
+    <text>PDAに新しい場所がマークされました</text>
+  </string>
+  <string id="st_zone_disappeared">
+    <text> WISH GRANTED ! </text>
+  </string>
+  <string id="st_screen_kick">
+    <text>Kick</text>
+  </string>
+  <string id="st_screen_field_dress">
+    <text>部位を回収する</text>
+  </string>
+  <string id="st_nobody_left_to_replace">
+    <text>交換部品が無い</text>
+  </string>
+  <string id="st_nothing_useful">
+    <text>使えるものはない</text>
+  </string>
+  <string id="st_ui_heli">
+    <text>ヘリコプター</text>
+  </string>
+  <string id="st_tiski_no_info">
+    <text>あなたはこの万力を使用する許可を得ていません</text>
+  </string>
+  <string id="st_tiski">
+    <text>ワークショップを使用 ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_awr_tiski">
+    <text>修理($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_impending_doom">
+    <text>Emissionが迫っている</text>
+  </string>
+  <string id="st_ironman_new_life">
+    <text>蘇った！あなたは%s回死んだ。残り%s機</text>
+  </string>
+  <string id="st_toggle_animation_on">
+    <text>アイテムアニメーションを有効化</text>
+  </string>
+  <string id="st_toggle_animation_off">
+    <text>アイテムアニメーションを無効化</text>
+  </string>
+  <string id="ui_st_disguse_disabled">
+    <text>変装システムが無効になっています。</text>
+  </string>
+  <string id="ui_st_disguse_back_to_default">
+    <text>あなたは現在 %sのメンバーとして再び認識されている。</text>
+  </string>
+  <string id="ui_st_disguse_blacklisted_faction">
+    <text>You can't disguise as a %s member, everybody remembers you're a member of %s.</text>
+  </string>
+  <string id="ui_st_disguse_someone_saw">
+    <text>あなたは衣装が変わるのを見てきました、誰もがあなたを %sメンバーとして覚えています。</text>
+  </string>
+  <string id="ui_st_disguse_someone_remember">
+    <text>あなたは最近見られました、誰もがあなたを %sメンバーとして覚えています。</text>
+  </string>
+  <string id="ui_st_disguse_naked">
+    <text>Without any outfit, stalkers will know you're a member of %s.</text>
+  </string>
+  <string id="ui_st_disguse_patch_torn">
+    <text>This outfit's patch is torn, stalkers will know you're a member of %s.</text>
+  </string>
+  <string id="ui_st_disguse_patch_torn_now">
+    <text>You tore the %s on this outfit, it can no longer be used for disguise.</text>
+  </string>
+  <string id="ui_st_disguse_patch_attach_now">
+    <text>You attached a %s on this outfit, it can be used for disguise now.</text>
+  </string>
+  <string id="ui_st_disguse_on">
+    <text>With this outfit, stalkers will assume you're a member of %s.</text>
+  </string>
+  <string id="st_disguse_actor_exposed">
+    <text>あなたは発見されました！誰もがあなたが偽装した %sメンバーであることを知っています。</text>
+  </string>
+  <string id="st_news_disguse_enemy_expose_1">
+    <text>侵入者だ！</text>
+  </string>
+  <string id="st_news_disguse_enemy_expose_2">
+    <text>スパイだ！撃て！</text>
+  </string>
+  <string id="st_news_disguse_enemy_expose_3">
+    <text>スパイだ！急げ！撃ち方はじめ！</text>
+  </string>
+  <string id="st_news_disguse_enemy_expose_4">
+    <text>こいつは敵だ！撃て！</text>
+  </string>
+  <string id="st_news_disguse_enemy_expose_5">
+    <text>止まれ！犯罪者のクズ野郎！裁判所に罰金を支払うか、罰を受けるか選べ。貴様の盗んだ商品は没収する。</text>
+  </string>
+  <string id="st_news_disguse_natural_expose_1">
+    <text>Were you spying on someone?! Who sent you?</text>
+  </string>
+  <string id="st_news_disguse_natural_expose_2">
+    <text>Undercover? You think that's funny?</text>
+  </string>
+  <string id="st_news_disguse_natural_expose_3">
+    <text>You're not fooling anyone, dumbass.</text>
+  </string>
+  <string id="st_news_disguse_natural_expose_4">
+    <text>Leave.</text>
+  </string>
+  <string id="st_drx_questlines_and_this_one">
+    <text>And this one...</text>
+  </string>
+  <string id="st_drx_questlines_joined">
+    <text>You have joined the</text>
+  </string>
+  <string id="st_drx_questlines_faction">
+    <text>派閥</text>
+  </string>
+  <string id="st_bribe_expired">
+    <text>%sの停戦は期限切れです。</text>
+  </string>
+  <string id="st_bribe_broke">
+    <text>あなたはルールを破った、%sとの取引はオフになっています！</text>
+  </string>
+  <string id="st_upd_low">
+    <text>電池残量が少ない</text>
+  </string>
+  <string id="st_upd_disconnected">
+    <text>ユニバーサルパワーデバイス（UPD）がありません</text>
+  </string>
+  <string id="st_news_goodwill_update_title">
+    <text>Change of order</text>
+  </string>
+  <string id="st_news_goodwill_intro_1">
+    <text>Rumours are spreading about your latest efforts.</text>
+  </string>
+  <string id="st_news_goodwill_intro_lose_1">
+    <text>Rumours are spreading about your recent failure.</text>
+  </string>
+  <string id="st_news_goodwill_main_1">
+    <text>You gained more trust among %s.</text>
+  </string>
+  <string id="st_news_goodwill_main_lose_1">
+    <text>信頼を%s失った</text>
+  </string>
+  <string id="st_news_goodwill_enemy_1">
+    <text>%s didn't receive that well.</text>
+  </string>
+  <string id="st_bad_turn_into_bandit">
+    <text>あなたはグループから追放されました！</text>
+  </string>
+  <string id="st_bad_turn_into_bandit_news">
+    <text>%c[0,255,0,0]あなたはグループから追放されました！</text>
+  </string>
+  <string id="st_bad_turn_into_zombie">
+    <text>The Psy-radiation level is critical and you have been zombified!</text>
+  </string>
+  <string id="st_bad_turn_into_zombie_news">
+    <text>%c[0,255,64,0]The Psy-radiation level is critical and you have been zombified!</text>
+  </string>
+  <string id="st_bad_turn_dezombification">
+    <text>ゾンビ化は正常に終了しました！</text>
+  </string>
+  <string id="st_bad_turn_dezombification_news">
+    <text>%c[0,255,64,0]Dezombification finished successfully!</text>
+  </string>
+  <string id="st_travel_event">
+    <text>敵が近くにいる状態でtravelするのは危険だ。</text>
+  </string>
+  <string id="st_travel_overloaded">
+    <text>荷物が重すぎる</text>
+  </string>
+  <string id="st_travel_already_here">
+    <text>あなたはすでにあなたの目的地にいます</text>
+  </string>
+  <string id="bp_to">
+    <text>動く</text>
+  </string>
+  <string id="bp_open">
+    <text>バックパックを開く</text>
+  </string>
+  <string id="st_stash_created">
+    <text>Stashが作成されました</text>
+  </string>
+  <string id="st_stash_placed">
+    <text>あなたはすでにどこかにStashを置いています</text>
+  </string>
+  <string id="st_stash_unsafe">
+    <text>Stashはここに配置できません</text>
+  </string>
+  <string id="st_itm_stash">
+    <text>stash</text>
+  </string>
+  <string id="st_itm_stash_of_character">
+    <text>%s's stash</text>
+  </string>
+  <string id="st_sleep_awake">
+    <text>まだ疲れていない</text>
+  </string>
+  <string id="st_sleep_awake_wired">
+    <text>血中カフェイン濃度が高過ぎる為、寝ることができません</text>
+  </string>
+  <string id="st_sleep_bleeding">
+    <text>あなたは出血しています。治療を受けてください</text>
+  </string>
+  <string id="st_sleep_bleeding_irradiated">
+    <text>あなたは出血していて放射線を浴びています。治療を受けてください</text>
+  </string>
+  <string id="st_sleep_deprived">
+    <text>あなたは意識を失っている間に殺されました</text>
+  </string>
+  <string id="st_sleep_event">
+    <text>この状態で眠るとは気は確かですか？</text>
+  </string>
+  <string id="st_sleep_exhausted">
+    <text>あなたは疲れきっており、休む必要があります</text>
+  </string>
+  <string id="st_sleep_exhausted_final">
+    <text>あなたは非常に疲れています - すぐに休んでください！</text>
+  </string>
+  <string id="st_sleep_irradiated">
+    <text>あなたは放射線を浴びています。治療を受けてください</text>
+  </string>
+  <string id="st_cant_sleep_find_shelter_mlr">
+    <text>眠るには安全な場所が必要です</text>
+  </string>
+  <string id="st_cant_sleep_outside_tent_mlr">
+    <text>寝るにはテントの中に入らなければいけません</text>
+  </string>
+  <string id="st_body_decayed">
+    <text>この死体は腐敗している</text>
+  </string>
+  <string id="st_body_useless">
+    <text>この死体から取れるものは何もない</text>
+  </string>
+  <string id="st_body_knife_needed">
+    <text>ナイフが必要</text>
+  </string>
+  <string id="st_body_knife_bad">
+    <text>ナイフの状態が悪すぎる</text>
+  </string>
+  <string id="st_body_knife_weak">
+    <text>このミュータントの解体には頑丈なナイフが必要だ</text>
+  </string>
+  <string id="st_only_campfire_save">
+    <text>手動保存が無効になっている（キャンプファイヤーのみ）</text>
+  </string>
+  <string id="st_only_campfire_load">
+    <text>生存中のロードは無効になっている</text>
+  </string>
+  <string id="st_only_campfire_quit">
+    <text>生存中の終了は無効になっている</text>
+  </string>
+  <string id="st_swsh">
+    <text>缶を開くには鋭いものが必要です</text>
+  </string>
+  <string id="st_camp_m">
+    <text>火を付けるためにはライターが必要です</text>
+  </string>
+  <string id="st_camp_help">
+    <text>キャンプファイヤーの着火に成功</text>
+  </string>
+  <string id="st_fail">
+    <text>キャンプファイヤーの着火に失敗</text>
+  </string>
+  <string id="st_ui_no_save_campfire">
+    <text>キャンプファイアの近くでだけ %s が出来ます。</text>
+  </string>
+  <string id="st_imm_smoke_fail">
+    <text>タバコに火をつけるにはマッチが必要</text>
+  </string>
+  <string id="st_imm_smoke_already_used">
+    <text>すでにより高い効果を受けている</text>
+  </string>
+  <string id="st_imm_befor_swiss">
+    <text>缶を開くには鋭いものが必要です</text>
+  </string>
+  <string id="st_imm_need_swiss">
+    <text>缶を開くには、スイスナイフが必要です</text>
+  </string>
+  <string id="st_imm_swiss_broken">
+    <text>あなたのスイスのナイフが壊れた</text>
+  </string>
+  <string id="st_stash_no_backpack_found">
+    <text>No backpack equipped</text>
+  </string>
+  <string id="st_itm_manager_greater_effect">
+    <text>You already have a similar effect with greater efficiency: %s</text>
+  </string>
+  <string id="st_itm_manager_missing_requirements">
+    <text>%sが必要です！</text>
+  </string>
+  <string id="st_recipe_is_known">
+    <text>You've read this before</text>
+  </string>
+  <string id="st_letter_is_known">
+    <text>You've read this before</text>
+  </string>
+  <string id="st_ui_no_save_timer">
+    <text>タイマーはアクティブです。まだ%sできません。</text>
+  </string>
+  <string id="st_ui_no_save_combat">
+    <text>あなたは戦闘中に%sできません。</text>
+  </string>
+  <string id="st_ui_no_save_surge">
+    <text>あなたはEmissionまたはpsi-stormの間に%sすることはできません。</text>
+  </string>
+  <string id="st_ui_no_save_bleed">
+    <text>出血している間は%sできません。</text>
+  </string>
+  <string id="st_ui_no_save_radiation">
+    <text>照射中は%sできません。</text>
+  </string>
+  <string id="st_ui_no_save_bleed_radiation">
+    <text>出血中や放射線照射中は%sできません。</text>
+  </string>
+  <string id="st_ui_no_save_injury_1">
+    <text>中程度の怪我に苦しんでいる間あなたは%sできません。</text>
+  </string>
+  <string id="st_ui_no_save_injury_2">
+    <text>重傷を負っている間は%sできません。</text>
+  </string>
+  <string id="st_ui_no_save_injury_3">
+    <text>重傷を負っている間は%sできません。</text>
+  </string>
+  <string id="st_ui_no_save_injury_4">
+    <text>重傷を負っている間は%sできません。</text>
+  </string>
+  <string id="st_pri_special_trader_mlr_message2">
+    <text>Meeker：\n注文の品が届いたぞ、ストーカー。受け取りに来い。</text>
+  </string>
+  <string id="st_pri_special_trader_mlr_message">
+    <text>Griffin:\nStalker, you are in the territory of the Syndicate. You won't be attacked, but we expect proper behaviour of you. If you're looking for work, I may have a few things for you.</text>
+  </string>
+  <string id="st_lttz_gen_stitch_message">
+    <text>Hey man, is that you? Come over here, quick!</text>
+  </string>
+  <string id="st_lttz_intercepted_transmission_message">
+    <text>...camp in abandoned substation workshops for now. We've located the enemy SR unit and are preparing to...</text>
+  </string>
+  <string id="st_lttz_yanov_invitation_message">
+    <text>I see that you're in the area. How about you come to Yanov Station so we can talk?</text>
+  </string>
+  <string id="st_lttz_yanov_invitation2_message">
+    <text>Hey there, stalker. How about you come to me so we can talk?</text>
+  </string>
+  <string id="st_lttz_pripyat_strelok_message">
+    <text>I'm engaging Monolith forces near the abandoned hospital. Any help would be appreciated.</text>
+  </string>
+  <string id="st_lttz_pripyat_rogue_message">
+    <text>H-help... me... Somebody... help me...</text>
+  </string>
+  <string id="st_lttz_pripyat_stitch_message">
+    <text>Shit, shit, shit! I could use some help here! Anyone?!</text>
+  </string>
+  <string id="st_lttz_pripyat_degtyarev_message">
+    <text>This is Colonel Alexander Alexandrovitsch Degtyarev of the SSU. We know you're there, Strelok, and you know why we're here. Put your weapons away and come out slowly, one at a time. We can do this without resorting to violence if you comply.</text>
+  </string>
+  <string id="st_lttz_pripyat_strelok_message2">
+    <text>You can never leave the Zone, Colonel, whether you're raiding the Power Plant or are hiding on the other side of the planet. As long as it exists, it threatens the whole world. This isn't something your superiors can just sweep under the rug. I'm afraid I won't be joining you.</text>
+  </string>
+  <string id="st_lttz_pripyat_unisg_message">
+    <text>This is the last time you've interfered with our work, Colonel. Say your prayers.</text>
+  </string>
+  <string id="st_lttz_oa_army_degtyarev_jup_meet_msg">
+    <text>%s, this is %s. Meet me in Jupiter, there is something I want to discuss with you.</text>
+  </string>
+  <string id="st_oa_transmission_decryption">
+    <text>暗号化解除送信</text>
+  </string>
+</string_table>

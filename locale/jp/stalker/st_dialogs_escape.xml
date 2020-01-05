@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="esc_2_12_stalker_trader_start_dialog_1">
+    <text>新顔だな。それとも前に会ったことがあったか？俺はここいらで装備品やらの売買をやってる者だ。稼ぎが欲しけりゃ、仕事を紹介してやることもできるぞ。汚れ仕事だけどな。キャンプにいる他のストーカー連中と揉め事を起こさない限り、ここはいつだってお前さんの家さ。だが一つ忠告しておく。ここにいる間はMilitaryの連中と事を構えようなんて思うのはやめることだ。連中を黙らせるために支払った金が水の泡になっちまうからな。キャンプの中に居さえすりゃ、あっちの方から襲撃してくることはまず無いだろうから安心しな。</text>
+  </string>
+  <string id="esc_2_12_stalker_trader_start_dialog_2">
+    <text>よぉストーカー！なにか必要か？</text>
+  </string>
+  <string id="esc_2_12_stalker_trader_start_dialog_esc_m_trader_task_1_complete">
+    <text>ビジネスは滞りなく終わったか？お疲れさん。報酬を持って行きな。</text>
+  </string>
+  <string id="esc_2_12_stalker_trader_start_dialog_esc_m_trader_task_2_complete">
+    <text>お前さんは本当に優秀だな。よく言われるだろ？ほら、報酬だ。いいビジネスだったぞ。</text>
+  </string>
+  <string id="devushka_3_quest_0">
+    <text>Sidorovich, here's Hip's delivery, as promised. She trusted me to bring the artefacts to you - here.</text>
+  </string>
+  <string id="devushka_3_quest_1">
+    <text>Ah, just in time. Here, Hip's payment. Tell her to go see Barkeep, and soon - she's been wanting to move up in the world, and this is her chance. There is a delivery that needs to be made from the Bar to somewhere past the Barrier.</text>
+  </string>
+  <string id="devushka_3_quest_2">
+    <text>Thanks. I'll let her know. Has Hip ever been past the Barrier before?</text>
+  </string>
+  <string id="devushka_3_quest_3">
+    <text>Hip's been in the Zone for a very, very long time. Ran with Freedom, but didn't stay long after they moved into the Army Warehouses. She's been staying near the borders like a rookie ever since, wasting years away doing a whole lot of nothing. Barkeep's job will straighten her out, one way or the other. </text>
+  </string>
+  <string id="st_esc_m_trader_life_ask">
+    <text>What can you tell me about business around here?</text>
+  </string>
+  <string id="st_esc_m_trader_life_1">
+    <text>For the winter months, lots of orders come in from the Great Land requesting pseudodog furs. If you want to help keep a sweet devushka warm this winter, rather sell the furs to me than some scientist.</text>
+  </string>
+  <string id="st_esc_m_trader_life_2">
+    <text>Some dopes around here will pay for anything. I've had multiple requests for "Bloodsucker teeth" - yes, yes, I know - from people who believe owning one will give them good luck. Yeah, right. I'm glad to be parting those fools from their money.</text>
+  </string>
+  <string id="st_esc_m_trader_life_3">
+    <text>Artefacts get ordered by the least expected of people. Some jewellers came in the other day looking for Stone Flowers. Well, hopefully they've made some lady happy, and hopefully she hasn't acquired a...eh...fatal glow by now.</text>
+  </string>
+  <string id="st_esc_m_trader_life_4">
+    <text>Imagine this: there's some weirdo running around here who introduced himself as my sales representative, used my reputation, and then tried to hand off second-rate stuff! Broken barrels, the armour that's falling apart, expired canned goods...
+		\nOnce his customers started complaining to me, I had no choice. His ass got whacked.</text>
+  </string>
+  <string id="st_esc_m_trader_life_5">
+    <text>An ex-Spetsnaz used to hang around here as a free stalker. Now, a stalker is a stalker, so I didn't mind him until he tried to get a gang together to overtake my smuggling operation. Luckily he just happened to die in his sleep, and thus he never managed to see his dream through.</text>
+  </string>
+  <string id="st_esc_m_trader_life_6">
+    <text>If anyone around here wants to be a trader, and isn't part of some major faction, they need to see me, and play by my rules. I've been here since the beginning, and am damned if some upstart thinks they know better.</text>
+  </string>
+  <string id="st_esc_m_trader_life_7">
+    <text>A fair warning: I don't waste words with those who hurt my agents. If someone roughs up someone I know, they die. It's as simple as that.</text>
+  </string>
+  <string id="st_esc_m_trader_life_8">
+    <text>I used to help handle sensitive military documents and capture exceptionally rare mutant specimens. Folks around here don't seem to have as much need for that these days though, now that everything feels so familiar to so many.</text>
+  </string>
+  <string id="st_esc_m_trader_life_9">
+    <text>Well, if you want to become a stalker you come to me first. I can provide shelter, supplies, and work for all the rookies out there. There's a military outpost not far from here but we've come to an agreement, hehe, so they usually don't disturb the stalkers in here. Just don't tick them off, okay? I pay a lot of money to keep it that way. Anyway, you're here on business? Need a job? Remember, you scratch my back and I'll scratch yours.</text>
+  </string>
+  <string id="st_esc_m_trader_life_end">
+    <text>That's it for now, go bother someone else.</text>
+  </string>
+  <string id="esc_2_12_stalker_wolf_start_dialog_1">
+    <text>よおストーカー。今日は何しにここへ来たんだ？</text>
+  </string>
+  <string id="wolf_st_1">
+    <text>I'm the local boss. Many wannabe adventurers come here with wicker baskets and blankets for a picnic, thinking they're Redrick Schuhart or something, and of course the Zone swallows them whole. Friggin' nerds and hippies. My job's to make sure they don't become mutant food on their first day in this wonderful place. It ain't easy, you know? Even with Fanatic helping me teach the rookies... I've spent a good chunk of my life in the Zone. Worked with the legendary Marked One, or rather Strelok, a while back. Travelled around, even tried to leave a few times, but there was always something that would stop me: a military raid, or another emission, or a profitable job... So, here I am, still babysitting rookies.</text>
+  </string>
+  <string id="esc_2_12_stalker_fanat_start_dialog_1">
+    <text>よおストーカー。調子はどうだい。</text>
+  </string>
+  <string id="esc_2_12_stalker_fanat_start_dialog_esc_m_trader_task_2">
+    <text>何かほしいのか？ストーカーさんよ。</text>
+  </string>
+  <string id="esc_2_12_stalker_fanat_about_esc_m_trader_task_2_0">
+    <text>The Car parkに始末する必要があるBanditsがいる。Sidorovichはあなたならどうにかできるだろうと言っていた。</text>
+  </string>
+  <string id="esc_2_12_stalker_fanat_about_esc_m_trader_task_2_1">
+    <text>ああ。やるよ。これ以上ルーキーがやられるのは見たくない。</text>
+  </string>
+  <string id="fanatic_st_1">
+    <text>Fanatic's the name, that's what they call me. I'm basically Wolf's deputy here. I help out training the rookies for the most part. You know, they're quite a handful. Teaching them how to shoot with their shoddy guns, telling them where they can and can't go, culling the mutants, keeping army boys and bandits at bay, there's a lot to do even so close to the Zone's border. But it's enjoyable, you know, especially when they come back to you with their first artefact and that glint still in their eyes. I'm not complaining. I still remember what it was like to be a rookie myself.</text>
+  </string>
+  <string id="fanat_training_start_0">
+    <text>Hey...I don't think I've seen you around here before. You seem pretty new, too. I'm the deputy leader of this village, along with Wolf. If you'd like, I can teach you some things about Zone survival, make sure you won't die to the first mutant or anomaly you encounter.</text>
+  </string>
+  <string id="fanat_training_start_1">
+    <text>You know, I could actually use a little help. I'm ready to learn.</text>
+  </string>
+  <string id="fanat_training_start_2">
+    <text>No thanks, I'll live and learn at my own pace.</text>
+  </string>
+  <string id="fanat_training_start_3">
+    <text>Excellent. First, let's teach you how to hunt mutants. There's a small herd of boars on the other side of the road nearby. Now, boars have thick skulls and tiny brains, so the best way to deal with them is shoot them in the side, or - in a perfect world - right up the butt, from a nice, safe distance. We'll take them out together, but try keep them off me - they're in heat this time of year.</text>
+  </string>
+  <string id="fanat_training_boars_death_0">
+    <text>Phew, that was crazy. What now?</text>
+  </string>
+  <string id="fanat_training_boars_death_1">
+    <text>Well done. See if your knife's strong enough to get a few parts off of them. When you're done, let's head to the nearest anomalous zone.</text>
+  </string>
+  <string id="fanat_training_anomaly_reached_0">
+    <text>Here we go, what do I need to do now?</text>
+  </string>
+  <string id="fanat_training_anomaly_reached_1">
+    <text>So, this pit is full of gravitational anomalies. See that artefact over there? That's just a loaf of Anomalous Bread, ignore it. But also in this pit is a Jellyfish, and Jellyfishes, along with every other artefact, have both positive and negative qualities... It's quite fortunate that one is here. Now, let's talk about the equipment you should have for artefact hunting.</text>
+  </string>
+  <string id="fanat_training_anomaly_reached_2">
+    <text>見せてくれ。</text>
+  </string>
+  <string id="fanat_training_anomaly_reached_3">
+    <text>Here, an Echo Detector. All detectors, while active, register the presence of artefacts and measure the distance to the nearest one. They're a basic requirement for finding any artefact that isn't just junk. When you hear it beeping, then you know an artefact must be nearby. The more frequent the beeps, the closer the artefact. Unfortunately, this old model can't detect all types of artefacts, but it should be fine for your attempt today. Better models have better detection range and abilities.</text>
+  </string>
+  <string id="fanat_training_anomaly_reached_4">
+    <text>悪くないな。</text>
+  </string>
+  <string id="fanat_training_anomaly_reached_5">
+    <text>Now the second tool, a Lead Container. Do you still remember the talk about artefacts and their positive and negative qualities? Just about every artefact worth carrying is radioactive these days. The Lead Container can completely seal the artefact inside, keeping you safe from its radiation, but also prevents you from using its other effects until removed. Without it, your ass would begin glowing and you'd die in less than a few hours of carrying even a single artefact. It's quite heavy, but better safe than sorry. If you actually want to use an artefact on yourself, it's best done with a more advanced container - scientists call them "Artefact Application Modules" - which will protect you from the rads without blocking its other qualities. Sidorovich sells all of this from time to time, but he usually saves the AAMs for more experienced stalkers.</text>
+  </string>
+  <string id="fanat_training_anomaly_reached_6">
+    <text>Good to know. This container sure is heavy alright. What's next?</text>
+  </string>
+  <string id="fanat_training_anomaly_reached_7">
+    <text>Next is this bottle of Nemiroff. Like I said, almost all artefacts are radioactive these days, and even if you brought a Lead Container the anomaly field itself is still going to give you a little glow. This bottle will help you...eh...'pass' some of that glow out of your system.</text>
+  </string>
+  <string id="fanat_training_anomaly_reached_8">
+    <text>Great, anything else?</text>
+  </string>
+  <string id="fanat_training_anomaly_reached_9">
+    <text>Oh yes, bolts. Never forget about these before jumping inside anomalous fields. Throw some around to find your way through the surrounding anomalies.
+		\nThat's all. Let's go. I'll cover you from here on.</text>
+  </string>
+  <string id="fanat_training_artefact_taken_1">
+    <text>Hey, I got the artefact!</text>
+  </string>
+  <string id="fanat_training_artefact_taken_2">
+    <text>Well, well... I can see you'll be an experienced stalker one day. Let's head back to the village - we'll continue your training there.</text>
+  </string>
+  <string id="fanat_training_back_to_village_1">
+    <text>That sure was something...</text>
+  </string>
+  <string id="fanat_training_back_to_village_2">
+    <text>Tired? You seem to know the bare basics now, but I've got an extra challenge for when you're ready.</text>
+  </string>
+  <string id="fanat_training_stash_search_0">
+    <text>I'm ready. What is this challenge?</text>
+  </string>
+  <string id="fanat_training_stash_search_1">
+    <text>Tell me, what self-respecting stalker has never found another's secrets? The Zone is common to everybody here. Those who manage, eat. Sometimes, finding a stash is not just an achievement, but a necessity. I've hidden a little 'nest egg' somewhere in the village - try to find it.</text>
+  </string>
+  <string id="fanat_training_stash_found_0">
+    <text>Found it... Thanks for the artefact.</text>
+  </string>
+  <string id="fanat_training_stash_found_1">
+    <text>Huh... I see that with your level of perception, the Zone won't be taking you so easily. That was your final lesson. You've certainly proven to be your own stalker, and you should be proud of it. There's nothing more I can teach you.</text>
+  </string>
+  <string id="fanat_training_bandit_raid_start_0">
+    <text>And what is our final task?</text>
+  </string>
+  <string id="fanat_training_bandit_raid_start_1">
+    <text>You'll see. As you know, the most insidious enemy of man - strangely enough - remains a man. For a long time, we've kept the vehicle station clear of all the bandits, but they keep coming back. They've been a steady threat, usually numbering from around five to seven. Let's go take care of them.</text>
+  </string>
+  <string id="fanat_training_bandit_raid_end_0">
+    <text>Hah, the two of us against these... We're heroes!</text>
+  </string>
+  <string id="fanat_training_bandit_raid_end_1">
+    <text>What you just called heroism here is commonplace for more experienced stalkers. Anyway, let's head back to the village.</text>
+  </string>
+  <string id="fanat_training_end_0">
+    <text>Thanks for taking me under your wing.</text>
+  </string>
+  <string id="fanat_training_end_1">
+    <text>Eh, it's what I do. Here, I've got some info on a route from Agroprom to Yantar in case you haven't already heard of it. Rest up for a bit, and then... Agh, who am I to tell you what to do? You've certainly proven to be your own stalker, and you should be proud of it. Now scram. Breathe in that delicious radioactive air and be free!</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_mar_base_owl_stalker_trader_task_1">
+    <text>俺にか？これを待ってたんだ。Sporeは俺たちのやり取りを高度に暗号化してくれてる。ハッカーってやつだな。俺がはるか昔にClear Skyのメンバーだったなんて信じられないかもしれないが、色々あって結局今の場所に収まってる。昔の仲間はみんな死んじまったか、別の道に進んだ。過去にこだわる意味は自分でもよくわからんが、それでも俺は、今でもこうしてSporeと連絡を取り合ってる。ああ、長々と語ってすまん。報酬を忘れてたな。持って行ってくれ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_mar_base_owl_stalker_trader_task_1_about">
+    <text>あんたのために持ってきたものがある。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_no">
+    <text>あんたにふさわしい人間がいるかどうかわからない。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_about_0">
+    <text>いくつか質問に答えてもらってもいいか？</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_about_1">
+    <text>いいぞ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_about_1111">
+    <text>注文の品が準備できるまでどれくらいだ？</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_about_11111">
+    <text>どんな品物かによるね。通常は丸１日くらいだが、それ以下で済む時もある。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_about_1114">
+    <text>自己紹介を頼む。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_about_11141">
+    <text>特に面白いことは無いぜ。大抵の奴がそうであるように、いい事も悪いことも沢山ある人生だった。アノマリーに突っ込んだりBanditsに人質にされたりさ。俺がZONEに来たのはまだガキの頃だった。その頃は調達屋で、Anti-radsとか、AP弾とか、そういう類の物を扱ってたな。俺の尻拭いをしてくれた恩返しのために、Sidorovichと働いたこともあった。あの爺さんは俺に火中の栗拾いばかりさせるもんだから、さっさと独立したくてコネをつくったり技を盗んだりしたよ。これまで上手く立ち回ってこれたけど最近はそのラッキーも尽きかけているような気がしてるんだ。だが俺が築き上げて来たものをやめちまって無駄にするのは嫌だ。だからこうして今もここに居るんだ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_about_1116">
+    <text>知れてよかったよ、ありがとう。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_about_11161">
+    <text>助けになれたなら幸いだ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_0">
+    <text>注文を取りに来た。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_111">
+    <text>こいつはSteppe Eagle。思ったよりくせ者だったよ。強化にこだわり過ぎて、納期に間に合わないところだった。見てくれよこの手作り部品の数々。コンポーネント全部が高精度で調整されてるのが分かるだろ。完璧な狙撃用ハンドガンがあるとしたら正にこいつだね。それじゃあ、追加の2800RUをいただこうか。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_1111">
+    <text>よし、受け取ってくれ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_11111">
+    <text>よしきた。素敵なビジネスになってよかった。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_1112">
+    <text>そんなに持っていないんだ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_11121">
+    <text>オーケー。あんたが金を作れるまでこいつは預からせてもらうよ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_1113">
+    <text>やっぱり買いたくないんだが。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_11131">
+    <text>キャンセルするなら、取引はもうこれっきりにさせてもらうぞ。利益とリスクが釣り合わなきゃ商売あがったりなんでな。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_111311">
+    <text>だとしてもこの取引を完遂することはできない。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_1113111">
+    <text>問題ない。お似合いだよ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_1114">
+    <text>考えておく。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_11141">
+    <text>ああ、あんた次第だよ。銃はしばらく預かっておくからな。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_112">
+    <text>超高精度のStepp Eagleだ。2800RUの追加分と引き換えだ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_121">
+    <text>このAlpineを見なよ、これこそ美しさそのものだ。ZONE広しと探し回っても、この1丁しか存在しない特注品だと保証できる。手に入れるのは大変だった。海外の仲間にまで頼ることになったよ。超硬質スチールのバレルにフレームは強化樹脂製。拡張マガジンのオマケ付きさ。残りの2800RUを支払ってくれたら、このベイベーはお前の物さ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_122">
+    <text>ほら、Alpineピストルと拡張マガジンだ。残りの2800RUを支払ってくれたらすぐにこのベイベーはお前の物になるぜ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_131">
+    <text>こいつはMarch。元の持ち主はWOLF HOUNDと呼ばれる組織に所属してた伝説の傭兵だ。装填数は多いがコンパクト。軽量化されたボルトによってブローバックは軽い。WOLF HOUNDの連中はどう考えてもクズだったが、武器に関しては一流だった。その傭兵のお気に入りの戦法は、まず相手の四肢を撃ち貫き、最後に頭を吹っ飛ばすって方法だったらしい。とにかく追加の2800RUであんたの物になるぜ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_132">
+    <text>これが預かってたMarchピストルだ。追加の2800RUを払ってくれ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_211">
+    <text>ほらよ、こいつはCutter。サブマシンガンさ。面白い見た目をしているだろう。こいつは工廠が生んだ最新の試作品で、まだ市場に出回ってない。次世代の近距離戦闘用に必要な精度、連射、信頼性を兼ね備えるよう設計されてる。追加の8000RUをくれたら取引終了だ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_212">
+    <text>サブマシンガンのCutterだ。8000RU追加で支払ってくれ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_221">
+    <text>Carabineer。これはいいものだ。軍で実際に使われてるショットガンさ。優れた衝撃吸収機構のおかげで、低反動の連射を実現している。追加の8000RUであんたの物だ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_222">
+    <text>このCarabineerオートショットガンが欲しけりゃ、追加の8000RUを支払ってくれ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_231">
+    <text>こいつはEliminator。大容量マガジンに高いファイアレート。こういうのが欲しかったんだろ？　アフリカに出荷されることになってた最新型だったんだが、友人から特別に「サンプル」として譲ってもらったんだ。安くなかったぜ。　あと8000RUでお前だけの物になるってさ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_232">
+    <text>拡張マガジン付きオートショットガンのEliminatorだ。あと8000RUでな。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_311">
+    <text>よーし。こいつはStorm。マシンガンとグレネードランチャーがこれ一本。ZONEで活動する特殊部隊向けに設計された奴を改造した物がこれだ。スラブ系兄貴たちによる最高の技、ここにありだぜ。追加の16000RUであんたの物だ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_312">
+    <text>ほらよ、拡張マガジンにグレネードランチャー搭載のStormだ。追加の16000RUであんたの物だ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_321">
+    <text>これはGP37。正に新時代のアサルトライフル。高精度で信頼性もあり、オマケにデフォルトで光学サイトが載ってる。以前は国連の査察団が使ってたものだ。査察団は調査のためにZONE入りしたんだが、上手くいかなかったみたいだな。なぜだか銃だけここにある。追加の16000RUでこのライフルはあんたの物だ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_322">
+    <text>新世代アサルトライフルのGP37だ。お値段16000RU。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_331">
+    <text>ヘイお待ち。これがモジュラー式FT-200M。ベルギーのガンスミスが設計した。高い精度と汎用性。右利き左利き両対応。光学サイトにグレネードランチャーと至れり尽くせりの出来だ。何名かの不運な国連査察団の方々から部品を失敬して組み立てたんだ。追加料金は16000RUだぜ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_332">
+    <text>モジュラー式FT-200Mライフルだったな。16000RUの追加料金だ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_411">
+    <text>こいつはTide。亜音速弾を使う、完全消音のスナイパーライフルだ。軍の連中がゾンビ相手に戦うために設計したって言われてるぜ。高いファイアレートでゾンビを一匹ずつ確実に素早く処理できる。ただ兵士だけじゃゾンビを完全に止めるのが無理だってことが分かって来て、この武器は大量生産のラインに乗ることがなかった。このベイベーは16000RUでお前の物さ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_412">
+    <text>これがTide。高いストッピングパワーを誇るスナイパーライフルだ。追加の16000RUを支払ってくれたら、こいつで思う存分楽しめるぞ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_421">
+    <text>これだ。SVU2-A。高い射撃力が売りのブルパップ式スナイパーライフルだ。伝説のFreedomであるMac氏から購入したものだ。彼はZONEのどこを探したってこれ以上の銃は無いと言っていた。追加の16000RUであんたの物だ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_422">
+    <text>SVU2-Aだ。ファイアレートが向上したブルパップ狙撃銃。あと16000支払えばあんたの物だ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_431">
+    <text>よし。これがLynxだ。とあるエキスパートストーカーによる手作りだ。そいつはもう死んでるから、コピーは一丁も存在しない。こいつはほかのライフルと見た目こそ変わらないが、実際撃ってみればその違いにすぐ気が付くはずだ。無慈悲なまでの正確さと強力無比なストッピングパワーのコラボレーションを体験できるだろう。このベイベーは16000RUでお前の物さ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_432">
+    <text>Lynxだ。精度とパワーが向上した狙撃銃。追加の16000RUであんたの物だ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_511">
+    <text>これだ。知り合い全員を当たってやっと手に入れた。ヘルメット付きのCS-3aだ。ヘルメット自体はありふれた物だが、改造によって高品質の暗視装置やアクティブ赤外線センサーなんかの戦術機能をインストール可能だ。しかしこのスーツは本当に美しいな。弾丸やアノマリーからの優れた保護を約束してくれる上に運動性も損なわれにくい。全部で32000RUかかるぞ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_512">
+    <text>戦術ヘルメット付きのCS-3aアーマーだ。合計32000RUだよ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_611">
+    <text>あんたのための、特別なSEVAスーツだ。ご注文通り、内部循環型呼吸装置付き。高い火炎耐性と電撃耐性も兼ね備えてる。外面には腐食防止材がコーティングされてる。内蔵アーティファクトスロットも大容量。すべてのストーカー憧れの逸品だ。約束通り、24000RUであんたの物だ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_612">
+    <text>SEVAスーツなら24000RUであんたの物だぞ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_711">
+    <text>注文の品はここにある。このExoskeletonは人生のすべてを賭けるに値する出来だ。弾丸、ミュータントの攻撃、グレネードの破片に至るまで、すべての脅威に対するZONEで最高の防御力がある。防御面でこいつに勝てるのは装甲車くらいだろう。しかしあんたの身体をパワーアシストすることにかけては装甲車より優れていると言えるな。48000RUでこのバッテリーとサーボの塊はお前の肉体になるだろう。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_get_order_712">
+    <text>そこにある。人生を賭けるに値する戦闘用Exoskeleton。48000RUでお前の身体になってくれるぞ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_0">
+    <text>注文したいものがある。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_1">
+    <text>いいよ。何が必要なんだ？</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_11">
+    <text>ハンドガンだ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_111">
+    <text>3500RUで調達できるぜ。そのうち700RUを前払いで頂くことになる。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_1111">
+    <text>よし。受け取ってくれ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_11111">
+    <text>注文の品が準備できたら、連絡するよ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_1112">
+    <text>お金が足りないな。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_11121">
+    <text>ああ、お金に余裕ができたらまた来てくれ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_1113">
+    <text>なあ、気が変わったんだが。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_11131">
+    <text>いいよ。もしまた注文したくなったら、俺はいつでもここに居るからな。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_112">
+    <text>悪いね。あんたはそれほど信頼できる客じゃないから、ハンドガンの調達には4200RUかかるよ。その内の1400を前払いしてもらうことになるかな。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_113">
+    <text>いいハンドガンは全部売れちまったよ。普通の奴ならOwlが売ってるんだがな。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_12">
+    <text>近距離戦用の武器だ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_121">
+    <text>確実に用意できる。価格は10000RU、その内の2000RUを先払いしてくれ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_122">
+    <text>あんたにはこの前注文をキャンセルされてるからな・・・。12000RUならやってもいい。前払い分は4000RUだ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_123">
+    <text>あー、要求には答えられそうにないよ。力にはなれないと思う。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_13">
+    <text>突撃武器がほしい。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_131">
+    <text>大口径で連射ができるやつだな。20000で用意しよう。その内4000を前払いしてくれ。できるか？</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_132">
+    <text>あんたはいい客とは言えないからな。24000払ってくれるならやろう。前払い分は8000RUだ。買うかい？</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_133">
+    <text>今はちょっと時期が悪くてなあ。MilitaryがCordonで何かやってるみたいなんだ。なんでもこの間、誰かが前哨基地を攻撃しやがったとかで、物流を止められてるんだ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_14">
+    <text>狙撃武器が必要だ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_141">
+    <text>20000もらえれば最高のやつを用意するよ。だが前払いで4000RUもらわないといけないな。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_142">
+    <text>あんたの仕事はリスクが大きいからなあ・・・24000RUくれるならやってみてもいいが、頭金は8000RUだぜ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_143">
+    <text>すまん。今そのタイプの武器は入手困難だ。知り合いのスナイパーが今不機嫌でな。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_15">
+    <text>アーマースーツが欲しい。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_151">
+    <text>うん、なんとかできるよ。費用は40000RUかかる。前金は8000RU。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_152">
+    <text>ああ、考えさせてくれ・・・多分手に入る。あんたは前回の注文をキャンセルしてるから割増料金をもらう。しめて48000RUだ。前金は16000RU。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_153">
+    <text>あんたにはもうサイコーのスーツを手に入れてやったと思うぜ。それ以上の物はこの辺りには無いよ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_16">
+    <text>内部循環呼吸装置付きのスーツがほしい。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_161">
+    <text>難しい注文だな・・・。手に入れるのはたやすいことではないぞ。でかい賭けになるかもな。まあ30000RUあれば心当たりはある。だが前金に6000RU必要になる。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_162">
+    <text>あんたは前回の注文をキャンセルしてるから割増料金をもらうぞ。36000でなんとか手に入れられるかやってみる。頭金として12000かかるけどな。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_163">
+    <text>前回の品を手に入れるためにかなり苦労したんでな。もう一度は無理だ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_17">
+    <text>Exoskeletonが欲しい。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_171">
+    <text>よく考えての結論なんだろうな。確かに戦闘用の奴を手に入れることはできるぜ。費用は60000RU。高価だがそれだけの価値はあると思う。そして前金として12000RUを今いただく。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_172">
+    <text>あんたは前回の注文をキャンセルしちまったからなあ。割増料金でならやろう。72000RU頂く。前金は24000RUだ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_173">
+    <text>無理だな。生産工場はもう閉鎖されちまってる。死体から見つけてくる以外の入手方法はないだろうな。だが俺はそういう仕事はやらん。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_18">
+    <text>今のところは何もないな。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_place_order_2">
+    <text>すまん。今は一時的に店じまい中だ。出荷に問題が発生しててな。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_start_11">
+    <text>よっ。俺はNimble。みんなは俺のところにユニーク武器を求めてやってくる。珍しいモデルや試作品、そんな感じの物だ。さらにエリート装備や防護服、戦闘服なんかも用意できるぜ。すべての品は俺が自分で点検するから品質はばっちり保証されてる。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_start_12">
+    <text>こんにちは。何か注文するかい？</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_start_13">
+    <text>やあ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_start_14">
+    <text>注文の品がもうすぐ届くぜ。</text>
+  </string>
+  <string id="esc_2_12_stalker_nimble_start_15">
+    <text>注文の品が到着したぞ。取りに来てくれ。</text>
+  </string>
+  <string id="army_south_mechan_mlr_st_0">
+    <text>あんたは誰だ？</text>
+  </string>
+  <string id="army_south_mechan_mlr_st_1">
+    <text>おー。俺はここCheckpointでテクニシャンをやってる者だ。</text>
+  </string>
+  <string id="army_south_mechan_mlr_st_2">
+    <text>みんなあなたをどう呼んでる？</text>
+  </string>
+  <string id="army_south_mechan_mlr_st_3">
+    <text>礼儀や階級は必要ないぞ。無礼講みたいなもんだと思ってくれ。フルネームは長すぎて発音するのが面倒だ。名前はSergeyだが、親しみを込めてSeryogaと呼んでくれ。</text>
+  </string>
+  <string id="army_south_mechan_mlr_st_4">
+    <text>よろしくSeryoga</text>
+  </string>
+  <string id="army_south_mechan_mlr_st_5">
+    <text>こちらこそよろしく。何か直したい物があったらいつでも相談してくれ。</text>
+  </string>
+  <string id="army_south_mechan_mlr_st_6">
+    <text>現在の状況はどうだ？</text>
+  </string>
+  <string id="army_south_mechan_mlr_st_7">
+    <text>面白いことは起きちゃいない。北にストーカーたちの村があるんだが、そこを超えたらAgropromまでの道は敵だらけさ。</text>
+  </string>
+  <string id="army_south_mechan_mlr_st_8">
+    <text>だから俺たちはここで立ち往生するしかなくて、やつらがいつ攻めてくるかもわからないってことか？</text>
+  </string>
+  <string id="army_south_mechan_mlr_st_9">
+    <text>Nah, everyone knows there'd be hell to pay if anyone messes with this checkpoint directly. We're like a sleeping bear that no one wants to poke too hard.</text>
+  </string>
+  <string id="army_south_mechan_mlr_st_10">
+    <text>覚えておくよ。</text>
+  </string>
+  <string id="guid_esc_mlr_military_0">
+    <text>ヘリが必要なんだがこいつを動かすことは可能か？</text>
+  </string>
+  <string id="guid_esc_mlr_military_1">
+    <text>可能だがお前一人のために燃料を使うことはできんなあ。あんたに運ぶだけの価値があることを証明できるなら話は別だが。</text>
+  </string>
+  <string id="guid_esc_mlr_military_list_0">
+    <text>どこまでなら運んでくれる？</text>
+  </string>
+  <string id="guid_esc_mlr_military_list_1">
+    <text>5000RUでAgropromの基地まで。3000RUでDarkscapeのガソリンスタンド。1万RUでYantarの移動研究所まで運んで行ってやれるぞ。</text>
+  </string>
+  <string id="guid_esc_mlr_military_vert_0">
+    <text>運んでくれないだろうか？</text>
+  </string>
+  <string id="guid_esc_mlr_military_vert_1">
+    <text>どこへだい？</text>
+  </string>
+  <string id="guid_esc_mlr_military_vert_2">
+    <text>To the military base in Agroprom. %c[d_orange][5000 RU]</text>
+  </string>
+  <string id="guid_esc_mlr_military_vert_3">
+    <text>To the gas station in the Darkscape. %c[d_orange][3000 RU]</text>
+  </string>
+  <string id="guid_esc_mlr_military_vert_4">
+    <text>To the mobile lab in Yantar. %c[d_orange][10000 RU]</text>
+  </string>
+  <string id="guid_esc_mlr_military_vert_5">
+    <text>気が変わった。</text>
+  </string>
+  <string id="devushka_1_start_0">
+    <text>Been better days, what do you need?</text>
+  </string>
+  <string id="devushka_1_start_1">
+    <text>いくつか質問がある。</text>
+  </string>
+  <string id="devushka_1_start_2">
+    <text>There's not much I can tell you, unless you're looking for work. I know a guy. He's rich, but clueless. He's out there, treating the Zone like a safari right now. He doesn't care for artefacts. All he wants to do is collect old guns...and shoot pigs with said guns. Told me he wanted a scoped TOZ that has "seen some genuine Zone action" as a souvenir. Naturally, what he's willing to pay is absolutely through the roof! Problem is, I haven't seen a scoped TOZ in the Zone since 2012. Certainly, none of the major traders below the Barrier seem to stock one. But if you find one, bring it to me along with 20 rounds of buckshot and you'll be paid several times what it'd fetch you elsewhere.</text>
+  </string>
+  <string id="devushka_1_start_3">
+    <text>Sounds like a good deal to me. I'll do it.</text>
+  </string>
+  <string id="devushka_1_start_4">
+    <text>Not interested right now, sorry.</text>
+  </string>
+  <string id="devushka_1_start_6">
+    <text>Give me this tourist's details or you're dead.</text>
+  </string>
+  <string id="devushka_1_start_5">
+    <text>Sounds like a good deal to me. I'll do it.</text>
+  </string>
+  <string id="devushka_2_start_0">
+    <text>Here. Delivered as promised.</text>
+  </string>
+  <string id="devushka_2_start_1">
+    <text>Bad news I'm afraid. Our client died. Horribly. Don't look so sour though! His lack of survival skills were surpassed only by his lack of discretion. Here's some things from his stash.</text>
+  </string>
+  <string id="devushka_2_start_2">
+    <text>Damn...so he died? Just like that?</text>
+  </string>
+  <string id="devushka_2_start_3">
+    <text>Pseudogiant, from what I can tell. Speaking of, would you mind picking up a can of tuna for me? It's just the right size, and I'm sure his next of kin will want the remains back in some sort of container.</text>
+  </string>
+  <string id="devushka_2_start_4">
+    <text>What the hell...? I mean, if I happen to find a tuna can...maybe I'll let you know. Cheers.</text>
+  </string>
+  <string id="devushka_2_start_5">
+    <text>His stash contents aren't going to cut it, Hip. Either cough up the dough, or cough up some blood.</text>
+  </string>
+  <string id="devushka_0_dialog_0">
+    <text>ほら、ヒップ。君の缶を見つけたぞ。</text>
+  </string>
+  <string id="devushka_0_dialog_1">
+    <text>MMm, the tuna is delicious! Hopefully I'll keep it down when collecting what's left of our late client.</text>
+  </string>
+  <string id="devushka_1_dialog_0">
+    <text>I'd like to ask you some questions.</text>
+  </string>
+  <string id="devushka_1_dialog_1">
+    <text>And I might have some answers.</text>
+  </string>
+  <string id="devushka_1_dialog_2">
+    <text>Do you have any general knowledge? On how to survive? Anomalies? Anything like that?</text>
+  </string>
+  <string id="devushka_1_dialog_3">
+    <text>Firstly, never dig straight down. Secondly, aim for the lower neck. Thirdly, don't eat the yellow snow. Fourthly, taxes aren't actually certain here - consider it a Zone-Wide anomaly. Finally, don't panic.</text>
+  </string>
+  <string id="devushka_1_dialog_4">
+    <text>That was...enlightening?</text>
+  </string>
+  <string id="devushka_2_dialog_0">
+    <text>Do you usually take on collection jobs?</text>
+  </string>
+  <string id="devushka_2_dialog_1">
+    <text>Yeah. Ever heard of Nimble? Damn inspiring story behind that man. I used to be a drug mule for Freedom, but then started thinking "Nah man, I'm not going to be busting my ass for pennies either"! So here I am, trying to follow in his footsteps.</text>
+  </string>
+  <string id="devushka_2_dialog_2">
+    <text>That's...certainly ambitious. Why aren't you seeking him out?</text>
+  </string>
+  <string id="devushka_2_dialog_3">
+    <text>Because I'm not crazy enough to go past the Barrier just yet, that's why. Money's only good if you live to spend it, you know?</text>
+  </string>
+  <string id="devushka_2_dialog_4">
+    <text>Okay, then why are you hanging out in the Rookie Village?</text>
+  </string>
+  <string id="devushka_2_dialog_5">
+    <text>Because Sidorovich knows literally everyone worth knowing in this little slice of hell. You want to start your own business? You better get in good with Sid first if you don't want hitmen on your ass.</text>
+  </string>
+  <string id="devushka_2_dialog_6">
+    <text>You ever had hitmen on your ass?</text>
+  </string>
+  <string id="devushka_2_dialog_7">
+    <text>Duty's never been fond of anyone who dresses in green flecktarn, although laying low for a few years seems to have stopped that. There's also the occasional man who takes rejection a little too personally.</text>
+  </string>
+  <string id="devushka_2_dialog_8">
+    <text>What, they'd try to kill you for not being their little doll?</text>
+  </string>
+  <string id="devushka_2_dialog_9">
+    <text>Worse. Luckily, the number of decent people here is larger than I thought. Still, life doesn't last long here for most. I could do with a few new friends.</text>
+  </string>
+  <string id="devushka_2_dialog_10">
+    <text>I bet you say that to every stalker who brings you a can of tuna.</text>
+  </string>
+  <string id="devushka_2_dialog_11">
+    <text>Oh, please. You know how hard it is to watch out for Bloodsuckers when it's just you on your lonesome? It's a lot harder than it looks, I promise you.</text>
+  </string>
+  <string id="devushka_2_dialog_16">
+    <text>Are you planning on going somewhere then?</text>
+  </string>
+  <string id="devushka_2_dialog_17">
+    <text>Yeah. I've got some routine artefact runs to do. I've got a special order to fill sometime too - you can come with for that, if you like. Need someone to watch out for Bloodsuckers after all. You'd get a nice cut. Fifty percent should be more than fair.</text>
+  </string>
+  <string id="devushka_2_dialog_12">
+    <text>Alright, count me in.</text>
+  </string>
+  <string id="devushka_2_dialog_13">
+    <text>いやいや任せるよ。多分私はまた君と別の探索に行くと思うから。</text>
+  </string>
+  <string id="devushka_2_dialog_14">
+    <text>Great! Sidorovich has a special order for a Moonlight, a Fireball and a Wrenched. These aren't easy to find, so there's no real time limit to it - but the sooner, the better. I want to build a good rep for dependability, after all.</text>
+  </string>
+  <string id="devushka_2_dialog_15">
+    <text>Alright, let's get started then!</text>
+  </string>
+  <string id="devushka_3_quest_money_0">
+    <text>Here's the fifty percent as agreed. I'm certain someone else would've paid much more.</text>
+  </string>
+  <string id="devushka_3_quest_money_1">
+    <text>Probably. But what we've definitely done is stick to our word. We've made a nice sum out of this, I'm happy.</text>
+  </string>
+  <string id="devushka_heal_0">
+    <text>Could you carry this medkit for me?</text>
+  </string>
+  <string id="devushka_heal_1">
+    <text>What? Why would I need to carry a medkit for you? If you can't apply it yourself, you're probably too dead for me to save.</text>
+  </string>
+  <string id="devushka_heal_2">
+    <text>念のためだ。俺を信じてくれ。</text>
+  </string>
+  <string id="devushka_heal_3">
+    <text>You know...that's a good point.</text>
+  </string>
+  <string id="devushka_heal_4">
+    <text>Eh, alright. I'll trust you.</text>
+  </string>
+  <string id="devushka_3_dialog_0">
+    <text>That's an unusual ethos for someone in Freedom armour. Even if they are only an ex-Freedomer.</text>
+  </string>
+  <string id="devushka_3_dialog_1">
+    <text>Most of Freedom's early members were friends of mine, and I sort of joined up for that reason. I didn't really like the turn their ideology had taken though, or what their faction was becoming. I wanted an adventure with friends. I didn't want to be part of some person's excuse to wage war.</text>
+  </string>
+  <string id="devushka_3_dialog_2">
+    <text>俺と一緒にキャンプファイヤーまで来てくれ。良い知らせがあるんだ。</text>
+  </string>
+  <string id="devushka_4_dialog_0">
+    <text>Sidorovich wanted me to tell you something. He secured you a delivery job with Barkeep...problem is that it requires going past the Barrier.</text>
+  </string>
+  <string id="devushka_4_dialog_1">
+    <text>Thank you for letting me know. An old friend just dropped me a PDA message, saying something similar. Look, come back here tonight, alright? I need some time to mentally prepare myself for the journey. I'm also still going to need you to watch out for Bloodsuckers for this job, so don't take too long coming back.</text>
+  </string>
+  <string id="devushka_4_quest_0">
+    <text>Hip, it is time. You ready to go check out Barkeep's job?</text>
+  </string>
+  <string id="devushka_4_quest_1">
+    <text>I'm not so sure. The message I got earlier...it was from Lukash. He urgently needs an extra hand for a medicine run to their base in Yanov. I know what I said about Freedom earlier, but we both know it's not just them who'll benefit from that.</text>
+  </string>
+  <string id="devushka_4_quest_2">
+    <text>Lukash will probably find someone else to do the run. Barkeep occupies one of the most central points in the Zone - grabbing his job while it's still available would be better for you in the long run.</text>
+  </string>
+  <string id="devushka_4_quest_3">
+    <text>In that case, we should get to Lukash to pick up the meds as soon as possible - every second could save a life.</text>
+  </string>
+  <string id="devushka_4_quest_4">
+    <text>Hm, yeah, you're right. Freedom can find someone else to be their mule. Barkeep it is. Let's get going while the going is good.</text>
+  </string>
+  <string id="devushka_4_quest_5">
+    <text>Glad you agree. From what I hear, the Freedom leader at Yanov runs a tight ship. Doing this favour for Lukash would save more lives than whatever Barkeep had in mind. Ready to head to the Warehouses when you are.</text>
+  </string>
+  <string id="devushka_about_artefact_0">
+    <text>Do you have any idea where we can find the artefacts Sidorovich wants?</text>
+  </string>
+  <string id="devushka_about_artefact_1">
+    <text>Of course. Moonlights can be found in Electro anomalies, Wrenched in Vortex anomalies and Fireballs in the Burner anomalies.</text>
+  </string>
+  <string id="devushka_about_artefact_2">
+    <text>Alright. And I suppose I'll stand guard while you dive into them?</text>
+  </string>
+  <string id="devushka_about_artefact_3">
+    <text>Actually, I will stand guard. You can dive into them.</text>
+  </string>
+  <string id="devushka_about_artefact_4">
+    <text>Aren't you supposed to be the artefact hunter?</text>
+  </string>
+  <string id="devushka_about_artefact_5">
+    <text>I told you where to find them, didn't I? Besides, it'd be more fun for you this way.</text>
+  </string>
+  <string id="devushka_about_semeckiy_0">
+    <text>Hey, Hip? Do you know any stories?</text>
+  </string>
+  <string id="devushka_about_semeckiy_1">
+    <text>Yeah, I do actually. Ever heard of Yuri Semetsky? He was famous for dying at least once per day on the Stalker Network. Probably just a glitch, but some say Yuri was one of the first Stalkers to ever reach the Wish Granter. Ever. Rumour was he wished for immortality. The result was him dying, only to resurrect somewhere else at random up to 24 hours or less before his next unavoidable death. Some of his obituaries were really awful. As beautiful as the Zone can be, it holds some dark things best left unexplored.</text>
+  </string>
+  <string id="devushka_about_semeckiy_2">
+    <text>And do you know why Yuri's deaths are no longer reported on the network?</text>
+  </string>
+  <string id="devushka_about_semeckiy_3">
+    <text>Not exactly, but I've speculated. I find it interesting that his deaths stopped reporting shortly after a Stalker named "Marked One" shut off the Brain Scorcher and reached the NPP. I have no clue what went down there, but things definitely changed. Whatever happened, it seems Yuri is now free to remain dead in peace.</text>
+  </string>
+  <string id="devushka_about_semeckiy_4">
+    <text>彼がまだ生きているとは思わないのか？</text>
+  </string>
+  <string id="devushka_about_semeckiy_5">
+    <text>Maybe, but I'm not sure what sort of life that would be now. Perhaps he continues as some sort of ghost? I could not say. Stranger things have happened.</text>
+  </string>
+  <string id="give_devushka_medved_0">
+    <text>Hey, Hip! Carry this detector for me, would you?</text>
+  </string>
+  <string id="give_devushka_medved_1">
+    <text>Just what I needed - yet another expensive machine that goes "beep".</text>
+  </string>
+  <string id="devushka_give_present_0">
+    <text>What happens next in the future of Hip?</text>
+  </string>
+  <string id="devushka_give_present_1">
+    <text>You know, I've been thinking things over in my travels with you. Maybe it isn't the right time for me to settle down and start my own business yet. Thought it was what I wanted, but in truth I was just afraid. What I really want is to adventure. I realize now that there's still so much to explore.</text>
+  </string>
+  <string id="devushka_give_present_2">
+    <text>Nimble's の足跡をたどってみたらどうだろうか？</text>
+  </string>
+  <string id="devushka_give_present_3">
+    <text>So I can do nothing but sit on a boat all day? Maybe that's how I felt before, but look at this place. How can you bear to sit inside all the time knowing what's out here? I'm not ready for the quiet life.</text>
+  </string>
+  <string id="devushka_give_present_4">
+    <text>It's mostly death out here.</text>
+  </string>
+  <string id="devushka_give_present_5">
+    <text>Yet here you are, out here, almost every day.</text>
+  </string>
+  <string id="devushka_give_present_6">
+    <text>どういう意味だ？</text>
+  </string>
+  <string id="devushka_give_present_7">
+    <text>It's difficult to describe, but I think I can be happy here. The Zone really is a miracle, and I'd like to see more of it.</text>
+  </string>
+  <string id="devushka_give_present_8">
+    <text>So you're sure you will choose the life of a field stalker over that of a trader? Even once you have the money and connections to settle down?</text>
+  </string>
+  <string id="devushka_give_present_9">
+    <text>Yes, I'm sure. Maybe once I'm old and fat like Sidorovich I'll change my mind.</text>
+  </string>
+  <string id="devushka_give_present_10">
+    <text>You're being rash about this. Think it over some more.</text>
+  </string>
+  <string id="devushka_give_present_12">
+    <text>I already have. I've made my decision. I was hoping you'd be more supportive of it.</text>
+  </string>
+  <string id="devushka_give_present_11">
+    <text>Alright, then maybe stick around. It'll be good to have someone watch out for bloodsuckers.</text>
+  </string>
+  <string id="devushka_give_present_13">
+    <text>Hah! I thought so myself! Here, take this as thanks. You've come through for me more times than anyone'd care to count. </text>
+  </string>
+  <string id="devushka_give_present_14">
+    <text>Guess that's what teams do, isn't it? Let's go.</text>
+  </string>
+  <string id="devushka_go_village_0">
+    <text>Hip, I think it's best if we part ways for now.</text>
+  </string>
+  <string id="devushka_go_village_1">
+    <text>Are you sure?</text>
+  </string>
+  <string id="devushka_go_village_2">
+    <text>Yeah. You go do you. There is something I must deal with alone.</text>
+  </string>
+  <string id="devushka_go_village_3">
+    <text>Nah. Just pulling your leg.</text>
+  </string>
+  <string id="devushka_go_village_4">
+    <text>Alright. I'll drop by the Rookie Village every now and then, so maybe I'll meet you there? Just, whatever you do, come back alive please.</text>
+  </string>
+  <string id="adventure_time_with_hip_0">
+    <text>It's good to see you again Hip. Would you like to join me for another journey into the Zone?</text>
+  </string>
+  <string id="adventure_time_with_hip_1">
+    <text>You only needed to ask.</text>
+  </string>
+  <string id="st_hip_news_1">
+    <text>Hip: Alright, let's go to the village campfire then. Can't wait to hear it!</text>
+  </string>
+  <string id="st_hip_news_2">
+    <text>Good luck on your mission, stalkers. Keep your wits about you.</text>
+  </string>
+  <string id="st_hip_news_3">
+    <text>Hip: I wouldn't worry too much about the other job, I'm sure someone else is handling it by now.</text>
+  </string>
+  <string id="st_hip_news_4">
+    <text>Beard seems pleased with his service, and this wasn't exactly the safest of courier jobs. Stay alive and this could be the start of a good business relationship.</text>
+  </string>
+  <string id="st_hip_news_5">
+    <text>Hip: Hey, guess you were right about getting in good with Barkeep first!</text>
+  </string>
+  <string id="st_hip_news_6">
+    <text>Hip: I know it isn't always easy doing something just out of the goodness of your heart.</text>
+  </string>
+  <string id="st_hip_news_7">
+    <text>Hip: So really, thank you. You've probably helped make a world of difference for Yanov.</text>
+  </string>
+</string_table>

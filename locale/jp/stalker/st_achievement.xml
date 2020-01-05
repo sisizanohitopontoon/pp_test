@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="st_achievement_1_name">
+    <text>Heavy Pockets</text>
+  </string>
+  <string id="st_achievement_1_hint">
+    <text>トレーダーは、たとえ彼らの派閥に信用されていなくとも、より良い商品をあなたに売ります。</text>
+  </string>
+  <string id="st_achievement_1_descr">
+    <text>あなたの富はゾーンのトレーダーの間で伝説になっています。あなたの愛顧を切望して、彼らはあなたの派閥との関係にかかわらず、彼らの最高の商品をあなたに提供します。</text>
+  </string>
+  <string id="st_achievement_1_unlock">
+    <text>"Heavy Pockets"の称号をアンロックした</text>
+  </string>
+  <string id="st_achievement_2_name">
+    <text>Radiotherapy</text>
+  </string>
+  <string id="st_achievement_2_hint">
+    <text>psy-stormやemission が始まったときには、その間避難する必要がない可能性があります。</text>
+  </string>
+  <string id="st_achievement_2_descr">
+    <text>奇妙なことに、あなたの心は突然静まり返って、もはや emissionsや psy-stormsの接近を恐れなくなりました。実際、それらがやってくると奇妙な平和を感じることでしょう。</text>
+  </string>
+  <string id="st_achievement_2_unlock">
+    <text>"Radiotherapy"の称号をアンロックした
+</text>
+  </string>
+  <string id="st_achievement_3_name">
+    <text>Infopreneur</text>
+  </string>
+  <string id="st_achievement_3_hint">
+    <text>ブローカーは、あなたが提供したPDAに対して追加の小額のボーナスを支払います</text>
+  </string>
+  <string id="st_achievement_3_descr">
+    <text>売るにせよ買うにせよ、多くの人にとって情報はアーティファクトと同じくらい価値がある。これを経験を通じて学んだことで、あなたが提供する機密情報に対してより多くの料金を請求することができます。</text>
+  </string>
+  <string id="st_achievement_3_unlock">
+    <text>"Infopreneur"の称号をアンロックした</text>
+  </string>
+  <string id="st_achievement_4_name">
+    <text>Duga Free</text>
+  </string>
+  <string id="st_achievement_4_hint">
+    <text>Stalkerたちは、YantarやRadar経由で経路にアクセスしようとする傾向が強い。</text>
+  </string>
+  <string id="st_achievement_4_descr">
+    <text>After seeing what reckless experimentation has brought to the Zone, you have taken action into your own hands. Paths through Yantar and Radar are now open since disabling the Miracle Machine and Brain Scorcher.</text>
+  </string>
+  <string id="st_achievement_4_unlock">
+    <text>"Duga Free"の称号をアンロックした</text>
+  </string>
+  <string id="st_achievement_5_name">
+    <text>Well Dressed</text>
+  </string>
+  <string id="st_achievement_5_hint">
+    <text>あなたはミュータントの部位を速く剥ぎ取ることができるようになります。</text>
+  </string>
+  <string id="st_achievement_5_descr">
+    <text>Rightly so does the Zone's wildlife fear you - more than a fair share have fallen at your hands. Practiced hands make for swift work, and you've grown practiced indeed.</text>
+  </string>
+  <string id="st_achievement_5_unlock">
+    <text>"Well Dressed"の称号をアンロックした</text>
+  </string>
+  <string id="st_achievement_6_name">
+    <text>Silver or Lead</text>
+  </string>
+  <string id="st_achievement_6_hint">
+    <text>降伏するストーカーは、2つ目のstashの場所を明らかにすることがあります。</text>
+  </string>
+  <string id="st_achievement_6_descr">
+    <text>Bodies and bullet casings litter the tracks behind you. You have been cruel to your enemies, and through your cruelty they know who you are. Those who survive your horrifying onslaughts are now much more willing to part with their goods if it means living to see another day.</text>
+  </string>
+  <string id="st_achievement_6_unlock">
+    <text>"Silver or Lead"の称号をアンロックした</text>
+  </string>
+  <string id="st_achievement_7_name">
+    <text>Mechanized Warfare</text>
+  </string>
+  <string id="st_achievement_7_hint">
+    <text>修理に使うボーナス用品はより効果的になります。</text>
+  </string>
+  <string id="st_achievement_7_descr">
+    <text>Grateful for your diligent assistance, the technician you've helped kit out has decided to teach you a thing or two about field maintenance, allowing you to make more efficient repairs yourself.</text>
+  </string>
+  <string id="st_achievement_7_unlock">
+    <text>"Mechanized Warfare"の称号をアンロックした</text>
+  </string>
+  <string id="st_achievement_8_name">
+    <text>Tourist</text>
+  </string>
+  <string id="st_achievement_8_hint">
+    <text>ゾーンに精通していることで、その中でも特に優れたstashの場所を推測することができるようになります。</text>
+  </string>
+  <string id="st_achievement_8_descr">
+    <text>危険にもかかわらず、あなたはゾーンの全ての部分を探検した。大湿地の濁った深みのGreat Swampから金属迷路のようなTruck Cemeteryまで、あなたはゾーンを手の甲のように知っています。</text>
+  </string>
+  <string id="st_achievement_8_unlock">
+    <text>"Tourist"の称号をアンロックした</text>
+  </string>
+  <string id="st_achievement_9_name">
+    <text>Rag and Bone</text>
+  </string>
+  <string id="st_achievement_9_hint">
+    <text>Your luck with future stashes has slightly increased.</text>
+  </string>
+  <string id="st_achievement_9_descr">
+    <text>What's theirs is yours, or so you like to think. You have a knack for finding other people's stashes. Despite some misfortune here and there, you feel that for the most part your luck is improving.</text>
+  </string>
+  <string id="st_achievement_9_unlock">
+    <text>"Rag and Bone"の称号をアンロックした</text>
+  </string>
+  <string id="st_achievement_10_name">
+    <text>Completionist</text>
+  </string>
+  <string id="st_achievement_10_hint">
+    <text>すべての実績のロックが解除されました</text>
+  </string>
+  <string id="st_achievement_10_descr">
+    <text>達成すべきことはすべて達成された。ゾーンを誰よりもよく知っています。あらゆる危険があなたに向けられ、直面したあらゆる脅威にもかかわらず、あなたは負けなかった。</text>
+  </string>
+  <string id="st_achievement_10_unlock">
+    <text>"Completionist"の称号をアンロックした</text>
+  </string>
+  <string id="st_achievement_11_name">
+    <text>Wishful Thinking</text>
+  </string>
+  <string id="st_achievement_11_hint">
+    <text>"Renegades"の称号をアンロックした</text>
+  </string>
+  <string id="st_achievement_11_descr">
+    <text>あなたは、ゾーン内の最古参のストーカーから秘密の情報を得るために必要なことは何でもやりました。あなたは疑いを持っているかもしれませんが、彼はあなたにすべての真実を明らかにしました。</text>
+  </string>
+  <string id="st_achievement_11_unlock">
+    <text>"Wishful Thinking"の称号をアンロックした</text>
+  </string>
+  <string id="st_achievement_12_name">
+    <text>Down to Earth</text>
+  </string>
+  <string id="st_achievement_12_hint">
+    <text>Mi-24の代わりにMi-2ヘリコプターが登場します。
+
+</text>
+  </string>
+  <string id="st_achievement_12_descr">
+    <text>The higher they fly the harder they fall. Not willing to waste any more expensive equipment, the Zone's helicopters now seem to be of a much weaker variety. But are no less tempting to destroy.</text>
+  </string>
+  <string id="st_achievement_12_unlock">
+    <text>"Down to Earth"の称号をアンロックした</text>
+  </string>
+  <string id="st_achievement_13_name">
+    <text>Geologist</text>
+  </string>
+  <string id="st_achievement_13_hint">
+    <text>アーティファクトがリスポーンする可能性が高くなります。</text>
+  </string>
+  <string id="st_achievement_13_descr">
+    <text>Humming, buzzing and spitting - the anomalies of the Zone do not scare you any longer. After so many successful endeavours, you can't help but notice that artefacts seem more numerous than ever before.</text>
+  </string>
+  <string id="st_achievement_13_unlock">
+    <text>"Geologist"の称号をアンロックした</text>
+  </string>
+  <string id="st_achievement_14_name">
+    <text>Patriarch</text>
+  </string>
+  <string id="st_achievement_14_hint">
+    <text>あなたはより多くの仲間を連れて行けるようになります</text>
+  </string>
+  <string id="st_achievement_14_descr">
+    <text>ゾーン全体でのあなたの功績は伝説になっています。あなたは今、さまざまな経験によって得た自信とリーダーシップを持っています。あなたはどうやって他人に地獄の底までついてきてもらうかを知っています...。
+</text>
+  </string>
+  <string id="st_achievement_14_unlock">
+    <text>"Patriarch"の称号をアンロックした</text>
+  </string>
+  <string id="st_achievement_15_name">
+    <text>Bookworm Food</text>
+  </string>
+  <string id="st_achievement_15_hint">
+    <text>Memory sticks will be replaced by rare PDAs when spawned.</text>
+  </string>
+  <string id="st_achievement_15_descr">
+    <text>Through your own endeavours or by reading about those of others, you have come to learn a lot about the Zone and its many inhabitants. Perhaps you should consider sharing some of this knowledge?</text>
+  </string>
+  <string id="st_achievement_15_unlock">
+    <text>"Bookworm Food"の称号をアンロックした</text>
+  </string>
+  <string id="st_achievement_16_name">
+    <text>Infantile Pleasure</text>
+  </string>
+  <string id="st_achievement_16_hint">
+    <text>ボックス内のアイテムの出現確率がわずかに増加しました。</text>
+  </string>
+  <string id="st_achievement_16_descr">
+    <text>Whether you're on an important mission or wasting time, boxes were never safe from your actions. You have since elevated box breaking to an art form, cracking them open with minimal damage to the contents within.</text>
+  </string>
+  <string id="st_achievement_16_unlock">
+    <text>"Infantile Pleasure"の称号をアンロックした。</text>
+  </string>
+  <string id="st_achievement_17_name">
+    <text>Recycler</text>
+  </string>
+  <string id="st_achievement_17_hint">
+    <text>分解するアイテムの素材がより多く入手できる可能性があります。</text>
+  </string>
+  <string id="st_achievement_17_descr">
+    <text>Believing that every part counts, you cannot help but break down what you don't want to use back into its base components. After much experience, you have become more precise. Dismantling has never been easier.</text>
+  </string>
+  <string id="st_achievement_17_unlock">
+    <text>"Recyclr"の称号をアンロックした</text>
+  </string>
+  <string id="st_achievement_18_name">
+    <text>Artificer Eagerness</text>
+  </string>
+  <string id="st_achievement_18_hint">
+    <text>クラフトに必要な部品が1つか2つ少なくなる。</text>
+  </string>
+  <string id="st_achievement_18_descr">
+    <text>装備品を自作することは、とても大変なことでしたが、経験を積むことで、より効率的にコンポーネントを使用できるようになりました。</text>
+  </string>
+  <string id="st_achievement_18_unlock">
+    <text>"Aetificer Eagerness"の称号をアンロックした</text>
+  </string>
+  <string id="st_achievement_19_name">
+    <text>Unforeseen Guest</text>
+  </string>
+  <string id="st_achievement_19_hint">
+    <text>偽装中、敵に見破られる可能性が低くなります。</text>
+  </string>
+  <string id="st_achievement_19_descr">
+    <text>あなたのステルスと観察力のおかげで、あなたの変装はより説得力があります。あなたは敵の中にいるときに、自信を持って堂々と目の前に立つことができます。
+</text>
+  </string>
+  <string id="st_achievement_19_unlock">
+    <text>"Unforeseen Guest"の称号をアンロックした</text>
+  </string>
+  <string id="st_achievement_20_name">
+    <text>Absolver</text>
+  </string>
+  <string id="st_achievement_20_hint">
+    <text>"Sin"の称号をアンロックした</text>
+  </string>
+  <string id="st_achievement_20_descr">
+    <text>When the dark stalkers of Sin stepped forth to bring their vision upon the world, you stood against them, giving the world a chance to sort itself out without the manipulation of the noosphere. </text>
+  </string>
+  <string id="st_achievement_20_unlock">
+    <text>"Absolver"の称号をアンロックした</text>
+  </string>
+  <string id="st_achievement_21_name">
+    <text>Collaborator</text>
+  </string>
+  <string id="st_achievement_21_hint">
+    <text> "UNISG" をプレイ可能な派閥としてアンロックしました。</text>
+  </string>
+  <string id="st_achievement_21_descr">
+    <text>良くも悪くも、あなたは自分で決断しました。あなたが間違っていたのか、正しいのか判断するのは難しいです...があなたはそれをした。その決断に感謝している人もいるだろう。</text>
+  </string>
+  <string id="st_achievement_21_unlock">
+    <text>"Collaborator"の称号をアンロックした</text>
+  </string>
+  <string id="st_achievement_22_name">
+    <text>Iron Curtain</text>
+  </string>
+  <string id="st_achievement_22_hint">
+    <text>あなたは派閥への功績がたたえられ、50,000 RUのボーナスが支給されました。</text>
+  </string>
+  <string id="st_achievement_22_descr">
+    <text>Your faction has become an indisputable force within the Zone, with some lesser groups even considering it a local superpower. Some of the vast resources that are now at your faction's disposal are sure to come your way soon.</text>
+  </string>
+  <string id="st_achievement_22_unlock">
+    <text>"Iron Curtain"の称号をアンロックした</text>
+  </string>
+  <string id="st_achievement_23_name">
+    <text>Murky Spirit</text>
+  </string>
+  <string id="st_achievement_23_hint">
+    <text>ランクが大幅に上がりました</text>
+  </string>
+  <string id="st_achievement_23_descr">
+    <text>You have soundly survived events that would've killed most stalkers several times over. Some stalkers are beginning to wonder if you can even be killed at all.</text>
+  </string>
+  <string id="st_achievement_23_unlock">
+    <text>"Murky Spirit"の称号をアンロックした</text>
+  </string>
+  <string id="st_achievement_24_name">
+    <text>Invictus</text>
+  </string>
+  <string id="st_achievement_24_hint">
+    <text>スクリーンショットを撮って、ストーカー仲間に自慢できるようになった。</text>
+  </string>
+  <string id="st_achievement_24_descr">
+    <text>Despite the challenges, trials and vicissitudes thrown your way, you have proven yourself to be a resounding success. It is clear that there is nothing left in the Zone to challenge you, and that it may be time - perhaps with a twinge of sadness - to move onto even greater things. </text>
+  </string>
+  <string id="st_achievement_24_unlock">
+    <text>"Invictus"の称号をアンロックした</text>
+  </string>
+</string_table>

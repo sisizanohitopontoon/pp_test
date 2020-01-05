@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="about_freedom_lider_miklyha_0">
+    <text>Are you the stalker who broke through the Brain Scorcher and lived there for half a year?</text>
+  </string>
+  <string id="about_freedom_lider_miklyha_1">
+    <text>Well, one of them. And it wasn't half a year - more like just over a month. But yeah, name's Lukash. Nice to meet you.</text>
+  </string>
+  <string id="about_freedom_lider_miklyha_2">
+    <text>どうだった？</text>
+  </string>
+  <string id="about_freedom_lider_miklyha_3">
+    <text>Look, buddy. I know that place is interesting and all, but I'd rather not start reminiscing. What matters most is that I got out safe and sound.</text>
+  </string>
+  <string id="about_freedom_lider_miklyha_4">
+    <text>Got it. Thanks anyway.</text>
+  </string>
+  <string id="monolith_eidolon_start_0">
+    <text>Praise the Monolith, brother.</text>
+  </string>
+  <string id="find_blackbox_mlr_reward_freedom_0">
+    <text>フライトレコーダーを見つけた。</text>
+  </string>
+  <string id="find_blackbox_mlr_reward_freedom_1">
+    <text>Oh, serious? Bring it here. Let's see what these bozos are planning.</text>
+  </string>
+  <string id="look_for_cs_history_part_3_1_0">
+    <text>俺はLeshiyを探しているのだが、彼はあんたと一緒じゃなかったのか？</text>
+  </string>
+  <string id="look_for_cs_history_part_3_1_1">
+    <text>He sure is. Head down to the first floor, he's at the end of it.</text>
+  </string>
+  <string id="look_for_cs_history_part_3_1_2">
+    <text>ありがとう。</text>
+  </string>
+  <string id="devushka_5_help_0">
+    <text>やあ、Lukash。俺の友達があんたに会いに来たがっている。あんたは彼女のことを知っていると思う。</text>
+  </string>
+  <string id="devushka_5_help_1">
+    <text>Ah, yes. Come on in! Help yourself to some grass - you might need it for the trip ahead. You made the right choice coming here, you two. Loki's job became a lot harder after the Monolith got a second wind. The medicine you'll bring him will help save many decent people.</text>
+  </string>
+  <string id="devushka_help1_0">
+    <text>Apparently Hip has never been past the Barrier before. Is this true?</text>
+  </string>
+  <string id="devushka_help1_1">
+    <text>Yes. Can't blame her. After you watch some of your friends get zombified before your eyes, makes sense you'd want to get the hell away from the place it happened. Between that, and having to fight Duty...eh. But she seems resolved to make the trip now. The two of you will be going to Yanov station in Jupiter. Drop these meds off with Loki once you arrive.</text>
+  </string>
+  <string id="devushka_help1_2">
+    <text>Alright. The sooner we go, the better.</text>
+  </string>
+  <string id="devushka_help1_3">
+    <text>Hang on Lukash. Just need a minute to get everything together.</text>
+  </string>
+  <string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_ask">
+    <text>I'd like to know more about Freedom's way of life.</text>
+  </string>
+  <string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_1">
+    <text>The boys like to celebrate Bob Marley's birthday whenever it comes 'round. Gotta make sure we're all stocked up on ham before it comes around again.</text>
+  </string>
+  <string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_2">
+    <text>The military developed a bulletproof vest with healing capabilities. Naturally, we had to get hold of one. Once we did, we tried adapting it into our own suits. Didn't really go anywhere, so we made the data publicly available in case anyone else wanted to try.</text>
+  </string>
+  <string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_3">
+    <text>No one likes walking through the so-called Bloodsucker Village nearby. Sure, it looks empty, but no one wants to be the guy who makes sure, you know?</text>
+  </string>
+  <string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_4">
+    <text>Although we're pretty chilled, we can't abide a snitch. Caught one of my men selling our secrets to the damn Mercs! Now both the snitch and his contact have been buried in stitches, if you catch my drift.</text>
+  </string>
+  <string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_5">
+    <text>You may be wondering why we despise Duty. Ideological differences aside, they like shooting people who don't meet their standards, as well as robbing people who carry so-called 'contraband' past their checkpoints. They're crooks pretending to bring order.</text>
+  </string>
+  <string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_6">
+    <text>We have an understanding with the Mercs - they don't try to spy on us or try to bribe our members, and we don't leave them in shallow graves. It's a system that's worked pretty well so far.</text>
+  </string>
+  <string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_7">
+    <text>We try fight against the Military as often as possible. If they take over, they'd turn this paradise into a bloody zoo.</text>
+  </string>
+  <string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_8">
+    <text>We happily accept anyone who recognizes that the Zone is a place where laws don't apply, where you can live right and live freely under your own morals.</text>
+  </string>
+  <string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_9">
+    <text>We're easily the most jolly bunch in the Zone. And the Zone's a miracle, really. Anomalies, artefacts, even mutants, all of it. Well, most of them, anyway. Anyhow, people should be able to come here and enjoy its wonders. Open access for everyone, 24/7. Sharing is caring, right? While we're at it, why not have some fun? No code, no discipline, but loyal companions you can count on when things go south. Wanna drink some beer with friends? Go ahead. Beat the crap out of Monolith freaks? Of course. Kick some Duty ass? Knock yourself out! Plenty of opportunities for a great experience.</text>
+  </string>
+  <string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_end">
+    <text>Maybe another time, man? I've got some boys who want to see me soon.</text>
+  </string>
+  <string id="mil_freedom_guid_meet_0">
+    <text>やあ、ここで何やってるんだ？</text>
+  </string>
+  <string id="mil_freedom_guid_meet_1">
+    <text>Nothing much. I'm Leshiy, nice to meet you. I'm the local guide and scout.</text>
+  </string>
+  <string id="mil_freedom_guid_meet_2">
+    <text>And how's the local intelligence? I presume you've visited many places.</text>
+  </string>
+  <string id="mil_freedom_guid_meet_3">
+    <text>Indeed. I've even been in an anomaly. That was when I was still a mercenary... entered a spatial bubble with my squad. It's a long story. Anyway, I offer guides to the Cordon, Yantar and Yanov station in Jupiter. Forty-five hundred, five thousand, and six thousand rubles respectively.</text>
+  </string>
+  <string id="mil_freedom_guid_meet_4">
+    <text>覚えておこう。</text>
+  </string>
+  <string id="mil_freedom_guid_go_0">
+    <text>連れて行ってほしいところがある。</text>
+  </string>
+  <string id="mil_freedom_guid_go_1">
+    <text>もちろんだ。どこに行きたい？</text>
+  </string>
+  <string id="mil_freedom_guid_go_2">
+    <text>Yanovまで %c[d_orange][6000 RU]</text>
+  </string>
+  <string id="mil_freedom_guid_go_5">
+    <text>Need the money first, pal.</text>
+  </string>
+  <string id="mil_freedom_guid_go_8">
+    <text>ほらよ。</text>
+  </string>
+  <string id="mil_freedom_guid_go_3">
+    <text>Cordonまで。 %c[d_orange][4500 RU]</text>
+  </string>
+  <string id="mil_freedom_guid_go_6">
+    <text>金は持っているのか？</text>
+  </string>
+  <string id="mil_freedom_guid_go_9">
+    <text>ほら受け取れ。</text>
+  </string>
+  <string id="mil_freedom_guid_go_4">
+    <text>Yantarまで。 %c[d_orange][5000 RU]</text>
+  </string>
+  <string id="mil_freedom_guid_go_7">
+    <text>金は持ってきたか?</text>
+  </string>
+  <string id="mil_freedom_guid_go_10">
+    <text>もちろんだ。ほらよ。</text>
+  </string>
+  <string id="mil_freedom_guid_go_11">
+    <text>忘れた。</text>
+  </string>
+  <string id="mil_freedom_guid_go_12">
+    <text>気が変わった。</text>
+  </string>
+</string_table>

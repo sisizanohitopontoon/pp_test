@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="st_current_condition">
+    <text>現在の状態：</text>
+  </string>
+  <string id="st_detail_success">
+    <text>+++ 部品 [%s]は正常に組み込まれた</text>
+  </string>
+  <string id="st_detail_fail">
+    <text>---部品[%s]は交換中に破損した</text>
+  </string>
+  <string id="st_quality_worn">
+    <text>++++ 1つ以上の部品が使い古したものと交換された。武器の品質は「使い古し」に変更された。</text>
+  </string>
+  <string id="st_quality_good">
+    <text>++++すべての部品は頑丈な部品と交換された。武器は新品同様だ。</text>
+  </string>
+  <string id="st_quality_wgood">
+    <text>++++すべての部品が交換された。武器の品質は変わらない。</text>
+  </string>
+  <string id="st_already_repair">
+    <text>---部品交換手順が完了した。武器の品質を高めるためには、状態は100%でなければならない。</text>
+  </string>
+  <string id="st_no_barrel">
+    <text>---銃身を交換する前に部品を交換することはできない。</text>
+  </string>
+  <string id="st_bar_no_need_new">
+    <text>---この銃身は交換する必要がない</text>
+  </string>
+  <string id="st_part_no_need_new">
+    <text>---この部品は交換する必要がない</text>
+  </string>
+  <string id="st_bar_no_need_old">
+    <text>---この武器の銃身は交換する必要がない。武器の質を高めるためには、条件は100%でなければなりません</text>
+  </string>
+  <string id="st_part_no_need_old">
+    <text>---武器部品は交換を必要としません。武器の品質を高めるためには、状態は100%でなければならない。</text>
+  </string>
+  <string id="st_no_barrel_to_kit">
+    <text>--- [%s]口径と互換性のある銃身がない</text>
+  </string>
+  <string id="st_no_details">
+    <text>--- [%s]に使用可能な部品がない</text>
+  </string>
+  <string id="st_selected_worn">
+    <text>---選択した%s：[%s]修理に成功する確率：%i %%修理すると、部品を修復する</text>
+  </string>
+  <string id="st_selected_good">
+    <text>---選択した%s：[%s]修理に成功する確率：%i %%</text>
+  </string>
+  <string id="st_selected_r_kit">
+    <text>---選択した：[%s]</text>
+  </string>
+  <string id="st_sel_detail">
+    <text>---対応する部品の画像をクリックして交換する</text>
+  </string>
+  <string id="st_cond_grow">
+    <text>状態: %i%%</text>
+  </string>
+  <string id="st_awr_back">
+    <text>戻る</text>
+  </string>
+  <string id="st_awr_exit">
+    <text>終了</text>
+  </string>
+  <string id="st_awr_ctrl">
+    <text>%s意図しないアイテムの分解を防ぐため、ALTキーが押されているときにのみ実行できる。%s</text>
+  </string>
+  <string id="st_unload">
+    <text>メンテナンスの前に、弾薬を抜きアタッチメントを外しておく必要がある。</text>
+  </string>
+  <string id="st_no_weap">
+    <text>万力に武器を固定するには、銃を手に持っている必要がある。</text>
+  </string>
+  <string id="st_handsfree">
+    <text>両手はふさがっている。</text>
+  </string>
+  <string id="st_stolen_1">
+    <text>撃発機構はあなたがいない間に武器から盗まれた。状態が悪化した。</text>
+  </string>
+  <string id="st_stolen_2">
+    <text>ブリーチヘッドはあなたがいない間に武器から盗まれた。状態が悪化した。</text>
+  </string>
+  <string id="st_stolen_3">
+    <text>The breech block has been stolen from your weapon during your absence. Condition has been worsened</text>
+  </string>
+  <string id="st_not_in_list">
+    <text>あなたはこの武器を修理するための知識を持っていません</text>
+  </string>
+  <string id="st_awr_timer_msg_on">
+    <text>%s 残り5分%s</text>
+  </string>
+  <string id="st_awr_timer_msg_off">
+    <text>%sタイムアップ%s</text>
+  </string>
+  <string id="st_awr_dead_mechanic">
+    <text>%s技術者 %s は %s %sによって殺されました。\n万力の使用は自由です。</text>
+  </string>
+  <string id="st_by_unknown">
+    <text>不明</text>
+  </string>
+  <string id="st_mech_tiski">
+    <text>technician's vice\n</text>
+  </string>
+  <string id="st_mech_tiski_w">
+    <text>Technician's vice with %s</text>
+  </string>
+  <string id="st_ending_1">
+    <text>ы</text>
+  </string>
+  <string id="st_ending_2">
+    <text>а</text>
+  </string>
+  <string id="st_ending_3">
+    <text>о</text>
+  </string>
+  <string id="st_text_status">
+    <text>[状態]:%s%s%%</text>
+  </string>
+  <string id="st_text_wpn">
+    <text>[武器]:%s%s</text>
+  </string>
+  <string id="st_text_mode">
+    <text>[モード]:%s%s</text>
+  </string>
+  <string id="st_text_mode_1">
+    <text>修復</text>
+  </string>
+  <string id="st_text_mode_2">
+    <text>修復の可能性のある修理</text>
+  </string>
+  <string id="st_text_mode_3">
+    <text>利用不可</text>
+  </string>
+  <string id="st_text_warning_mode_1_4">
+    <text>%sアップグレード後、武器の状態は%s%%、品質は新品になる。</text>
+  </string>
+  <string id="st_text_warning_mode_1_3">
+    <text>%sアップグレード時に、機能する部品のみを使用することが可能。</text>
+  </string>
+  <string id="st_text_warning_mode_1_1">
+    <text>[注意]：このモードでは、錆付きか使い古しの武器のみアップグレード出来る。</text>
+  </string>
+  <string id="st_text_warning_mode_2_5">
+    <text>%sアップグレードして修理を終えた後：使い古しの場合は%i%% 、新品の場合は%i%%</text>
+  </string>
+  <string id="st_text_warning_mode_2_4">
+    <text>%sアップグレードなしで修理が完了した後、武器の状態は %i%%と等しくなります</text>
+  </string>
+  <string id="st_text_warning_mode_2_3">
+    <text>%s武器の品質は、同時に最も低い品質の交換部品と一緒になる。</text>
+  </string>
+  <string id="st_text_warning_mode_2_1">
+    <text>[注意]：このモードでは武器の修理とアップグレードが可能。</text>
+  </string>
+  <string id="st_text_warning_mode_3_3">
+    <text>%sアップグレードは以下の状態になるまで不可能：100%%</text>
+  </string>
+  <string id="st_text_warning_mode_3_2">
+    <text>[警告]：この品質において武器の状態は最良であるため、この武器の修理はこれ以上出来ない。</text>
+  </string>
+  <string id="st_text_warning_mode_3_1">
+    <text>[警告]：武器の品質はすでに最良だ。それ以上の修復は不可能。</text>
+  </string>
+  <string id="st_text_warning_mode_help">
+    <text>ヘルプが必要な場合はF1を押してください。</text>
+  </string>
+  <string id="st_dis_news">
+    <text>[AWR]</text>
+  </string>
+  <string id="st_dis_count">
+    <text>шт。</text>
+  </string>
+  <string id="st_dis_text_1">
+    <text>%s %s %s %s は分解された</text>
+  </string>
+  <string id="st_dis_text_2">
+    <text>%s %s %s を分解しようとしたが、部品は得られなかった。</text>
+  </string>
+  <string id="st_dis_text_3">
+    <text>%s 必要なツール %s %s がない</text>
+  </string>
+  <string id="st_dis_text_4">
+    <text>\nカートリッジが取り外された: %iPC type %s\n受け取ったアイテム: </text>
+  </string>
+  <string id="st_dis_text_5">
+    <text>%sあなたは部品をなんとか修理することが出来た %s\n%s</text>
+  </string>
+  <string id="st_dis_text_6">
+    <text>%sあなたは部品を修復できなかった %s</text>
+  </string>
+  <string id="st_dis_text_7">
+    <text>%s %s %s %s %s</text>
+  </string>
+  <string id="st_dis_text_8">
+    <text>%s %s %s %s %s は裁断された</text>
+  </string>
+  <string id="st_dis_text_9">
+    <text>\n入手した部品: </text>
+  </string>
+  <string id="st_dis_text_10">
+    <text>%sあなたは裁断を試みた %s %s, しかしなにも得られなかった。</text>
+  </string>
+  <string id="st_dis_text_11">
+    <text>%s %s %s %s %s</text>
+  </string>
+  <string id="st_awr_dialog_1">
+    <text>この万力を使わせてもらえないか？修理したい物があるんだ。</text>
+  </string>
+  <string id="st_awr_dialog_2">
+    <text>Alright... It's yours for a thousand roubles.</text>
+  </string>
+  <string id="st_awr_dialog_3">
+    <text>ここに。</text>
+  </string>
+  <string id="st_awr_dialog_4">
+    <text>Great. I will have a rest for the moment. In the meantime, be quick. I've got more work to finish today.</text>
+  </string>
+  <string id="st_awr_dialog_5">
+    <text>I haven't got that much.</text>
+  </string>
+  <string id="st_awr_dialog_6">
+    <text>ほらよ。</text>
+  </string>
+  <string id="st_awr_dialog_7">
+    <text>You were helpful to me, so I will let you use it. But try to be quick, I've got more work to finish today.</text>
+  </string>
+  <string id="st_awr_sell_dialog_1">
+    <text>スペアパーツを持ってるんだが、誰か買い取ってくれるやつを知らないか？</text>
+  </string>
+  <string id="st_awr_sell_dialog_2">
+    <text>Technicians like me store all sorts of junk you can think of. I might buy what you've got. For the right price, of course.</text>
+  </string>
+  <string id="st_awr_sell_dialog_3">
+    <text>で、見返りは？</text>
+  </string>
+  <string id="st_awr_sell_dialog_4">
+    <text>Well, for functional parts I can give you 300 RU per new part. The worn ones for 150. About the rest of the junk, you get 250 for new parts, and 125 for worn out parts. Eh, 60 should be good for rusty parts. These are not that useful, you know.</text>
+  </string>
+  <string id="st_awr_sell_dialog_5">
+    <text>Hmm... Well, your offer is so-so. But I have no actual use for these. Here, give me the money.</text>
+  </string>
+  <string id="st_awr_sell_dialog_6">
+    <text>That's a bit cheap for me. Guess I'll think about it.</text>
+  </string>
+  <string id="st_awr_sell_dialog_7">
+    <text>Nice doing business with you. If you get more spare parts, you know where to find me.</text>
+  </string>
+  <string id="st_awr_sell_dialog_8">
+    <text>Uh, I'll keep that in mind. Thanks.</text>
+  </string>
+  <string id="st_awr_help_0">
+    <text>説明書</text>
+  </string>
+  <string id="st_awr_help_1">
+    <text>修理において、武器の全体的な品質（新品、使い古し、錆付き）と現在の損耗状態が影響を及ぼす。さらに、0〜65、0〜75、0〜85という範囲は、武器の品質に合わせて区切られる。
+:錆付き武器の場合は0〜65%%。
+:使い古し武器の場合は0〜75%。
+:新しい武器の場合は0〜85%。</text>
+  </string>
+  <string id="st_awr_help_2">
+    <text>修理およびアップグレード手順（0  -  65/0  -  75/0  -  85の状態の武器）</text>
+  </string>
+  <string id="st_awr_help_3">
+    <text>1. Select a repair kit to replace the weapon barrel with another barrel of the same calibre with the weapon status from 0–20/0–25/0–30 or using a weapon upgrade kit in a condition from 20–65/25–75/30–85 by double clicking on the name of the set with the list.\n2. Select a part in the list with a single mouse click. Replacing parts when repairing weapons with a low state occurs in a certain sequence:\n \nAt condition 0–20/0–25/0–30%: Replacement of barrel\nAt condition 20–35/25–45/30–55%: Replacement of trigger (shock–trigger mechanism)\nAt condition 35–45/45–60/55–70%: Replacement of breech head\nAt condition 45–55/60–70/70–80%: Replacement of gas tube\nAt condition 55–65/70–75/80–85%: Replacement of breech block\n \n3. Click on the image of the part that is being currently replaced (the part selected for the replacement that is available for replacement is indicated by a green light). Attempting to replace one part spends one charge of a belt. set\n4. In case the replacement is successful, this procedure is repeated for all parts in the specified order\n5. In case the part has been damaged, try again if there is a repair kit and any more weapon parts.\n6. All replaced parts are retained until the condition of the weapon is lowered. In this case, to improve the quality, the parts will need to be replaced anew.\n7. When all five parts have been replaced, the quality of the weapon will be changed to the corresponding one. On that note, if at least one of the replaced items has been worn out, the quality of the weapon will be changed to "worn", even if other weapon parts are replaced with new ones.</text>
+  </string>
+  <string id="st_awr_help_4">
+    <text>The predetermined order of replacing weapon parts is due to the need to match the parts to the state of the weapon, since all replaced parts for each weapon that have ever been partially repaired in the vice are stored in the game memory. This allows you to continue repairs from the same location without having to re-replace parts, provided that the weapon condition has not been lowered after repair.</text>
+  </string>
+  <string id="st_awr_help_5">
+    <text>武器のアップグレードは、「錆付き」または「使い古し」品質の武器に対して実行できるが、武器の状態が95〜100%の場合でのみ実行可能だ。</text>
+  </string>
+  <string id="st_awr_help_6">
+    <text>1. Select a repair kit for the replacement of barrel or a weapon upgrade kit in the list by double clicking on the name of the set in the list. The replacement order is not available for upgrades.\n2. Select a part corresponding to the repair kit in the list with a single mouse click. When upgrading, only working parts can be used.\n3. Click on the image of the part that is being currently replaced\n4. In case the replacement is successful, this procedure remains the same for all other weapon parts.\n5. In case the part has been damaged, try again if there is a repair kit and any more weapon parts.\n6. All replaced parts are retained until the state of the weapon is lowered. In this case, to improve the quality, the parts will require further replacements.\n7. When all five parts have been replaced with new ones, the quality of the weapon will be changed to "new".</text>
+  </string>
+</string_table>

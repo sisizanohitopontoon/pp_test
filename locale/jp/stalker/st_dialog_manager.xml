@@ -1,0 +1,1907 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="st_drx_sl_meet_honcho">
+    <text>あんたに会いに来た。</text>
+  </string>
+  <string id="st_drx_sl_accept_task">
+    <text>結構。</text>
+  </string>
+  <string id="st_drx_sl_task_accepted">
+    <text>幸運を祈る、ストーカー</text>
+  </string>
+  <string id="st_drx_sl_actor_exit">
+    <text>ありがとう</text>
+  </string>
+  <string id="drx_sl_default_endgame">
+    <text>願望機はお前を呼んでいる。終焉の時は近づいている。征け。そして望むものを手に入れるのだ。</text>
+  </string>
+  <string id="drx_sl_start_msg_stalker">
+    <text>Stalker、お前が興味を持ちそうな面白い仕事をラインナップしておいた。冒険に興味があるのか？名声？現金？
+Rookie Village にある俺のところへ来な。商談と行こうじゃないか。</text>
+  </string>
+  <string id="sidorovich_questlines_about_dialog_0">
+    <text>あんたが冒険、名声と現金を約束するって話を聞いた。
+願望機を見つけるのを手伝ってくれるのか？</text>
+  </string>
+  <string id="sidorovich_questlines_about_dialog_1">
+    <text>その通り。簡単な話だ。そいつはチェルノブイリの上にある。
+次のバスは、20分後に出るぜ。へっへっへ...   \n聞けよ。Stalker。たくさんの連中がお前より前に願望機を渇望してここへ来た。
+そいつらは皆、あるものを今日までに得た。知ってるか？
+蛆虫だよ。全員それの餌食になったのさ...多分Strelok以外はな。
+いずれにしても、Wish Granter…願望機は、ただの伝説だ。
+だが、俺が提供する現金は、本物だ。
+バリバリ働け。テキパキと手際よくやればすぐに金持ちになれるぜ。</text>
+  </string>
+  <string id="drx_sl_esc_m_trader_game_start_dialog_1_0">
+    <text>わかったよ。それで、金持ちになる方法とやらはどれだ？</text>
+  </string>
+  <string id="drx_sl_esc_m_trader_game_start_dialog_1_1">
+    <text>ほれ、お前のPDAをよこしな...これだ。
+もし仕事が難航してたり、もしくはもっと仕事がほしいと思ったんなら、ここに行け。連中は支払いはいいぞ。それに道中で良いコネも出来るだろう。何しろまっとうな仕事だ。…少なくともZONEの中ではな。失望させるなよ。</text>
+  </string>
+  <string id="drx_sl_esc_m_trader_start_game_1_endgame_1">
+    <text>You've made quite a name for yourself around here, stalker. Wolf says some of the rookies are even whispering your tales over the campfire - haha! Thank you for all your help, and try not to die to anything stupid now.</text>
+  </string>
+  <string id="drx_sl_start_msg_dolg">
+    <text>An important task is available. I need brave volunteers to report to Colonel Petrenko and receive further orders.</text>
+  </string>
+  <string id="petrenko_questlines_about_dialog_0">
+    <text>Ready and able, Sir. What are your orders?</text>
+  </string>
+  <string id="petrenko_questlines_about_dialog_1">
+    <text>Duty's current priorities are twofold. Firstly, we need volunteers to carry out a list of important missions and fulfil our obligation to aid those who count on our assistance. Secondly, we have reason to believe an influential stalker has returned, and the General wants brave men to track him down. You can speak to me for details about our first priority, and to General Voronin about our second one.</text>
+  </string>
+  <string id="drx_sl_bar_dolg_general_petrenko_stalker_game_start_dialog_1_0">
+    <text>I'm ready to help fulfil Duty's obligations. Who needs our help?</text>
+  </string>
+  <string id="drx_sl_bar_dolg_general_petrenko_stalker_game_start_dialog_1_1">
+    <text>I will transfer all relevant info to your PDA. You have our faith, soldier. You have shouldered a great responsibility. Bear it well.</text>
+  </string>
+  <string id="drx_sl_bar_dolg_general_petrenko_stalker_start_game_1_endgame_1">
+    <text>Your stalwart fulfilment of your duties is admirable. However, while we are stemming the tide of the Zone's horrors, we're still far away from making it disappear for good. For now, continue to protect the innocent from the Zone as you see fit. When the opportunity to end the Zone entirely presents itself, I trust you won't hesitate in making the right choice.</text>
+  </string>
+  <string id="drx_sl_start_msg_freedom">
+    <text>Meet me at our HQ in the Warehouses for an adventure you won't soon forget.</text>
+  </string>
+  <string id="lukash_questlines_about_dialog_0">
+    <text>What's up Lukash? You wanted to see me?</text>
+  </string>
+  <string id="lukash_questlines_about_dialog_1">
+    <text>Yes. Following Strelok recent appearance, a storm is brewing around here. Can you believe it? I need someone to try and find out what's up with Strelok. If you're not up for that, I also have a list of contacts from all over the Zone who need Freedom's help. Are you in?</text>
+  </string>
+  <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_game_start_dialog_1_0">
+    <text>Show me the list. We'll show these guys how Freedom rolls.</text>
+  </string>
+  <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_game_start_dialog_1_1">
+    <text>That's the spirit! Here, I'm uploading the list onto your PDA. Do as they ask, and you'll not only help keep the Zone free, but you'll earn some sweet cash too.</text>
+  </string>
+  <string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_start_game_1_endgame_1">
+    <text>Hey man, thanks for helping the boys around here keep the Zone free. Pity that not everyone is living in harmony with each other yet, but what can you do, right? It's not like we can just wish everyone to get along. Anyway, you've done a good thing. Freedom is proud of you. </text>
+  </string>
+  <string id="drx_sl_start_msg_csky">
+    <text>I have an important mission for those who are willing to help. Come to my office and I will share the details.</text>
+  </string>
+  <string id="cold_questlines_about_dialog_0">
+    <text>I received your message. Can you inform me about the current situation?</text>
+  </string>
+  <string id="cold_questlines_about_dialog_1">
+    <text>A volunteer? We are expanding our operations in the area, and there's no end to the surprises the Zone brings us every day. The biggest surprise, however, is the news of Strelok's return. Given that he survived where Lebedev failed... well, I'm sure some of our older boys here would like some answers. Still, even if you don't, I also have a list of contacts who need some work done. Clear Sky can always benefit from maintaining its friendships, especially since some of our previous losses are otherwise irreplaceable.</text>
+  </string>
+  <string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_game_start_dialog_1_0">
+    <text>I'm ready to help Clear Sky maintain its friendships. What can you tell me about our contacts?</text>
+  </string>
+  <string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_game_start_dialog_1_1">
+    <text>I'll release their details to your PDA as you go, all you have to do is meet your contacts as planned. Regrettably, I cannot tell you more, only that all will make sense at the right time. I trust you will know what to do. Good luck.</text>
+  </string>
+  <string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_start_game_1_endgame_1">
+    <text>Good work. You have done very well. You've given us room to ensure the path to Chernobyl will be cleared. At the heart of its reactor lies the Monolith, the Wish Granter. Find it. Then you know what you must do.</text>
+  </string>
+  <string id="drx_sl_start_msg_ecolog">
+    <text>I have an important assignment for you, %s. Please report to my Mobile Lab in Yantar. I will share the available details there.</text>
+  </string>
+  <string id="sakharov_questlines_about_dialog_0">
+    <text>You wanted to see me, Professor?</text>
+  </string>
+  <string id="sakharov_questlines_about_dialog_1">
+    <text>Oh, yes, yes. Good! I'm glad you're here. Something unexpected has happened, young man. Strelok has been sighted in the Zone once again! Finding him is currently a priority, both to me and our supervisors. If you wish to participate in our search for Strelok, I can tell you more. If not... well... I have another important assignment. It involves travelling the Zone and meeting new people to learn as much as you can - There is so much out there we haven't yet discovered. You could consider it... exploratory research.</text>
+  </string>
+  <string id="drx_sl_yan_stalker_sakharov_game_start_dialog_1_0">
+    <text>I'm interested in conducting exploratory research for the Ecologists, Professor. Where shall I start?</text>
+  </string>
+  <string id="drx_sl_yan_stalker_sakharov_game_start_dialog_1_1">
+    <text>Here, a list of contacts who will take care of you along your journey. Visit them, they can provide you with work or food or shelter. Explore and be curious! Be bold and adventurous! Question everyone and everything! I expect your experiences will vastly increase our understanding of the Zone.</text>
+  </string>
+  <string id="drx_sl_yan_stalker_sakharov_start_game_1_endgame_1">
+    <text>You have done much to improve our relations with the outside world - certainly things could have been much worse without you. May I see your PDA...? Ah, good. Let me just copy the data you've been carrying...done! This is most valuable. You have made for a fine assistant. One only wonders what you might discover next!</text>
+  </string>
+  <string id="drx_sl_start_msg_killer">
+    <text>A new contract is available from an important employer. The money is good, that's all what you need to know for now. Come to the HQ, further details will be shared upon meeting.</text>
+  </string>
+  <string id="dushman_questlines_about_dialog_0">
+    <text>I received your message, can you inform me about the current situation?</text>
+  </string>
+  <string id="dushman_questlines_about_dialog_1">
+    <text>A new contract is available from an important employer. Our agents also report that an infamous stalker named Strelok has reappeared, and I need someone to follow his trace. Both tasks will pay very, very well.</text>
+  </string>
+  <string id="drx_sl_cit_killers_merc_trader_stalker_game_start_dialog_1_0">
+    <text>So what can you tell me about our employer?</text>
+  </string>
+  <string id="drx_sl_cit_killers_merc_trader_stalker_game_start_dialog_1_1">
+    <text>Not even I could tell you exactly who, what or where they are. Only that they've got money, and a lot of it. Regardless, this employer has asked we perform favours for a list of "interested parties". Your PDA will be updated with their details as relevant. Stay frosty and watch your back out there - the Zone may be immensely lucrative, but it's also a living hell, and nothing I've seen so far has convinced me otherwise.</text>
+  </string>
+  <string id="drx_sl_cit_killers_merc_trader_stalker_start_game_1_endgame_1">
+    <text>Thank you. Listen, I have a message for you. It comes straight from your employer. It seems you have impressed him greatly. He has a special mission for you and only you. You must find the Wish Granter. Once you do you must utter the following phrase; "princeps magis opulentus". Do this exact thing and your prince will reward you handsomely.</text>
+  </string>
+  <string id="drx_sl_start_msg_army">
+    <text>Soldiers, we received new orders from the SSU. Report back to receive your new assignments.</text>
+  </string>
+  <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_game_start_dialog_1_0">
+    <text>Reporting for duty, sir.</text>
+  </string>
+  <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_game_start_dialog_1_1">
+    <text>Welcome to hell soldier. Listen to me and you'll stay alive. Keep your head on a swivel. Everyone and everything out here is trying to kill you. Stay low in a firefight and find good cover. Trust no one. Shoot first and ask questions later. Your tour of duty will take you all over the Zone, most of the time no one will be there to help you. Rely on your survival training. Meet with the contacts loaded into your PDA and they will give you your orders. Just complete your tour of duty and stay alive and you'll get to go home. You are dismissed.</text>
+  </string>
+  <string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_start_game_1_endgame_1">
+    <text>Thank you soldier. You have done well for me, now I will do something for you, although you may not want to hear it. You are expecting to rotate out of here soon, yes? I'm afraid your commanders have other ideas. The cordon has closed in and has been locked down, nothing and no one are able to get in or out of the Zone any more, including the military. You've been left here to die, and even your corpse will be left for worm food. You can't even escape in a body bag. But all hope is not lost for you, if you are daring. There is only one way left for you to get out of here, and it lies in Chernobyl. Buried deep within the NPP is the Wish Granter. If you can find it, and if you survive, you can use it to wish your way out of here. It is your only hope soldier. Good luck to you.</text>
+  </string>
+  <string id="drx_sl_start_msg_bandit">
+    <text>Let me remind you that we're running a business in this place. If you wanna stick your ass around, you'll work for me. Come over here to spoil you the details.</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_game_start_dialog_1_0">
+    <text>You want me to work for you? What's in it for me?</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_game_start_dialog_1_1">
+    <text>There are people here in the Zone who need things done for them. Some of these things cannot be done, shall we say; inside of regular channels. So they come to me. I arrange to take care of business for them and in return I expect them to pay me a very hefty sum. I will give you a list of these people. Go to them, do what they ask, and collect the payment. All I require is you give me 20 percent of what they pay when you are finished. Any money you make on the side while you're out there is yours to keep. Good deal, yes? It's more money than you would make pick-pocketing and looting stashes and sticking up rookies I guarantee. Just don't double-cross me, understand? I know everyone in this place, and they can be very motivated to make examples of anyone who tries to rip me off. Now get out of my sight. I have some important business to attend to.</text>
+  </string>
+  <string id="drx_sl_zat_b7_bandit_boss_sultan_start_game_1_endgame_1">
+    <text>Wadda you want? .. *hic* .. Oh, itz you .. *hic* .. I know you. Hey, didja do that thing I wanted for ya to do? Ahhh, I knew you wouldn't let me down buddy, you're always buddy .. *hic* .. Here, join me inna drink.. inna.. where'z my bottle? .. *hic* .. It'z a celelelebration! Cus I'm gonna be rizssh! .. *hic* .. See, I just found out something that nobody else knows, but shzzh, you gotta keep it quiet, ok? Cuz if anyone elses knowz then they might beat me to it. See, now that the Brain Szzcortcher .. *hic* .. has been deactivated the path to the Wizzsh Granter is open. All I gotta do is fight my way through a few Monolith pricks and then it's the sweet life for me. I'm gonna wish for all kindsa money, and booze, and guns, and booze, and puzzzshh .. *hic* .. eey. Ya know what it mean, hehe .. *hic* .. So lizzen, just don't go tellin' no one what I juz been tellin' you about, okee? Cuz I'm gonna get there first and I'm gonna be rizssh bizssh!!</text>
+  </string>
+  <string id="drx_sl_start_msg_monolith">
+    <text>Brothers, it is time for you to fulfil the wishes of the Monolith. Return to the Palace of Culture's cellar in Pripyat for your tasks.</text>
+  </string>
+  <string id="drx_sl_pri_monolith_monolith_trader_stalker_game_start_dialog_1_0">
+    <text>What can I do to serve the almighty Monolith?</text>
+  </string>
+  <string id="drx_sl_pri_monolith_monolith_trader_stalker_game_start_dialog_1_1">
+    <text>There is much work to be done, my brother. The Zone must be purged of the infidels. We must keep control of the mutant population. Your brothers need food and weapons. You will report to your Monolith elders, and we will give you your assignments. You must do your part. Praise Monolith and may the Monolith bless you.</text>
+  </string>
+  <string id="drx_sl_pri_monolith_monolith_trader_stalker_start_game_1_endgame_1">
+    <text>You have done well, and have proven your faith with the many deeds you have done.  You have earned the privilege of meeting the almighty Monolith. Not many are blessed enough to look into the eyes of god. Prepare an offering and pledge your devotion to our lord. The journey into the Sarcophagus will not be easy, and you must go alone. But listen, if your faith is pure the Monolith will call to you and show you the way.</text>
+  </string>
+  <string id="drx_sl_start_msg_greh">
+    <text>Chernobog has spoken. It is time to let this world be enlightened. Return to me, brothers. I will inform you about your tasks.</text>
+  </string>
+  <string id="drx_sl_red_greh_trader_game_start_dialog_1_0">
+    <text>What can I do to serve our cause?</text>
+  </string>
+  <string id="drx_sl_red_greh_trader_game_start_dialog_1_1">
+    <text>Spread the message. Make all people aware of what the Zone truly is. That it is a miracle. That it can help us improve, that it can save mankind from its own self-destructive nature. You will report to the Monolith elders, and we will give you your assignments. You must do your part. We will help the world cleanse itself of sin.</text>
+  </string>
+  <string id="drx_sl_red_greh_trader_start_game_1_endgame_1">
+    <text>You have done well, and have proven your faith with the many deeds you have done.  You have earned the privilege of meeting the almighty Monolith. Not many are blessed enough to look into the eyes of god. Prepare an offering and pledge your devotion to our lord. The journey into the Sarcophagus will not be easy, and you must go alone. But listen, if your faith is pure the Monolith will call to you and show you the way.</text>
+  </string>
+  <string id="st_drx_sl_change_factions_request">
+    <text>所属を変えることを考えてるんだが</text>
+  </string>
+  <string id="st_drx_sl_accept_change_factions_task">
+    <text>手に入ったらまた来る。</text>
+  </string>
+  <string id="st_drx_sl_change_factions_task_accepted">
+    <text>いいぞ。幸運をな。またこのあたりで合うことになるだろう。</text>
+  </string>
+  <string id="st_drx_sl_change_factions_actor_exit">
+    <text>では、その時に。</text>
+  </string>
+  <string id="dm_universal_actor_start">
+    <text>聞きたいことがあるんだ。</text>
+  </string>
+  <string id="dm_universal_actor_exit">
+    <text>気にしないでくれ。</text>
+  </string>
+  <string id="dm_universal_actor_agree">
+    <text>いいだろう。</text>
+  </string>
+  <string id="dm_universal_actor_exit_thanks">
+    <text>ありがとう。</text>
+  </string>
+  <string id="dm_universal_npc_start_1">
+    <text>何についてだ？</text>
+  </string>
+  <string id="dm_universal_npc_start_2">
+    <text>もちろん。</text>
+  </string>
+  <string id="dm_universal_npc_start_3">
+    <text>続けて。</text>
+  </string>
+  <string id="dm_universal_npc_start_4">
+    <text>はい？</text>
+  </string>
+  <string id="dm_no_more_1">
+    <text>もうあんたに言っただろ。</text>
+  </string>
+  <string id="dm_no_more_2">
+    <text>それ以上は俺も知らないな。</text>
+  </string>
+  <string id="dm_no_more_3">
+    <text>俺が知ってるのはそれで全部だ。あとは他の奴に聞いてくれ。</text>
+  </string>
+  <string id="dm_no_more_4">
+    <text>畜生、ほっといてくれるか？他のやつに聞けよ。</text>
+  </string>
+  <string id="dm_no_more_5">
+    <text>俺が話せるのはそこまでだな。</text>
+  </string>
+  <string id="dm_no_more_6">
+    <text>てめえの糞みたいな質問はいくらでもしていいが他に話せることは無えよ。</text>
+  </string>
+  <string id="dm_no_more_7">
+    <text>ここまでだ、旦那。</text>
+  </string>
+  <string id="dm_no_more_8">
+    <text>またの機会にな。</text>
+  </string>
+  <string id="dm_no_more_9">
+    <text>また後で来てくれよ。そしたらもっと話せることがあるかもな。</text>
+  </string>
+  <string id="dm_no_more_10">
+    <text>あぁ、これ以上は掘り下げれないな。他に質問は？</text>
+  </string>
+  <string id="dm_do_not_know_1">
+    <text>ブラザー、俺が全て知ってたんなら、こんなクソ溜めに居るわけねえだろ？</text>
+  </string>
+  <string id="dm_do_not_know_2">
+    <text>良い質問だな。もし見つけたならば俺にも共有してくれ。いいな？</text>
+  </string>
+  <string id="dm_do_not_know_3">
+    <text>知らないよ。俺を放って置いてくれないか。</text>
+  </string>
+  <string id="dm_do_not_know_4">
+    <text>地獄なら知ってるぜ。</text>
+  </string>
+  <string id="dm_do_not_know_5">
+    <text>Zoneでは常に何かが起きてるな。もっとも、アンタと共有したい情報は何も持っては居ないがね。</text>
+  </string>
+  <string id="dm_do_not_know_6">
+    <text>俺はお前には何も教えないし、お前もたわごとを俺に吹き込もうとするんじゃねえ。</text>
+  </string>
+  <string id="dm_do_not_know_7">
+    <text>アンタ聞く相手を間違ってるぜ。</text>
+  </string>
+  <string id="dm_do_not_know_8">
+    <text>俺だって知りたいよ。</text>
+  </string>
+  <string id="dm_do_not_know_9">
+    <text>すまん。出来ることはないな。</text>
+  </string>
+  <string id="dm_do_not_know_10">
+    <text>すまんね、何も持ってないんだ。</text>
+  </string>
+  <string id="dm_hello_general_1">
+    <text>調子どうだい？</text>
+  </string>
+  <string id="dm_hello_general_2">
+    <text>よう、どうした？</text>
+  </string>
+  <string id="dm_hello_general_3">
+    <text>こんにちは。調子はどうかね？</text>
+  </string>
+  <string id="dm_hello_1">
+    <text>やあ、兄弟。</text>
+  </string>
+  <string id="dm_hello_2">
+    <text>ごきげんよう、Stalker。</text>
+  </string>
+  <string id="dm_hello_3">
+    <text>俺は元気だぜ。どうした？</text>
+  </string>
+  <string id="dm_hello_4">
+    <text>やあ。</text>
+  </string>
+  <string id="dm_hello_5">
+    <text>どうした？</text>
+  </string>
+  <string id="dm_hello_6">
+    <text>何が欲しい？</text>
+  </string>
+  <string id="dm_hello_7">
+    <text>今の所順調だな。アンタは？</text>
+  </string>
+  <string id="dm_hello_8">
+    <text>ここんとこ良い日が続いてるな。なにか入り用か？</text>
+  </string>
+  <string id="dm_hello_9">
+    <text>良い日だな！</text>
+  </string>
+  <string id="dm_hello_10">
+    <text>おう、そいつは何だ？</text>
+  </string>
+  <string id="dm_hello_11">
+    <text>失せろ、stalker。</text>
+  </string>
+  <string id="dm_hello_12">
+    <text>何が要るんだ？</text>
+  </string>
+  <string id="dm_hello_13">
+    <text>オーケー。さてクソな難問だな。うむ、全く解らん。</text>
+  </string>
+  <string id="dm_hello_14">
+    <text>何が要るんだ、Stalker？</text>
+  </string>
+  <string id="dm_help_1">
+    <text>助けて、お願いだ…死ぬ…</text>
+  </string>
+  <string id="dm_help_2">
+    <text>助けてくれ、兄弟…ああ、神さま、痛え！</text>
+  </string>
+  <string id="dm_help_3">
+    <text>友よ、medkit…medkitをくれ…</text>
+  </string>
+  <string id="dm_help_4">
+    <text>兄弟…兄弟、助けてくれ！</text>
+  </string>
+  <string id="dm_help_5">
+    <text>友よ、応急処置キット…キットだ！</text>
+  </string>
+  <string id="dm_help_6">
+    <text>Stalker, 助けて...medkitをくれ...</text>
+  </string>
+  <string id="dm_help_7">
+    <text>俺は怪我してる…助けてくれ！</text>
+  </string>
+  <string id="dm_help_8">
+    <text>ここに刺さってる！</text>
+  </string>
+  <string id="dm_help_9">
+    <text>Medkit!</text>
+  </string>
+  <string id="dm_help_10">
+    <text>助けて、なあ！</text>
+  </string>
+  <string id="dm_help_11">
+    <text>Medkit! 早く!</text>
+  </string>
+  <string id="dm_help_12">
+    <text>助けてくれ！死んじまう！</text>
+  </string>
+  <string id="dm_help_13">
+    <text>応急処置が必要だ。お前ら！早くしろ！</text>
+  </string>
+  <string id="dm_help_14">
+    <text>メディキットが必要だ！助けてくれ！</text>
+  </string>
+  <string id="dm_help_15">
+    <text>衛生兵！</text>
+  </string>
+  <string id="dm_help_16">
+    <text>よう、兄弟。medkitをシェアしてくれねえか？</text>
+  </string>
+  <string id="dm_help_17">
+    <text>あのヤベえ医者のところに連れてってくれ。イテェ、medkiを持ってねえか？頼む、そいつが必要なんだ。</text>
+  </string>
+  <string id="dm_anomalies_general_1">
+    <text>アノーマリーやアーティファクトについて何か知ってるか？</text>
+  </string>
+  <string id="dm_anomalies_general_2">
+    <text>アンタは何かアノーマリーやアーティファクトについて知ってるか？</text>
+  </string>
+  <string id="dm_anomalies_general_3">
+    <text>アノーマリーやアーティファクトについて教えてくれないか。</text>
+  </string>
+  <string id="dm_anomalies_0">
+    <text>アンタに教えるのは楽しそうじゃないな。</text>
+  </string>
+  <string id="dm_anomalies_1">
+    <text>Ever seen a Burner? Even in daylight it's a faint haze. Step in it though and you'll be flame grilled before you can say "shoulda tossed a bolt".</text>
+  </string>
+  <string id="dm_anomalies_2">
+    <text>Comets aren't always in the night sky. The other day I saw a giant fecking fireball blazing about one of the thermal anomalies - as if thermals aren't a pain in the ass already.</text>
+  </string>
+  <string id="dm_anomalies_3">
+    <text>You ever seen a Vortex, man? They're damned near invisible, but one foot too close, and they'll pull you in and splatter you all over the place.</text>
+  </string>
+  <string id="dm_anomalies_4">
+    <text>If you hear humming, stop right there. It could be a Springboard - a ball of gravity ready to explode in your face if you touch it. Nasty things are just about everywhere, so keep your bolts handy.</text>
+  </string>
+  <string id="dm_anomalies_5">
+    <text>Dirt and leaves blowing about? Might not be the wind. Whirligigs are nasty gravitational anomalies, and if you get caught in one, it'll spin you round and around...until the force tears you apart.</text>
+  </string>
+  <string id="dm_anomalies_6">
+    <text>The "Fruit Punch" anomaly isn't as delicious as it sounds. It'll melt your damn face off if you get too close without proper chemical protection.</text>
+  </string>
+  <string id="dm_anomalies_7">
+    <text>Don't trust the moss or vines around here, stalker. Locals call it "Burnt Fuzz" for a reason - touch it and you'll get perforated by microscopic spores.</text>
+  </string>
+  <string id="dm_anomalies_8">
+    <text>Look out for green Gas anomalies floating and wandering over the ground. It's acidic, and if you end up taking a stroll into the stuff, it'll start eating away at your legs.</text>
+  </string>
+  <string id="dm_anomalies_9">
+    <text>Keep your eyes peeled for Gas Cloud anomalies. If you see a flying ball of acid darting around, go around or under that thing, or you'll wind up looking like a flesh.</text>
+  </string>
+  <string id="dm_anomalies_10">
+    <text>Scientists say that electrical anomalies take time to rebuild their charge after they go off. If you time it right, this would mean you could pass through one safely after triggering it with your bolt.</text>
+  </string>
+  <string id="dm_anomalies_11">
+    <text>A few days ago, I saw this giant ball of electricity - the professors at Jupiter named it the "Tesla Anomaly" after an old inventor. It travels in a set pattern, so time your movements right and it can't hurt you.</text>
+  </string>
+  <string id="dm_anomalies_12">
+    <text>Stay away from Space Anomalies, man. It's a coin toss whether they'll teleport you somewhere useful or leave you to starve in some limbo. You'd have to be batshit crazy to take that sort of risk.</text>
+  </string>
+  <string id="dm_anomalies_13">
+    <text>Clear Sky must've had some serious voodoo shit going on back in 2011. The way I hear it, Space Anomalies kept appearing to help them close in on this guy they were chasing. That weird or what?</text>
+  </string>
+  <string id="dm_anomalies_14">
+    <text>Brave enough for the Red Forest? Heard the "Symbiont" anomaly field in that hellhole is practically a goldmine for artefacts. You can tell you've found it by the jagged rocks and warped trees around it. </text>
+  </string>
+  <string id="dm_anomalies_15">
+    <text>You know, we don't really get earthquakes in this part of the world. And then you see the aftermath of a "Fault" anomaly...a giant crack in the ground, filled with Burners or weird gravity fields. Unnerving.</text>
+  </string>
+  <string id="dm_anomalies_16">
+    <text>I pity the fools who brag about the artefacts they find over the Network. They're lucky some vile opportunist hasn't hunted them down for their loot yet.</text>
+  </string>
+  <string id="dm_anomalies_17">
+    <text>Gravitational anomalies - Whirligigs and the like - are absolute hell, but you can sometimes escape one if you're light enough on your feet. Just sprint and jump out like your life depends on it - it probably does.</text>
+  </string>
+  <string id="dm_anomalies_18">
+    <text>Ever heard of a Gravi? Looks like a metallic dog turd, but scientists will pay through the nose for it because of its anti-gravity effects - effects most stalkers rather wouldn't part with.</text>
+  </string>
+  <string id="dm_anomalies_19">
+    <text>Always, always, ALWAYS have something on you to deal with radiation. I'm sick of watching rookies waste away because they forgot their meds, or couldn't reach a doctor...</text>
+  </string>
+  <string id="dm_anomalies_20">
+    <text>Apparently all those new belt devices are based off of scientific artefact studies. Still, the money for more artefacts never ends, and they don't care whether the effect is good or bad - only that it's powerful...</text>
+  </string>
+  <string id="dm_anomalies_21">
+    <text>I've heard of rare artefacts capable of healing even fatal wounds, or of scabbing a gash up before your very eyes. If you ever find one, along with an AAM or something, it'd be best to keep it.</text>
+  </string>
+  <string id="dm_anomalies_22">
+    <text>I keep hearing stories about some legendary artefact known as the "Compass". People say that if you have one, then no anomaly can touch you, let alone hurt you. I wonder if that's true?</text>
+  </string>
+  <string id="dm_anomalies_23">
+    <text>Just talk to the more experienced stalkers you see sitting around campfires. You'll learn everything you need to soon enough.</text>
+  </string>
+  <string id="dm_anomalies_24">
+    <text>You want my advice? Stay away from artefacts. They're like the sweet nectar of a Venus Fly-Trap. They lure you in, then suddenly you find you're stuck in an anomaly field with no way out.</text>
+  </string>
+  <string id="dm_anomalies_25">
+    <text>All I can really say is gear yourself up properly. Make sure you have enough LLCs, make sure your respirator is working, that you brought the right meds. Can't sell your treasures if you're dead now, can you?</text>
+  </string>
+  <string id="dm_anomalies_26">
+    <text>The hardest thing about artefact hunting is starting. Once you have adequate protection and medication, all it asks for is patience, a decent detector, and lots and lots of practice.</text>
+  </string>
+  <string id="dm_anomalies_27">
+    <text>Get lots of rest and take care of yourself, man. Anomalies aren't always easy to spot, so you gotta make sure you can be alert. How can you expect to evade a field of Vortexes after a night of vodka abuse?</text>
+  </string>
+  <string id="dm_anomalies_28">
+    <text>Do you hear the whispers? That's the Zone, talking to you. Closer to the centre, or during an emission, there are places where its voice becomes overpowering. Without psychic protection, you'll zombify for sure.</text>
+  </string>
+  <string id="dm_anomalies_29">
+    <text>Keep in mind that not everyone around here likes to hunt artefacts. Some hunt mutants...others hunt people. Be careful who you show your loot to.</text>
+  </string>
+  <string id="dm_anomalies_30">
+    <text>Did you know that artefacts are almost indestructible? Sometimes it's better to shoot at the artefact to make it jump out of the anomaly, instead of just being sucked directly into it.</text>
+  </string>
+  <string id="dm_anomalies_31">
+    <text>I wish I'd been here during the good old days. Back then, artefacts wouldn't irradiate you just by carrying them. Guess the Zone is more protective over its treasures now, eh?</text>
+  </string>
+  <string id="dm_anomalies_32">
+    <text>Dude, the artefact business is competitive enough as it is. If you really wanna join the rat race though, go see the Ecologists. They can gear you up.</text>
+  </string>
+  <string id="dm_anomalies_33">
+    <text>Many newcomers dream about "the artefact that makes you rich". While the Zone can be fruitful, it's a bad idea to treat it like some sort of lottery. Just work at things consistently and you'll get there.</text>
+  </string>
+  <string id="dm_anomalies_34">
+    <text>It's especially dangerous to hunt artefacts north of the Army Warehouses, but it's just as lucrative too. The few who can make it, make it well.</text>
+  </string>
+  <string id="dm_anomalies_35">
+    <text>Be thankful for every artefact you carry home safely. The Zone is a very complex maze of traps, and you're lucky to have lived thus far.</text>
+  </string>
+  <string id="dm_anomalies_36">
+    <text>There's a swamp in the west of Zaton, full of gas pockets and gravitational anomalies. Get some antidote for the toxic gas, however, and you're set - the water shows you where the grav anomalies are. Easy artefacts!</text>
+  </string>
+  <string id="dm_anomalies_37">
+    <text>The Iron Forest workshop in the south-west of Zaton is a real bounty. Old timers talk of entire clusters of artefacts! Sadly it's rumoured to be haunted, so most stalkers in the area just stay away.</text>
+  </string>
+  <string id="dm_anomalies_38">
+    <text>If you've got the gear for thermal anomalies, veterans say the Burnt Farmstead in the north-ish part of Zaton is the best place to be after an emission.</text>
+  </string>
+  <string id="dm_anomalies_39">
+    <text>For variety, I hear the most daring stalkers explore the caves underneath Zaton's Burnt Farmstead. Getting in is easy, getting out is insane. But if you do, I hear it's always with quite the treasure.</text>
+  </string>
+  <string id="dm_anomalies_40">
+    <text>Have you seen a Circus anomaly? Veterans of the north say one can be found in the south of Zaton, and that it's truly a sight to behold. Best behold it from a distance, however, unless you want to get burnt alive.</text>
+  </string>
+  <string id="dm_anomalies_41">
+    <text>Have you ever run into a psychic anomaly before? Can't say it was the best experience of my life. Within minutes your brain is so scrambled you begin to forget how to breathe, let alone know to get the hell out.</text>
+  </string>
+  <string id="dm_anomalies_42">
+    <text>Usually gravitational anomalies are nearly invisible, but I'll never stop being amazed by the shit they sometimes pull - some of the freakiest rock and water formations I've ever seen.</text>
+  </string>
+  <string id="dm_anomalies_43">
+    <text>Seasoned stalkers talk about the "Boiler" anomaly; a unique thermal anomaly in the north-east of Zaton, capable of grilling men alive with scalding jets of steam. The artefacts there are just regular fire ones though.</text>
+  </string>
+  <string id="dm_anomalies_44">
+    <text>If you are ever able to checkout the big-ass quarry near Yanov, do that. The gas is awful enough to make your eyes sting even with a mask, but the haul often makes up for it.</text>
+  </string>
+  <string id="dm_anomalies_45">
+    <text>I hear a lot of ghost stories about Kopachy Village in Jupiter, but if you make it past the zombies, the thermal anomaly near the graveyard tends to guard a worthy bounty.</text>
+  </string>
+  <string id="dm_anomalies_46">
+    <text>Vets say a good Electro field for artefact hunting would be the Parking Lot, west-ish of the four-way-stop at Jupiter. That's if you're up for the dangers of the north, of course.</text>
+  </string>
+  <string id="dm_anomalies_47">
+    <text>You know the Ecologist bunker near Yanov? They were intensely studying the Anomalous Grove a few years back. What they discovered was that it grew a little every time an artefact was removed. Scary, isn't it? </text>
+  </string>
+  <string id="dm_anomalies_48">
+    <text>If you're after artefacts, go for the acid kind. The best place to get those is the Concrete Bath in the southeast of Jupiter. You won't have a lot of competition: most stalkers find it too creepy for their liking.</text>
+  </string>
+  <string id="dm_anomalies_49">
+    <text>Not far from the Jupiter plant, a piece of the road fell through. They call this place "Bitumen", because that's where the pavement melted. It's a thermal-gravitational hybrid. Pretty wizard, ain't it?</text>
+  </string>
+  <string id="dm_anomalies_50">
+    <text>Toxic gas anomalies are the worst. They create such stinging, bitter marshes. Sometimes the water isn't even water any more, and just turns to acid. Absolutely awful.</text>
+  </string>
+  <string id="dm_anomalies_51">
+    <text>The best place to find artefacts would be to search the anomaly fields no one else visits. The artefacts are probably gonna be harder to get, sure, but at least you can take your time clearing them out.</text>
+  </string>
+  <string id="dm_anomalies_52">
+    <text>Ever heard of the "Oakpine"? I hear it can be found in the northern parts of the Zone, and got its name from a scientist who genetically identified its bark as, well, both oak and pine. Too bad it's also toxic.</text>
+  </string>
+  <string id="dm_anomalies_53">
+    <text>If you wanna snag some good artefacts, make sure to get there first - hop yourself up on caffeine and be ready to dash towards the nearest anomaly fields as soon as the next local emission ends.</text>
+  </string>
+  <string id="dm_anomalies_54">
+    <text>No one has looked for artefacts in Pripyat yet. Everyone I know has only been here a short while, so they stay cautious.</text>
+  </string>
+  <string id="dm_anomalies_55">
+    <text>I don't know if anyone knows the good spots. Pripyat is poorly explored so far.</text>
+  </string>
+  <string id="dm_anomalies_56">
+    <text>I'd look in the underground tunnels. They say there are tonnes of them underneath the city.</text>
+  </string>
+  <string id="dm_anomalies_57">
+    <text>Not much is known about these parts... Garry's stories, mostly. He says there's a place here where a huge grapevine grows out of an acid anomaly, as tall as a ten-story building. Think that's true?</text>
+  </string>
+  <string id="dm_information_general_1">
+    <text>最近のZoneはどうだ？</text>
+  </string>
+  <string id="dm_information_general_2">
+    <text>ここで何が起きたか知ってるか？</text>
+  </string>
+  <string id="dm_information_general_3">
+    <text>情報を探してるんだが。</text>
+  </string>
+  <string id="dm_information_0">
+    <text>なにも情報はないな。</text>
+  </string>
+  <string id="dm_information_1">
+    <text>From what I've seen, the Military is still set up in Agroprom. What the hell are they still doing there? What have they got planned? It's making my nose twitch.</text>
+  </string>
+  <string id="dm_information_2">
+    <text>Well, apparently the Military are still set up in Agroprom. They're probably still searching the labs below for anything interesting. I've half a mind to do so myself, but I'm waaay too sober right now.</text>
+  </string>
+  <string id="dm_information_3">
+    <text>Rostok's a great place for neutral stalkers to sleep. It's got a bar, it's got entertainment, and the whole place is looked after by Duty. Say what you like about them, but they know how to keep Bandits away.</text>
+  </string>
+  <string id="dm_information_4">
+    <text>The Cordon is not only good for newbies to get some experience under their belt, it's also a nice holiday spot for the vets. Compared to the rest of the Zone, it's a great place to unwind without getting too bored.</text>
+  </string>
+  <string id="dm_information_5">
+    <text>Darkscape and the Meadow are both great places if you just need to get away from everything for a while. Some days, I think of going myself.</text>
+  </string>
+  <string id="dm_information_6">
+    <text>You wouldn't know it now, what with all the thugs, but Dark Valley used to be a facility for geodesists - scientists and the like. Heard that some of the labs were built for more than just measuring Earth though...</text>
+  </string>
+  <string id="dm_information_7">
+    <text>There's a whole sewer system running under Dead City. Even better, a grown man is able to fit and walk around in it. Used it a few times to steal from Merc stashes without getting caught.</text>
+  </string>
+  <string id="dm_information_8">
+    <text>I wouldn't trust the guys running Garbage's Flea Market. They say they're just traders, so why are they perched up on that vantage point? What are they watching? Who for? Why? I don't like it.</text>
+  </string>
+  <string id="dm_information_9">
+    <text>If you want information, the best place to look would be your PDA Guide. All sorts of useful stuff there. Other than that, just go see Snitch in Rostok.</text>
+  </string>
+  <string id="dm_information_10">
+    <text>You might have heard of the Deserted Hospital north of Limansk. It is anything but - place is crawling with madmen, and any worthwhile medical equipment has long since broken down or disappeared.</text>
+  </string>
+  <string id="dm_information_11">
+    <text>A lot of the stalkers I speak to keep telling me Jupiter's a great place for artefacts, but every single route between there and civilization is a deathtrap. Forests of mutants, mind control devices...it never ends...</text>
+  </string>
+  <string id="dm_information_12">
+    <text>If you ever make it to Jupiter, be careful about using the Underground. Way I hear it, Monolith have blockaded the entrance, and mutants lurk in droves below them.</text>
+  </string>
+  <string id="dm_information_13">
+    <text>Limansk, the "secret" city...some days it is quiet, others it is rough. Monolith push into it from the north, Mercs try to push in from the south, and there's seemingly endless anomalies and mutants in between.</text>
+  </string>
+  <string id="dm_information_14">
+    <text>Have you ever heard of Clear Sky's...ahem..."hidden" base? It's down in the south-west of the Great Swamps. They're a friendly bunch, if a little aloof. Next best place for a rookie after the Cordon.</text>
+  </string>
+  <string id="dm_information_15">
+    <text>Freedom keep saying they're protecting the Zone from the Monolith, but that's bullshit. If you won't even stand up to Bandits, how can you defend against fanatical zealots?</text>
+  </string>
+  <string id="dm_information_16">
+    <text>Monolith reclaimed Pripyat and locked it up pretty tight when they returned. The only consolation is that the mutants now have something to eat other than my friends up in Outskirts.</text>
+  </string>
+  <string id="dm_information_17">
+    <text>I hear a band of Mercs got themselves seperated from the rest of their group up in Outskirts. They must be desperate: they're selling great gear very cheaply, even to Free Stalkers!</text>
+  </string>
+  <string id="dm_information_18">
+    <text>Just stay the hell away from Radar, that's all I can say. Doesn't even matter if the Brain Scorcher is active or not, that place is a waking nightmare. Got it? GOT IT?! Ahem...sorry. Just, just stay away.</text>
+  </string>
+  <string id="dm_information_19">
+    <text>I've only heard good things about Forester's skill as a technician - he does things with his bare hands that others would need entire kits for. Only issue is he charges a fortune...and he lives in the Red Forest.</text>
+  </string>
+  <string id="dm_information_20">
+    <text>Wild Territory - or Evil Rostok, as I like to call it - is an awful place. Nothing but trigger-happy assholes and swarms of mutants. Wherever you're going, there's better ways to get there than through Evil Rostok.</text>
+  </string>
+  <string id="dm_information_21">
+    <text>You ever heard of the Wish Granter? My old mentor says it's buried somewhere beneath the NPP, and it'll grant you anything - even your wildest dreams - if you simply reach it and ask. I can't wait to get there!</text>
+  </string>
+  <string id="dm_information_22">
+    <text>Yantar is sodden with death. Mindless husks keep spewing out of the factory there, and half the time you gun one of them down, you find it's one of your old friends who was shooting at you. It's real fucked.</text>
+  </string>
+  <string id="dm_information_23">
+    <text>If you're ever up in Zaton, check out the Skadovsk. It's got everything - a medic, technician, information trader, barman, gun runner...even Nimble has set up shop there again.</text>
+  </string>
+  <string id="dm_information_24">
+    <text>One of the top 10 stalkers on the Network croaked not too long ago. People are scrambling to try find and loot his legendary stashes. Not sure where to start looking, but hopefully I'll luck out soon.</text>
+  </string>
+  <string id="dm_information_25">
+    <text>It probably won't be long until either of us gets tasked with recovering information deep down in some derelict laboratory. Most of my friends who do that never come back. We'll have to make sure we're prepared.</text>
+  </string>
+  <string id="dm_information_26">
+    <text>Seriously, man? Just consult your PDA Guide. I don't know who updates that thing, but I know it's helped me loads. Just check it out if you're stuck on something.</text>
+  </string>
+  <string id="dm_information_27">
+    <text>You know how they say you cannot capture a Monolith alive? Well, that just got a lot more true - a friend of mine died when he went to finish off a wounded fanatic...damn zealot just blew up in his face.</text>
+  </string>
+  <string id="dm_information_28">
+    <text>Darkscape used to be the favoured path for Bandits to take between Cordon and Dark Valley. Ever since the Meadow was discovered, however, people quickly forgot about it...which makes it a great hiding spot these days.</text>
+  </string>
+  <string id="dm_information_29">
+    <text>Stay under Sultan's protection, and no Merc will dare screw with you - he's got some connections with their contractors. 'Course, abuse Sultan's protection and he'll leave you to the dogs.</text>
+  </string>
+  <string id="dm_information_30">
+    <text>Most regular stalkers around here are nothing more than little boys with pop guns. They're weak, defiant as all hell, no respect for those stronger than them...those jackasses are perfect target practice.</text>
+  </string>
+  <string id="dm_information_31">
+    <text>Red, orange, yellow, green, blue, white. Sound like a child's badly drawn rainbow? It's also the colours the Ecologists use for their hazmat suits. Good thing their guards have more sense than to dress like that.</text>
+  </string>
+  <string id="dm_information_32">
+    <text>The only things that have less brains than the idiots at Cordon or Skadovsk are members of the Monolith. They seem like they're all retards on a one-track mind. Too bad they're too stupid to fear death either.</text>
+  </string>
+  <string id="dm_information_33">
+    <text>All these fucking eggheads are weak as shit. They think they're so smart, yet they don't even know how to live on what the Zone gives them, or even how to hold a gun in their hands!</text>
+  </string>
+  <string id="dm_information_34">
+    <text>Fucking Duty, man. They may be well armed, and have fancy uniforms, but they're not that different from some of the gangs and mafias I knew in the outside world. They're just too self-righteous to see it.</text>
+  </string>
+  <string id="dm_information_35">
+    <text>Don't believe Freedom's bullshit, pal. We kicked their asses out of Dark Valley and they're too afraid to do anything about it. Think about that next time they claim to be the Zone's freedom fighters and protectors.</text>
+  </string>
+  <string id="dm_information_36">
+    <text>Word is that Zone Military operations are going down the gutter. It's like a legion of sheep commanded by wankers. After all their failures you kinda pity them, hoping some sense gets knocked into their skulls soon.</text>
+  </string>
+  <string id="dm_information_37">
+    <text>Sakharov's team recently proved that a single Flash artefact contains more power than both the reactors of a Nimitz Carrier combined. They're being awfully quiet about it though - can't imagine why.</text>
+  </string>
+  <string id="dm_information_38">
+    <text>Duty had to pull out of Yantar not too long ago. Kinda sad to see them go - they were of great comfort and help to our scientists, and a relief for our guards. Hope they get back to their old strength soon.</text>
+  </string>
+  <string id="dm_information_39">
+    <text>I don't like to put people down but, I swear, Bandits are the lowest form of life here in the Zone. No morals, no ethics, just a shitty attitude, cocky swagger and insatiable greed. Wish they'd all sod off for good.</text>
+  </string>
+  <string id="dm_information_40">
+    <text>Even the most foreboding places in the Zone have a safe path through. The guides who hang out in some of the camps know this, and their expertise is often well worth the price.</text>
+  </string>
+  <string id="dm_information_41">
+    <text>Try camp in a vantage point sometime. Study the patterns and formations anomalies make as they hum and discharge, or how the colours change when the sun sets. The Zone can be fatal, but it can be beautiful too.</text>
+  </string>
+  <string id="dm_information_42">
+    <text>I'm getting real tired waiting for Voronin to send me out on an actual mission, rather than this rookie-tier crap I've been saddled with. If this keeps up, I've half a mind to strike out on my own.</text>
+  </string>
+  <string id="dm_information_43">
+    <text>Unlike Freedom, Duty takes action against the real dangers of the Zone, defending the world against the Zone's mutant abominations and protecting the common stalker from the corrupt brutality of Bandits.</text>
+  </string>
+  <string id="dm_information_44">
+    <text>I haven't seen a lot of military stalkers around lately. The SSU used to send these highly trained and well-armed operatives into the Zone for special tasks, but now all I see are grunts. Things are quiet. Too quiet.</text>
+  </string>
+  <string id="dm_information_45">
+    <text>Unlike Duty, Freedom takes action against the real dangers of the Zone, defending the Barrier against the Monolith and protecting the common stalker from the corrupt brutality of the Military.</text>
+  </string>
+  <string id="dm_information_46">
+    <text>Freedom's leaders earn their place through common respect. If Forester were to join us, he'd probably have enough pull to sway the entire faction. Pity he's grown too weary for Zone politics.</text>
+  </string>
+  <string id="dm_information_47">
+    <text>Sorry, man. I don't have any information for you. I just keep thinking back to the Death Trucks that came through in 2012, and all the old friends they carried from the NPP down to Cordon or Darkscape, all dead...</text>
+  </string>
+  <string id="dm_information_48">
+    <text>Ever heard of Major Kuznetsov? Before he took command, the Ukrainian Military didn't seem to mind us hanging around too much, but now it's like they can't distinguish between us and common criminals!</text>
+  </string>
+  <string id="dm_information_49">
+    <text>After the next emission ends, more of our guys will be flown in to bolster our teams here. Rumour has it there are some French, Finnish, and British operatives coming in this time... Should be interesting.</text>
+  </string>
+  <string id="dm_information_50">
+    <text>Things may be rough out here, but that doesn't mean the research has stopped. Thanks to Novikov, and an unofficial collab with the Ecologists, we've made fantastic scientific strides. Lebedev would be proud...</text>
+  </string>
+  <string id="dm_information_51">
+    <text>We're still losing friends to the Brain Scorcher. For one reason or another, they take pills, put foil on their heads and then brave the Radar...usually they come back barely able to speak, if they come back at all.</text>
+  </string>
+  <string id="dm_information_52">
+    <text>Sakharov is making greater strides in psychic research. From what I hear, he's started making quality anti-telepathic gear on commission. If he advertised better - or at all, even - he'd make a killing.</text>
+  </string>
+  <string id="dm_information_53">
+    <text>What do you think are in all those underground labs? Way I hear it, most people who go down in them never come back up, but those who do always have a wealth of loot, artefacts or information with them.</text>
+  </string>
+  <string id="dm_information_54">
+    <text>Man, I miss the old base back in Dark Valley. It was creepy as shit, sure, but still better than camping south of Radar. Wish Lukash would get tough on those Bandits' asses so we can move our boys south again.</text>
+  </string>
+  <string id="dm_information_55">
+    <text>Well, if you need to save money, you can always stick to eating the meat from mutants you kill. Not the healthiest lifestyle, but it'll do while you're saving up for a shiny new suit or detector.</text>
+  </string>
+  <string id="dm_information_56">
+    <text>You know Leshiy? Heard he got stuck in a Spatial Anomaly, back in 2011. He was there for days, trapped on the same patch of grass, a city perpetually on the horizon, with no comms or supplies. He's lucky to be alive.</text>
+  </string>
+  <string id="dm_information_57">
+    <text>Patrol duties are always shitty, but if you gotta do it, the best spot would be Cordon. You hardly even have to walk up and down the road any more. Certainly much better than getting eaten by Swamp mutants.</text>
+  </string>
+  <string id="dm_information_58">
+    <text>I'm hoping to get a post in Yantar soon, maybe even become a permanent member of the Ecologists' Guard. Better bunks, kinder bosses, less hatred from the locals...yeah, I'd love to get a post up in Yantar.</text>
+  </string>
+  <string id="dm_information_59">
+    <text>A cool trick I picked up off some stalkers is to always carry some bolts or bullet shells on you. You throw the bolt ahead of you to check for anomalies. Sounds ridiculous, but in the Zone, it's a lifesaver.</text>
+  </string>
+  <string id="dm_information_60">
+    <text>With logistics being the way they are, be sure to stash any meds you pick off of dead stalkers. Might not be as sterile as our proper kits, but it'll still be better than nothing when your buddy gets downed.</text>
+  </string>
+  <string id="dm_information_61">
+    <text>I do not know what's worse - the Renegades or the Military. What the hell do they think they're doing in the Great Swamps anyways? Maybe one day a Merc like Scar will come back and help us push them out again.</text>
+  </string>
+  <string id="dm_information_62">
+    <text>There's a real demand for toolkits in the Zone - most serious technicians like having at least one kit of each type, if not more. Too bad most kits just get lost to the Zone when their previous owners die.</text>
+  </string>
+  <string id="dm_information_63">
+    <text>You looking for information? I've been here three years and I don't even know what I'm looking for any more. All my friends are buried under one cross or another, all for some stupid adventure. Might join them myself.</text>
+  </string>
+  <string id="dm_information_64">
+    <text>I heard the Bloodsucker Village in Army Warehouses is actually empty these days. 'Course, with Bloodsuckers there's no way to be sure until it's too late, and I'm not inclined to believe everything I hear...</text>
+  </string>
+  <string id="dm_information_65">
+    <text>Everyone is here for a reason, friend. Take me, for instance: I'm here because I have a grandfather who never got evacuated from the accident in '86. I'm hoping to find him, or at least bury his remains someday.</text>
+  </string>
+  <string id="dm_information_66">
+    <text>Apparently there are places in the Zone so horribly twisted and unforeseeable that even mutants avoid them. Just thinking about that puts my teeth on edge - what could possibly be scarier than the mutants?</text>
+  </string>
+  <string id="dm_information_67">
+    <text>Bandits have invented  yet another 'sport'. They call it the "Rookie Marathon" - they'll strip their victim down to his underwear and have him run back to base...only to die horribly from radiation exposure. Nice.</text>
+  </string>
+  <string id="dm_information_68">
+    <text>The best hitmen around here never go in without a disguise. Not sure how they can afford to keep so many spare suits in believable condition, but their victim is almost certain to never see them coming.</text>
+  </string>
+  <string id="dm_information_69">
+    <text>Used to be that Mercs operated in many independent teams, but it seems our main employers have banded together. Don't know what the end goal is, but we're being paid a fortune, so guess I don't really care.</text>
+  </string>
+  <string id="dm_information_70">
+    <text>Most of the guys here have some sort of military background… I've met Mercs who were once Foreign Legion, Spetsnaz, insurgents, special forces...many different walks of life, but all true fighters to a man.</text>
+  </string>
+  <string id="dm_information_71">
+    <text>Don't know who're worse - the Free Stalkers we take hits on, or the Bandits we work with. Some days I wish someone'd pay me to feed a bunch of those skull-patched assholes into the nearest anomaly.</text>
+  </string>
+  <string id="dm_information_72">
+    <text>Dead City's location may not be a secret any more, but we still don't get many visitors other than the damned Monolith . Considering how fucked all our surrounding locations are, I'm not exactly surprised.</text>
+  </string>
+  <string id="dm_information_73">
+    <text>I'm sick of how cocky some of the rookies are. Boasting loudly about their loot, playing on their PDAs when they're out in the field, thinking they can kill a rifleman with just a PM...they're too dumb to live, man.</text>
+  </string>
+  <string id="dm_information_74">
+    <text>Perhaps the best thing about the Zone is there's no real government here. Sure, there's Military and Ecologists, but they hardly run the place. No rules, no taxes. Just liberty and adventure. Gotta love it.</text>
+  </string>
+  <string id="dm_information_75">
+    <text>If you've got balls of steel, try get the drop on some Mercs or even the Monolith to shake out their loot - they're some of the best armed and equipped dudes in the Zone. Me though, I prefer sticking to rookies.</text>
+  </string>
+  <string id="dm_information_76">
+    <text>Don’t mess with the Military around here. The only worthwhile loot they have are their weapons and armour, but you'll never take it off them without something breaking. There are far better targets to pick on.</text>
+  </string>
+  <string id="dm_information_77">
+    <text>Some of the boys are itching to raid one of the Ecologist bunkers. Retards. Even if they break through those defences, you can't keep shaving a bear once you've skinned it alive!</text>
+  </string>
+  <string id="dm_information_78">
+    <text>Morale's at an all time low, and it's no surprise why. What even is our objective? Is this an invasion? A peacekeeping mission? Keeping people out? Keeping mutants in? Hell if I know. This place is a mess.</text>
+  </string>
+  <string id="dm_information_79">
+    <text>Contraband exports from the Zone are at an all-time high and the brass barely give us anything to stop it. I swear, half the General Staff profit from smugglers, and the other half either don't know or don't care.</text>
+  </string>
+  <string id="dm_information_80">
+    <text>Our radars must be on the fritz - they keep picking up aircraft flying into the centre of the Zone...and then out again. Obviously, that's impossible - no aircraft can safely travel that close to the NPP.</text>
+  </string>
+  <string id="dm_information_81">
+    <text>The Military here has special ways of sorting people out. If you fuck up too much, or ask too many questions, I hear you get sent north of the Barrier without air support or medevac. Can't say I envy those bastards.</text>
+  </string>
+  <string id="dm_information_82">
+    <text>Have you heard? The Security Service of Ukraine's basically running the show here. Some of the vets aren't too happy about that, but I'm honestly not sure what the deal is. Isn't it good we're all working together?</text>
+  </string>
+  <string id="dm_information_83">
+    <text>Do not forget your duty as a custodian of the Monolith. Its blessing demands we serve It. It has foretold our future victory as visionaries of a new world order. All It asks is that It suffers no trespass.</text>
+  </string>
+  <string id="dm_information_84">
+    <text>Brother, should you ever be captured by an infidel, see to it that you give your life before you give a word. The secrecy and protection of the Monolith is imperative. All else is secondary.</text>
+  </string>
+  <string id="dm_information_85">
+    <text>Pray with me brother! 
+		\n\nBlessed is the man who walks not on the paths of the infidel, nor stands in the way of the sinner. But his delight is the glory of the Monolith alone, and his glory he contemplates day and night. He is like a cliff, planted in streams of water, a stronghold of faith. The infidels are not so, they are like chaff that the wind drives away. Therefore the infidel will not stand before you; no sinner will be in the congregation of your glory. For our Monolith knows the way of the righteous, but the ways of the infidel will perish.</text>
+  </string>
+  <string id="dm_information_86">
+    <text>Do you ever think of your past life? I remember family, a wife, a child. They all seem so distant now, as if from another existence. All I can do is serve the Monolith. The Monolith will provide for them.</text>
+  </string>
+  <string id="dm_information_87">
+    <text>Do ye think it be the Gauss, or the Exoskeleton, that shields us from the infidel? Nay! 'Tis but our hearts, our pure hearts that carry us through the turmoil of the greedy, the destructive, the degenerate!</text>
+  </string>
+  <string id="dm_information_88">
+    <text>The Zone poses a singular threat to Humanity, the likes of which the world has never seen. We can only hope more stalkers recognize the truth and join us before it is too late. We can only hope...</text>
+  </string>
+  <string id="dm_information_89">
+    <text>I'm sick of all the Freedomers getting stalkers hooked on drugs. They take driven, dedicated individuals and reduce them to lazy bums who think bloodsuckers are a fun time.</text>
+  </string>
+  <string id="dm_information_90">
+    <text>It is imperative that we remind the Free Stalkers: not even the Ecologists fully understand artefacts yet, and to spread them without record or regulation is akin to laying dormant landmines across the globe.</text>
+  </string>
+  <string id="dm_information_91">
+    <text>You should join Duty. The belief we're fighting for is simple: just because I lost someone to the Zone, doesn't mean anyone else should have to. When your friend zombifies before your eyes, you'll understand.</text>
+  </string>
+  <string id="dm_information_92">
+    <text>Right now, it's too easy for a Bandit or Merc to dress up as a Free Stalker and slip into Rostok unnoticed. We had entry requirements for a reason, and I still can't believe they were revoked.</text>
+  </string>
+  <string id="dm_information_93">
+    <text>Fuck Duty, man. They have no idea about the Zone or what it could mean for the future of Mankind. There is a world of wonder around them and all they think to do is enable piss-poor officers on their power trips.</text>
+  </string>
+  <string id="dm_information_94">
+    <text>Emissions are serious business if you live near the Barrier, or close to Pripyat. Monolith bastards know they're immune and you're not, so they use the psy-waves as cover to come ruin your day even more.</text>
+  </string>
+  <string id="dm_information_95">
+    <text>Mercs are kinda shady, but otherwise alright. Haven't really seen them take any hits out on our boys, and they consistently piss off Duty so...who knows? Maybe they aren't as bad as some of the Free Stalkers say.</text>
+  </string>
+  <string id="dm_information_96">
+    <text>For all their talk about protecting the world from "dangerous mutants and bandits", Duty can't even clear out the Wild Territory, or even protect the eggheads any more. I think that says it all, really.</text>
+  </string>
+  <string id="dm_information_97">
+    <text>I don't know how, but Duty managed to steal a bunch of grenade launchers from right under our noses. Just gotta hope they use 'em on the mutants and not on us.</text>
+  </string>
+  <string id="dm_information_98">
+    <text>While we always pay handsomely for artefacts, mutant samples are just as important too! The various tissues often give us greater insights into the field of genetics, or even inspire new cures for various diseases.</text>
+  </string>
+  <string id="dm_information_99">
+    <text>The real reason our lab professors pay so much for artefacts is because we're afraid of the hidden potential they might have. Every artefact that leaves the Zone illegally is a potential time bomb ticking away...</text>
+  </string>
+  <string id="dm_information_100">
+    <text>Our scientists have begun to study not only mutants and artefacts, but stalker behaviour as well. Look at how they adapt; it's apparent that not only has the Zone changed nature, but it's changing its visitors too.</text>
+  </string>
+  <string id="dm_information_101">
+    <text>Freedom, Duty...it matters not. Neither side seems to grasp the whole truth - that to understand how to deal with the Zone, one needs a scientific approach above all else. Only then can we make the best of it.</text>
+  </string>
+  <string id="dm_information_102">
+    <text>The Brain Scorcher and Miracle Machine seem to operate on a different psychic frequency from most other psy-fields. Sakharov has perfected devices for near immunity to the Scorcher, yet not to Controllers.</text>
+  </string>
+  <string id="dm_information_103">
+    <text>Duty, Freedom, even the Ecologists don't seem to understand that the Zone needs to be healed. Whether you fight it, invasively study it or use it for your own naive agenda, it writhes in agony, begging for help.</text>
+  </string>
+  <string id="dm_information_104">
+    <text>Hey Stalker, if you run into any interesting scientific material, be sure to visit our home in the Swamps and let Professor Kalancha take a look. It'll help make the Zone a better place, one sample at a time.</text>
+  </string>
+  <string id="dm_information_105">
+    <text>Ever since Kuznetsov took the reigns, the Military has become interested in shutting us down. They don't seem to be trying too hard yet, but we always worry what they might destroy in their ignorance.</text>
+  </string>
+  <string id="dm_information_106">
+    <text>Lately the radiation trapped in all the Zone's vehicles has been released...and is being pulled into all the water instead. Can't say that's a fair trade - purifying drinkable liquid has become that much harder now.</text>
+  </string>
+  <string id="dm_information_107">
+    <text>Professor Kalancha says that the Monolith are the key to many of the Zone's mysteries. Certainly, their occupation of Pripyat and the NPP alone is impressive, let alone their technology...I wonder how they did it?</text>
+  </string>
+  <string id="dm_information_108">
+    <text>People have been talking a lot about that legendary stalker who made it to the CNPP several years ago. Apparently, he reappeared a few days ago. Why is he still in the Zone? Fuck if I care. Better ask the right people if you want a clue.</text>
+  </string>
+  <string id="dm_information_109">
+    <text>My friends and I were having a nice meal at the campfire last night. But then that creepy guy came out of nowhere to preach to us about his silly cult, wonders of the Zone and some other shit that I can't quite remember. Apparently, they are recruiting new members... Hell! I can't tell if he was serious or high.
+		\nThe whole thing seems fishy, you should be careful. I heard that many other groups met him the other day. I'm pretty sure that some can be crazy enough to believe his crap.</text>
+  </string>
+  <string id="dm_information_110">
+    <text>You tell me. You managed to shut down the fucking Brain Scorcher, of all things.</text>
+  </string>
+  <string id="dm_information_111">
+    <text>Recently, someone managed to get the Scorcher down again. Hopefully it'll stay that way.</text>
+  </string>
+  <string id="dm_information_112">
+    <text>I knew it! I knew the legends of Strelok's return were true! Just the other day, the Brain Scorcher shut down. If anyone could do that, it's Strelok!</text>
+  </string>
+  <string id="dm_information_113">
+    <text>Heard the Scorcher is finally down again. Haven't heard of that happening since 2012.</text>
+  </string>
+  <string id="dm_information_114">
+    <text>The boys are thinking of making another push into Pripyat since the Scorcher is down again. It's about time we drive those damn cultists out and see what they're fighting so hard to protect.</text>
+  </string>
+  <string id="dm_information_115">
+    <text>The north is probably going to get another gold rush, what with the Scorcher being offline.</text>
+  </string>
+  <string id="dm_information_116">
+    <text>With the Monolith cleared out of Radar, studying the X-Lab there will certainly be easier. Just imagine what might be discovered within its ancient machines!</text>
+  </string>
+  <string id="dm_information_117">
+    <text>I don't know how to describe it, but things feel...better, somehow. Maybe it's because the Monolith got a kick in the balls at Radar, who knows?</text>
+  </string>
+  <string id="dm_information_118">
+    <text>Pripyat isn't safe any more, buddy. Some hotshot thought he'd try steal an artefact out of the NPP. Before you know it, a legion of those Monolith fanatics came out of nowhere. They're back, and with a vengeance.</text>
+  </string>
+  <string id="dm_information_119">
+    <text>The way I hear it, the Monolith would've really taken everyone down a peg if it weren't for Duty's actions at Jupiter. Maybe Voronin's men aren't as bad as some people say.</text>
+  </string>
+  <string id="dm_information_120">
+    <text>We briefly allied with Freedom to try push the Monolith back to the NPP. Something went wrong, and all I know now is that our Duty forces in Jupiter went MIA while Freedom is still sitting pretty at Yanov station. That's the last time we trust anarchists, I swear.</text>
+  </string>
+  <string id="dm_information_121">
+    <text>The psy-emitter at Lake Yantar was finally disarmed. Perhaps now we can conduct deeper studies on its mechanisms...perhaps even find out how it reactivated itself in the first place.</text>
+  </string>
+  <string id="dm_information_122">
+    <text>There are fewer zombies coming out of the factory at Yantar, or so I heard. Maybe now we can finally put the dead to rest.</text>
+  </string>
+  <string id="dm_information_123">
+    <text>Sakharov, that egghead at Yantar, finally perfected a device for protection against specific psy-frequencies. With some of the psy-installations active again, I should probably pay him a visit.</text>
+  </string>
+  <string id="dm_information_124">
+    <text>Professor Sakharov has been making major breakthroughs in the field of psy-protection devices. With any luck, my contributions will be well credited.</text>
+  </string>
+  <string id="dm_information_125">
+    <text>All those legends of "Dark Stalkers" might actually be true. My mates and I keep seeing these dark hooded figures stalking through the woods...sleep in the field hasn't been easy.</text>
+  </string>
+  <string id="dm_information_126">
+    <text>So I was picking over corpses the other day, when I find a few wearing colours I haven't seen before. Their faces...Jesus, their faces...I wish it was just decomposition, but what I saw was something else, man...</text>
+  </string>
+  <string id="dm_information_127">
+    <text>This weird hooded guy came to my camp the other day, asking us for water and telling us about his beliefs. He sounded like an utter nutjob.</text>
+  </string>
+  <string id="dm_information_128">
+    <text>This mysterious hooded guy came to my camp the other day. He made a very moving speech about how the Zone can be used to help heal the world. I'm hoping I'll get to speak to him again soon.</text>
+  </string>
+  <string id="dm_information_129">
+    <text>Even with the Scorcher down, things are looking bleak on the horizon. Remember how the Monolith came out of nowhere - do you really think they were alone? We're about to enter dark times, friend. Dark, dark times...</text>
+  </string>
+  <string id="dm_information_130">
+    <text>Holy shit dude, how can you not know? The Monolith has some new friends, and they're going ballistic! Freedom can barely hold the Barrier any more. Things are about to get serious.</text>
+  </string>
+  <string id="dm_information_131">
+    <text>Things have gone dark up north again. The last forecast was a tidal wave of shadowy crusaders, their weapons raining down upon us. Hopefully this is a storm I'll be able to wait out.</text>
+  </string>
+  <string id="dm_information_132">
+    <text>Um, a lot has been going on, so I'm just going to say it simply - "Shit's about to get fucked, fam."</text>
+  </string>
+  <string id="dm_information_133">
+    <text>Godless savages, blinded by an alien crystal. They're gathering in the ruins north of the Dead City. I must go to them, and show them what true faith looks like.</text>
+  </string>
+  <string id="dm_information_134">
+    <text>Some of Strelok's men are gathering in Limansk to help stop the chaos that's happening around here. Hope they succeed, or it'll be dark days for all of us.</text>
+  </string>
+  <string id="dm_information_135">
+    <text>Limansk has gone crazy. Swarming with a whole new flavour of fanatics and the worst part is...I recognize some of my old friends among them. I just can't deal with this shit any more.</text>
+  </string>
+  <string id="dm_information_136">
+    <text>What's new is I'm getting the hell out. The brown stuff is hitting the fan, and I don't want to be here to get splashed.</text>
+  </string>
+  <string id="dm_information_137">
+    <text>Have you heard of a guy named Rogue? Apparently he's the only thing standing between us and a bloody onslaught of Zone worshippers. I want to go help him, but my leader has asked me to guard other fronts. My nerves are getting shot just waiting for stuff to happen.</text>
+  </string>
+  <string id="dm_information_138">
+    <text>Outside news claims that countries as far away as Britain have seen the sky turn an orange, radioactive hue. No one got hurt, but even foreign scientists know an emission when they see one...I get the feeling everyone is going to be a lot more interested in the Zone now.</text>
+  </string>
+  <string id="dm_information_139">
+    <text>If what I've heard is true, you're the one who stopped that last big emission from wiping everyone out...from bringing terror to the world. If that's true...thank you.</text>
+  </string>
+  <string id="dm_information_140">
+    <text>The whole world is talking about "The Great Emission of 2018". Unless it's 2019. I don't keep track of years. Anyway, I expect there'll be more foreign interest in the Zone now. Yaaaay...</text>
+  </string>
+  <string id="dm_information_141">
+    <text>Heard the ISG finally got restored. Maybe those crusty Ecologists will finally get off their rears and do something now.</text>
+  </string>
+  <string id="dm_information_142">
+    <text>Something troubling is brewing. The UN has seen fit to establish an independent scientific group in the Zone. Such an action shouldn't be necessary, unless they are trying to hide something...</text>
+  </string>
+  <string id="dm_information_143">
+    <text>The public sector can never mind its own business. From what I've heard, the UN has decided to send in its own troops to steal our work from under us.</text>
+  </string>
+  <string id="dm_information_144">
+    <text>Don't believe those rumours about a new scientific group coming to the Zone - sure they've got some eggheads tucked away somewhere, but I've seen their eyes. They're killers to a man.</text>
+  </string>
+  <string id="dm_information_145">
+    <text>Heard the West has been moving in lately. Not even with proxies any more - from what I've heard, they're now sending in UN troops. Guess Sin's large emission caught their eye, eh?</text>
+  </string>
+  <string id="dm_information_146">
+    <text>The SSU must be getting desperate. I'm on a job from them right now, and I can guarantee you it's because they don't know where else to turn.</text>
+  </string>
+  <string id="dm_information_147">
+    <text>I'm hearing more rumours of Ukrainian troops being all friendly with regular stalkers. Wish I could get in on some of that action.</text>
+  </string>
+  <string id="dm_information_148">
+    <text>It's obvious that UNISG aren't really scientists at all. Honestly, the way they act it's hard to tell them apart from some Mercs.</text>
+  </string>
+  <string id="dm_information_149">
+    <text>Hopefully UNISG win their fight against the Military. It's about time the Ukrainian government got a rightful kick in its pants.</text>
+  </string>
+  <string id="dm_job_general_1">
+    <text>この辺りに仕事はないか？</text>
+  </string>
+  <string id="dm_job_general_2">
+    <text>仕事を探してるんだ。</text>
+  </string>
+  <string id="dm_job_general_3">
+    <text>仕事を見つけられそうな場所を知らないか？</text>
+  </string>
+  <string id="dm_job_0">
+    <text>悪いが、知らないよ。</text>
+  </string>
+  <string id="dm_job_1">
+    <text>Spore is always looking for someone to do odd jobs every now and again. He is also an information broker, and will pay well for other stalkers' PDAs.</text>
+  </string>
+  <string id="dm_job_2">
+    <text>Librarian always wants stalkers to go into the Swamps to clear out mutants, bandits and the like. He pays well too; surprised we don't get more Dutyers taking up his offers.</text>
+  </string>
+  <string id="dm_job_3">
+    <text>Sidorovich always has something that needs done. He usually pays well, but I wouldn't recommend you take his jobs unless you're ready to get your hands really, really dirty.</text>
+  </string>
+  <string id="dm_job_4">
+    <text>Wolf は手助けを探してたな。彼は村の安全を確保するためあの辺りの地域で突然変異体を狩るStalkerにストーカーに金を払ってくれるぞ。</text>
+  </string>
+  <string id="dm_job_5">
+    <text>SkadovskにいるOwlは、常に情報の売買をしてる。俺も情報を買いに行くところだ。</text>
+  </string>
+  <string id="dm_job_6">
+    <text>Sultan'sはクソな案件を解決できる、鉄のタマを持った男たちを集めてる。彼は基地の裏にある王座の間にいるよ。</text>
+  </string>
+  <string id="dm_job_7">
+    <text>科学者のバンカーに行け。あいつらなら、なにか仕事をくれるはずだ。いつも助手として傭兵やstalkerを探してるからな。</text>
+  </string>
+  <string id="dm_job_8">
+    <text>Oliviusは、アンタが妙な仕事でもやるか確かめるだろうな。彼はダークバレーのキャンプに滞在するトレーダーだ。</text>
+  </string>
+  <string id="dm_job_9">
+    <text>ああ、ここに仕事があるぜ。まず西へ行け。そこからさらに西へ向かうんだ。ずーっと西へ行ったらもう戻ってくるんじゃねえぞ？</text>
+  </string>
+  <string id="dm_job_10">
+    <text>ああ、悪いがアンタにやる物はなにもないな。ちょいと穴をほって、俺たちがしがみつくのを手伝ってくれてもいいぜ？</text>
+  </string>
+  <string id="dm_tips_general_1">
+    <text>何か役に立ちそうな話はあるか？</text>
+  </string>
+  <string id="dm_tips_general_2">
+    <text>どうやってここで生計を立ててるんだ？</text>
+  </string>
+  <string id="dm_tips_general_3">
+    <text>Zoneについてどんなアドバイスがあるんだ？</text>
+  </string>
+  <string id="dm_tips_0">
+    <text>アドバイスすべき事は何もないな。本当だよ。</text>
+  </string>
+  <string id="dm_tips_1">
+    <text>撃つときは相手の顔面に二発叩き込め。それで相手はオシマイだ。外骨格でもない限り、着てるものは関係ない。</text>
+  </string>
+  <string id="dm_tips_2">
+    <text>野郎の重い尻を退かしたかったら、手榴弾を使えばいい。パイナップルが転がり込んでくれば同じ場所に隠れ続けようとは思わないだろうよ。</text>
+  </string>
+  <string id="dm_tips_3">
+    <text>アンタが引き金を早く引ける「凄指」の持ち主ならダブルバレルショットガンを同時にぶっ放す事ができるぜ。bloodsuckerに出くわした時はそいつを覚えとくと良い。</text>
+  </string>
+  <string id="dm_tips_4">
+    <text>ピストルを侮らないほうが良いぜ。stalker。プライマリの弾が少ない時に役に立つ。軽装甲なら充分撃ち抜けるからな。</text>
+  </string>
+  <string id="dm_tips_5">
+    <text>敵を追いかけてる時、狙撃銃を使えば哀れな犠牲者に見られることすらなく、始末できる。他のどのタイプのライフルよりも遠距離から攻撃出来るからな。</text>
+  </string>
+  <string id="dm_tips_6">
+    <text>アンタが撃ちながら走り回ってるようじゃ、全く当たらないだろうな。隠れられるものを見つけて後ろに入れ。撃つときはちょっと体を傾けてそこから狙うんだ。そうすりゃもっと正確な射撃ができるはずだ。</text>
+  </string>
+  <string id="dm_tips_7">
+    <text>装備は良い状態に保つべきだ。修理屋に時々直してもらわないと、銃は詰まるし、スーツも穴だらけになるぜ。</text>
+  </string>
+  <string id="dm_tips_8">
+    <text>前回メカニックに会いに行った時、あいつは俺の装備を半分もアップグレード出来なかったんだ。そんで代わりにツールを持ってこいと俺に頼んできやがった…俺はガキの使いか？</text>
+  </string>
+  <string id="dm_tips_9">
+    <text>Emissionの間、外に立っていた男と会ったことあるか？もちろん無いだろ？自分の脳みそを茹でようって気にでもならない限り、頭を隠したほうが良いぜ。もちろんシリもな。</text>
+  </string>
+  <string id="dm_tips_10">
+    <text>この前、もう少しで足を吹っ飛ばすところだったぜ。スカベンジしてる最中、カマ掘られない為にバタフライ地雷を仕掛けておいたんだが、帰りにそいつを忘れてたんだ。誰が仕掛けようと、アイツらには関係ないからな。</text>
+  </string>
+  <string id="dm_tips_11">
+    <text>Just because the trader don't have a job for you doesn't mean none of us do. You can make some good money running errands for others. Might find some good loot in the meantime, too.</text>
+  </string>
+  <string id="dm_tips_12">
+    <text>Keep hold of any meds you might find; you never know when they might be useful. Hercules is pretty good when you're hauling goods, and psi-block will help you against any controllers.</text>
+  </string>
+  <string id="dm_tips_13">
+    <text>Carry some spare ammo on you even if you don't think you need it. Nothing worse than having to fight off a horde of mutants with just your blade.</text>
+  </string>
+  <string id="dm_tips_14">
+    <text>You tried artefact hunting? Get a detector and go near some anomalous area; if the thing starts bleeping at you, then there's one nearby. Though you'll need one of the expensive models to find the good shit.</text>
+  </string>
+  <string id="dm_tips_15">
+    <text>Don't run face first straight into an anomaly. If you think there's one nearby, toss a few bolts at it. Rather the bolts than you, right?</text>
+  </string>
+  <string id="dm_tips_16">
+    <text>If you ain't feeling too good, then try eating some food. Might not have the same effect as a medkit, but it'll perk you up enough to keep you going.</text>
+  </string>
+  <string id="dm_tips_17">
+    <text>Don't ignore your PDA. It'll keep track of your tasks and help you find your way around the Zone if you're lost or planning on going somewhere.</text>
+  </string>
+  <string id="dm_tips_18">
+    <text>Holster that shooter if you're going to talk to someone. Nobody likes having the end of a barrel being waved in front of their face.</text>
+  </string>
+  <string id="dm_tips_19">
+    <text>Make sure to pack energy drinks with you. They'll come in handy if you keep tiring out when carrying loot back to camp.</text>
+  </string>
+  <string id="dm_tips_20">
+    <text>If your helmet has night vision, make sure to upgrade it. You'll be able to see further and clearer if you let a technician screw around with it for some cash.</text>
+  </string>
+  <string id="dm_tips_21">
+    <text>You aren't defenceless if you're out artefact hunting. So what if you're carrying your detector? You can still hold a pistol in the other hand.</text>
+  </string>
+  <string id="dm_tips_22">
+    <text>Plenty of places to sleep at if you need to pass the time. There's always a free bed at most camps, but you can take a sleeping bag out with you anywhere.</text>
+  </string>
+  <string id="dm_tips_23">
+    <text>Artefacts aren't all good news; they'll kill you slowly with their radiation unless you're protected. Keep in mind that there are artefacts which can absorb radiation, too, though.</text>
+  </string>
+  <string id="dm_tips_24">
+    <text>Your knife ain't just a weapon for sneaking up on people with; you can bust open boxes, chests, and locks with it, too. Who knows, might find something cool inside...</text>
+  </string>
+  <string id="dm_tips_25">
+    <text>If you keep finding yourself running out of breath, then stop carrying so much shit. You can stash it away somewhere in a backpack, or sell it to a trader.</text>
+  </string>
+  <string id="dm_tips_26">
+    <text>If you want meds, then go see a medic, and if you want booze, then go see barkeep; a lot of traders out here specialise in certain types of goods.</text>
+  </string>
+  <string id="dm_tips_27">
+    <text>You won't find artefacts at the same place all the time; they all change about after an emission. Remember that next time you're near an anomaly.</text>
+  </string>
+  <string id="dm_tips_28">
+    <text>The Zone has a life of its own, stalker. Just because there weren't any freaks about the last time you went some place doesn't mean they haven't moved in since.</text>
+  </string>
+  <string id="dm_tips_29">
+    <text>If you ain't got nothin' to deal with radiation poisoning, then try to keep yourself alive until you can reach a medic. But then ask yourself: why aren't you carrying any vodka?</text>
+  </string>
+  <string id="dm_tips_30">
+    <text>Run and jump if something looks too far away; your momentum will carry you farther. Easy way to get away from some muties, as they won't think to jump over shit.</text>
+  </string>
+  <string id="dm_tips_31">
+    <text>Selling artefacts isn't the only way to make some cash: offloading unneeded equipment can be a profitable business, too. Keep in mind that traders aren't usually interested in items that are broke.</text>
+  </string>
+  <string id="dm_tips_32">
+    <text>Crouch and sneak about if you don't wanna get seen or heard. Not ever battle is worth fighting, or maybe you just want to get the jump on someone?</text>
+  </string>
+  <string id="dm_tips_33">
+    <text>You can attach scopes and launchers to your shooter, y'know? There are just some things a technician just can't do. But you'll have to find the parts yourself...</text>
+  </string>
+  <string id="dm_tips_34">
+    <text>There are different ways to take down different types of mutants; they all have their own weak spots. You can kick tushkanos and rats, too, y'know?</text>
+  </string>
+  <string id="dm_tips_35">
+    <text>Don't go hiding behind a door if some guy's shooting at you. Bullets don't care if there's anything between the two of you... It'll go straight through anything weak.</text>
+  </string>
+  <string id="dm_tips_36">
+    <text>Bandage yourself up if you get blasted or torn up by a mutant. The bleeding will cost you more in medkits than if you use a bandage to stop it before it gets too serious.</text>
+  </string>
+  <string id="dm_tips_37">
+    <text>If you're looking for tools for weapon modifications or suit upgrades, a good place to start is by rifling through stashes. Some traders sell stash coords too, so maybe go check that out.</text>
+  </string>
+  <string id="dm_tips_38">
+    <text>Pay attention to radio chatter, because it's a damn good way to find out what's going on in the area. You'll be able to provide assistance to anyone in a gunfight or surrounded by mutants.</text>
+  </string>
+  <string id="dm_wounded_general">
+    <text>助けて！</text>
+  </string>
+  <string id="dm_wounded_medkit">
+    <text>ほら、応急処置キットだ。</text>
+  </string>
+  <string id="dm_wounded_sorry">
+    <text>すまない、メディキットは持ってないんだ。</text>
+  </string>
+  <string id="dm_traveler_bye">
+    <text>OK。</text>
+  </string>
+  <string id="dm_traveler_what_are_you_doing">
+    <text>今何をしてるんだ？</text>
+  </string>
+  <string id="dm_traveler_can_i_go_with_you">
+    <text>一緒に行ってもいいか？</text>
+  </string>
+  <string id="dm_traveler_stalker_actor_companion_yes">
+    <text>もちろん。旅の道連れは多いほうが楽しいからな。</text>
+  </string>
+  <string id="dm_traveler_stalker_actor_companion_no">
+    <text>いや悪いが俺は一人でやりたいんだ。</text>
+  </string>
+  <string id="dm_traveler_actor_go_with_squad">
+    <text>さあ行こう。</text>
+  </string>
+  <string id="dm_traveler_take_me_to">
+    <text>金を払うからどこかへ連れて行ってもらえるか？</text>
+  </string>
+  <string id="dm_traveler_stalker_where_do_you_want">
+    <text>ああいいぜ。どこへ行きたいんだ?</text>
+  </string>
+  <string id="dm_traveler_actor_agree">
+    <text>OK　こっちへこい。</text>
+  </string>
+  <string id="dm_traveler_actor_refuse">
+    <text>気が変わった。</text>
+  </string>
+  <string id="dm_traveler_stalker_i_cant_travel">
+    <text>今じゃない。</text>
+  </string>
+  <string id="dm_stalker_doing_nothing_1">
+    <text>何もない</text>
+  </string>
+  <string id="dm_stalker_doing_nothing_2">
+    <text>別に。ボーっとしてるだけだ。</text>
+  </string>
+  <string id="dm_stalker_doing_nothing_3">
+    <text>What does it look like? I'm being lazy...</text>
+  </string>
+  <string id="dm_stalker_chasing_squad_monster">
+    <text>I'm hunting a mutant.</text>
+  </string>
+  <string id="dm_stalker_chasing_squad_bandit">
+    <text>I'm on the trail of some bandit scum.</text>
+  </string>
+  <string id="dm_stalker_chasing_squad_killer">
+    <text>Tracking some mercenaries. Those guys are bastards.</text>
+  </string>
+  <string id="dm_stalker_chasing_squad_monolith">
+    <text>I'm on the trail of a squad of fanatics. They call themselves the 'Monolith'...</text>
+  </string>
+  <string id="dm_stalker_chasing_squad_zombied">
+    <text>We are chasing a zombie. Empty shells of once great stalkers. Poor wretches...</text>
+  </string>
+  <string id="dm_traveler_travel_cost">
+    <text>Good. It will cost you</text>
+  </string>
+  <string id="dm_traveler_actor_dont_go_with_squad">
+    <text>気が変わった。</text>
+  </string>
+  <string id="dm_traveler_actor_has_no_money">
+    <text>金がねーよ。</text>
+  </string>
+  <string id="dm_freedom_doing_nothing_1">
+    <text>I'm not doing anything.</text>
+  </string>
+  <string id="dm_freedom_chasing_squad_monster">
+    <text>I'm on the trail of some mutants.</text>
+  </string>
+  <string id="dm_freedom_chasing_squad_bandit">
+    <text>I'm taking part in the local bandit chase.</text>
+  </string>
+  <string id="dm_freedom_chasing_squad_killer">
+    <text>I'm following a bunch of mercenaries. They'll pay for attacking us.</text>
+  </string>
+  <string id="dm_freedom_chasing_squad_monolith">
+    <text>We are after some crackpots from the Monolith.</text>
+  </string>
+  <string id="dm_freedom_chasing_squad_duty">
+    <text>Duty is somewhere around here... Bastards can't be too far away.</text>
+  </string>
+  <string id="dm_duty_doing_nothing_1">
+    <text>We are not doing anything.</text>
+  </string>
+  <string id="dm_duty_chasing_squad_monster">
+    <text>We are purging this area of mutants.</text>
+  </string>
+  <string id="dm_duty_chasing_squad_bandit">
+    <text>I'm on a job, chasing a bandit detachment.</text>
+  </string>
+  <string id="dm_duty_chasing_squad_killer">
+    <text>We were attacked by mercs. I won't rest until they are dead.</text>
+  </string>
+  <string id="dm_duty_chasing_squad_monolith">
+    <text>We are hunting down a squad of those Monolith freaks.</text>
+  </string>
+  <string id="dm_duty_chasing_squad_freedom">
+    <text>We are cleaning out the rubbish that call themselves 'Freedom'.</text>
+  </string>
+  <string id="dm_stalker_searching_artefacts_1">
+    <text>I'm searching for artefacts.</text>
+  </string>
+  <string id="dm_stalker_searching_artefacts_2">
+    <text>We're collecting mushrooms... What do you think we're doing idiot? We are looking for artefacts.</text>
+  </string>
+  <string id="dm_stalker_searching_artefacts_3">
+    <text>I am artefact hunting.</text>
+  </string>
+  <string id="st_mechanic_query_items">
+    <text>Is any of my equipment ready for pick-up?</text>
+  </string>
+  <string id="st_mechanic_repair_done">
+    <text>Yes. Here you are.</text>
+  </string>
+  <string id="st_mechanic_repair_not_done">
+    <text>Not yet. Check back later.</text>
+  </string>
+  <string id="st_surrender_victim">
+    <text>...I give up.</text>
+  </string>
+  <string id="st_surrender_query_victim_1">
+    <text>Hand over your weapons and give me a piece of vital information: a stash's location, a supply exchange point, an ambush you're planning, whatever, and I'll let you live.</text>
+  </string>
+  <string id="st_surrender_query_victim_2">
+    <text>Where did you put your fucking stuff? Tell me and I will consider saving your sorry ass!</text>
+  </string>
+  <string id="st_surrender_query_victim_3">
+    <text>Here's a medkit... but I'm taking your weapons.</text>
+  </string>
+  <string id="st_surrender_query_victim_4">
+    <text>Any last words? I've come to collect the bounty on your head.</text>
+  </string>
+  <string id="st_surrender_actor_1">
+    <text>You'll live.</text>
+  </string>
+  <string id="st_surrender_actor_2">
+    <text>Good luck...</text>
+  </string>
+  <string id="st_surrender_actor_3">
+    <text>Time to end you.</text>
+  </string>
+  <string id="st_surrender_victim_answer_1">
+    <text>Okay, okay, just don't kill me!</text>
+  </string>
+  <string id="st_surrender_victim_answer_2">
+    <text>Fuck! Okay!</text>
+  </string>
+  <string id="st_surrender_victim_answer_3">
+    <text>Please, man! I will tell you!</text>
+  </string>
+  <string id="st_surrender_victim_answer_4">
+    <text>Please, don't kill me! Take my PDA! It has everything you need to know on it!</text>
+  </string>
+  <string id="st_surrender_victim_answer_5">
+    <text>Go fuck yourself!</text>
+  </string>
+  <string id="st_surrender_victim_answer_6">
+    <text>Thank you!</text>
+  </string>
+  <string id="st_surrender_victim_answer_default_bounty_1">
+    <text>Okay, okay, just don't kill me!</text>
+  </string>
+  <string id="st_surrender_victim_answer_default_bounty_2">
+    <text>Fuck! Okay!</text>
+  </string>
+  <string id="st_surrender_victim_answer_default_bounty_3">
+    <text>Please, man! I will tell you!</text>
+  </string>
+  <string id="st_surrender_victim_answer_default_bounty_4">
+    <text>Please, don't kill me! Take my PDA! It has everything you need to know on it!</text>
+  </string>
+  <string id="st_surrender_victim_answer_default_bounty_5">
+    <text>Go fuck yourself!</text>
+  </string>
+  <string id="st_surrender_victim_answer_esc_m_trader_bounty_1">
+    <text>That bastard Sidorovich sent you, didn't he? What do you want? Cash?! Here, have my PDA and my money... Just let me live!</text>
+  </string>
+  <string id="st_surrender_victim_answer_esc_m_trader_bounty_2">
+    <text>Do you even know why you were sent to kill me? Do you even give a shit? Sid can burn in hell!</text>
+  </string>
+  <string id="st_surrender_victim_answer_esc_m_trader_bounty_3">
+    <text>Fuck you!</text>
+  </string>
+  <string id="st_surrender_victim_answer_esc_m_trader_bounty_4">
+    <text>Just put me out of my misery already! Do it!</text>
+  </string>
+  <string id="st_surrender_victim_answer_esc_m_trader_bounty_5">
+    <text>...</text>
+  </string>
+  <string id="st_surrender_victim_answer_zat_b7_bandit_boss_sultan_bounty_1">
+    <text>That bastard Sultan sent you, didn't he? What do you want? Cash?! Here, have my PDA and my money, just let me live!</text>
+  </string>
+  <string id="st_surrender_victim_answer_zat_b7_bandit_boss_sultan_bounty_2">
+    <text>You soulless fuck! Do you even know why you were sent to kill me? Do you even give a fuck? Sultan can burn in hell!</text>
+  </string>
+  <string id="st_surrender_victim_answer_zat_b7_bandit_boss_sultan_bounty_3">
+    <text>Fuck you!</text>
+  </string>
+  <string id="st_surrender_victim_answer_zat_b7_bandit_boss_sultan_bounty_4">
+    <text>Just put me out of my god damn misery already! Do it!</text>
+  </string>
+  <string id="st_surrender_victim_answer_zat_b7_bandit_boss_sultan_bounty_5">
+    <text>...</text>
+  </string>
+  <string id="st_drx_broker_finish_1">
+    <text>そいつを買おう。</text>
+  </string>
+  <string id="st_drx_broker_finish_2">
+    <text>よし。そいつを貰おう。</text>
+  </string>
+  <string id="st_drx_broker_finish_3">
+    <text>さあどうぞ。</text>
+  </string>
+  <string id="st_broker_query">
+    <text>売れそうな情報があるんだが。</text>
+  </string>
+  <string id="st_broker_query_more">
+    <text>アンタが望むんならまた持ってくるよ。</text>
+  </string>
+  <string id="st_broker_query_pda">
+    <text>PDAを見つけた。何か役に立つものが入ってるかもしれないぞ。</text>
+  </string>
+  <string id="st_broker_query_pdas">
+    <text>%sのPDAを見つけた。いくつかには使える情報が入ってるかもな。</text>
+  </string>
+  <string id="st_broker_query_valuable">
+    <text>使える情報が入ってそうな物があったぜ。</text>
+  </string>
+  <string id="st_broker_trade_valuable">
+    <text>%s ...スゲエ価値だぜ。きっと興味があるはずだ。</text>
+  </string>
+  <string id="st_broker_give_pda">
+    <text>これだ。</text>
+  </string>
+  <string id="st_broker_npc_start_1">
+    <text>さっそく鑑定しよう。他にはないか？</text>
+  </string>
+  <string id="st_broker_npc_start_2">
+    <text>そうなることを祈りな。時は金なりだ。</text>
+  </string>
+  <string id="st_broker_npc_start_3">
+    <text>俺が時間をかける価値はあるかな。他に持ってないのか？</text>
+  </string>
+  <string id="st_broker_npc_answer_pda_query">
+    <text>わかった。見せてくれ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_1">
+    <text>使えそうなものはなにもないな</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_2">
+    <text>ここいら辺に居るヤクの売人の連絡先だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_3">
+    <text>日記だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_4">
+    <text>デタラメばっかりだな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_5">
+    <text>役に立ちそうなものは無いな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_6">
+    <text>役に立たないな。しかし誰かが買うかもしれない。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_7">
+    <text>ほとんどがジャンクだが、欲しがってるやつを知ってる。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_8">
+    <text>あまり入ってねえな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_9">
+    <text>This one mentions a local meeting going down.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_10">
+    <text>Detailed observations regarding mutations on local flora.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_11">
+    <text>Looks like an awesome game on this one.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_12">
+    <text>Detailed observations regarding fleshes.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_13">
+    <text>Detailed observations regarding boars.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_14">
+    <text>Detailed observations regarding Whirligig anomalies.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_15">
+    <text>Photos of a Freedomer trying to bone a bloodsucker...</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_16">
+    <text>Crazy journal entries on this one.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_17">
+    <text>This mentions a meeting between Duty and a local gang of thugs.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_18">
+    <text>Detailed information about rats and hamsters.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_19">
+    <text>Porn... This one is full of porn.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_20">
+    <text>Detailed observations on a variety of anomalies.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_junk_21">
+    <text>Lots of chat logs, might have something useful.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_1">
+    <text>いくつかの隠し場所だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_2">
+    <text>隠し場所の座標だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_3">
+    <text>何件か使えそうな連絡先情報があったぞ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_4">
+    <text>何件か役に立つ情報がある。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_5">
+    <text>パスワードリストだ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_6">
+    <text>銀行の振込先だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_7">
+    <text>I know some people who will want this one.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_8">
+    <text>This one mentions a stash location.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_9">
+    <text>何件か使えそうな連絡先情報があったぞ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_10">
+    <text>Smuggling route information.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_11">
+    <text>I could find a buyer for this one here.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_12">
+    <text>Some useful information on this one.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_13">
+    <text>Bank account information.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_14">
+    <text>There are coordinates here for a supply exchange point.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_15">
+    <text>Information on a short-cut through Red Forest.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_20">
+    <text>Fantastic. Some dirt on Beard.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_21">
+    <text>Mentions of a huge stash... I'll take this for sure.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_23">
+    <text>Great! This mentions a drug smuggler making deals with the military.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_24">
+    <text>This one mentions a location of a stash.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_25">
+    <text>Unencrypted passwords and bank account information.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_26">
+    <text>This mentions a meeting between some mercs and local thugs.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_27">
+    <text>There are coordinates here for a supply exchange point.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_28">
+    <text>This one mentions a local meeting going down in a few days.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_29">
+    <text>Maps! A regular cartographer! This one is very useful.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_30">
+    <text>Short-cut information through an anomaly field.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_31">
+    <text>Upcoming supply exchange point here.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_info_32">
+    <text>Scientists might want this one.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_encrypted_1">
+    <text>Encrypted. Might be valuable.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_encrypted_2">
+    <text>This one is encrypted.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_encrypted_3">
+    <text>Encrypted. Might be valuable; I'll keep this one.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_encrypted_4">
+    <text>Encrypted. If they have something to hide, it may be something I want.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_encrypted_5">
+    <text>Alleged location of the Oasis.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_encrypted_6">
+    <text>An encrypted one, I will take it.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_encrypted_7">
+    <text>An encrypted PDA. Interesting...</text>
+  </string>
+  <string id="st_broker_npc_about_pda_encrypted_8">
+    <text>This one must be valuable. It's encrypted.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_kill_the_strelok_1">
+    <text>What the...? This one just says 'Kill Strelok'.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_1">
+    <text>何もないぞ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_2">
+    <text>いくつかの隠し場所だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_3">
+    <text>ここいら辺に居るヤクの売人の連絡先だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_4">
+    <text>日記だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_5">
+    <text>隠し場所の座標だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_6">
+    <text>デタラメばっかりだな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_7">
+    <text>役に立ちそうなものは無いな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_8">
+    <text>何件か使えそうな連絡先情報があったぞ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_9">
+    <text>役に立たないな。しかし誰かが買うかもしれない。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_10">
+    <text>ほとんどがジャンクだが、欲しがってるやつを知ってる。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_11">
+    <text>何件か役に立つ情報がある。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_12">
+    <text>パスワードリストだ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_13">
+    <text>銀行の振込先だ。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_14">
+    <text>あまり入ってねえな。</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_15">
+    <text>This one mentions a local meeting going down.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_16">
+    <text>Detailed observations regarding mutations on local flora.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_17">
+    <text>Looks like an awesome game on this one.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_18">
+    <text>Detailed observations regarding fleshes.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_19">
+    <text>Detailed observations regarding boars.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_common_20">
+    <text>Detailed observations regarding Whirligig anomalies.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_1">
+    <text>I know some people who will want this one.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_2">
+    <text>Photos of a Freedomer trying to bone a bloodsucker...</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_3">
+    <text>A contact on a drug dealer.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_4">
+    <text>Encrypted. Might be valuable.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_5">
+    <text>This one mentions a stash location.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_6">
+    <text>This one is encrypted.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_7">
+    <text>Crazy journal entries on this one.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_8">
+    <text>Some useful contact information.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_9">
+    <text>Smuggling route information.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_10">
+    <text>I could find a buyer for this one here.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_11">
+    <text>Some useful information on this one.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_12">
+    <text>Bank account information.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_13">
+    <text>This mentions a meeting between Duty and a local gang of thugs.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_14">
+    <text>There are coordinates here for a supply exchange point.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_15">
+    <text>This one mentions a local meeting going down.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_16">
+    <text>Detailed information about rats and hamsters.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_17">
+    <text>Information on a short-cut through Red Forest.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_18">
+    <text>Porn... This one is full of porn.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_19">
+    <text>Detailed observations on a variety of anomalies.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_uncommon_20">
+    <text>Lots of chat logs, might have something useful.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_1">
+    <text>Fantastic. Some dirt on Beard.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_2">
+    <text>Mentions of a huge stash... I'll take this for sure.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_3">
+    <text>Great! This mentions a drug smuggler making deals with the military.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_4">
+    <text>Encrypted. Might be valuable; I'll keep this one.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_5">
+    <text>This one mentions a location of a stash.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_6">
+    <text>Encrypted. If they have something to hide, it may be something I want.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_7">
+    <text>This one has detailed information about Duty... Freedom might want this.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_8">
+    <text>Bank account and credit card information.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_9">
+    <text>Alleged location of the Oasis.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_10">
+    <text>I could find a buyer for this one here.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_11">
+    <text>Some useful information on this one.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_12">
+    <text>Unencrypted passwords and bank account information.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_13">
+    <text>This mentions a meeting between some mercs and local thugs.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_14">
+    <text>There are coordinates here for a supply exchange point.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_15">
+    <text>This one mentions a local meeting going down in a few days.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_16">
+    <text>Maps! A regular cartographer! This one is very useful.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_17">
+    <text>Short-cut information through an anomaly field.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_18">
+    <text>Upcoming supply exchange point here.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_19">
+    <text>Scientists might want this one.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_rare_20">
+    <text>What the...? This one just says 'Kill Strelok'.</text>
+  </string>
+  <string id="st_broker_npc_about_pda_bonus_coords">
+    <text>As a bonus, here are some coordinates to stashes I don't really care to get.</text>
+  </string>
+  <string id="st_ordered_task_query">
+    <text>どんな仕事があるんだ？</text>
+  </string>
+  <string id="st_ordered_task_query_finished">
+    <text>仕事は完了だ。</text>
+  </string>
+  <string id="st_ordered_task_not_given_task">
+    <text>何だと？まだ仕事が終わってないだろ？</text>
+  </string>
+  <string id="st_ordered_task_accept">
+    <text>それをやろう。</text>
+  </string>
+  <string id="st_ordered_task_next">
+    <text>他に何がある？</text>
+  </string>
+  <string id="st_ordered_task_already">
+    <text>先に仕事を終わらせてこい。次の話はそれからだ。</text>
+  </string>
+  <string id="st_ordered_task_already_reply">
+    <text>わかった。</text>
+  </string>
+  <string id="st_accepted_task_1">
+    <text>良いぞ！終わったら声をかけてくれ。</text>
+  </string>
+  <string id="st_accepted_task_2">
+    <text>俺を手助けしてくれるんなら、アンタの助けになってやれる。戻ってこいよ。</text>
+  </string>
+  <string id="st_accepted_task_3">
+    <text>アンタの助けになれてうれしいよ。</text>
+  </string>
+  <string id="st_default_task_finished_1">
+    <text>Stalker、助かったよ。これが報酬だ。</text>
+  </string>
+  <string id="st_default_task_finished_2">
+    <text>あんたが仕事を請けてくれて本当に助かったよ。これが約束の品だ。</text>
+  </string>
+  <string id="st_default_task_finished_3">
+    <text>オッケー。いま報酬を払うよ。</text>
+  </string>
+  <string id="st_no_available_task">
+    <text>悪いな、何も持ってないんだ。</text>
+  </string>
+  <string id="st_about_fetch_task_default">
+    <text>自分が何を言おうとしていたのか思い出せねえ…ただそれを手に入れてくれ！アンタは俺が欲しいものを知ってるだろ！</text>
+  </string>
+  <string id="st_return_for_reward">
+    <text>戻って報酬を受け取れ。</text>
+  </string>
+  <string id="st_nevermind">
+    <text>考え直した。気にしないでくれ。後で戻る。</text>
+  </string>
+  <string id="dm_universal_actor_exit_sorry">
+    <text>悪いな。俺じゃ助けにならなそうだ。</text>
+  </string>
+  <string id="st_ordered_task_query_cancel">
+    <text>仕事ができなかった。</text>
+  </string>
+  <string id="st_task_none_active">
+    <text>どんな仕事だ？</text>
+  </string>
+  <string id="st_ordered_task_query_cancel_next_job">
+    <text>いや、まだ作業中だ。</text>
+  </string>
+  <string id="st_task_default_excuse_cancel_job">
+    <text>ああ、俺は他の仕事で忙しいんだ。</text>
+  </string>
+  <string id="st_default_task_cancel_1">
+    <text>stalker、お前にはがっかりだよ。</text>
+  </string>
+  <string id="st_default_task_cancel_2">
+    <text>なに？stalker、お前のことを見直していたんだぞ。</text>
+  </string>
+  <string id="st_default_task_cancel_3">
+    <text>新人に期待するべきじゃなかったな。</text>
+  </string>
+  <string id="st_inventory_upgrade_reply_1">
+    <text>あんたの%sはあと%s分程かかる。後で来てくれ。</text>
+  </string>
+  <string id="st_inventory_upgrade_reply_2">
+    <text>もうすぐあんたの%sは準備できる。%s分後に来てくれ。</text>
+  </string>
+  <string id="st_inventory_upgrade_reply_3">
+    <text>ああ。失せろ。俺はまだ酔ってねえぞ。</text>
+  </string>
+  <string id="st_inventory_upgrade_reply_4">
+    <text>アンタのヤベエ%sは一時間と%s分で準備できるぜ。その時はまた乾杯だな！</text>
+  </string>
+  <string id="st_inventory_upgrade_reply_5">
+    <text>震えが出てるときに何かを修理するっていうの簡単じゃねえ…一時間後にアンタの%sを取りにきな。</text>
+  </string>
+  <string id="st_inventory_upgrade_reply_6">
+    <text>よお, stal…ヒック。あー、アンタの装備を直してることをすっかり忘れてたぜ。\n%sを取りにくるんなら一時間と%s分後に来てくれ。</text>
+  </string>
+  <string id="st_inventory_upgrade_reply_7">
+    <text>アンタの%sは一時間と%s分で準備できる。ちゃんと戻ってこいよ。わかったか？</text>
+  </string>
+  <string id="st_inventory_upgrade_reply_8">
+    <text>アンタの%sは%s時間と%s分で準備できる。また戻ってきな。</text>
+  </string>
+  <string id="st_inventory_upgrade_reply_9">
+    <text>準備は出来てるぜ。</text>
+  </string>
+</string_table>

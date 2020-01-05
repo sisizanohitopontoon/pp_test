@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="guid_agr_mlr_military_0">
+    <text>Can you organize a trip? There's somewhere I need to fly.</text>
+  </string>
+  <string id="guid_agr_mlr_military_1">
+    <text>ええ、俺はあんたをコルドンとヤンタルに連れて行くことができる...ってちょと待って、お前は誰だ？俺は輸送することができるが、お前のような平凡な兵士には乗せることはできないな。シッ!シッ!
+</text>
+  </string>
+  <string id="guid_agr_mlr_military_list_0">
+    <text>今度はどこまでいくんだ？</text>
+  </string>
+  <string id="guid_agr_mlr_military_list_1">
+    <text>5000ルーブルでCordonのチェックポイントへ、7000ルーブルでYantarの基地に。</text>
+  </string>
+  <string id="guid_agr_mlr_military_vert_0">
+    <text>操縦者が必要だ。</text>
+  </string>
+  <string id="guid_agr_mlr_military_vert_1">
+    <text>分かった、我々の次のフライト距離は短いらしいがどこに向かうんだ？</text>
+  </string>
+  <string id="guid_agr_mlr_military_vert_2">
+    <text>Cordonのチェックポイントまで。%c[d_orange][5000RU]</text>
+  </string>
+  <string id="guid_agr_mlr_military_vert_3">
+    <text>Yantarの基地まで。%c[d_orange][7000RU]</text>
+  </string>
+  <string id="guid_agr_mlr_military_vert_4">
+    <text>気が変わった。</text>
+  </string>
+  <string id="find_blackbox_mlr_reward_army_0">
+    <text>ヘリコプターの残骸からフライトレコーダーを見つけたんだ。</text>
+  </string>
+  <string id="find_blackbox_mlr_reward_army_1">
+    <text>いいぞ！よくやってくれた兵士よ。</text>
+  </string>
+  <string id="rogovets_about_himself_1_6_army_mlr_0">
+    <text>あんたの事を教えてくれ。</text>
+  </string>
+  <string id="rogovets_about_himself_1_6_army_mlr_1">
+    <text>I serve as a medic. I went out on a contract here and was almost immediately assigned to the Fairway group, after some preparation. We were somehow stuck in Pripyat after the collapse of the operation - well, those of us who were still alive... then a man from the SSU helped us, and then they evacuated us. I still can't get this one case out of my head: our commander sent me and a couple of guys to the kindergarten, in which - according to preliminary data - there was a device that interfered with radio communications. I don't know what came over me, I wasn't feeling myself – I couldn't see, I didn't know where my comrades were, and something pulled a veil straight over my eyes. Right in that kindergarten, I found a damn refrigerator and hid there. Then, I heard an explosion right above me and I immediately felt better for whatever reason, but the refrigerator locked up and I couldn't get out without outside help. I don't recall if I locked myself in it or if it was a poltergeist that held the door closed...</text>
+  </string>
+  <string id="rogovets_about_himself_1_6_army_mlr_2">
+    <text>And then what happened? Why didn't you quit?</text>
+  </string>
+  <string id="rogovets_about_himself_1_6_army_mlr_3">
+    <text>Well... I need the money, why would I have come back here otherwise? And doctors are always useful... However, there aren't a lot of them in the army at this point. Fortunately, though, I wasn't demoted for the failure of the operation, but I wasn't praised, either - unlike the major, who, by the way, is also hanging around somewhere here in the Zone.</text>
+  </string>
+  <string id="rogovets_about_himself_1_6_army_mlr_4">
+    <text>Understood. I wish you well on your travels.</text>
+  </string>
+  <string id="rogovets_hello_1_6_army_mlr_0">
+    <text>Huh? Oh, it's you...</text>
+  </string>
+  <string id="barmen_about_himself_1_6_army_mlr_0">
+    <text>お前は誰だ?</text>
+  </string>
+  <string id="barmen_about_himself_1_6_army_mlr_1">
+    <text>Well, I'm basically a local barman, or a manager of provisions... whichever you prefer. You could say that I'm one of the few who participated in cleaning up the accident at the nuclear power plant. I'm not exactly from here, but I decided to go to the Zone on contract. I've got some experience on me, hah.</text>
+  </string>
+  <string id="barmen_about_himself_1_6_army_mlr_2">
+    <text>どうだった？</text>
+  </string>
+  <string id="barmen_about_himself_1_6_army_mlr_3">
+    <text>I was just an army draftee back then, only ever got to measure radioactivity and clean it up. However, the guys near the power station ended up waist-deep in shit. Even our technology died from the radiation, let alone the people... imagine that. So, they cleaned the roofs of graphite with freakin' shovels. Radiation is a strange thing - it curses some and spares others, like Dyatlov, who survived to end up in prison.</text>
+  </string>
+</string_table>

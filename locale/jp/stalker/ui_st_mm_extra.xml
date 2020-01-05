@@ -1,0 +1,1119 @@
+<?xml version="1.0" encoding="utf-16"?>
+<string_table>
+  <string id="ui_mm_f1_opt_extra">
+    <text>F1を押して追加の設定</text>
+  </string>
+  <string id="ui_mm_cap_opt_extra">
+    <text>追加の設定</text>
+  </string>
+  <string id="ui_mm_cap_settings">
+    <text>設定</text>
+  </string>
+  <string id="ui_mm_opt_extra_warfare">
+    <text>Warfare</text>
+  </string>
+  <string id="ui_mm_opt_extra_news">
+    <text>ダイナミックニュース</text>
+  </string>
+  <string id="ui_mm_opt_extra_radio">
+    <text>Radio/Zone FM</text>
+  </string>
+  <string id="ui_mm_opt_extra_gameplay">
+    <text>ゲームプレイ難易度</text>
+  </string>
+  <string id="ui_mm_opt_extra_economy">
+    <text>ゲーム進行難易度</text>
+  </string>
+  <string id="ui_mm_opt_extra_disguise">
+    <text>変装システム</text>
+  </string>
+  <string id="ui_mm_opt_extra_travel">
+    <text>Fast / Backpack Travel</text>
+  </string>
+  <string id="ui_mm_opt_extra_fx">
+    <text>ビジュアル,サウンドエフェクト</text>
+  </string>
+  <string id="ui_mm_st_gameplay_warning">
+    <text>ATTENTION: Gameplay factors are configured per current playthrough.</text>
+  </string>
+  <string id="ui_mm_opt_extra_gameplay_warning">
+    <text>進行難易度設定は、データロード後にのみ利用可能です</text>
+  </string>
+  <string id="ui_mm_st_gameplay_actor_immunities">
+    <text>プレイヤーの防御力</text>
+  </string>
+  <string id="ui_mm_st_gameplay_hit_power">
+    <text>Bullet hit power factor</text>
+  </string>
+  <string id="ui_mm_st_gameplay_power_loss_bias">
+    <text>消費スタミナ係数</text>
+  </string>
+  <string id="ui_mm_st_gameplay_max_weight">
+    <text>最大所持重量</text>
+  </string>
+  <string id="ui_mm_st_gameplay_thirst">
+    <text>喉の乾きを有効化</text>
+  </string>
+  <string id="ui_mm_st_gameplay_sleep">
+    <text>睡眠不足を有効化</text>
+  </string>
+  <string id="ui_mm_st_gameplay_radiation_day">
+    <text>昼間の放射を有効にする</text>
+  </string>
+  <string id="ui_mm_st_gameplay_notify_geiger">
+    <text>ガイガー使用時のみ放射能の音を再生</text>
+  </string>
+  <string id="ui_mm_st_gameplay_notify_anomaly">
+    <text>アノマリー検出器を有効化</text>
+  </string>
+  <string id="ui_mm_st_list_great">
+    <text>素晴しい</text>
+  </string>
+  <string id="ui_mm_st_list_good">
+    <text>良い</text>
+  </string>
+  <string id="ui_mm_st_list_average">
+    <text>標準</text>
+  </string>
+  <string id="ui_mm_st_list_poor">
+    <text>貧弱</text>
+  </string>
+  <string id="ui_mm_st_economy_warning">
+    <text>ATTENTION: Progression factors are configured per current playthrough.</text>
+  </string>
+  <string id="ui_mm_opt_extra_economy_warning">
+    <text>進行難易度設定は、データロード後にのみ利用可能です</text>
+  </string>
+  <string id="ui_mm_st_economy_goodwill">
+    <text>獲得信頼係数</text>
+  </string>
+  <string id="ui_mm_st_economy_rewards">
+    <text>報酬金額係数</text>
+  </string>
+  <string id="ui_mm_st_economy_repair">
+    <text>修理費用係数</text>
+  </string>
+  <string id="ui_mm_st_economy_upgrade">
+    <text>アップグレード費用係数</text>
+  </string>
+  <string id="ui_mm_st_economy_buy">
+    <text>取引価格（買）係数</text>
+  </string>
+  <string id="ui_mm_st_economy_sell">
+    <text>取引価格（売）係数</text>
+  </string>
+  <string id="ui_mm_st_economy_loots">
+    <text>戦利品（アイテム）係数</text>
+  </string>
+  <string id="ui_mm_st_economy_money_loots">
+    <text>戦利品（お金）係数</text>
+  </string>
+  <string id="ui_mm_st_economy_wpn_condition">
+    <text>略奪された武器の平均状態</text>
+  </string>
+  <string id="ui_mm_st_economy_stash_chance">
+    <text>スタッシュを発見するチャンス</text>
+  </string>
+  <string id="ui_mm_st_economy_max_medkit_uses">
+    <text>使用されたmedkitの最大使用量</text>
+  </string>
+  <string id="ui_mm_st_economy_weapon_degradation">
+    <text>武器劣化係数</text>
+  </string>
+  <string id="ui_mm_st_economy_battery_consumption">
+    <text>バッテリー消費電力係数</text>
+  </string>
+  <string id="ui_mm_st_economy_limited_bolts">
+    <text>限られた量のボルトを有効にする</text>
+  </string>
+  <string id="ui_mm_st_economy_arty_degradation">
+    <text>アーティファクトの劣化を有効にする</text>
+  </string>
+  <string id="ui_mm_st_economy_bkpk_degradation">
+    <text>バックパックの劣化を有効にする</text>
+  </string>
+  <string id="ui_mm_st_economy_percentage_parts">
+    <text>Enable full-percentage system for parts</text>
+  </string>
+  <string id="ui_mm_st_economy_restock">
+    <text>トレーダーの補充サイクル（時間）</text>
+  </string>
+  <string id="ui_mm_st_economy_arty_chance">
+    <text>アーティファクト リスポーン確率</text>
+  </string>
+  <string id="ui_mm_fx_spacing_1">
+    <text>--( ビジュアル,サウンドエフェクト )--</text>
+  </string>
+  <string id="ui_mm_st_fx_animations">
+    <text>アイテム使用アニメーション</text>
+  </string>
+  <string id="ui_mm_st_fx_shoot_effects">
+    <text>射撃エフェクトを強化</text>
+  </string>
+  <string id="ui_mm_st_fx_mask_hud">
+    <text>マスクオーバーレイ</text>
+  </string>
+  <string id="ui_mm_st_fx_breathing_sound">
+    <text>呼吸音</text>
+  </string>
+  <string id="ui_mm_st_fx_breathing_fog">
+    <text>呼吸時の曇り</text>
+  </string>
+  <string id="ui_mm_st_fx_radiation_effect">
+    <text>放射能エフェクト</text>
+  </string>
+  <string id="ui_mm_st_fx_blood_splash">
+    <text>出血エフェクト</text>
+  </string>
+  <string id="ui_mm_st_fx_bleed_effect">
+    <text>低ヘルス時のぼやけ</text>
+  </string>
+  <string id="ui_mm_st_fx_item_swap_animation">
+    <text>アイテム交換アニメーション</text>
+  </string>
+  <string id="ui_mm_st_fx_hit_impact_effect">
+    <text>Hit impact effect</text>
+  </string>
+  <string id="ui_mm_st_fx_tiny_pfx">
+    <text>Dust particles</text>
+  </string>
+  <string id="ui_mm_st_fx_fog_pfx">
+    <text>ダイナミックフォグ</text>
+  </string>
+  <string id="ui_mm_st_fx_wind_sound">
+    <text>ダイナミックな風の音</text>
+  </string>
+  <string id="ui_mm_st_fx_helmet_rain_sound">
+    <text>ヘルメットに当たる雨の音</text>
+  </string>
+  <string id="ui_mm_st_fx_rain_droplets">
+    <text>ガスマスクの滴</text>
+  </string>
+  <string id="ui_mm_st_fx_visor_reflection">
+    <text>ガスマスクのガラス反射</text>
+  </string>
+  <string id="ui_mm_st_warfare_options">
+    <text>Warfare Options</text>
+  </string>
+  <string id="ui_mm_st_warfare_preset">
+    <text>プリセット</text>
+  </string>
+  <string id="ui_mm_st_warfare_general_settings">
+    <text>General settings</text>
+  </string>
+  <string id="ui_mm_st_warfare_azazel_settings">
+    <text>Azazel settings</text>
+  </string>
+  <string id="ui_mm_st_warfare_all_out_war">
+    <text>All out war</text>
+  </string>
+  <string id="ui_mm_st_warfare_all_out_war_desc">
+    <text>When enabled, every faction will be hostile to every other faction. When DrX's Dynamic Relations are detected, this will only be applied at the beginning of a game.</text>
+  </string>
+  <string id="ui_mm_st_warfare_random_starting_locations">
+    <text>ランダムの場所からスタート</text>
+  </string>
+  <string id="ui_mm_st_warfare_random_starting_locations_desc">
+    <text>When enabled, the player will spawn at a random base in the Zone. Every other base will be populated using the random_stalker_chance and random_mutant_chance options.</text>
+  </string>
+  <string id="ui_mm_st_warfare_random_starting_character">
+    <text>Random starting character</text>
+  </string>
+  <string id="ui_mm_st_warfare_random_starting_character_desc">
+    <text>When this option is enabled it will randomise the name and faction of the player after starting a new game; best used " ..
+        "with random_starting_locations.</text>
+  </string>
+  <string id="ui_mm_st_warfare_random_stalker_chance">
+    <text>Random stalker chance</text>
+  </string>
+  <string id="ui_mm_st_warfare_random_stalker_chance_desc">
+    <text>The chance, between 0 - 100, that stalker squads will be spawned at a base or resource point when random_starting_locations is enabled. This is the chance that a single squad will spawn. If a base has a max population of 2, and random_stalker_chance is set to 50, then there is a 50% chance that the first squad will spawn, and a 50% chance that the second squad will spawn.</text>
+  </string>
+  <string id="ui_mm_st_warfare_random_monster_chance">
+    <text>Random mutant chance</text>
+  </string>
+  <string id="ui_mm_st_warfare_random_monster_chance_desc">
+    <text>The chance, between 0 - 100, that mutant squads will be spawned at a territory point when random_starting_locations is enabled. Only one mutant per point will be spawned.</text>
+  </string>
+  <string id="ui_mm_st_warfare_show_unfriendly_squads">
+    <text>味方以外の派閥を表示</text>
+  </string>
+  <string id="ui_mm_st_warfare_hide_smarts">
+    <text>スマートを隠す</text>
+  </string>
+  <string id="ui_mm_st_warfare_hide_smarts_desc">
+    <text>有効にすると、スマートテレインアイコンはPDAにレンダリングされません。プレーヤーの派閥のターゲットは引き続きPDAに表示されます。</text>
+  </string>
+  <string id="ui_mm_st_warfare_enemy_new_game_bonus">
+    <text>Enable enemy bonus starting squads</text>
+  </string>
+  <string id="ui_mm_st_warfare_enemy_new_game_bonus_desc">
+    <text>有効にすると、敵の分隊の初期分隊がわずかに多くなり、中立で友好的な派閥の初期分隊がわずかに少なくなります。</text>
+  </string>
+  <string id="ui_mm_st_warfare_enemy_base_boost">
+    <text>Enemy base boost</text>
+  </string>
+  <string id="ui_mm_st_warfare_enemy_base_boost_desc">
+    <text>All enemies of the player's faction will be treated as if owning the specified number of bases in addition to what they really own.</text>
+  </string>
+  <string id="ui_mm_st_warfare_enemy_resource_boost">
+    <text>Enemy resource boost</text>
+  </string>
+  <string id="ui_mm_st_warfare_enemy_resource_boost_desc">
+    <text>All enemies of the player faction will be treated as if owning the specified number of resources in addition to what they really own. Resources affect respawn time for defence / attack / patrol squads and how skilled the squads spawned are; higher resource count means faster respawn times with better squads.</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_faction_respawn">
+    <text>最小リスポーン時間</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_faction_respawn_desc">
+    <text>The minimum amount of time that must pass for a base to spawn a defence squad. This along with the base's available resources determines the bases defence respawn time. A base's available resources is determined by the following: total_resources = global_resources + (regional_resources * 2) + (local_resources * 3). The base's respawn time is determined by choosing a value between the minimum and maximum faction respawn time with a factor of resource_count / warfare.resource_count. respawn time = (100% - owned_resource_percentage) * min_faction_respawn + (owned_resource_percentage * max_faction_respawn.</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_faction_respawn">
+    <text>最大リスポーン時間</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_faction_respawn_desc">
+    <text>The maximum amount of time that must pass for a base to spawn a defence squad. This along with the base's available resources determines the bases defence respawn time. A base's available resources is determined by the following: total_resources = global_resources + (regional_resources * 2) + (local_resources * 3). The base's respawn time is determined by choosing a value between min_faction_respawn and max_faction_respawn with a factor of resource_count / warfare.resource_count. respawn time = (100% - owned_resource_percentage) * min_faction_respawn + (owned_resource_percentage * max_faction_respawn </text>
+  </string>
+  <string id="ui_mm_st_warfare_min_invasion_size">
+    <text>Minimum invasion population factor</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_invasion_size_desc">
+    <text>The minimum invasion size multiplier. This is used along with max_invasion_size and the number of bases the faction owns in order to calculate a final invasion_size. This is a multiplier for a smart terrains max_population, so the stalker population factor from the stalker gameplay options will affect the final invasion size. Current invasion size = (100% - owned_base_percentage) * min_invasion_size + (owned_base_percentage * max_invasion_size). Current invasion population = min(1, target.max_population * Current invasion size)</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_invasion_size">
+    <text>Maximum invasion population factor</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_invasion_size_desc">
+    <text>The maximum invasion size multiplier. This is used along with max_invasion_size and the number of bases the faction owns in order to calculate a final invasion_size. This is a multiplier for a smart terrains max_population, so the stalker population factor from the stalker gameplay options will affect the final invasion size. Current invasion size = (100% - owned_base_percentage) * min_invasion_size + (owned_base_percentage * max_invasion_size). Current invasion population = min(1, target.max_population * Current invasion size)</text>
+  </string>
+  <string id="ui_mm_st_warfare_invasion_departure_chance">
+    <text>Invasion departure chance</text>
+  </string>
+  <string id="ui_mm_st_warfare_invasion_departure_chance_desc">
+    <text>The chance that an invasion will depart during the current process_targets update. This is called every 1 to 5 in-game minutes.</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_patrol_squads">
+    <text>最小パトロール人口係数</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_patrol_squads_desc">
+    <text>The minimum patrol squad population factor. When a faction owns no bases, each base would (theoretically since they don't own any) have min_patrol_squads * max_population amount of patrol squads. Current patrol squad factor = (100% - owned_base_percentage) * min_patrol_squds + (owned_base_percentage * max_patrol_squads. Current allowed patrols quads = base.max_population * current patrol squad factor.</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_patrol_squads">
+    <text>最大パトロール人口係数</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_patrol_squads_desc">
+    <text>The maximum patrol squad population factor. When a faction owns every base, each base will have max_patrol_squads * max_population amount of patrol squads. Current patrol squad factor = (100% - owned_base_percentage) * min_patrol_squds + (owned_base_percentage * max_patrol_squads. Current allowed patrols quads = base.max_population * current patrol squad factor.</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_patrol_time">
+    <text>最小パトロール時間</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_patrol_time_desc">
+    <text>The minimum amount of time that must pass for a base to spawn a patrol squad. This along with the base's available resources determines the bases patrol respawn time. A base's available resources is determined by the following: total_resources = global_resources + (regional_resources * 2) + (local_resources * 3). The base's patrol respawn time is determined by choosing a value between min_patrol_time and max_patrol_time with a factor of resource_count / warfare.resource_count. respawn time = (100% - owned_resource_percentage) * min_patrol_time + (owned_resource_percentage * max_patrol_time.</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_patrol_time">
+    <text>Maximum patrol time</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_patrol_time_desc">
+    <text>The maximum amount of time that must pass for a base to spawn a patrol squad. This along with the base's available resources determines the bases patrol respawn time. A base's available resources is determined by the following: total_resources = global_resources + (regional_resources * 2) + (local_resources * 3). The base's patrol respawn time is determined by choosing a value between min_patrol_time and max_patrol_time with a factor of resource_count / warfare.resource_count. respawn time = (100% - owned_resource_percentage) * min_patrol_time + (owned_resource_percentage * max_patrol_time.</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_patrol_rest_time">
+    <text>パトロールの最小休憩時間</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_patrol_rest_time_desc">
+    <text>The minimum amount of time a patrol squad will wait at a territory point. Night activity chance will also affect whether or not they are sent to a new territory point.</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_patrol_rest_time">
+    <text>最大パトロール休憩時間</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_patrol_rest_time_desc">
+    <text>The maximum amount of time a patrol squad will wait at a territory point. Night activity chance will also affect whether or not they are sent to a new territory point.</text>
+  </string>
+  <string id="ui_mm_st_warfare_offline_power_multiplier">
+    <text>Offline power multiplier</text>
+  </string>
+  <string id="ui_mm_st_warfare_offline_power_multiplier_desc">
+    <text>分隊がオフライン戦闘でダメージを与えると、この量が乗算されます。たとえば、これが2に設定されている場合、この陣営の分隊は、オフライン戦闘の通常の分隊の2倍のダメージを与えます。</text>
+  </string>
+  <string id="ui_mm_st_warfare_expansion_aggression">
+    <text>Expansion aggression</text>
+  </string>
+  <string id="ui_mm_st_warfare_expansion_aggression_desc">
+    <text>Every time a base has less than the allowed number of targets and process_targets is called, a random number will be generated between 0 and 100. If this number is less than or equal to the expansion_aggression, the faction will choose a new target. Otherwise, the faction will not choose any new targets.</text>
+  </string>
+  <string id="ui_mm_st_warfare_night_activity_chance">
+    <text>Night activity chance</text>
+  </string>
+  <string id="ui_mm_st_warfare_night_activity_chance_desc">
+    <text>ある派閥が、夜間に侵入部隊やパトロール隊を派遣する確率。夜間は、8:00 PMから6:00 AM、または20:00から6:00の間とみなされます。</text>
+  </string>
+  <string id="ui_mm_st_warfare_base_priority">
+    <text>Base priority</text>
+  </string>
+  <string id="ui_mm_st_warfare_base_priority_desc">
+    <text>派閥がどれだけ基地を優先するか。一般的な優先順位は0から10の間です。</text>
+  </string>
+  <string id="ui_mm_st_warfare_resource_priority">
+    <text>リソースの優先度</text>
+  </string>
+  <string id="ui_mm_st_warfare_resource_priority_desc">
+    <text>ファクションがリソースポイントをどれだけ優先しているか。一般的な優先順位は0から10の間です。</text>
+  </string>
+  <string id="ui_mm_st_warfare_territory_priority">
+    <text>テリトリーの優先度</text>
+  </string>
+  <string id="ui_mm_st_warfare_territory_priority_desc">
+    <text>派閥がどれだけ縄張り意識を持っているか。一般的な優先順位は0から10の間です。</text>
+  </string>
+  <string id="ui_mm_st_warfare_flag_priority">
+    <text>Faction flag priority</text>
+  </string>
+  <string id="ui_mm_st_warfare_flag_priority_desc">
+    <text>How much a base prioritises points that are flagged for their owning faction in the gamedata/configs/misc/simulation_objects_props.ltx file. For instance if Clear Sky is looking at a territory point, it will increase the priority for a point by 2 if in that file the point has csky = 1 defined for it.</text>
+  </string>
+  <string id="ui_mm_st_warfare_is_being_targeted_priority">
+    <text>Is being targeted priority</text>
+  </string>
+  <string id="ui_mm_st_warfare_is_being_targeted_priority_desc">
+    <text>If a base is being targeted by another base, it will add this much priority to it in order to attempt to counter the invasion.</text>
+  </string>
+  <string id="ui_mm_st_warfare_target_weaker_priority">
+    <text>Target is weaker priority</text>
+  </string>
+  <string id="ui_mm_st_warfare_target_weaker_priority_desc">
+    <text>影響力の小さい部隊が存在するポイントをベースがどの程度優先するか。</text>
+  </string>
+  <string id="ui_mm_st_warfare_target_stronger_priority">
+    <text>Target is stronger priority</text>
+  </string>
+  <string id="ui_mm_st_warfare_target_stronger_priority_desc">
+    <text>影響力の大きい部隊が存在するポイントをベースがどの程度優先するか。</text>
+  </string>
+  <string id="ui_mm_st_warfare_target_on_same_level_priority">
+    <text>Target on same level priority</text>
+  </string>
+  <string id="ui_mm_st_warfare_target_on_same_level_priority_desc">
+    <text>How much a base prioritises points which are on the same level as itself.</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_smart_targets_per_base">
+    <text>ベースあたりの最大スマートターゲット</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_smart_targets_per_base_desc">
+    <text>ベースが一度にターゲットできるポイント数。
+</text>
+  </string>
+  <string id="ui_mm_st_warfare_resource_count_modifier">
+    <text>Resource count modifier</text>
+  </string>
+  <string id="ui_mm_st_warfare_resource_count_modifier_desc">
+    <text>各ベースの利用可能なリソースポイントに追加されるリソースポイントの数。これはマイナスになる可能性があります。数値が大きいほど、リスポーン時間が速くなります。</text>
+  </string>
+  <string id="ui_mm_st_warfare_base_count_modifier">
+    <text>Base count modifier</text>
+  </string>
+  <string id="ui_mm_st_warfare_base_count_modifier_desc">
+    <text>各陣営の所有基地数に追加される基地の数。これはマイナスになる可能性があります。数字が大きいほど、パトロールが多くなり、侵略部隊が大きくなります。</text>
+  </string>
+  <string id="ui_mm_st_warfare_random_squad_count">
+    <text>ランダム分隊数</text>
+  </string>
+  <string id="ui_mm_st_warfare_random_squad_count_desc">
+    <text>有効にすると、この陣営の各分隊は最小ランダム分隊数と最大ランダム分隊数の間のランダムな数のNPCを持ちます。</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_random_squad_count">
+    <text>最小ランダム分隊数</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_random_squad_count_desc">
+    <text>When random_squad_count is enabled, this is the minimum number of NPCs a squad will have for this faction.</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_random_squad_count">
+    <text>最大ランダム分隊数</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_random_squad_count_desc">
+    <text>When random_squad_count is enabled, this is the maximum number of NPCs a squad will have for this faction.</text>
+  </string>
+  <string id="ui_mm_st_warfare_patrol_hunt_chance">
+    <text>Patrol hunt chance</text>
+  </string>
+  <string id="ui_mm_st_warfare_patrol_hunt_chance_desc">
+    <text>When a base is looking for a new target for a patrol squad, and if there is an enemy patrol squad on the current level or a linked level, this is the chance that the base will assign the enemy patrol squad as a target; if the squad is not assigned an enemy patrol squad as a target then it will be assigned a territory point near the base to patrol as usual.</text>
+  </string>
+  <string id="ui_mm_st_warfare_fog_of_war">
+    <text>Enable fog of war</text>
+  </string>
+  <string id="ui_mm_st_warfare_fog_of_war_desc">
+    <text>When enabled, anything within the fog_of_war_distance range to the player, or any squad of the same faction, will be shown. show_unfriendly_squads and hide_smarts will still affect whether or not an object is shown on the PDA.</text>
+  </string>
+  <string id="ui_mm_st_warfare_fog_of_war_distance">
+    <text>Fog of war distance</text>
+  </string>
+  <string id="ui_mm_st_warfare_fog_of_war_distance_desc">
+    <text>When fog_of_war is enabled, anything within this range to the player or any squad of the players faction will be shown on the PDA. show_unfriendly_squads and hide_smarts will still affect whether or not an object is shown on the PDA.</text>
+  </string>
+  <string id="ui_mm_st_warfare_enemy_faster_respawn">
+    <text>敵の高速リスポーンを有効にする</text>
+  </string>
+  <string id="ui_mm_st_warfare_enable_auto_capture">
+    <text>自動キャプチャを有効にする</text>
+  </string>
+  <string id="ui_mm_st_warfare_enable_auto_capture_desc">
+    <text>有効にすると、プレーヤーは、auto_capture_timeで指定された時間、auto_capture_distanceで指定された距離内に立つことでポイントをキャプチャできます。複数のポイントに近い場合、最も近いベースが選択され、残りのベースとリソースポイントが続きます。テリトリーポイントは自動キャプチャできません。</text>
+  </string>
+  <string id="ui_mm_st_warfare_auto_capture_max_distance">
+    <text>自動キャプチャの最大距離</text>
+  </string>
+  <string id="ui_mm_st_warfare_auto_capture_max_distance_desc">
+    <text>プレイヤーからこの距離内にあるポイントは自動キャプチャされます。プレイヤーとキャプチャされているポイント間の距離がこれよりも大きい場合、キャプチャされなくなります。</text>
+  </string>
+  <string id="ui_mm_st_warfare_auto_capture_wait_time">
+    <text>自動キャプチャ待機時間</text>
+  </string>
+  <string id="ui_mm_st_warfare_auto_capture_wait_time_desc">
+    <text>ゲーム内の分単位で、手動でポイントをキャプチャするのにかかる時間</text>
+  </string>
+  <string id="ui_mm_st_warfare_hide_unfriendly_squads">
+    <text>非友好的な部隊を隠す</text>
+  </string>
+  <string id="ui_mm_st_warfare_hide_unfriendly_squads_desc">
+    <text>有効にすると、中立および敵チームはPDAに表示されません</text>
+  </string>
+  <string id="ui_mm_st_warfare_hide_undergraund_smarts">
+    <text>地下のスマートを地図上に隠す</text>
+  </string>
+  <string id="ui_mm_st_warfare_hide_undergraund_smarts_desc">
+    <text>有効にすると、アンダーグラウンドスマートがPDAから非表示になります</text>
+  </string>
+  <string id="ui_mm_st_warfare_zombies_act_as_faction">
+    <text>ゾンビは派閥として振る舞います</text>
+  </string>
+  <string id="ui_mm_st_warfare_zombies_act_as_faction_desc">
+    <text>有効にすると、ゾンビ化したストーカーは派閥の戦争に参加します</text>
+  </string>
+  <string id="ui_mm_st_warfare_manual_capture_wait_time">
+    <text>手動キャプチャ待機時間</text>
+  </string>
+  <string id="ui_mm_st_warfare_offline_combat_distance">
+    <text>オフライン戦闘距離</text>
+  </string>
+  <string id="ui_mm_st_warfare_actor_influence_weight">
+    <text>Actor influence weight</text>
+  </string>
+  <string id="ui_mm_st_warfare_actor_influence_weight_desc">
+    <text>How much priority each influence point adds to a target. Typical priority numbers are between 1 and 10; the higher the number the more likely points are to target the point with influence added to it.</text>
+  </string>
+  <string id="ui_mm_st_warfare_novice_squad_price">
+    <text>Support novice squad price</text>
+  </string>
+  <string id="ui_mm_st_warfare_novice_squad_price_desc">
+    <text>The price of a novice squad. When you have this amount of money or more and right click a base of your own faction's, it will include an option to buy a novice squad which will be spawned at that base immediately and be treated as companions.</text>
+  </string>
+  <string id="ui_mm_st_warfare_advanced_squad_price">
+    <text>Support advanced squad price</text>
+  </string>
+  <string id="ui_mm_st_warfare_advanced_squad_price_desc">
+    <text>The price of an advanced squad. When you have this amount of money or more and right click a base of your own faction's, it will include an option to buy an advanced squad which will be spawned at that base immediately and be treated as companions.</text>
+  </string>
+  <string id="ui_mm_st_warfare_veteran_squad_price">
+    <text>Support veteran squad price</text>
+  </string>
+  <string id="ui_mm_st_warfare_veteran_squad_price_desc">
+    <text>The price of a veteran squad. When you have this amount of money or more and right click a base of your own faction's, it will include an option to buy a veteran squad which will be spawned at that base immediately and be treated as companions.</text>
+  </string>
+  <string id="ui_mm_st_warfare_heli_price">
+    <text>Support helicopter price</text>
+  </string>
+  <string id="ui_mm_st_warfare_heli_price_desc">
+    <text>ヘリコプターの値段。この金額以上の資金があれば、自分の拠点を右クリックすると、ヘリコプターを購入するオプションが表示される。派閥ごとに1つのヘリコプターしか存在できません。</text>
+  </string>
+  <string id="ui_mm_st_warfare_actor_support_enemy_rank_weight">
+    <text>Support reward enemy rank weight</text>
+  </string>
+  <string id="ui_mm_st_warfare_actor_support_enemy_rank_weight_desc">
+    <text>敵を倒すとactor_support_reward_money + (enemy_rank * actor_support_enemy_rank_weight)が与えられます。</text>
+  </string>
+  <string id="ui_mm_st_warfare_actor_support_reward_money">
+    <text>Support reward money</text>
+  </string>
+  <string id="ui_mm_st_warfare_actor_support_reward_money_desc">
+    <text>敵を殺すと、actor_support_reward_money + (enemy_rank * actor_support_enemy_rank_weight)という報酬が与えられます。</text>
+  </string>
+  <string id="ui_mm_st_warfare_actor_support_reward_influence">
+    <text>Support reward influence</text>
+  </string>
+  <string id="ui_mm_st_warfare_actor_support_reward_influence_desc">
+    <text>敵を殺すたびに、この量の影響ポイントが与えられます。</text>
+  </string>
+  <string id="ui_mm_st_warfare_disable_offline_combat">
+    <text>Disable offline combat</text>
+  </string>
+  <string id="ui_mm_st_warfare_disable_offline_combat_desc">
+    <text>有効にすると、部隊はオフライン戦闘に参加しません。これにより、あなたと周りの部隊の中心で戦闘が起き、近づくにつれて戦闘が展開します。</text>
+  </string>
+  <string id="ui_mm_st_warfare_simulate_offline_combat_at_smarts">
+    <text>Simulate offline combat at smarts</text>
+  </string>
+  <string id="ui_mm_st_warfare_simulate_offline_combat_at_smarts_desc">
+    <text>有効にすると、部隊はターゲットポイントを防御しているときにのみオフライン戦闘をシミュレートします。2つの部隊が近くにいるが、別々のスマートな地形で待機している場合、オフラインでの戦闘は行われない。</text>
+  </string>
+  <string id="ui_mm_st_warfare_enable_mutant_offline_combat">
+    <text>Enable mutant offline combat</text>
+  </string>
+  <string id="ui_mm_st_warfare_enable_mutant_offline_combat_desc">
+    <text>有効にすると、変異体はオフラインバトルに参加する。無効にすると、変異体はゾーン内でより顕著な存在を示す。</text>
+  </string>
+  <string id="ui_mm_st_warfare_enable_offline_news">
+    <text>Enable offline news events</text>
+  </string>
+  <string id="ui_mm_st_warfare_enable_offline_news_desc">
+    <text>この機能を有効にすると、味方の部隊がオフラインの戦闘に参加したり、オンラインの戦闘に参加したり、味方陣営が基地を奪ったときや失ったときに、オフラインで最新のニュースを受け取ることができます。</text>
+  </string>
+  <string id="ui_mm_st_warfare_offline_news_display_percentage">
+    <text>オフラインニュースの表示割合</text>
+  </string>
+  <string id="ui_mm_st_warfare_offline_news_display_percentage_desc">
+    <text>0〜100の数値。この割合でオフラインニュースメッセージが表示されます。</text>
+  </string>
+  <string id="ui_mm_st_warfare_monster_max_squads_per_level">
+    <text>レベルごとの最大モンスター分隊</text>
+  </string>
+  <string id="ui_mm_st_warfare_monster_max_squads_per_level_desc">
+    <text>Whenever there is less than this amount of mutant squads on a level, the level will be able to be targeted by other mutant squads and mutants will spawn at any unoccupied point or lair based on the monster_min_faction_respawn and monster_max_faction_respawn variables</text>
+  </string>
+  <string id="ui_mm_st_warfare_monster_min_faction_respawn">
+    <text>最小モンスターの復活</text>
+  </string>
+  <string id="ui_mm_st_warfare_monster_min_faction_respawn_desc">
+    <text>The minimum amount of time that passes before a lair or unoccupied base/resource spawns a mutant squad if there are less than monster_max_squads_per_level mutant squads already on the point's level.</text>
+  </string>
+  <string id="ui_mm_st_warfare_monster_max_faction_respawn">
+    <text>最大モンスターの復活</text>
+  </string>
+  <string id="ui_mm_st_warfare_monster_max_faction_respawn_desc">
+    <text>The maximum amount of time that passes before a lair or unoccupied base/resource spawns a mutant squad if there are less than monster_max_squads_per_level mutant squads already on the point's level.</text>
+  </string>
+  <string id="ui_mm_st_warfare_randomize_squad_count">
+    <text>分隊メンバー数をランダム化する</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_squad_count">
+    <text>最小分隊メンバー数</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_squad_count">
+    <text>最大分隊メンバー数</text>
+  </string>
+  <string id="ui_mm_st_warfare_disable_smart_pop_cap">
+    <text>スマート人口上限を無効にする</text>
+  </string>
+  <string id="ui_mm_st_warfare_disable_smart_pop_cap_desc">
+    <text>有効にすると、スマート地形はオーバーフロースクワッドを自動削除しません。</text>
+  </string>
+  <string id="ui_mm_st_warfare_factions_keep_last_base">
+    <text>派閥は最後の基地を守る</text>
+  </string>
+  <string id="ui_mm_st_warfare_purge_zone_on_emission">
+    <text>Purge zone on emission</text>
+  </string>
+  <string id="ui_mm_st_warfare_purge_zone_percentage">
+    <text>Purge zone percentage</text>
+  </string>
+  <string id="ui_mm_st_warfare_zombie_mode">
+    <text>ゾンビモード</text>
+  </string>
+  <string id="ui_mm_st_warfare_participate_in_warfare">
+    <text>Participate in Warfare</text>
+  </string>
+  <string id="ui_mm_st_warfare_spawn_on_new_game">
+    <text>新しいゲームでスポーンする</text>
+  </string>
+  <string id="ui_mm_st_warfare_random_spawn_entries">
+    <text>Random spawn entries</text>
+  </string>
+  <string id="ui_mm_st_warfare_linked_level_targeting">
+    <text>リンクレベルのターゲティング</text>
+  </string>
+  <string id="ui_mm_st_warfare_ignore_empty_targets">
+    <text>空のターゲットを無視</text>
+  </string>
+  <string id="ui_mm_st_warfare_keep_last_base">
+    <text>最後の基地を守る</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_invasion_depart_time">
+    <text>Min. invasion depart time</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_invasion_depart_time">
+    <text>Max. invasion depart time</text>
+  </string>
+  <string id="ui_mm_st_warfare_random_patrols">
+    <text>ランダムパトロール</text>
+  </string>
+  <string id="ui_mm_st_warfare_target_faction_stronger_priority">
+    <text>ターゲットの派閥の優先度を高くする</text>
+  </string>
+  <string id="ui_mm_st_warfare_target_faction_weaker_priority">
+    <text>ターゲットの派閥の優先度を低くする</text>
+  </string>
+  <string id="ui_mm_st_warfare_target_resource_priority">
+    <text>ターゲットファクションリソースの優先度</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_resurgence_wait_time">
+    <text>最小復活待ち時間</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_resurgence_wait_time">
+    <text>最大復活待ち時間</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_random_patrols">
+    <text>最大ランダムパトロール</text>
+  </string>
+  <string id="ui_mm_st_warfare_min_random_patrol_time">
+    <text>最大ランダムパトロール時間</text>
+  </string>
+  <string id="ui_mm_st_warfare_max_random_patrol_time">
+    <text>最大ランダムパトロール時間</text>
+  </string>
+  <string id="ui_mm_st_warfare_debug_logging">
+    <text>デバッグログ（ログファイルを膨張させます）</text>
+  </string>
+  <string id="ui_mm_st_warfare_debug_logging_desc">
+    <text>有効にすると、Warfareはデバッグロギングを使用します。デバッグロギングは、戦争のほとんどの機能の開始と終了を記録するため、ログサイズがかなり大きくなります。</text>
+  </string>
+  <string id="st_cap_check_azazel_mode">
+    <text>Azazel mode</text>
+  </string>
+  <string id="azazel_respawn_as_companions">
+    <text>コンパニオンとしてリスポーンする</text>
+  </string>
+  <string id="azazel_respawn_as_actor_faction">
+    <text>派閥のメンバーとしてリスポーンする</text>
+  </string>
+  <string id="azazel_respawn_as_allies">
+    <text>味方のストーカーとしてリスポーンする</text>
+  </string>
+  <string id="azazel_respawn_as_neutrals">
+    <text>中立のストーカーとしてリスポーンする</text>
+  </string>
+  <string id="azazel_respawn_as_enemies">
+    <text>敵のストーカーとしてリスポーンする</text>
+  </string>
+  <string id="azazel_respawn_as_nearest">
+    <text>最も近いストーカーとしてリスポーンする</text>
+  </string>
+  <string id="azazel_companion_dist_mult">
+    <text>コンパニオンのリスポーン距離係数</text>
+  </string>
+  <string id="azazel_actor_faction_dist_mult">
+    <text>派閥メンバーのリスポーン距離係数</text>
+  </string>
+  <string id="azazel_friend_dist_mult">
+    <text>仲間のリスポーン距離係数</text>
+  </string>
+  <string id="azazel_ally_dist_mult">
+    <text>味方のリスポーン距離係数</text>
+  </string>
+  <string id="azazel_neutral_dist_mult">
+    <text>中立のリスポーン距離係数</text>
+  </string>
+  <string id="azazel_enemy_dist_mult">
+    <text>敵のリスポーン距離係数</text>
+  </string>
+  <string id="azazel_companion_min_respawn_dist">
+    <text>最小コンパニオンのリスポーン距離</text>
+  </string>
+  <string id="azazel_companion_max_respawn_dist">
+    <text>最大コンパニオンのリスポーン距離</text>
+  </string>
+  <string id="azazel_actor_faction_min_respawn_dist">
+    <text>最小派閥メンバーのリスポーン距離</text>
+  </string>
+  <string id="azazel_actor_faction_max_respawn_dist">
+    <text>最大派閥メンバーのリスポーン距離</text>
+  </string>
+  <string id="azazel_ally_min_respawn_dist">
+    <text>最小味方のリスポーン距離</text>
+  </string>
+  <string id="azazel_ally_max_respawn_dist">
+    <text>最大味方のリスポーン距離</text>
+  </string>
+  <string id="azazel_neutral_respawn_min_dist">
+    <text>最小ニュートラルリスポーン距離</text>
+  </string>
+  <string id="azazel_neutral_respawn_max_dist">
+    <text>最大中立リスポーン距離</text>
+  </string>
+  <string id="azazel_enemy_respawn_min_dist">
+    <text>最小敵のリスポーン距離</text>
+  </string>
+  <string id="azazel_enemy_respawn_max_dist">
+    <text>最大敵のリスポーン距離</text>
+  </string>
+  <string id="ui_st_dyn_news_death_stalker_news">
+    <text>ストーカーの死を報告するストーカーを表示する</text>
+  </string>
+  <string id="ui_st_dyn_news_death_mutant_news">
+    <text>ミュータントの死を報告するストーカーを表示する</text>
+  </string>
+  <string id="ui_st_dyn_news_generic_death_news">
+    <text>死亡レポートを表示（旧）</text>
+  </string>
+  <string id="ui_st_dyn_news_death_report_news">
+    <text>死亡報告書を表示する（死亡者）</text>
+  </string>
+  <string id="ui_st_dyn_news_tips_news">
+    <text>ヒントのニュースを表示</text>
+  </string>
+  <string id="ui_st_dyn_news_kill_wounded_news">
+    <text>負傷したストーカー/人質を脅迫する</text>
+  </string>
+  <string id="ui_st_dyn_news_found_artifact_news">
+    <text>アーティファクトの発見を発表するストーカーを表示する</text>
+  </string>
+  <string id="ui_st_dyn_news_heli_call_news">
+    <text>ヘリコプター需要を示す</text>
+  </string>
+  <string id="ui_st_dyn_news_loot_news">
+    <text>略奪レポートを表示する</text>
+  </string>
+  <string id="ui_st_dyn_news_stash_news">
+    <text>怒っているstash所有者の回答を表示</text>
+  </string>
+  <string id="ui_st_dyn_news_reaction_news">
+    <text>あらゆる種類の事柄についての反応を表示する</text>
+  </string>
+  <string id="ui_st_dyn_news_weather_news">
+    <text>天気ニュースを表示</text>
+  </string>
+  <string id="ui_st_dyn_news_time_news">
+    <text>タイムニュースを表示</text>
+  </string>
+  <string id="ui_st_dyn_news_nearby_activity_news">
+    <text>近くのアクティビティレポートを表示する</text>
+  </string>
+  <string id="ui_st_dyn_news_dumb_zombie_news">
+    <text>ゾンビの通信試行を表示する</text>
+  </string>
+  <string id="ui_st_dyn_news_bounty_news">
+    <text>賞金ゴシップを表示</text>
+  </string>
+  <string id="ui_st_dyn_news_random_msg_news">
+    <text>ランダムメッセージを表示する</text>
+  </string>
+  <string id="ui_st_dyn_news_factions_report_news">
+    <text>派閥のニュースを表示する</text>
+  </string>
+  <string id="ui_st_dyn_news_zone_activity_news">
+    <text>ゾーン全体のファクションレポートの表示</text>
+  </string>
+  <string id="ui_st_dyn_news_found_dead_news">
+    <text>遺体発見報告書を表示する</text>
+  </string>
+  <string id="ui_st_dyn_news_surge_news">
+    <text>予想されるサージレポートを表示する</text>
+  </string>
+  <string id="ui_st_dyn_news_companions_news">
+    <text>仲間のニュースを表示</text>
+  </string>
+  <string id="ui_st_dyn_news_cycle_of_companions_news">
+    <text>仲間のおしゃべりのタイムサイクル（秒）</text>
+  </string>
+  <string id="ui_st_dyn_news_cycle_of_task_news">
+    <text>タスクニュースのタイムサイクル（秒単位）</text>
+  </string>
+  <string id="ui_st_dyn_news_cycle_of_random_news">
+    <text>ランダムニュースのタイムサイクル（秒）</text>
+  </string>
+  <string id="ui_st_dyn_news_cycle_of_special_news">
+    <text>特別ニュースのタイムサイクル（秒単位）</text>
+  </string>
+  <string id="ui_st_dyn_news_message_duration">
+    <text>HUD上のメッセージの期間（秒単位）</text>
+  </string>
+  <string id="ui_st_dyn_news_space_news_event">
+    <text>--( Reports )--</text>
+  </string>
+  <string id="ui_st_dyn_news_space_news_reaction">
+    <text>--( Reactions )--</text>
+  </string>
+  <string id="ui_st_dyn_news_space_news_special">
+    <text>--( Special News )--</text>
+  </string>
+  <string id="ui_st_dyn_news_space_news_task">
+    <text>--( Task News )--</text>
+  </string>
+  <string id="ui_st_dyn_news_space_news_random">
+    <text>--( Random News )--</text>
+  </string>
+  <string id="ui_st_dyn_news_space_news_companion">
+    <text>--( Companions Chitchat )--</text>
+  </string>
+  <string id="ui_st_dyn_news_btn_access">
+    <text>設定メニューにアクセスするためのボタン</text>
+  </string>
+  <string id="ui_st_dyn_news_btn_call">
+    <text>ニュースsettings.txtメニューを呼び出すボタン</text>
+  </string>
+  <string id="ui_mm_radio_access">
+    <text>ラジオオプションメニューにアクセスするためのボタン</text>
+  </string>
+  <string id="ui_mm_radio_access_call">
+    <text>Radio settings.txtメニューを呼び出すボタン</text>
+  </string>
+  <string id="ui_mm_radio_1_play">
+    <text>ラジオの再生/停止</text>
+  </string>
+  <string id="ui_mm_radio_2_play">
+    <text>音楽プレーヤーの再生/停止</text>
+  </string>
+  <string id="ui_mm_radio_vol_up">
+    <text>ボリュームアップボタン</text>
+  </string>
+  <string id="ui_mm_radio_vol_down">
+    <text>ボリュームダウンボタン</text>
+  </string>
+  <string id="ui_mm_radio_next">
+    <text>次のトラック</text>
+  </string>
+  <string id="ui_mm_radio_previous">
+    <text>前のトラック</text>
+  </string>
+  <string id="ui_mm_radio_playlist">
+    <text>次のチャンネル/プレイリスト</text>
+  </string>
+  <string id="ui_mm_radio_lost_emission">
+    <text>Lost signal on emissions</text>
+  </string>
+  <string id="ui_mm_radio_lost_lab">
+    <text>Lost signal in underground areas</text>
+  </string>
+  <string id="ui_mm_radio_display_names">
+    <text>HUDの音楽プレーヤートラックの表示名</text>
+  </string>
+  <string id="ui_mm_radio_spacing_1">
+    <text>-（ホットキー）-</text>
+  </string>
+  <string id="ui_mm_radio_spacing_2">
+    <text>-(Immersion)-</text>
+  </string>
+  <string id="ui_mm_radio_spacing_3">
+    <text>-（プレイリスト名）-</text>
+  </string>
+  <string id="ui_mm_radio_playlist_name">
+    <text>プレイリストの名前</text>
+  </string>
+  <string id="ui_mm_disguise_spacing_1">
+    <text>--( Disguise factors )--</text>
+  </string>
+  <string id="ui_mm_disguise_spacing_2">
+    <text>---------------------</text>
+  </string>
+  <string id="ui_mm_st_disguise_feature">
+    <text>変装システムを有効にする</text>
+  </string>
+  <string id="ui_mm_st_disguise_active_item">
+    <text>Enable NPC's suspicion on player's active item</text>
+  </string>
+  <string id="ui_mm_st_disguise_active_item_factor">
+    <text>Factor of NPC's suspicion on player's active item</text>
+  </string>
+  <string id="ui_mm_st_disguise_weapon">
+    <text>Enable NPC's suspicion on player's weapon</text>
+  </string>
+  <string id="ui_mm_st_disguise_weapon_factor">
+    <text>Factor of NPC's suspicion on player's weapon</text>
+  </string>
+  <string id="ui_mm_st_disguise_outfit">
+    <text>Enable NPC's suspicion on player's outfit</text>
+  </string>
+  <string id="ui_mm_st_disguise_outfit_factor">
+    <text>Factor of NPC's suspicion on player's outfit</text>
+  </string>
+  <string id="ui_mm_st_disguise_helmet">
+    <text>Enable NPC's suspicion on player's helmet</text>
+  </string>
+  <string id="ui_mm_st_disguise_helmet_factor">
+    <text>Factor of NPC's suspicion on player's helmet</text>
+  </string>
+  <string id="ui_mm_st_disguise_backpack">
+    <text>Enable NPC's suspicion on player's backpack</text>
+  </string>
+  <string id="ui_mm_st_disguise_backpack_factor">
+    <text>Factor of NPC's suspicion on player's backpack</text>
+  </string>
+  <string id="ui_mm_st_disguise_inventory">
+    <text>Enable NPC's suspicion on player's inventory</text>
+  </string>
+  <string id="ui_mm_st_disguise_inventory_factor">
+    <text>Factor of NPC's suspicion on player's inventory</text>
+  </string>
+  <string id="ui_mm_st_disguise_speed">
+    <text>Enable NPC's suspicion on player's movement</text>
+  </string>
+  <string id="ui_mm_st_disguise_speed_factor">
+    <text>Factor of NPC's suspicion on player's movement</text>
+  </string>
+  <string id="ui_mm_st_disguise_distance">
+    <text>Enable suspiciousness build-up by distance between player and NPCs</text>
+  </string>
+  <string id="ui_mm_st_disguise_distance_factor">
+    <text>Minimum distance where suspiciousness starts to build up [metres]</text>
+  </string>
+  <string id="ui_mm_st_disguise_stay_time">
+    <text>Enable suspiciousness build-up by player's stay time</text>
+  </string>
+  <string id="ui_mm_st_disguise_stay_time_factor">
+    <text>Maximum stay time when suspiciousness starts to build up [seconds]</text>
+  </string>
+  <string id="ui_mm_opt_extra_travel_warning">
+    <text>Fast Travel options are only accessible in a loaded game</text>
+  </string>
+  <string id="ui_mm_travel_list_1">
+    <text>Disabled</text>
+  </string>
+  <string id="ui_mm_travel_list_2">
+    <text>Visited Only</text>
+  </string>
+  <string id="ui_mm_travel_list_3">
+    <text>Show All</text>
+  </string>
+  <string id="ui_mm_fast_travel_space">
+    <text>--( Fast travel )--</text>
+  </string>
+  <string id="ui_mm_fast_travel">
+    <text>Fast travel</text>
+  </string>
+  <string id="ui_mm_combat_travel">
+    <text>Fast travel in combat</text>
+  </string>
+  <string id="ui_mm_weight_travel">
+    <text>Fast travel if overweight</text>
+  </string>
+  <string id="ui_mm_damage_travel">
+    <text>Fast travel if damaged</text>
+  </string>
+  <string id="ui_mm_storm_travel">
+    <text>Fast travel in emissions</text>
+  </string>
+  <string id="ui_mm_long_names">
+    <text>Fast travel use long names</text>
+  </string>
+  <string id="ui_mm_visited_message">
+    <text>Fast travel visited message</text>
+  </string>
+  <string id="ui_mm_no_time_travel">
+    <text>時間経過の無いファーストトラベル</text>
+  </string>
+  <string id="ui_mm_disable_travel">
+    <text>無効</text>
+  </string>
+  <string id="ui_mm_visited_only_travel">
+    <text>Visited_Only</text>
+  </string>
+  <string id="ui_mm_show_all_travel">
+    <text>すべて表示する</text>
+  </string>
+  <string id="ui_mm_bp_travel_space">
+    <text>--( Backpack travel )--</text>
+  </string>
+  <string id="ui_mm_bp_travel">
+    <text>Go to backpack</text>
+  </string>
+  <string id="ui_mm_bp_combat">
+    <text>Go to backpack (in combat)</text>
+  </string>
+  <string id="ui_mm_bp_damage">
+    <text>Go to backpack (Wounded)</text>
+  </string>
+  <string id="ui_mm_bp_notime">
+    <text>Go to backpack (instantly)</text>
+  </string>
+  <string id="ui_mm_bp_storm">
+    <text>Go to backpack (on ejection)</text>
+  </string>
+  <string id="ui_mm_bp_weight">
+    <text>Go to backpack (overloaded)</text>
+  </string>
+  <string id="st_ui_weather_editor_about">
+    <text>
+			%c[ui_gray_1]Tronex / Rezy
+			\n2019/6/1
+			\nAnomaly Weather Editor
+			\n \n%c[pda_green]Information%c[ui_gray_2]
+			\nWeather editor allows you to change weather values in real-time.
+			\nThe GUI is interactive and easy to use, with ability to modify or create weather files on the fly.
+			\nModified values are temporarly cached for the weathers and hours you were working on.
+			\nYou can return to them in case you turned off the editor (Avoid exiting or reloading when you have unsaved values).
+			\n \n%c[pda_blue]Keybinds%c[ui_gray_2]\n
+			\n%c[d_purple]・ %c[ui_gray_3]Arrow keys: %c[ui_gray_2]parameters navigation.
+			\n%c[d_purple]・ %c[ui_gray_3]Numpad 8/2: %c[ui_gray_2]increase/reduce selected value.
+			\n%c[d_purple]・ %c[ui_gray_3]Numpad 9/3: %c[ui_gray_2]increase/reduce all values of selected parameter.
+			\n%c[d_purple]・ %c[ui_gray_3]LShift (hold): %c[ui_gray_2]x10 value step size / jump 2 parameters.
+			\n%c[d_purple]・ %c[ui_gray_3]LAlt (hold): %c[ui_gray_2]x50 value step size / jump 3 parameters.
+			\n%c[d_purple]・ %c[ui_gray_3]Numpad Minus (-): %c[ui_gray_2]select previous hour.
+			\n%c[d_purple]・ %c[ui_gray_3]Numpad plus (+): %c[ui_gray_2]select next hour.
+			\n%c[d_purple]・ %c[ui_gray_3]Numpad 5: %c[ui_gray_2]copy current hour settings.
+			\n%c[d_purple]・ %c[ui_gray_3]Numpad 6: %c[ui_gray_2]paste/apply current hour settings.\n
+			\n%c[d_purple]・ %c[ui_gray_3]Delete: %c[ui_gray_2]clean cache.
+			\n%c[d_purple]・ %c[ui_gray_3]H: %c[ui_gray_2]toggle hint window.
+			\n%c[d_purple]・ %c[ui_gray_3]Esc or Home: %c[ui_gray_2]turn off editor.
+		</text>
+  </string>
+  <string id="st_ui_weather_editor_title">
+    <text>天気エディター（Anomaly 1.5）</text>
+  </string>
+  <string id="st_ui_weather_editor_file">
+    <text>天気ファイルを選択</text>
+  </string>
+  <string id="st_ui_weather_editor_hour">
+    <text>時間を選択</text>
+  </string>
+  <string id="st_ui_weather_editor_hour_copy">
+    <text>時間設定のコピー</text>
+  </string>
+  <string id="st_ui_weather_editor_hour_paste">
+    <text>時間設定を適用する</text>
+  </string>
+  <string id="st_ui_weather_editor_new_file">
+    <text>新しいファイルに保存</text>
+  </string>
+  <string id="st_ui_weather_editor_current_file">
+    <text>現在のファイルに保存</text>
+  </string>
+  <string id="st_ui_weather_editor_reload">
+    <text>天気を再開</text>
+  </string>
+  <string id="st_ui_wpn_hud_editor_title">
+    <text>武器HUDエディター（Anomaly 1.5）</text>
+  </string>
+  <string id="st_ui_wpn_hud_editor_copy">
+    <text>武器の設定をコピーする</text>
+  </string>
+  <string id="st_ui_wpn_hud_editor_paste">
+    <text>武器の設定を適用する</text>
+  </string>
+  <string id="st_ui_wpn_hud_editor_current_file">
+    <text>現在のファイルに保存</text>
+  </string>
+  <string id="st_ui_wpn_hud_editor_resume">
+    <text>再開</text>
+  </string>
+  <string id="st_ui_debug_launcher_console">
+    <text>コンソール</text>
+  </string>
+  <string id="st_ui_debug_launcher_target">
+    <text>ターゲットに実行</text>
+  </string>
+  <string id="st_ui_debug_launcher_action">
+    <text>アクションを実行</text>
+  </string>
+  <string id="st_ui_debug_launcher_toggle">
+    <text>トグルコマンド</text>
+  </string>
+  <string id="st_ui_debug_launcher_editor">
+    <text>編集者リスト</text>
+  </string>
+  <string id="st_ui_debug_item_type">
+    <text>アイテムの種類</text>
+  </string>
+  <string id="st_ui_debug_item_list">
+    <text>リスト別</text>
+  </string>
+  <string id="st_ui_debug_item_icon">
+    <text>アイコン別</text>
+  </string>
+</string_table>
