@@ -10,4 +10,4 @@ locales = [
 
 [[paths]]
   reference = "locales/en-US/messages.properties"
-  l10n = "locales/{locale_code}/messages.properties"
+  l10n = "locales/{locale}/messages.properties"
