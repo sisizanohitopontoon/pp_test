@@ -6,8 +6,6 @@ locales = [
     "ru",
 ]
 
-[env]
-
 [[paths]]
-  reference = "locales/en-US/messages.properties"
-  l10n = "locales/{locale}/messages.properties"
+  reference = "locales/en-US/*"
+  l10n = "locales/{locale}/*"
