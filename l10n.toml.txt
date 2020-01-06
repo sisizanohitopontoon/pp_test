@@ -1,0 +1,13 @@
+
+basepath = "."
+
+locales = [
+    "ja",
+    "ru",
+]
+
+[env]
+
+[[paths]]
+  reference = "locales/en-US/messages.properties"
+  l10n = "locales/{locale_code}/messages.properties"
